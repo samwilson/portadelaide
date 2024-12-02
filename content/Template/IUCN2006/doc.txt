@@ -1,0 +1,41 @@
+{{documentation subpage}}
+
+This template is for making references to the 2006 [[IUCN Red List|IUCN Red List of Threatened Species]]. 
+
+Further comments can be added after the template.
+
+==Usage==
+All parameters are '''required'''.
+
+ <nowiki>{{</nowiki>IUCN2006
+ |assessors=
+ |year=
+ |id=
+ |title=
+ |downloaded=
+ <nowiki>}}</nowiki>
+
+===Example===
+ <nowiki>{{</nowiki>IUCN2006
+ |assessors=BirdLife International
+ |year=2004
+ |id=49670
+ |title=Eudyptula minor
+ |downloaded=9 May 2006<nowiki>}}</nowiki>
+
+==See also==
+*{{tl|IUCN}}
+*{{tl|IUCN2006}}
+*{{tl|IUCN2007}}
+*{{tl|IUCN2008}}
+*{{tl|IUCN2009.1}}
+*{{tl|IUCN2010.4}}
+*{{tl|IUCN2012.1}}
+*{{tl|IUCN2012.2}}
+*{{tl|IUCNextlink}}
+
+<includeonly>
+[[Category:Flora external link templates|{{PAGENAME}}]]
+[[Category:Biology source templates|{{PAGENAME}}]]
+
+</includeonly>

@@ -1,0 +1,7 @@
+{{Hatnote|<!--
+-->This {{namespace detect|main=article|category=category|other=page}} is about {{{1}}}. {{{2}}}.<!--
+-->}}<noinclude>
+
+{{Documentation}}
+
+</noinclude>

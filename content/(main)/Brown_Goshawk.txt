@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Brown Goshawk
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22695527 |title=''Accipiter fasciatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Brown Goshawk kur.JPG
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Accipitriformes Accipitriformes]
+| familia = [https://en.wikipedia.org/wiki/Accipitridae Accipitridae]
+| genus = ''[https://en.wikipedia.org/wiki/Accipiter Accipiter]''
+| species = '''''A. fasciatus'''''
+| binomial = ''Accipiter fasciatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] and [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Accipiter+(Leucospiza)+fasciatus ''Atlas of Living Australia'': Brown Goshawk]
+* ''Birdlife Australia'': Brown Goshawk
+* [https://en.wikipedia.org/wiki/Brown_goshawk ''Wikipedia'': Brown goshawk]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

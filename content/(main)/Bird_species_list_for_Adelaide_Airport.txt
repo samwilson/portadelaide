@@ -1,0 +1,183 @@
+
+'''Source:''' The list below is based on an earlier list, which was compiled to cover the whole of Adelaide Airport, and which formed an appendix to the first draft of the Patawalonga Creek Management Plan. Not all species on the list have necessarily been sighted yet at Patawalonga Creek, while other species have been added after having been observed at the Creek.
+
+'''2003-4PCFS''' refers to sightings during the 2003-2004 Patawalonga Creek Fauna Survey conducted by Melanie Rees and Nick Crouch, with the assistance of volunteers and students from TAFESA Urrbrae Campus.
+
+(***) denotes an introduced species. 
+
+{| class="wikitable"
+! Conservation Ratings:
+|-
+|  '''EPBC''' = ''Environment Protection and Biodiversity Protection Act'' (Australia) ; '''SA''' = South Australia ; '''ML''' = Southern Lofty Botanical Region 
+|-
+| '''E = Endangered:''' rare and in danger of disappearing from the wild in the short term 
+|-
+| '''T = Threatened:''' likely to be either endangered or vulnerable but insufficient data for a more precise assessment. 
+|-
+| '''V = Vulnerable:''' rare and in danger of disappearing from the wild in the long term 
+|-
+| '''R = Rare:''' occurring infrequently, either locally abundant in a limited area or sparsely distributed over a wide area 
+|-
+| '''K = status uncertain''', but considered likely to be either rare, vulnerable or endangered  
+|-
+| '''U = Uncommon:''' less common species of interest but not rare enough to warrant special protective measures  
+|-
+| '''Q = Not yet assessed''' but flagged as being of possible significance 
+|-
+| '''C = Common:''' not of particular importance  
+|-
+| '''M = Migratory''' 
+|-
+|}
+
+{| class="wikitable sortable"
+! COMMON NAME || SCIENTIFIC NAME  || EPBC || SA || ML || Comments
+|-
+| [[Australasian Grebe]] || ''Tachybaptus novaehollandiae'' ||  || C || C || 2003-4PCFS
+|-
+| [[Australian Hobby]] || ''Falco longipennis'' ||  || U || U || 
+|-
+| [[Australian Magpie]] || ''Gymnorhina tibicen'' ||  || C || C || 2003-4PCFS
+|-
+| [[Australian Pelican]] || ''Pelecanus conspicillatus'' ||  || C || C || 2003-4PCFS
+|-
+| [[Australian White Ibis]] || ''Threskiornis molucca'' ||  || C || C || 2003-4PCFS
+|-
+| [[Banded Lapwing]] || ''Vanellus tricolor'' ||  ||  ||  || 
+|-
+| [[Black Swan]] || ''Cygnus atratus'' ||  || C || C || 
+|-
+| [[Black-faced Cuckoo-shrike]] || ''Coracina novaehollandiae'' ||  || C || C || 2003-4PCFS
+|-
+| [[Black-fronted Dotterel]] || ''Elseyornis melanops'' ||  || C || C || 
+|-
+| [[Black-shouldered Kite]] || ''Elanus axillaris'' ||  || C || C || 2003-4PCFS
+|-
+| [[Black-tailed Native-hen]] || ''Tribonyx ventralis'' ||  || C || C || 2003-4PCFS
+|-
+| [[Black-winged Stilt]] || ''Himantopus himantopus'' ||  || C || C || 
+|-
+| [[Brown Falcon]] || ''Falco berigora'' ||  || C || C || 2003-4PCFS
+|-
+| [[Brown Goshawk]] || ''Accipiter fasciatus'' ||  || C || C || 
+|-
+| [[Common Blackbird]]*** || ''Turdus merula''*** ||  || C || C || 2003-4PCFS
+|-
+| [[Common Starling]]*** || ''Sturnus vulgaris''*** ||  || C || C || 2003-4PCFS 
+|-
+| [[Crested Pigeon]] || ''Ocyphaps lophotes'' ||  || C || C || 2003-4PCFS
+|-
+| [[Crested Tern]] || ''Thalasseus bergii'' ||  ||  ||  || 
+|-
+| [[Dusky Moorhen]] || ''Gallinula tenebrosa'' ||  || C || C || 
+|-
+| [[Elegant Parrot]] || ''Neophema elegans'' ||  || R || K || 
+|-
+| [[Eurasian Coot]] || ''Fulica atra'' ||  || C || C || 
+|-
+| [[Eurasian Skylark]]*** || ''Alauda arvensis''*** ||  || C || C || 2003-4PCFS
+|-
+| [[European Goldfinch]]*** || ''Carduelis carduelis''*** ||  || C || C ||  
+|-
+| [[Galah]] || ''Eolophus roseicapilla'' ||  || C || C || 2003-4PCFS
+|-
+| [[Great Cormorant]] || ''Phalacrocorax carbo'' ||  || C || C || 
+|-
+| [[Great Egret]] || ''Ardea alba'' ||  || C || C || 2003-4PCFS
+|-
+| [[Grey Fantail]] || ''Rhipidura fuliginosa'' ||  || C || C || 
+|-
+| [[Grey Teal]] || ''Anas gracilis'' ||  || C || C || 2003-4PCFS
+|-
+| [[House Sparrow]]*** || ''Passer domesticus''*** ||  || C || C || 2003-4PCFS 
+|-
+| [[Hoary-headed Grebe]] || ''Poliocephalus poliocephalus'' ||  || C || C || 
+|-
+| [[Little Black Cormorant]] || ''Phalacrocorax sulcirostris'' ||  || C || C || 
+|-
+| [[Little Eagle]] || ''Hieraaetus morphnoides'' ||  || U || U || 
+|-
+| [[Little Pied Cormorant]] || ''Microcarbo melanoleucos'' ||  || C || C || 2003-4PCFS
+|-
+| [[Little Raven]] || ''Corvus mellori'' ||  || C || C || 2003-4PCFS
+|-
+| [[Magpie-lark]] || ''Grallina cyanoleuca'' ||  || C || C || 2003-4PCFS
+|-
+| [[Mallard]]*** || ''Anas platyrhynchos''*** ||  || C || C || 2003-4PCFS
+|-
+| [[Masked Lapwing]] || ''Vanellus miles'' ||  || C || C || 
+|-
+| [[Muscovy Duck]]*** || ''Cairina moschata''*** ||  || C || C || 
+|-
+| [[Musk Lorikeet]] || ''Glossopsitta concinna'' ||  || C || C || 
+|-
+| [[Nankeen Kestrel]] || ''Falco cenchroides'' ||  || C || C || 2003-4PCFS
+|-
+| [[Nankeen Night Heron]] || ''Nycticorax caledonicus'' ||  || U || U || 
+|-
+| [[New Holland Honeyeater]] || ''Phylidonyris novaehollandiae'' ||  || C || C || 2003-4PCFS
+|-
+| [[Noisy Miner]] || ''Manorina melanocephala'' ||  || C || C || 
+|-
+| [[Pacific Black Duck]] || ''Anas superciliosa'' ||  || C || C || 2003-4PCFS
+|-
+| [[Pied Cormorant]] || ''Phalacrocorax varius'' ||  || C || C || 2003-4PCFS
+|-
+| [[Purple Swamphen]] || ''Porphyrio porphyrio'' ||  || C || C || 
+|-
+| [[Purple-crowned Lorikeet]] || ''Glossopsitta porphyrocephala'' ||  ||  ||  || 
+|-
+| [[Rainbow Lorikeet]] || ''Trichoglossus haematodus'' ||  || C || C || 2003-4PCFS
+|-
+| [[Red Wattlebird]] || ''Anthochaera carunculata'' ||  || C || C || 2003-4PCFS
+|-
+| [[Richard's Pipit]] || ''Anthus novaeseelandiae'' ||  || C || C || 2003-4PCFS
+|-
+| [[Rock Dove]]*** || ''Columba livia''*** ||  || C || C || 2003-4PCFS
+|-
+| [[Royal Spoonbill]] || ''Platalea regia'' ||  || U || U || 2003-4PCFS
+|-
+| [[Silver Gull]] || ''Chroicocephalus novaehollandiae'' ||  || C || C || 2003-4PCFS
+|-
+| [[Silvereye]] || ''Zosterops lateralis'' ||  || C || C || 2003-4PCFS
+|-
+|  [[Singing Honeyeater]] || ''Lichenostomus virescens'' ||  || C || C || 2003-4PCFS
+|-
+| [[Spotted Turtle-dove]]*** || ''Spilopelia chinensis''*** ||  || C || C || 2003-4PCFS 
+|-
+| [[Straw-necked Ibis]] || ''Threskiornis spinicollis'' ||  || C || C || 
+|-
+| [[Tree Martin]] || ''Petrochelidon nigricans'' ||  || C || C || 2003-4PCFS
+|-
+| [[Welcome Swallow]] || ''Hirundo neoxena'' ||  || C || C || 2003-4PCFS
+|-
+| [[White-browed Babbler]] || ''Pomatostomus superciliosus'' ||  || C || C || 2003-4PCFS
+|-
+| [[White-faced Heron]] || ''Egretta novaehollandiae'' ||  || C || C || 2003-4PCFS
+|-
+| [[White-fronted Chat]] || ''Epthianura albifrons'' ||  || C || C || 
+|-
+| [[White-plumed Honeyeater]] || ''Lichenostomus penicillatus'' ||  || C || C || 2003-4PCFS
+|-
+| [[Willie Wagtail]] || ''Rhipidura leucophrys'' ||  || C || C || 2003-4PCFS
+|-
+| [[Yellow-rumped Thornbill]] || ''Acanthiza chrysorrhoa'' ||  || C || C || 
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Navboxes
+|title= Birds of the Adelaide region
+|state = {{{state|autocollapse}}}
+|list =
+
+{{Seabirds}}
+{{Shorebirds}}
+{{Waterbirds}}
+{{Terrestrial birds}}
+}}
+
+{{DEFAULTSORT:Adelaide Airport}}
+[[Category:Bird lists of the Adelaide region]]

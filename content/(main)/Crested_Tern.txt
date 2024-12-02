@@ -1,0 +1,47 @@
+{{Taxobox
+| image = Crested Tern Tasmania.jpg
+| image_width = 240px
+| image_caption = Breeding plumage ''T. b. cristata'' displaying
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22694571 |title=''Sterna bergii'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = ''[https://en.wikipedia.org/wiki/Thalasseus Thalasseus]''
+| species = '''''T. bergii'''''
+| binomial = ''Thalasseus bergii''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Martin_Lichtenstein Lichtenstein], 1823)
+| synonyms = ''Sterna bergii'' <small>Lichtenstein, 1823</small>
+|synonyms_ref = <ref>{{avibase|526978C4A16D3750|Greater crested tern}}</ref>
+| range_map =SternaBergiMap2.svg| range_map_width = 250px
+| range_map_caption =
+{{Legend2|#007D1D|Approximate breeding range|border=1px solid #aaa}}<br />{{Legend2|#AFEEEE|Wintering range|border=1px solid #aaa}}
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Thalasseus+bergii ''Atlas of Living Australia'': Crested Tern]
+* [http://birdlife.org.au/bird-profile/crested-tern ''Birdlife Australia'': Crested Tern]
+* [https://en.wikipedia.org/wiki/Greater_crested_tern ''Wikipedia'': Greater crested tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

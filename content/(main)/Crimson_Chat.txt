@@ -1,0 +1,46 @@
+{{Taxobox
+| name=Crimson Chat
+| image = Crimson Chat Newhaven Sep04.JPG
+| image_width = 240px
+| image_caption=Male
+| image2 = Epthianura tricolor -Karratha, Pilbara, Western Australia, Australia -female-8.jpg
+| image2_width = 240px
+| image2_caption=Female in Western Australia
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704475 |title=''Epthianura tricolor'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus=''[https://en.wikipedia.org/wiki/Epthianura Epthianura]''
+| species='''''E. tricolor'''''
+| binomial=''Epthianura tricolor''
+| binomial_authority=[https://en.wikipedia.org/wiki/John_Gould Gould], 1841
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Epthianura+(Parepthianura)+tricolor ''Atlas of Living Australia'': Crimson Chat]
+* [http://birdlife.org.au/bird-profile/crimson-chat ''Birdlife Australia'': Crimson Chat]
+* [https://en.wikipedia.org/wiki/Crimson_chat ''Wikipedia'': Crimson chat]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

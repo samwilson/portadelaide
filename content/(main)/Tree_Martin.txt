@@ -1,0 +1,42 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22712449 |title=''Hirundo nigricans'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Tree Martin (4468433245).jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Hirundinidae Hirundinidae]
+| genus = ''[https://en.wikipedia.org/wiki/Petrochelidon Petrochelidon]''
+| species = '''''P. nigricans'''''
+| binomial = ''Petrochelidon nigricans''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1817)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Petrochelidon+(Hylochelidon)+nigricans+nigricans ''Atlas of Living Australia'': Australian Tree Martin]
+* ''Birdlife Australia'': Tree Martin
+* [https://en.wikipedia.org/wiki/Tree_martin ''Wikipedia'': Tree martin]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

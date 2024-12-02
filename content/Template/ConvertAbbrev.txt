@@ -1,0 +1,105 @@
+<includeonly>{{ConvertAbbrev<!--
+
+#####Detect if first parameter is a country#####
+
+-->{{#ifexist:Template:ConvertAbbrev/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{{1}}}|force=abbr}}|<!--
+
+##########{{{1}}} = country name or 2-letter abbreviation##########
+
+-->/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{{1}}}|force=abbr}}|{{#ifexist:Template:ConvertAbbrev/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{ConvertAbbrev/ISO 3166-1/alpha-3|{{{1}}}|force=long}}}}|<!--
+
+##########{{{1}}} = 3-letter abbreviation##########
+
+-->/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{ConvertAbbrev/ISO 3166-1/alpha-3|{{{1}}}|force=long}}}}|<!--
+
+#####Default to type parameter#####
+
+-->/{{#switch: {{lc:{{{1}}}}}
+|iso 3166-1                                = ISO 3166-1
+|iso 3166-2                                = ISO 3166-2
+|countries                                 = ISO 3166-
+|iso 639|iso 639-1|languages1              = ISO 639-1
+|iso 639-2|languages2                      = ISO 639-2
+|languages                                 = ISO 639-
+|404<!--Invalid first parameter-->}}}}}}<!--
+
+#####If {{{1}}} = "countries"#####
+
+-->{{#ifeq: {{lc:{{{1}}}}}|countries|<!--
+
+##########If looking for province/state or specific type of abbreviation##########
+
+-->{{#if:{{{3|}}}|<!--
+
+###############Try country names first################
+
+-->{{#ifexist:Template:ConvertAbbrev/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{{2}}}|force=abbr}}|<!--
+
+####################{{{2}}} = country name or 2-letter abbreviation####################
+
+-->2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{{2}}}|force=abbr}}|{{#ifexist:Template:ConvertAbbrev/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{ConvertAbbrev/ISO 3166-1/alpha-3|{{{2}}}|force=long}}}}|<!--
+
+####################{{{2}}} = 3-letter abbreviation####################
+
+-->2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{ConvertAbbrev/ISO 3166-1/alpha-3|{{{2}}}|force=long}}}}|<!--
+
+###############Default to types, special abbreviations###############
+
+-->{{#switch: {{lc:{{{2}}}}}
+|alpha-2|alpha 2|2-letter|2 letter|two|2   = 1/alpha-2
+|alpha-3|alpha 3|3-letter|3 letter|three|3 = 1/alpha-3
+|numeric|numbers|numeric-3                 = 1/numeric
+|usps                                      = 2/US
+|2/404<!--Country not yet supported-->}}}}}}|<!--
+
+##########If just country##########
+
+-->1/alpha-2}}}}<!--
+
+#####If {{{1}}} = "ISO 3166-1"#####
+
+-->{{#ifeq: {{lc:{{{1}}}}}|iso 3166-1|<!--
+
+##########If type specified##########
+
+-->/{{#if:{{{3|}}}|{{#switch: {{lc:{{{2}}}}}
+|alpha-2|alpha 2|2-letter|2 letter|two|2   = alpha-2
+|alpha-3|alpha 3|3-letter|3 letter|three|3 = alpha-3
+|numeric|numbers                           = numeric
+|404<!--Invalid abbreviation type-->}}|<!--
+
+##########If NOT specified##########
+
+-->alpha-2}}}}<!--
+
+#####If {{{1}}} = "ISO 3166-2"#####
+
+-->{{#ifeq: {{lc:{{{1}}}}}|iso 3166-2|/{{#ifexist:Template:ConvertAbbrev/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{{2}}}|force=abbr}}|<!--
+
+##########{{{2}}} = country name or 2-letter abbreviation##########
+
+-->{{ConvertAbbrev/ISO 3166-1/alpha-2|{{{2}}}|force=abbr}}|{{#ifexist:Template:ConvertAbbrev/ISO 3166-2/{{ConvertAbbrev/ISO 3166-1/alpha-2|{{ConvertAbbrev/ISO 3166-1/alpha-3|{{{2}}}|force=long}}}}|<!--
+
+##########{{{2}}} = 3-letter abbreviation##########
+
+-->{{ConvertAbbrev/ISO 3166-1/alpha-2|{{ConvertAbbrev/ISO 3166-1/alpha-3|{{{2}}}|force=long}}}}|<!--
+
+##########Special abbreviations##########
+
+-->{{#switch: {{lc:{{{2}}}}}|usps = US|404<!--Country not yet supported-->}}}}}}
+}}<!--
+
+#####If {{{1}}} = "languages"#####
+
+-->{{#ifeq: {{lc:{{{1}}}}}|languages|<!--
+
+##########If type specified##########
+
+-->{{#if:{{{3|}}}|{{#switch: {{lc:{{{2}}}}}
+|639-1|-1|1|2-letter|2 letter              = 1
+|639-2|-2|2|3-letter|3 letter              = 2
+|1/404<!--Invalid language type-->}}|<!--
+
+##########If NOT specified##########
+
+-->1}}}}|1={{{3|{{{2}}}}}}|force={{{force|}}}}}</includeonly><noinclude>{{Documentation}}</noinclude>

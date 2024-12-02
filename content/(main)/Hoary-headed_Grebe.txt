@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Hoary-headed Grebe
+| image = Poliocephalus poliocephalus RB.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696589 |title=''Poliocephalus poliocephalus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/grebe Podicipediformes]
+| familia = [https://en.wikipedia.org/wiki/Podicipedidae Podicipedidae]
+| genus = ''[https://en.wikipedia.org/wiki/Poliocephalus_(grebe) Poliocephalus]''
+| species = '''''P. poliocephalus'''''
+| binomial = ''Poliocephalus poliocephalus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/William_Jardine_(naturalist) Jardine] & [https://en.wikipedia.org/wiki/Prideaux_John_Selby Selby], 1827)
+| range_map = Hoary-headed Grebe.png
+| range_map_caption = Distribution of the Hoary-headed Grebe
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Poliocephalus+poliocephalus ''Atlas of Living Australia'': Hoary-headed Grebe]
+* [http://birdlife.org.au/bird-profile/hoary-headed-grebe ''Birdlife Australia'': Hoary-headed Grebe]
+* [https://en.wikipedia.org/wiki/Hoary-headed_grebe ''Wikipedia'': Hoary-headed grebe]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,12 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Western Australia
+| flag alias = Flag of Western Australia.svg
+| flag alias-1870 = Flag of Western Australia 1870-1953.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| variant = {{{variant|}}}
+| altlink = {{{altlink|}}}
+<noinclude>
+| var1 = 1870
+</noinclude>
+}}

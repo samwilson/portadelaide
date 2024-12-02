@@ -1,0 +1,58 @@
+{{Taxobox
+| name = House sparrow
+| status = LC
+| status_system = IUCN3.1
+| status_ref =<ref name=IUCN2013>{{IUCN|id=22718174 |title=''Passer domesticus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2013 |accessdate=12 March 2014}}</ref>
+| image = Passer domesticus male (15).jpg
+| image_width = 240px
+| image_caption = Male in Germany
+| image2 = House Sparrow, England - May 09.jpg
+| image2_width = 240px
+| image2_caption = Female in England
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Sparrow Passeridae]
+| genus = ''[https://en.wikipedia.org/wiki/Passer Passer]''
+| species =  '''''P. domesticus'''''
+| binomial = ''Passer domesticus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], 1758)
+| range_map=PasserDomesticusDistribution.png
+| range_map_caption=<div style="text-align:left; ">{{Legend2|#009000| Native range|border=1px solid #aaa}}<br/> {{Legend2|#00FF00| Introduced range|border=1px solid #aaa}}</div>
+| synonyms_ref =<ref>Summers-Smith, J. Denis (1988). ''The Sparrows''. illustrated by Robert Gillmor. Calton, Staffs, England: T. & A. D. Poyser. Pp. 307–313 ISBN 0-85661-048-8.</ref>
+| synonyms = ''Fringilla domestica'' <small>Linnaeus, 1758</small><br />
+''Passer domesticus'' <small>(Linnaeus, 1758) [https://en.wikipedia.org/wiki/Mathurin_Jacques_Brisson Brisson], 1760</small><br />
+''Pyrgita domestica'' <small>(Linnaeus, 1758) [https://en.wikipedia.org/wiki/Georges_Cuvier G. Cuvier], 1817</small><br />
+''Passer indicus'' <small>[https://en.wikipedia.org/wiki/Sir_William_Jardine,_7th_Baronet Jardine] and [https://en.wikipedia.org/wiki/Prideaux_John_Selby Selby], 1835</small><br />
+''Passer arboreus'' <small>[https://en.wikipedia.org/wiki/Charles_Lucien_Bonaparte Bonaparte], 1850 ([https://en.wikipedia.org/wiki/preoccupied_name preoccupied])</small><br />
+''Passer confucius'' <small>Bonaparte, 1853</small><br />
+''Passer rufidorsalis'' <small>[https://en.wikipedia.org/wiki/Christian_Ludwig_Brehm C. L. Brehm], 1855</small><br />
+''Passer engimaticus'' <small>[https://en.wikipedia.org/wiki/Nikolai_Zarudny Zarudny], 1903</small><br />
+''Passer ahasvar'' <small>[https://en.wikipedia.org/wiki/Otto_Kleinschmidt Kleinschmidt], 1904</small>
+}}
+
+An introduced species
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Passer+(Passer)+domesticus ''Atlas of Living Australia'': House Sparrow]
+* [http://birdlife.org.au/bird-profile/house-sparrow ''Birdlife Australia'': House Sparrow]
+* [https://en.wikipedia.org/wiki/House_sparrow ''Wikipedia'': House sparrow]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

@@ -1,0 +1,55 @@
+{{Taxobox
+| name = Ruff
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693468 |title=''Philomachus pugnax'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Philomachus pugnax -Diergaarde Blijdorp-8c.jpg
+| image_alt = Two male Ruff in breeding plumage each with prominent neck feathers, white underparts, and flanks blotched with black. One has a white neck collar of feathers and the other has a colour that is almost entirely very dark brown.
+| image_caption = Males in breeding plumage in the Netherlands
+| image_width=250px
+| image2 = Ruff female RWD.jpg 
+| image2_caption = Breeding female
+| image2_width=250px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = '''''Philomachus'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Blasius_Merrem Merrem], 1804
+| species = '''''P. pugnax'''''
+| binomial = ''Philomachus pugnax''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], 1758)
+| synonyms = ''Calidris pugnax'' 
+| range_map = Philomachuspugnaxmap.png
+| range_map_width = 250px
+| range_map_alt =Generally Ruffs migrate north and breed in the northern hemisphere from about May to August, and generally at the end of the breeding season they migrate south and spend several months the Sub-Tropics before migrating north again | range_map_caption =  <div style="text-align:left;"><big>{{Legend2|#FFFF00|Breeding summer visitor|border=1px solid #aaa}}<br /> {{Legend2|#007D1D|Present all year |border=1px solid #aaa}}<br /> {{Legend2|#0080FF|Non-breeding range|border=1px solid #aaa}}</big></div>
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Philomachus+pugnax ''Atlas of Living Australia'': Ruff]
+* ''Birdlife Australia'': Ruff
+* [https://en.wikipedia.org/wiki/Ruff ''Wikipedia'': Ruff]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

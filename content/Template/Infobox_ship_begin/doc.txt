@@ -1,0 +1,28 @@
+{{documentation subpage}}
+{{Infobox ship begin/shared doc}}
+
+===TemplateData===
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"description": "Start template for Infobox ship (see template documentation), includes optional caption for the infobox",
+	"params": {
+		"Infobox caption": {
+			"label": "infobox caption",
+			"type": "string",
+			"required": false,
+			"description": "Caption for the infobox. Set to yes to use formatted article title; set to nodab to use formatted article title without parenthetical disambiguator; all other values become infobox caption."
+		}
+	},
+	"format": "block"
+}
+</templatedata>
+
+=== See also ===
+* {{tlx|WikiProject Ships|needs-infobox{{=}}y}}
+
+<!--IMPORTANT:
+
+   {{Infobox ship begin/shared doc}} adds some categories. You should probably edit that page.
+
+-->

@@ -1,0 +1,192 @@
+
+
+==Infobox bridge - Example 1==
+Full infobox bridge template, with all parameters
+
+[[File:cj18-t2.jpg|link=http://users.sa.chariot.net.au/~littoral/grafix/|external image test]]
+
+{{Infobox bridge
+| name                = Birkenhead Bridge
+| native_name         = 
+| native_name_lang    = 
+| image               = Duyfken replica at Port Adelaide.JPG
+| image_upright       = 
+| alt                 = 
+| caption             = Duyfken replica at Port Adelaide
+| lat                 = 
+| long                = 
+| coordinates_display = inline,title
+| coordinates_region  =  AU-SA_type:landmark
+| os_grid_reference   = 
+| carries             = Vehicular and pedestrian traffic; <br /> bicycle lane since 2014
+| crosses             = 
+| locale              = Nelson Street, Port Adelaide
+| official_name       = 
+| other_name          = 
+| named_for           = 
+| owner               = 
+| maint               = 
+| heritage            = 
+| id                  = 
+| id_type             = 
+| website             = 
+| preceded            = 
+| followed            = 
+| design              = 
+| material            = 
+| material1           = 
+| material2           = 
+| length              = 
+| width               = 
+| height              = 
+| depth               = 
+| traversable         = 
+| towpath             = 
+| mainspan            = 
+| number_spans        = 
+| piers_in_water      = 
+| load                = 
+| clearance_above     = 
+| clearance_below     = 
+| life                = 
+| architect           = 
+| designer            = 
+| contracted_designer = 
+| winner              = 
+| engineering         = 
+| builder             = 
+| fabricator          = 
+| begin               = 
+| complete            = 
+| cost                = 
+| open                = 1940
+| inaugurated         = 
+| rebuilt             = 
+| collapsed           = 
+| closed              = 
+| replaces            = 
+| traffic             = 
+| toll                = 
+| map_type            = 
+| map_relief          = 
+| map_dot_label       = 
+| map_image           = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+}}
+
+<br clear="all" />
+
+==Infobox bridge - Example 2==
+(See below for the original Sydney Harbour Bridge example, which copied directly from the example at the bottom of this page: [https://en.wikipedia.org/wiki/Template:Infobox_bridge|<nowiki>Template Infobox bridge</nowiki>] Note that even this doesn't display in the same way as the original in Wikipedia.)
+
+I've overwritten it with the data for the Birkenhead Bridge, but it still isn't displaying properly, as more errors have crept in somewhere.
+
+(17June 2015)
+N.B.: Use only "| coordinates_display = inline" and not "| coordinates_display = inline, title" otherwise get repetition of coords in infobox.
+
+In Template:Infobox bridge, changed headerstyle = background-color from "#efefefe" to "#cfcfcf"
+This now seems suitable for use.
+
+{{Infobox bridge
+| name        = Birkenhead Bridge
+| image       = Duyfken replica at Port Adelaide.JPG
+| caption     = Duyfken replica at Port Adelaide
+| carries     = Motor vehicles, pedestrians; bicycle lane since 2014
+| crosses     = Inner harbour
+| locale      = Port Adelaide, South Australia, Australia
+| design      = Opening bascule bridge
+| length      = {{Convert|0|m|ft|0|abbr=on}}
+| width       = {{Convert|0|m|ft|0|abbr=on}}
+| height      = {{Convert|0|m|ft|0|abbr=on}}
+| mainspan    = {{Convert|0|m|ft|0|abbr=on}}
+| below       = {{Convert|0|m|ft|0|abbr=on}} at mid-span
+| begin       = 
+| complete    = 
+| open        = {{Start-date|December 1940}}
+| map_type    = Australia South Australia
+| map_relief  = yes
+| latd = 34 | latm = 50 | lats = 32.2 | latNS = S
+| longd= 138 | longm= 30 | longs= 5.93 | longEW= E
+| coordinates_region = AU-SA_type:landmark
+| coordinates_display = inline
+}}
+
+<br clear="all" />
+
+==Sydney Harbour Bridge example==
+
+{{Infobox bridge
+| name        = Sydney Harbour Bridge
+| image       = Sydney Harbour Bridge from Circular Quay.jpg
+| carries     = Trains, Motor vehicles, pedestrians and bicycles
+| crosses     = [[Port Jackson]]
+| locale      = [[Sydney]], [[New South Wales]], Australia
+| design      = [[Through arch bridge]]
+| length      = {{Convert|1149|m|ft|0|abbr=on}}
+| width       = {{Convert|49|m|ft|0|abbr=on}}
+| height      = {{Convert|134|m|ft|0|abbr=on}}
+| mainspan    = {{Convert|503|m|ft|0|abbr=on}}
+| below       = {{Convert|49|m|ft|0|abbr=on}} at mid-span
+| begin       = 28 July 1923
+| complete    = 19 January 1932
+| open        = {{Start-date|19 March 1932}}
+| map_type    = Australia New South Wales
+| map_relief  = yes
+| latd = 33 | latm = 51 | lats = 08 | latNS = S
+| longd= 151| longm= 12 | longs= 38 | longEW= E
+| coordinates_region = AU-NSW_type:landmark
+| coordinates_display = inline
+}}
+
+<br clear="all" />
+
+==Infobox template==
+
+===What works===
+images display - OK
+
+distance conversion templates - OK
+
+map pin on location map - OK
+
+===What doesn't work===
+infobox not aligned on RHS - '''FIXED'''
+
+No border around infobox - '''FIXED'''
+
+Font size too big - '''FIXED'''
+
+location map for SA doesn't display - '''FIXED'''
+
+text not constrained within infobox border - '''FIXED'''
+
+==Here's another template that needs fixing==
+<nowiki>{{coord|34.842297|S|138.501537|E|format=dms|display=it}}</nowiki>
+
+{{coord|34.842297|S|138.501537|E}}
+
+{{coord|34.842297|S|138.501537|E|format=dms|display=it}}
+
+<nowiki>
+ 34°50'32.20"S
+138°30'5.93"E
+
+-34.842297°
+138.501537°
+</nowiki>
+
+Nelson Street, 
+
+Town or Locality*:	      Port Adelaide
+
+Year constructed: 	      1940 
+
+Used for: 	      Vehicular and pedestrian traffic; since 2014 a dedicated bicycle/pedestrian path was added
+
+[[File:Duyfken replica at Port Adelaide.JPG|thumb|Replica of 17th C Dutch vessel ''Duyfken'' with Birkenhead Bridge raised,<br />20 May 2006.]]
+
+==External links== 
+ [http://samaritimemuseum.com.au/content/1940-birkenhead-bridge-opens SA Maritime Museum > Opening of the Birkenhead Bridge, 1940]
+ [https://www.youtube.com/watch?v=_wnMohQnd2w Youtube video from the 1970s, showing bridge opening]

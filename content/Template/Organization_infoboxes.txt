@@ -1,0 +1,76 @@
+{{Navbox
+| name = Organization infoboxes
+| state = {{{state<includeonly>|expanded</includeonly>}}}
+| bodyclass = hlist
+| title = [[Wikipedia:Template messages|Wikipedia templates]]: [[organization]] [[Template:Infobox|infoboxes]]
+
+| above = [[Wikipedia:Manual of Style/Infoboxes]]
+
+| group1 = Main
+| list1 =
+* {{Tl|Infobox organization}}
+* {{Tl|Infobox official post}}
+
+| group2 = {{longitem|Government<br/>and politics}}
+| list2 =
+* {{tl|Infobox fire department}}
+* {{Tl|Infobox government agency}}
+* {{Tl|Infobox law enforcement agency}}
+* {{Tl|Infobox political party}}
+* {{Tl|Infobox space agency}}
+
+| group3 = Military
+| list3 =
+* {{Tl|Infobox military unit}}
+
+
+| group4 = {{longitem|Typically<br/>non-profit}}
+| list4 =
+* {{Tl|Infobox accounting body}}
+* {{Tl|Infobox church}}
+* {{Tl|Infobox institute}}
+* {{Tl|Infobox laboratory}}{{smallsup|1}}
+* {{tl|Infobox museum}}
+* {{Tl|Infobox observatory}}
+* {{Tl|Infobox school}}
+* {{Tl|Infobox university}}{{smallsup|2}}
+
+| group5 = Publications
+| list5 =
+* {{Tl|Infobox journal}}
+* {{Tl|Infobox magazine}}
+* {{Tl|Infobox newspaper}}
+* {{Tl|Infobox publisher}}
+* {{Tl|Infobox website}}
+
+| group6 = Business
+| list6 =
+* {{Tl|Infobox company}}
+* {{Tl|Infobox dot-com company}}
+* {{Tl|Infobox law firm}}
+* {{tl|Infobox union}}
+
+| group7 = Honours
+| list7 =
+* {{Tl|Infobox fraternity}}
+* {{Tl|Infobox order}}
+* {{Tl|Infobox Grand Lodge}}
+
+| group8 = Subtemplates
+| list8 =
+* '''Address'''&nbsp;{{Tl|mf-adr}}
+* '''Coordinates'''&nbsp;{{Tl|coord}}
+* {{allow wrap|'''Dates'''{{spaces|2}}Use {{Tl|start date}} if the organization has an "established", "founded", "opened" or similar date. Use {{Tl|end date}} if the organization is defunct (dissolved or absorbed).}}
+* '''Microformat{{\}}metadata'''&nbsp;{{Tl|UF-hcard-org}}
+* '''Non-English text'''&nbsp;{{Tl|lang}}
+* '''Website'''&nbsp;{{Tl|URL}}
+
+| below =
+* {{smallsup|1}} or research institutions
+* {{smallsup|2}} or college
+
+* [[:Category:Infobox templates|Category]]
+* [[Help:Infobox|Help]]
+* [[Wikipedia:List of infoboxes|List of infoboxes]]
+
+}}<noinclude>{{Documentation}}</noinclude>

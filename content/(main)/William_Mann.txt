@@ -1,0 +1,79 @@
+{{DEFAULTSORT:Mann, William}}
+
+{{Infobox military person AIF
+| honorific_prefix  = 
+| name              = William Mann
+| honorific_suffix  = 
+| image         = Australian Army Rising Sun Badge 1904.png
+| image_size    = 
+| alt           = 
+| caption       = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name    = 
+| other_name    =
+| prior_occupation   = Labourer (fireman)
+| birth_date    = 
+<!-- {{birth date and age|YYYY|MM|DD}} or {{birth date|YYYY|MM|DD}} if dead -->
+| birth_place   = London, England
+| enlistment_date = 14 August 1916, <br /> aged 42 years, 6 months <!-- {{enlistment date|1916|08|14}} -->
+| death_date    = 7 May 1917<!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} death date first, then birth date -->
+| death_place   = [https://en.wikipedia.org/wiki/Battle_of_Arras_(1917)#Battle_of_Bullecourt_.283.E2.80.9317_May_1917.29 Bullecourt], France
+| cause_of_death = Killed in action
+| placeofburial_label = 
+| placeofburial = No known grave
+| placeofburial_coordinates = <!-- {{Coord|LAT|LONG|display=inline,title}} -->
+| religion      = Church of England
+| branch        = 
+| servicelength  = 8 months, 25 days
+| rank          = Private
+| servicenumber = 6618
+| unit          = [https://en.wikipedia.org/wiki/10th_Battalion_(Australia) 10th Battalion],<br />[https://aif.adfa.edu.au/showUnit?unitCode=INF10REIN21 21st Reinforcement]
+| commands      = 
+| battles_label = 
+| battles       = 
+| awards        =
+| memorials     = {{Plainlist|* [https://en.wikipedia.org/wiki/Villers%E2%80%93Bretonneux_Australian_National_Memorial Villers-Bretonneux Memorial]
+* Australian War Memorial Roll of Honour, Panel number 59 
+* [[List of names on the Workers' Memorial, Port Adelaide|Workers' Memorial]] 
+* [[List of names on the WWI Memorial, St Paul's|WWI Memorial, St Paul's]] }}
+| spouse        = Mrs Annie Jane Mann, <br />Bishop Avenue, Alberton, SA
+| next_of_kin   = 
+| relations     = Annie Mary Elizabeth Mann (daughter)
+| laterwork     = 
+| signature     = 
+| signature_size =
+| signature_alt =
+| websites      = [https://www.awm.gov.au/people/rolls/R1649940/ AWM - Roll of Honour] <br />[https://aif.adfa.edu.au/aif/showPerson?pid=186619 ADFA - The AIF Project] <br />[http://discoveringanzacs.naa.gov.au/browse/records/339540 NAA - Discovering Anzacs]
+| module        = 
+}}
+
+
+==Life==
+According to the Roll of Honour circular<ref>[http://www.awm.gov.au/images/collection/pdf/RCDIG1068882--406-.pdf Roll of Honour circular] For the First World War the circulars were forms sent to next of kin seeking details regarding the deceased. They form the basis of the card indexes from which the Australian War Memorial's original Roll of Honour was compiled.</ref> filled out by his widow for the Memorial War Museum, William Mann was educated at a "Public School" in England and emigrated to Australia "23 years ago", thus presumably in around 1894. She gave his age at the time of death as being 41, rather than the 43 years and 3 months inferred from his enlistment records.
+
+
+==Legacy==
+William Mann was nominated for the [[Workers' Memorial, Port Adelaide|Workers' Memorial]] by the [[Federated Engine Drivers and Firemen Association]] as one of the eight unionists who had been killed in World War I.
+
+==References==
+{{reflist}}
+
+==External links==
+
+===Contemporary press clippings:===
+'''Family Notices'''
+: [http://trove.nla.gov.au/newspaper/article/5593380 ''The Advertiser'', Monday 11 June 1917], [http://trove.nla.gov.au/newspaper/article/209760589 ''The Express and Telegraph'', Monday 11 June 1917], [http://trove.nla.gov.au/newspaper/article/87604953 ''Chronicle'' Saturday 16 June 1917]
+<blockquote>MANN.— Killed in action in France, May 7, Private William Mann, beloved husband of Annie Mann, of Bishop-avenue, Alberton, aged 41 years. Sadly missed.</blockquote>
+
+: [http://trove.nla.gov.au/newspaper/article/87541210 ''Chronicle'', Saturday  11 May 1918] 
+<blockquote>MANN.—In loving memory of my dear husband, Private William Mann, killed at Bullecourt, May 7, 1917.<br />
+Too far away your grave to see,<br />
+But not too far to think of thee.<br />
+—Inserted by his loving wife and family. </blockquote>
+
+{{Names on the Workers' Memorial, Port Adelaide}}
+{{Names on the WWI Memorial, St Paul's}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:Names on the WWI Memorial, St Paul's]]
+[[Category:People of Port Adelaide]]

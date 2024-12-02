@@ -1,0 +1,43 @@
+{{Taxobox
+| image = Rufous Songlark samcem.JPG
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = {{Citation needed|date=September 2008}}
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Locustellidae Locustellidae]
+| genus = ''[https://en.wikipedia.org/wiki/Megalurus Megalurus]''
+| species = ''M. mathewsi''
+| binomial = ''Megalurus mathewsi''
+| binomial_authority = [https://en.wikipedia.org/wiki/Tom_Iredale Iredale], 1911
+| synonyms = ''Cincloramphus mathewsi''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cincloramphus+(Maclennania)+mathewsi ''Atlas of Living Australia'': Rufous Songlark]
+* [http://birdlife.org.au/bird-profile/rufous-songlark ''Birdlife Australia'': Rufous Songlark]
+* [https://en.wikipedia.org/wiki/Rufous_songlark ''Wikipedia'': Rufous songlark]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

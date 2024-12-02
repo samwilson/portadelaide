@@ -1,0 +1,51 @@
+{{Taxobox
+| name = Black-tailed godwit 
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693150 |title=''Limosa limosa'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Black-tailed Godwit Uferschnepfe.jpg
+| image_caption = breeding plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Godwit Limosa]''
+| genus_authority = [https://en.wikipedia.org/wiki/Mathurin_Jacques_Brisson Brisson], 1760
+| species = '''''L. limosa'''''
+| subspecies = ''L. l. limosa'' <small>[https://en.wikipedia.org/wiki/Linnaeus Linnaeus], 1758</small><br />
+''L. l. islandica'' <small>[https://en.wikipedia.org/wiki/Christian_Ludwig_Brehm Brehm], 1831</small><br />
+''L. l. melanuroides'' <small>[https://en.wikipedia.org/wiki/John_Gould Gould], 1846</small>
+| binomial = ''Limosa limosa''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+| range_map = LimosalimosaWorldDistribution.jpg
+| range_map_caption = Distribution of Black-tailed Godwit: blue=winter- and staging area, yellow=breeding area, green=both, resident
+| synonyms =
+''Scolopax limosa'' <small>Linnaeus,1758</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Limosa+limosa ''Atlas of Living Australia'': Black-tailed Godwit]
+* [http://birdlife.org.au/bird-profile/bar-tailed-godwit ''Birdlife Australia'': (See: Bar-tailed Godwit)]
+* [https://en.wikipedia.org/wiki/Black-tailed_godwit ''Wikipedia'': Black-tailed godwit]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

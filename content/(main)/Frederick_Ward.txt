@@ -1,0 +1,45 @@
+{{DEFAULTSORT:Ward, Frederick}}
+{{Infobox person
+| honorific_prefix   = 
+| name          = Frederick F. Ward
+| honorific_suffix   = 
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 11 May 1873
+| birth_place   = 
+| death_date    = 31 December 1954 
+| death_place   = 
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+* [https://en.wikipedia.org/wiki/Frederick_Ward_%28Australian_politician%29 ''Wikipedia'': Frederick Ward (Australian politician)]
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

@@ -1,0 +1,48 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22694623 |title=''Sterna hirundo'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Common tern with fish.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = '' [https://en.wikipedia.org/wiki/Sterna Sterna] ''
+| species = '''''S. hirundo'''''
+| binomial = ''Sterna hirundo''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], 1758
+| range_map = CommonTernmap.png
+| range_map_alt =Map showing the breeding range of ''Sterna hirundo'' (most of temperate northern hemisphere), and wintering areas (coasts in tropics and southern hemisphere).
+| range_map_width =
+| range_map_caption = <div style="text-align:left; "><big>{{Legend2|#FFFF00| Breeding range|border=1px solid #aaa}}<br/>
+{{Legend2|#0EBEFF| Wintering range|border=1px solid #aaa}}</big></div>(ranges are approximate)
+| synonyms = ''Sterna fluviatilis'' <small>Naumann, 1839</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Sterna+(Sterna)+hirundo ''Atlas of Living Australia'': Common Tern]
+* [http://birdlife.org.au/bird-profile/common-tern ''Birdlife Australia'': Common Tern]
+* [https://en.wikipedia.org/wiki/Common_tern ''Wikipedia'': Common tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

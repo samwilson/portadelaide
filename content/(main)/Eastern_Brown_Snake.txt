@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Eastern Brown Snake
+| image = Eastern Brown Snake - Kempsey NSW.jpg|200px|Eastern brown snake, Tamban Forest near Kempsey, New South Wales
+| image_caption = Eastern Brown Snake, Tamban Forest near Kempsey, NSW
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Serpentes Serpentes]
+| familia = [https://en.wikipedia.org/wiki/Elapidae Elapidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pseudonaja Pseudonaja]''
+| species = '''''P. textilis'''
+| binomial = ''Pseudonaja textilis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/André_Marie_Constant_Duméril A.M.C. Duméril], [https://en.wikipedia.org/wiki/Gabriel_Bibron Bibron] & <br>[https://en.wikipedia.org/wiki/Auguste_Duméril A.H.A. Duméril], 1854)
+| synonyms = *''Furina textilis'' <small>A.M.C. Duméril, Bibron & A.H.A. Duméril, 1854</small>
+*''Pseudonaia textilis'' <br><small>— [https://en.wikipedia.org/wiki/Gerard_Krefft Krefft], 1862</small>
+*''Diemenia textilis'' <br><small>— [https://en.wikipedia.org/wiki/George_Albert_Boulenger Boulenger], 1896</small>
+*''Demansia textilis'' <small>— [https://en.wikipedia.org/wiki/Edgar_Ravenswood_Waite Waite], 1929</small>
+*''Pseudonaja textilis'' <br><small>— [https://en.wikipedia.org/wiki/Harold_Cogger Cogger], 1983</small><ref>The Reptile Database. www.reptile-database.org.</ref>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Pseudonaja+textilis ''Atlas of Living Australia'': ''Pseudonaja textilis'']
+* [https://en.wikipedia.org/wiki/Eastern_brown_snake ''Wikipedia'': Eastern brown snake]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

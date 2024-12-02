@@ -1,0 +1,167 @@
+== Understanding map definition templates ==
+{{expand section|date=August 2011}}
+
+The {{tlf|Location map}} family of templates utilize any one of a set of map definitions. These are not forks but rather auxiliary pages and must have names following the pattern "Module:Location map/data/''location''" or "Template:Location map ''location''", where ''location'' is the name of the area covered by the map. The template space is supported only for backward compatibility; all new map definitions should be created as modules. '''Important:''' If a new map has the same projection and boundaries as the old map (such as [[:File:Iraq location map.svg]] and [[:File:Iraq location map2.svg]]), a new definition should '''not''' be created; instead, the old definition should be used with the AlternativeMap parameter. To create a simple map definition module using an image of a map with an [[equirectangular projection|equirectangular]] [[Mercator projection]]:
+
+# Create a new map image and upload it to [[commons:Main Page|Wikimedia commons]] or find an existing map on the same site.
+# Create a module named Module:Location map/data/''location'', copy the content below into it and substitute the appropriate values.
+# Create a page named Module:Location map/data/''location''/doc and follow the instructions under [[#Documentation]].
+
+As an example of a map that uses an equirectangular projection, we use [[Module:Location map/data/Belgium]]. Please do not experiment using active templates.
+
+<syntaxhighlight lang="lua">return {
+	name = 'Belgium',
+	top = 51.8,
+	bottom = 49.2,
+	left = 2.2,
+	right = 6.9,
+	image = 'Belgium location map.svg',
+	image1 = 'Belgium relief location map.jpg'
+}</syntaxhighlight>
+
+{| class="wikitable" style="width: 50%;"
+! Parameter
+! Description
+|-
+| <code>name</code>
+| The name of the area covered
+|-
+| <code>top</code>
+| The latitude of the top edge of the image using [[decimal degrees]]
+|-
+| <code>bottom</code>
+| The latitude of the bottom edge of the image
+|-
+| <code>left</code>
+| longitude of the left edges of the image
+|-
+| <code>right</code>
+| longitude of the right edges of the image
+|-
+| <code>image</code>
+| The name of the image file on Commons
+|-
+| <code>image1</code>
+| The name of an alternate image, usually a relief map, which can be accessed using the <code>relief</code> parameter.
+|}
+
+Maps of this type will work for small to mid sized areas. [[Module:Location map/data/USA Alabama]] is another example of a map description that uses an equirectangular projection. Notice that the image of the country is not what most would expect. 
+
+Maps that use other projections, such as [[Module:Location map/data/USA]], which uses an equidistant [[conic projection]]. require formulas which are used to calculate the <code>x</code> and <code>y</code> coordinates for the location mark. Understanding these formulas requires a familiarity with the subject and is currently beyond the scope of this discussion. Note that the formula for <code>x</code> evaluates to 0 for the left edge of the image and 100 for the right edge. Likewise, the formula for <code>y</code> evaluates to 0 for the top edge and 100 for the bottom edge.
+
+=== Documentation ===
+
+Here is an example of what a documentation page should look like:
+{{#tag:pre|<nowiki>
+<!-- Categories and interwikis go at the bottom of this page. -->
+{{Module:Location map/data/doc|image=[[File:Belgium-CIA WFB Map.png|thumb|250px|Map of Belgium]]
+|examples=
+=== Location map, using default map (image) ===
+{{Location map | Belgium
+| width   = 200
+| lat_deg = 50.85
+| lon_deg = 4.35
+| label   = Brussels
+}}
+<pre style="width:30em">
+{{Location map | Belgium
+| width   = 200
+| lat_deg = 50.85
+| lon_deg = 4.35
+| label   = Brussels
+}}
+</pre>
+{{clear}}
+
+=== Location map many, using relief map (image1) ===
+{{Location map many | Belgium
+| relief   = yes
+| width    = 200
+| caption  = Two locations in Belgium
+| lat1_deg = 50.85
+| lon1_deg = 4.35
+| label1   = Brussels
+| lat2_deg = 51.22
+| lon2_deg = 4.40
+| label2   = Antwerp
+}}
+<pre style="width:30em">
+{{Location map many | Belgium
+| relief   = yes
+| width    = 200
+| caption  = Two locations in Belgium
+| lat1_deg = 50.85
+| lon1_deg = 4.35
+| label1   = Brussels
+| lat2_deg = 51.22
+| lon2_deg = 4.40
+| label2   = Antwerp
+}}
+</pre>
+{{clear}}
+
+=== Location map+, using AlternativeMap ===
+{{Location map+ | Belgium
+| AlternativeMap = Belgium relief location map.jpg
+| width   = 200
+| caption = Two locations in Belgium
+| places  =
+  {{Location map~ | Belgium
+  | lat_deg = 50.85
+  | lon_deg = 4.35
+  | label   = Brussels
+  }}
+  {{Location map~ | Belgium
+  | lat_deg = 51.22
+  | lon_deg = 4.40
+  | label   = Antwerp
+  }}
+}}
+<pre style="width:35em">
+{{Location map+ | Belgium
+| AlternativeMap = Belgium relief location map.jpg
+| width   = 200
+| caption = Two locations in Belgium
+| places  =
+  {{Location map~ | Belgium
+  | lat_deg = 50.85
+  | lon_deg = 4.35
+  | label   = Brussels
+  }}
+  {{Location map~ | Belgium
+  | lat_deg = 51.22
+  | lon_deg = 4.40
+  | label   = Antwerp
+  }}
+}}
+</pre>
+}}
+<includeonly>
+<!-- Categories go here, and interwikis go on Wikidata: -->
+
+[[Category:Belgium location map templates|Belgium location map templates]]
+
+</includeonly>
+</nowiki>}}
+
+The following parameters are taken by [[Module:Location map/data/doc]]:
+{| class="wikitable" style="width: 50%;"
+! Parameter
+! Description
+|-
+| <code>image</code>
+| An additional image to display (other than the one the location map uses) on the right side of the documentation page. If not specified, no additional image is displayed.
+|-
+| <code>projection</code>
+| The type of projection the location map uses. If not specified, "<nowiki>an [[equirectangular projection]]</nowiki>" is used.
+|-
+| <code>name</code>
+| The name to display in the map's documentation. If not specified, the actual name of the location map is used.
+|-
+| <code>examples</code>
+| A section containing examples of the location map's usage. A {{tl|clear}} template is automatically placed at the end of the examples. If not specified, no examples are output.
+|-
+| <code>see also</code>
+| Additional links to place in the "See also" section.
+|}
+All information about the map will be automatically taken from the map's definition itself.

@@ -1,0 +1,290 @@
+{{Infobox
+| bodyclass      = vcard
+| abovestyle     = font-size: 110%; line-height: 1.3em; {{ #switch: {{lc:{{{type|}}} }}
+  |city       = background-color:#f9f6d2;
+  |town       = background-color:#e9f9d2;
+  |suburb     = background-color:#f9e2d2;
+  |lga        = background-color:#d2d5f9;
+  |region     = background-color:#e6c4fb;
+  |cadastral  = background-color:#ffffe0;
+  |protected  = background-color:transparent;
+  |other      = background-color:transparent;
+  | background-color: #ccc;
+  }}
+| above          = {{#if:{{{name|}}}|<span style="font-size: 110%;" class="fn org locality">{{{name|{{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}}}}</span>{{#if:{{{city|}}}{{{state|}}}|<br /><span style="font-weight:normal; font-size:95%" class="region">{{#if: {{{city|}}}|{{auto link|{{{city|}}}}}{{#if: {{{state|}}}|,&nbsp;}}}}{{ #switch: {{lc:{{{state|}}} }}
+  |sa         = [https://en.wikipedia.org/wiki/South_Australia South Australia]
+  |vic        = [[Victoria (Australia)|Victoria]]
+  |nsw        = [[New South Wales]]
+  |qld        = [[Queensland]]
+  |nt         = [[Northern Territory]]
+  |wa         = [[Western Australia]]
+  |tas        = [[Tasmania]]
+  |act        = [[Australian Capital Territory]]
+  |jbt        = [[Jervis Bay Territory]]
+  |ni         = [[Norfolk Island]]
+  |<span class="region">{{auto link|{{{state|}}}}}</span>
+  }}</span>}} }}
+| aboveclass     = adr
+| subheaderstyle = font-size: 100%;
+| subheader1     = {{#ifeq:{{{type|}}}|protected|{{IUCN banner|{{{iucn_category|}}} }} }}
+| image          = {{#ifexist:media:{{{image|}}}
+  |{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|{{{imagesize|}}}}}}|sizedefault=270px|alt={{{image_alt|{{{alt|}}}}}}}}
+  |{{{image|}}}
+  }}
+| imagestyle     = 
+| caption        = {{{caption|}}}
+| captionstyle   = 
+| image2         = {{#ifexist:media:{{{image2|}}}
+  |{{#invoke:InfoboxImage|InfoboxImage|image={{{image2|}}}|size={{{image2_size|{{{image2size|}}}}}}|sizedefault=270px|border=yes|alt={{{image2_alt|{{{alt2|}}}}}}}}
+  |{{{image2|}}}
+  }}
+| caption2       = {{{caption2|}}}
+| headerstyle    = background-color:#ddf;
+| labelstyle     = width:40%; {{ #switch: {{lc:{{{type|}}} }}
+  |city       = background-color:#f9f6d2;
+  |town       = background-color:#e9f9d2;
+  |suburb     = background-color:#f9e2d2;
+  |lga        = background-color:#d2d5f9;
+  |region     = background-color:#e6c4fb;
+  |cadastral  = background-color:#ffffe0;
+  |protected  = background-color:transparent;
+  |other      = background-color:transparent;
+  |background-color:#ccc;
+  }}
+| datastyle      = 
+| data1          = {{#if: {{both|{{{latitude|{{{latd|}}}}}}|{{{longitude|{{{longd|}}}}}}}}|{{Location map|{{#if:{{{alternative_location_map|}}}|{{{alternative_location_map}}}|{{#if: {{{force_national_map|}}} | Australia | Australia {{ #switch: {{lc:{{{state|}}}}}
+  |sa       = South Australia
+  |vic      = Victoria
+  |nsw      = New South Wales
+  |qld      = Queensland
+  |nt       = Northern Territory
+  |wa       = Western Australia
+  |tas      = Tasmania
+  |act      = Australian Capital Territory
+  |jbt      = Jervis Bay Territory
+  |ni       = Norfolk Island
+  |#default = 
+  }}{{#if:{{{use_lga_map|}}}|_{{{lga|}}}}}}}}}
+  |label    = {{{name}}}
+  |relief   = {{{relief|}}}
+  |lat_deg  = {{#expr:abs({{{latitude|{{{latd|}}}}}})}}
+  |lat_min  = {{{latm|}}}
+  |lat_sec  = {{{lats|}}}
+  |lat_dir  = S
+  |lon_deg  = {{{longitude|{{{longd|}}}}}}
+  |lon_min  = {{{longm|}}}
+  |lon_sec  = {{{longs|}}}
+  |lon_dir  = E
+  |marksize = 6
+  |position = {{{pushpin_label_position|}}}
+  |float    = center
+  |caption  =
+  |border   = none
+  |width    = {{#if: {{{force_national_map|}}}|270|{{ #switch: {{lc:{{{state|}}} }}
+   |sa       = 230
+   |qld      = 190
+   |nt       = 190
+   |wa       = 180
+   |tas      = 210
+   |act      = 180
+   |270
+   }} }}
+  |alt      = {{{map_alt|}}}
+  }}{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption}}}</small>|}}
+  }}
+<!-- The following code is provided for backward compatibility with the old locator map code used in Template:Infobox protected area of Australia. -->
+| data2           = {{#if: {{{image|}}}|{{#if: {{{locator_x|}}}{{{locator_y|}}}|{{Superimpose
+  | base          = {{{image|}}}
+  | base_width    = 288px
+  | base_caption  = {{{caption|}}}
+  | float         = Green_pog.svg
+  | float_width   = 10px
+  | float_caption = {{{name|}}}
+  | x             = {{{locator_x|}}}
+  | y             = {{{locator_y|}}}
+}} }} }}
+<!-- End old locator map code -->
+| label3         = <span style="white-space: nowrap">Nearest town or city</span>
+| data3          = {{#ifeq:{{{type|}}}|protected|{{auto link|{{{nearest_town_or_city|}}}}} }}
+| label4         = Coordinates
+| data4          = {{#if:{{both|{{{latitude|{{{latd|}}}}}}|{{{longitude|{{{longd|}}}}}}}}|
+{{Geobox coor|{{#expr:abs({{{latitude|{{{latd|}}}}}})}}|{{{latm|}}}|{{{lats|}}}|S|{{{longitude|{{{longd|}}}}}}|{{{longm|}}}|{{{longs|}}}|E|type:{{#if: {{{coord_type|}}}|{{{coord_type|}}}|{{#ifeq:{{{type|}}}|protected|landmark|city}}}}_region:{{ #switch: {{lc:{{{state|}}} }}
+  |sa       = AU-SA
+  |vic      = AU-VIC
+  |nsw      = AU-NSW
+  |qld      = AU-QLD
+  |nt       = AU-NT
+  |wa       = AU-WA
+  |tas      = AU-TAS
+  |act      = AU-ACT
+  |jbt      = AU-JBT
+  |ni       = NF
+  |#default = AU
+  }}{{#if:{{{map_scale|}}}|_scale:{{{map_scale|}}}|}}|title={{#ifeq:{{{coordinates_display|}}}|inline||1}}}}|{{#if:{{{coordinates|}}}|{{{coordinates}}} }} }}
+| label5         = Maps
+| data5          = {{#if: {{{kml|}}}|
+* [http://maps.google.com/maps?q=http://en.wikipedia.org/w/index.php?title=Template:Infobox_Australian_place/KML/{{#if:{{{kml_map|}}}|{{PAGENAMEE:{{{kml_map}}}}}|{{PAGENAMEE}}}}%26action%3Draw Google Maps]
+* [http://www.bing.com/maps/default.aspx?mapurl=http://en.wikipedia.org/w/index.php?title=Template:Infobox_Australian_place/KML/{{#if:{{{kml_map|}}}|{{PAGENAMEE:{{{kml_map}}}}}|{{PAGENAMEE}}}}&action=raw Bing Maps]
+* [//en.wikipedia.org/w/index.php?title=Template:Infobox_Australian_place/KML/{{#if:{{{kml_map|}}}|{{PAGENAMEE:{{{kml_map}}}}}|{{PAGENAMEE}}}}&action=raw KML file]
+}}
+| label6         = Population
+| data6          = {{#if:{{{pop|}}}
+                   |{{#if: {{{pop2|}}}
+                      |<ul style="margin-top: 0px; margin-bottom: 0px;"><li>
+                    }} {{#iferror:{{#expr:{{{pop}}}}}
+                      |{{{pop}}}
+                      |{{formatnum:{{{pop}}}}}
+                    }}{{#if: {{{pop_year|}}}
+                      |&nbsp;({{{pop_year}}})
+                    }}{{{pop_footnotes|}}}{{#if: {{{poprank|}}}
+                      |&nbsp;([[List of cities in Australia by population|{{{poprank}}}]])
+                    }}{{#if: {{{pop2|}}}
+                      |<li> {{formatnum:{{{pop2}}}}}{{#if: {{{pop2_year|}}}
+                         |&nbsp;({{{pop2_year}}})
+                       }}{{{pop2_footnotes|}}}</ul>
+                    }}
+                 }}
+| label7         = &nbsp;• Density
+| data7          = {{#if:{{{density|}}}
+                   |{{formatnum:{{{density}}}}}/km<sup>2</sup>&nbsp;({{convert|{{{density}}}|/km2|/sqmi|disp=number}}/sq&nbsp;mi) {{{density_footnotes|}}}
+                   |{{#if:{{{pop|}}}|{{#if:{{{area|}}}|{{Pop density|{{formatnum:{{{pop|}}}|R}}|{{formatnum:{{{area|}}}|R}}|km2|sqmi}}}}}} {{{density_footnotes|}}}
+                 }}
+| label8         = Established
+| data8          = {{{established|{{{est|}}}}}}{{#if:{{{established|{{{est|}}}}}}|{{{established_footnotes|}}}|}}
+| label9         = Abolished
+| data9          = {{{abolished|}}}
+| label10        = [[Gazetteer of Australia|Gazetted]]
+| data10         = {{{gazetted|}}}
+| label11        = [[Postcodes in Australia|Postcode(s)]]
+| data11         = {{{postcode|}}}
+| label12        = Elevation
+| data12         = {{#if:{{{elevation|}}}|{{convert|{{{elevation}}}|m|ft|0|abbr=on}}{{{elevation_footnotes|}}} }}
+| label13        = Area
+| data13         = {{#if:{{{area|}}}|{{#iferror:{{#expr:{{{area}}}}}|{{{area|}}}|{{formatnum:{{{area}}}}}&nbsp;km<sup>2</sup> ({{rnd|{{{area}}}/2.589988110336|1}}&nbsp;sq&nbsp;mi)}}{{{area_footnotes|}}} }}
+| label14        = [[Time in Australia|Time zone]]
+| data14         = {{#if:{{{timezone|}}}|{{{timezone}}} ([[UTC{{{utc|}}}]]) }}
+| label15        = &nbsp;• Summer ([[Daylight saving time|DST]])
+| data15         = {{#if:{{{timezone-dst|}}}|{{{timezone-dst}}} ([[UTC{{{utc-dst|}}}]]) }}
+| label16        = {{#if:{{{mayortitle|}}}|{{{mayortitle|}}}|Mayor}}
+| data16         = {{{mayor|}}}
+| label17        = Location
+| data17         = {{#if:{{{dist1|}}}|{{#if:{{{dist2|}}}|<ul style="margin-top: 0px; margin-bottom: 0px;"><li>}} {{formatnum:{{{dist1}}}}}&nbsp;km ({{rnd|{{{dist1}}}/1.609344|0}}&nbsp;mi) {{#if: {{{dir1|}}}|{{{dir1}}} of|from}} {{auto link|{{{location1}}}}} {{#if: {{{dist2|}}}|<li> {{formatnum:{{{dist2}}}}}&nbsp;km ({{rnd|{{{dist2}}}/1.609344|0}}&nbsp;mi) {{#if: {{{dir2|}}}|{{{dir2}}} of|from}} {{auto link|{{{location2}}}}}}} {{#if: {{{dist3|}}}|<li> {{formatnum:{{{dist3}}}}}&nbsp;km ({{rnd|{{{dist3}}}/1.609344|0}}&nbsp;mi) {{#if: {{{dir3|}}}|{{{dir3}}} of|from}} {{auto link|{{{location3}}}}}}} {{#if: {{{dist4|}}}|<li> {{formatnum:{{{dist4}}}}}&nbsp;km ({{rnd|{{{dist4}}}/1.609344|0}}&nbsp;mi) {{#if: {{{dir4|}}}|{{{dir4}}} of|from}} {{auto link|{{{location4}}}}}}} {{#if: {{{dist5|}}}|<li> {{formatnum:{{{dist5}}}}}&nbsp;km ({{rnd|{{{dist5}}}/1.609344|0}}&nbsp;mi) {{#if: {{{dir5|}}}|{{{dir5}}} of|from}} {{auto link|{{{location5}}}}}}} {{#if: {{{dist2|}}}|</ul> }}}}
+| label18        = {{ #switch: {{lc:{{{state|}}}}}
+  |sa      = LGA(s)
+  |vic     = [[Local government in Victoria|LGA(s)]]
+  |nsw     = [[Local government areas of New South Wales|LGA(s)]]
+  |qld     = [[local government areas of Queensland|LGA(s)]]
+  |nt      = [[Local government areas of the Northern Territory|LGA(s)]]
+  |wa      = [[Local government areas of Western Australia|LGA(s)]]
+  |tas     = [[Local government areas of Tasmania|LGA(s)]]
+  |act     = District
+  |[[Local government in Australia|LGA(s)]]
+  }}
+| data18         = {{#if:{{{lga|}}}|{{#if: {{{lga2|}}}|<ul style="margin-top: 0px; margin-bottom: 0px;"><li>}} {{auto link|{{{lga}}}}}{{#if: {{{lga2|}}}|<li> {{auto link|{{{lga2}}}}}}}{{#if: {{{lga3|}}}|<li> {{auto link|{{{lga3}}}}}}}{{#if: {{{lga4|}}}|<li> {{auto link|{{{lga4}}}}}}}{{#if: {{{lga2|}}}|</ul> }}}}
+| label19        = Council seat
+| data19         = {{{seat|}}}
+| label20        = [[List of regions of Australia|Region]]
+| data20         = {{#if:{{{region|}}}|{{auto link|{{{region}}}}} }}
+| label21        = [[Lands administrative divisions of Australia|County]]
+| data21         = {{#if:{{{county|}}}|{{auto link|{{{county}}}}} }}
+| label22        = [[Parish (administrative division)|Parish]]
+| data22         = {{{parish|}}}
+| label23        = {{#ifeq:{{{type|}}}|cadastral|[[Hundred (county division)|Hundred]]}}
+| data23         = {{#ifeq:{{{type|}}}|cadastral|{{{hundred|}}} }}
+| label24        = {{#ifeq:{{{type|}}}|cadastral|[[Hundred (county division)|Hundred (former)]]}}
+| data24         = {{#ifeq:{{{type|}}}|cadastral|{{{former_hundred|}}} }}
+| label25        = {{#ifeq:{{{type|}}}|cadastral|[[Lands administrative divisions of New South Wales|Division]]}}
+| data25         = {{#ifeq:{{{type|}}}|cadastral|{{{division|}}} }}
+| label26        = [[Electorates of the Australian states and territories|{{#switch:{{lc:{{{state}}}}}|act|nt|jbt= Territory|State}} electorate(s)]]
+| data26         = {{#if:{{{stategov|}}}|{{#if: {{{stategov2|}}}|<ul style="margin-top: 0px; margin-bottom: 0px;"><li>}} {{{stategov}}}{{#if: {{{stategov2|}}}|<li> {{{stategov2}}}}}{{#if: {{{stategov3|}}}|<li> {{{stategov3}}}}}{{#if: {{{stategov4|}}}|<li> {{{stategov4}}}}}{{#if: {{{stategov5|}}}|<li> {{{stategov5}}}}}{{#if: {{{stategov2|}}}|</ul> }}}}
+| label27        = [[Divisions of the Australian House of Representatives|Federal Division(s)]]
+| data27         = {{#if:{{{fedgov|}}}|{{#if: {{{fedgov2|}}}|<ul style="margin-top: 0px; margin-bottom: 0px;"><li>}} {{{fedgov}}}{{#if: {{{fedgov2|}}}|<li> {{{fedgov2}}}}}{{#if: {{{fedgov3|}}}|<li> {{{fedgov3}}}}}{{#if: {{{fedgov4|}}}|<li> {{{fedgov4}}}}}{{#if: {{{fedgov2|}}}|</ul> }}}}
+| data28         = {{#invoke:InfoboxImage|InfoboxImage|image={{{logo|}}}|size={{{logosize|}}}|sizedefault=175px|alt={{{logo_alt|{{{alt|}}}}}}}}
+| label29        = Visitation
+| data29         = {{#ifeq:{{{type|}}}|protected|{{formatnum:{{{visitation_num|}}}}}{{#if: {{{visitation_year|}}}|&nbsp;(in {{{visitation_year|}}}){{#if: {{{visitation_footnotes|}}}|{{{visitation_footnotes|}}}}}}} }}
+| label30        = <span style="white-space: nowrap">Managing authorities</span>
+| data30         = {{#ifeq:{{{type|}}}|protected|{{auto link|{{{managing_authorities|}}}}} }}
+| label31        = {{#if:{{{url|}}}|Website|Official site}}<!-- Official site is provided for backward compatibility with Template:Infobox protected area of Australia. -->
+| data31         = {{#if:{{{url|}}}|{{#invoke:URL|url|1={{{url|}}}|2={{{name|}}}}}|{{{official_site|}}} }}<!-- official_site is a deprecated parameter from Template:Infobox protected area of Australia. -->
+| data32         = {{#if:{{{maxtemp|}}}{{{mintemp|}}}{{{rainfall|}}}|<table cellpadding=4 cellspacing=0 style="width:100%; border: 1px #ddd solid;">
+<tr class=mergedrow>
+  <td style="background-color:#f0f0ff;border: 1px #FFF solid; text-align:center; width:33%;">'''Mean max temp'''{{{maxtemp_footnotes|}}}</td>
+  <td style="background-color:#f0f0ff;border: 1px #FFF solid; text-align:center; width:34%;">'''Mean min temp'''{{{mintemp_footnotes|}}}</td>
+  <td style="background-color:#f0f0ff;border: 1px #FFF solid; text-align:center; width:33%;">'''Annual rainfall'''{{{rainfall_footnotes|}}}</td>
+</tr>
+<tr style="border: 1px #FFF  solid" class=mergedrow>
+  <td style="padding: 2px 0px; text-align:center; width:33%;"> {{#if: {{{maxtemp|}}}|
+    {{{maxtemp}}} °C <br /><sup>{{ #expr: {{{maxtemp}}} * 1.8 + 32 round 0}} °F</sup> | ? }}</td>
+  <td style="padding: 2px 0px; text-align:center; width:34%;">{{#if: {{{mintemp|}}}|
+    {{{mintemp}}} °C <br /><sup>{{ #expr: {{{mintemp}}} * 1.8 + 32 round 0}} °F</sup> | ?}}</td>
+  <td style="padding: 2px 0px; text-align:center; width:33%;">{{#if: {{{rainfall|}}}|
+    {{formatnum:{{{rainfall}}} mm <br /><sup>{{ #expr: {{{rainfall}}} * 0.03937 round 1}}}} in</sup> | ? }}</td>
+</tr></td></table> }}
+| data33         = {{#if:{{{near|}}}{{{near-nw|}}}{{{near-n|}}}{{{near-ne|}}}{{{near-w|}}}{{{near-e|}}}{{{near-sw|}}}{{{near-se|}}}{{{near-s|}}}|<table cellpadding=4 cellspacing=3 style="width:100%; border: 1px #ddd solid;">
+<tr class=mergedrow><td colspan=3 style="background-color:#f0f0ff;padding: 2px 0px; text-align:center;">'''{{ #switch: {{lc:{{{type|}}}}}
+| cadastral = [[Lands administrative divisions of Australia|Lands administrative divisions]]
+| lga       = [[Local government in Australia|LGAs]]
+| suburb    = {{#if:{{{city|}}}|{{#ifexist:List of {{{city}}} suburbs| [[List of {{{city}}} suburbs|Suburbs]] | {{ #ifexist:Category:Suburbs of {{{city}}}| [[:Category:Suburbs of {{{city}}}|Suburbs]] | Suburbs }}}}|Suburbs}}
+| Localities}} around {{{name|}}}:'''</td></tr>
+<tr class=mergedrow>
+  <td style="text-align:center; padding: 3px 0px; width:33%;">{{{near-nw|}}}</td>
+  <td style="text-align:center; padding: 3px 0px; width:34%;">{{{near-n|}}}</td>
+  <td style="text-align:center; padding: 3px 0px; width:33%;">{{{near-ne|}}}</td>
+</tr><tr class=mergedrow>
+  <td style="text-align:center; vertical-align: middle; padding: 3px 0px; width:33%;">{{{near-w|}}}</td>
+  <td style="text-align:center; vertical-align: middle; padding: 3px 0px; width:34%;">'''{{{near|{{{name}}}}}}'''</td>
+  <td style="text-align:center; vertical-align: middle; padding: 3px 0px; width:33%;">{{{near-e|}}}</td>
+</tr><tr class=mergedrow>
+  <td style="text-align:center; padding: 3px 0px; width:33%;">{{{near-sw|}}}</td>
+  <td style="text-align:center; padding: 3px 0px; width:34%;">{{{near-s|}}}</td>
+  <td style="text-align:center; padding: 3px 0px; width:33%;">{{{near-se|}}}</td>
+</tr></td></table> }}
+| label34        = Footnotes
+| data34         = {{{footnotes|}}}
+| label35        = See also
+| data35         = {{#ifeq:{{{type|}}}|protected|{{#if:{{both|{{{iucn_category|}}}|{{{state|}}}}}|{{ #switch: {{lc:{{{state|}}} }}
+  |sa       = [https://en.wikipedia.org/wiki/Protected_areas_of_South_Australia Protected areas of South Australia]
+  |vic      = [[Protected areas of Victoria]]
+  |nsw      = [[Protected areas of New South Wales|Protected areas of<br />New South Wales]]
+  |qld      = [[Protected areas of Queensland]]
+  |nt       = [[Protected areas of the Northern Territory]]
+  |wa       = [[List of protected areas of Western Australia|List of protected areas of<br />Western Australia]]
+  |tas      = [[Protected areas of Tasmania]]
+  |act      = [[List of Australian Capital Territory protected areas|Australian Capital Territory<br />protected areas]]
+  }} }} }}
+}}<!--
+-->{{#if:{{{_noautocat|}}}|<!-- [[Category:Australian place articles using missing parameters|N]] -->|{{main other|{{#ifeq:{{{type|}}} | town | {{ #switch: {{lc:{{{state|}}}}}
+  |sa       = [[Category:Towns in South Australia|{{{name}}}]]
+  |vic      = [[Category:Towns in Victoria (Australia)|{{{name}}}]]
+  |nsw      = [[Category:Towns in New South Wales|{{{name}}}]]
+  |qld      = [[Category:Towns in Queensland|{{{name}}}]]
+  |nt       = [[Category:Towns in the Northern Territory|{{{name}}}]]
+  |wa       = [[Category:Towns in Western Australia|{{{name}}}]]
+  |tas      = [[Category:Towns in Tasmania|{{{name}}}]]
+  |act      = [[Category:Towns in the Australian Capital Territory|{{{name}}}]]
+  |ni       = [[Category:Populated places in Norfolk Island|{{{name}}}]]
+  }} }}{{#ifeq:{{{type|}}} | suburb | {{#ifexist:Category:Suburbs of {{{city}}}|[[Category:Suburbs of {{{city}}}|{{{name}}}]]|{{ #switch: {{lc:{{{state|}}}}}
+  |sa       = {{#ifexist:Category:Suburbs of {{{city}}}, South Australia|[[Category:Suburbs of {{{city}}}, South Australia|{{{name}}}]]}}
+  |vic      = {{#ifexist:Category:Suburbs of {{{city}}}, Victoria|[[Category:Suburbs of {{{city}}}, Victoria|{{{name}}}]]}}
+  |nsw      = {{#ifexist:Category:Suburbs of {{{city}}}, New South Wales|[[Category:Suburbs of {{{city}}}, New South Wales|{{{name}}}]]}}
+  |qld      = {{#ifexist:Category:Suburbs of {{{city}}}, Queensland|[[Category:Suburbs of {{{city}}}, Queensland|{{{name}}}]]}}
+  |nt       = {{#ifexist:Category:Suburbs of {{{city}}}, Northern Territory|[[Category:Suburbs of {{{city}}}, Northern Territory|{{{name}}}]]}}
+  |wa       = {{#ifexist:Category:Suburbs of {{{city}}}, Western Australia|[[Category:Suburbs of {{{city}}}, Western Australia|{{{name}}}]]}}
+  |tas      = {{#ifexist:Category:Suburbs of {{{city}}}, Tasmania|[[Category:Suburbs of {{{city}}}, Tasmania|{{{name}}}]]}}
+  |act      = {{#ifexist:Category:Suburbs of {{{city}}}, ACT|[[Category:Suburbs of {{{city}}}, ACT|{{{name}}}]]}}
+  }} }} }} {{#if:{{{est|}}}|
+{{#ifeq:{{{type|}}}|lga|{{#ifexist:Category:Populated places established in {{{est}}}|[[Category:Populated places established in {{{est}}} |{{{name}}}]]}}{{#ifexist:Category:Populated places established in the {{{est}}}|[[Category:Populated places established in the {{{est}}} |{{{name}}}]]}} {{#ifexist:Category:{{{est}}} establishments in Australia|[[Category:{{{est}}} establishments in Australia|{{{name}}}]]}}}}
+}} }} }}<!-- Start tracking
+-->{{main other|{{#ifeq:{{{1|♠}}}|♠||[[Category:Australian place articles using missing parameters|{{#ifeq:{{{1|♠}}}|♠||1}}]]}}<!-- 
+-->{{main other|{{#if:{{{type|}}}||[[Category:Australian place articles using missing parameters|U]]}}}}<!--
+-->{{main other|{{#if:{{{state|}}}||[[Category:Australian place articles using missing parameters|S]]}}}}<!--
+-->{{#if:{{{pop|}}}|{{#if:{{{pop_year|}}}||[[Category:Australian place articles with no population year]]}}}}<!--
+-->{{#if:{{{pop2|}}}|{{#if:{{{pop2_year|}}}||[[Category:Australian place articles with no population year]]}}}}<!--
+-->{{#if:{{{pop|}}}|{{#if:{{{pop_footnotes|}}}||[[Category:Australian place articles with no population footnotes]]}}}}<!--
+-->{{#if:{{{pop2|}}}|{{#if:{{{pop2_footnotes|}}}||[[Category:Australian place articles with no population footnotes]]}}}}<!--
+-->{{#if:{{{density|}}}||{{#if:{{{pop|}}}|{{#if:{{{area|}}}|{{#iferror:{{#expr:{{formatnum:{{{pop|}}}|R}}/{{formatnum:{{{area|}}}|R}}}}|[[Category:Australian place articles with density errors]]|}} }} }} }}
+}}<!--
+-->{{main other|{{#ifeq:{{{lat|♠}}}{{{long|♠}}}{{{locator_x|♠}}}{{{locator_y|♠}}}{{{official_site|♠}}}|♠♠♠♠♠||[[Category:Australian place articles using missing parameters|{{#ifeq:{{{lat|♠}}}{{{long|♠}}}|♠♠||L}}{{#ifeq:{{{locator_x|♠}}}{{{locator_y|♠}}}|♠♠||M}}{{#ifeq:{{{official_site|♠}}}|♠||O}}]]}}}}<!-- End tracking
+--><noinclude>
+{{Documentation}}
+</noinclude>

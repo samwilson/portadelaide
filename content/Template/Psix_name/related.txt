@@ -1,0 +1,4 @@
+* {{tl|Cite ship register}} ({{tl|csr}}) – a general citation template that covers major databases and registries
+* {{tl|IMO Number}} – Formats ship's ISO number for article's infobox
+* {{tl|MMSI Number}} – Formats ship's MMSI number for article's infobox and links it to [http://www.marinetraffic.com Marinetraffic.com]
+* {{tl|ENI Number}} - Formats ship's ENI number for article's infobox

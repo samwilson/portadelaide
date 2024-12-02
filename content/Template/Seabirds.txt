@@ -1,0 +1,29 @@
+{{Navbox
+|name       = Seabirds
+|title      = Seabirds of Gulf St Vincent
+|listclass  = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1     = Cormorants
+|list1      =
+* [[Black-faced Cormorant]] 
+* [[Great Cormorant]]
+* [[Little Black Cormorant]]
+* [[Little Pied Cormorant]]
+* [[Pied Cormorant]]
+
+
+|group2     = Gulls and terns
+|list2      =
+* [[Caspian Tern]]
+* [[Common Tern]]
+* [[Crested Tern]]
+* [[Fairy Tern]]
+* [[Kelp Gull]]
+* [[Pacific Gull]]
+* [[Silver Gull]]
+* [[Whiskered Tern]]
+* [[White-fronted Tern]]
+* [[White-winged Black Tern]]
+
+}}

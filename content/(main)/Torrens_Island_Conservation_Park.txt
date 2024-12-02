@@ -1,0 +1,57 @@
+
+
+{{Infobox Australian place
+| type                   = protected
+| name                   = Torrens Island Conservation Park
+| state                  = sa
+| iucn_category          = III
+| image                  = 
+| imagesize              = 
+| caption                = 
+| image_alt              = 
+| coord_type             = 
+| map_scale              = 
+| force_national_map     = 
+| relief                 = 
+| latd                   = 34
+| latm                   = 47
+| lats                   = 4
+| longd                  = 138
+| longm                  = 31
+| longs                  = 46
+| alternative_location_map = Northern Adelaide
+| coordinates_region = AU-SA_type:landmark
+| coordinates_display = inline
+| pushpin_map_caption    = 
+| pushpin_label_position = 
+| map_alt                = 
+| lga                    = Unincorporated
+| established            = 1 January 1963
+| established_footnotes  = 
+| area                   = {{convert| 635|ha|acres|abbr=on}}<ref name=ReserveList>{{cite web|title=Protected Areas Information System - reserve list (as of 17 Feb 2014)|url=http://www.environment.sa.gov.au/files/b88e6e26-4bd9-4c68-8fff-9e800114eb69/park-management-protected-areas-gen.pdf|publisher=Department of Environment Water and Natural Resources|accessdate=11 August 2015|pages=}}</ref>
+| area_footnotes         = 
+| visitation_num         = 
+| visitation_year        = 
+| visitation_footnotes   = 
+| managing_authorities   = [https://en.wikipedia.org/wiki/Department_of_Environment,_Water_and_Natural_Resources_(South_Australia) DEWNR]
+| url                    = 
+| footnotes              = 
+}}
+
+'''Torrens Island Conservation Park''' is a protected area located on [[Torrens Island]] in South Australia about {{convert|3.9|km|abbr=0}} north-northeast of Port Adelaide.  The conservation park covers the majority of Torrens Island down to low water with exception to the land associated with the former quarantine station and the Torrens Island Power Station.  The east side of the conservation park immediately adjoins the Barker Inlet Aquatic Reserve. The conservation park is reported as protecting ‘areas of mangrove forest, samphire shrubland and sand dune systems home to vulnerable and threatened species such as the [[Australasian Bittern]], the [[Fairy Tern]] and the [[White-bellied Sea-Eagle]].  The conservation park is classified as an [https://en.wikipedia.org/wiki/International_Union_for_Conservation_of_Nature IUCN] [https://en.wikipedia.org/wiki/IUCN_protected_area_categories#Category_III_.E2.80.94_Natural_Monument_or_Feature Category III protected area].<ref>{{cite web|title= Torrens Island Conservation Park expanded by 25ha, more than a year after State Government announcement |url= http://www.adelaidenow.com.au/messenger/west-beaches/torrens-island-conservation-park-expanded-by-25ha-more-than-a-year-after-state-government-announcement/story-fni9llx9-1226812693756?nk=616f7189ece8308ad5b04c8ef86c6405 |work= |publisher= Portside Messenger |accessdate=20 October 2014|date=29 January 2014}}</ref><ref name=CAPAD2012SASum>{{cite web|title=CAPAD 2012 South Australia Summary (see 'DETAIL' tab)|url=http://www.environment.gov.au/system/files/pages/0f927a4e-336a-490c-a896-ec37874a5c73/files/capad2012sa.xlsx|work=CAPAD 2012|publisher=Australian Government - Department of the Environment|accessdate=6 February 2014|date=6 February 2014}}</ref><ref name=AR-BI>{{Citation | author1=Primary Industries and Regions South Australia (PIRSA)| title=Aquatic Reserve: Barker Inlet | publication-date=2007| publisher=Primary Industries and Regions South Australia| pages= |isbn=|url= http://www.pir.sa.gov.au/__data/assets/pdf_file/0005/65417/9._AqResWeb.pdf }}</ref>
+
+
+==See also==
+* [[Bird species list for Torrens Island]]
+* [[Plant species list for Torrens Island]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.friendsoftorrensisland.org/ Friends of Torrens Island], [https://www.facebook.com/pages/Friends-of-Torrens-Island/1374851426059651 Friends of Torrens Island Facebook page]
+* [https://en.wikipedia.org/wiki/Torrens_Island_Conservation_Park ''Wikipedia'': Torrens Island Conservation Park]
+
+{{Template:Protected Areas of Northern and Western Adelaide}}
+
+[[Category:Places]]

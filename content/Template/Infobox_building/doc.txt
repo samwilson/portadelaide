@@ -1,0 +1,843 @@
+{{Documentation subpage}}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+{{Intricate template}}
+{{Lua|Module:InfoboxImage|Module:Location map}}
+
+{{tl|Infobox building}} may be used to summarize information about a building, including skyscrapers, hotels, hostels, performance venues, and shopping centers.
+
+== Usage ==
+{{Generic template demo
+| name                 
+| native_name          
+| native_name_lang    
+| logo                
+| logo_size           
+| logo_alt            
+| logo_caption        
+| image               
+| image_size          
+| image_alt           
+| image_caption         
+| relief              
+| former_names        
+| alternate_names     
+| etymology           
+| status              
+| cancelled          
+| topped_out         
+| building_type       
+| architectural_style 
+| classification     
+| location            
+| address             
+| location_city       
+| location_country    
+| iso_region           
+| altitude           
+| current_tenants     
+| namesake           
+| groundbreaking_date 
+| start_date          
+| topped_out_date    
+| completion_date     
+| opened_date         
+| inauguration_date   
+| relocated_date      
+| renovation_date     
+| closing_date        
+| demolition_date     
+| cost                
+| ren_cost            
+| client              
+| owner               
+| landlord            
+| affiliation        
+| height              
+| architectural       
+| tip                 
+| antenna_spire       
+| roof                
+| top_floor           
+| observatory         
+| diameter            
+| circumference       
+| weight             
+| other_dimensions    
+| structural_system   
+| material            
+| size               
+| floor_count         
+| floor_area          
+| elevator_count      
+| grounds_area        
+| architect           
+| architecture_firm   
+| developer          
+| engineer           
+| structural_engineer 
+| services_engineer   
+| civil_engineer      
+| other_designers     
+| quantity_surveyor   
+| main_contractor     
+| awards              
+| designations        
+| known_for          
+| ren_architect       
+| ren_firm            
+| ren_engineer       
+| ren_str_engineer    
+| ren_serv_engineer   
+| ren_civ_engineer    
+| ren_oth_designers   
+| ren_qty_surveyor    
+| ren_contractor     
+| ren_awards          
+| seating_type        
+| seating_capacity    
+| rooms               
+| parking             
+| url                
+| embedded          
+| references         
+| footnotes 
+| highest_prev        
+| highest_next        
+| highest_start       
+| highest_end         
+| highest_region           
+| seating_type       
+| seating_capacity    
+| number_of_stores   
+| number_of_anchors  
+| hotel_chain         
+| affiliation         
+| number_of_rooms    
+| number_of_suites   
+| number_of_restaurants
+| number_of_bars     
+| facilities         
+}}
+
+<pre style="overflow:auto;">
+{{Infobox building
+| name                = 
+| native_name         = 
+| native_name_lang    = 
+| logo                =
+| logo_size           =
+| logo_alt            =
+| logo_caption        =
+| image               = 
+| image_size          = 
+| image_alt           = 
+| image_caption       = 
+| map_type            = 
+| map_alt             = 
+| map_caption         = 
+| map_size            =
+| latitude            = 
+| longitude           = 
+| latd                = 
+| latm                = 
+| lats                = 
+| latNS               = 
+| longd               = 
+| longm               = 
+| longs               = 
+| longEW              = 
+| map_dot_label       =
+| relief              = 
+| former_names        = 
+| alternate_names     = 
+| etymology           = 
+| status              = 
+| cancelled           =
+| topped_out          =
+| building_type       = 
+| architectural_style = 
+| classification      =
+| location            = 
+| address             = 
+| location_city       = <!-- or |location_town =  -->
+| location_country    = 
+| iso_region          = 
+| coordinates_display = 
+| coordinates_format  = 
+| coordinates         = 
+| altitude            =
+| current_tenants     = 
+| namesake            =
+| groundbreaking_date = 
+| start_date          = 
+| topped_out_date     =
+| completion_date     = 
+| opened_date         = 
+| inauguration_date   = 
+| relocated_date      = 
+| renovation_date     = 
+| closing_date        = 
+| demolition_date     = <!-- or |destruction_date = -->
+| cost                = 
+| ren_cost            = 
+| client              = 
+| owner               = 
+| landlord            = 
+| affiliation         =
+| height              = 
+| architectural       = 
+| tip                 = 
+| antenna_spire       = 
+| roof                = 
+| top_floor           = 
+| observatory         = 
+| diameter            = 
+| circumference       = 
+| weight              =
+| other_dimensions    = 
+| structural_system   = 
+| material            = 
+| size                =
+| floor_count         = 
+| floor_area          = 
+| elevator_count      = 
+| grounds_area        = 
+| architect           = 
+| architecture_firm   = 
+| developer           =
+| engineer            =
+| structural_engineer = 
+| services_engineer   = 
+| civil_engineer      = 
+| other_designers     = 
+| quantity_surveyor   = 
+| main_contractor     = 
+| awards              = 
+| designations        = 
+| known_for           =
+| ren_architect       = 
+| ren_firm            = 
+| ren_engineer        =
+| ren_str_engineer    = 
+| ren_serv_engineer   = 
+| ren_civ_engineer    = 
+| ren_oth_designers   = 
+| ren_qty_surveyor    = 
+| ren_contractor      =
+| ren_awards          = 
+| seating_type        = 
+| seating_capacity    = 
+| rooms               = <!-- or |unit_count = -->
+| parking             = 
+| url                 = <!-- {{URL|example.com}} -->
+| embed               =
+| embedded            = 
+| references          = 
+| footnotes           =
+}}
+</pre>
+
+=== Record height ===
+<pre style="overflow:auto">
+| highest_prev        = 
+| highest_next        = 
+| highest_start       = 
+| highest_end         = 
+| highest_region      = 
+| highest_reflabel    = 
+</pre>
+
+=== Hotels, hostels, shopping centers, and performance venues ===
+; Seating
+<pre style="overflow:auto">
+| seating_type        =
+| seating_capacity    =
+</pre>
+
+; Stores
+<pre style="overflow:auto">
+| number_of_stores    =
+| number_of_anchors   =
+</pre>
+
+; Hotels and hostels
+<pre style="overflow:auto">
+| hotel_chain         =
+| affiliation         = 
+| number_of_rooms     =
+| number_of_suites    =
+| number_of_restaurants =
+| number_of_bars      =
+| facilities          =
+</pre>
+
+=== Use as a child template ===
+The '''embed''' parameter is used when embedding this infobox into another (see the [[Template:Infobox]] documentation which explains [[Template:Infobox/doc#Embedding|embedding]] and [[Template:Infobox/doc#Subboxes|subboxes]]).
+
+<pre style="overflow: auto;">
+{{Infobox ABC
+| name        = 
+| <!-- etc. -->
+| embedded    = <!-- or module= -->
+  {{Infobox building
+  | embed = yes
+  | <!-- etc. -->
+  }}
+}}
+</pre>
+
+=== Embedding other templates ===
+The '''embedded''' parameter is used for embedding other templates into this infobox (see [[Wikipedia:Infobox modules]]).
+
+<pre style="overflow: auto;">
+{{Infobox building
+| name = 
+| <!-- etc. -->
+| embedded = 
+  {{Infobox ABC
+  | embed = yes <!-- or child=yes or subbox=yes-->
+  | <!-- etc. -->
+  }}
+}}
+</pre>
+
+== Examples ==
+
+===Example 1===
+{{Infobox building
+| name                = Law Courts of Brussels
+| native_name         = {{lang|fr|Palais de justice de Bruxelles}}<br />{{lang|nl|Justitiepaleis van Brussel}}
+| image               = Justitiepaleis1.jpg
+| image_alt           = Building with central cupola and wings with Greek-style columns
+| image_size          = 
+| caption             = Main façade of the Law Courts of Brussels
+| former_names        = 
+| alternate_names     =
+| map_type            = Belgium
+| map_alt             = 
+| map_caption         = Location within Belgium
+| building_type       = 
+| architectural_style = [[Eclecticism in art|Eclectic]], [[Neoclassical architecture|neoclassical]] 
+| structural_system   = 
+| cost                = 45 million [[Belgian franc]]
+| location            = [[Brussels]], [[Belgium]]
+| client              = Belgian government
+| owner               = [[Belgian federal government|Belgian government]]
+| current_tenants     = Belgian court
+| landlord            = 
+| location_country    = Belgium
+| latd                = 50
+| latm                = 50
+| lats                = 12
+| latNS               = N
+| longd               = 4
+| longm               = 21
+| longs               = 6
+| longEW              = E
+| altitude            = {{convert|2|m|ft|0|abbr=on}}
+| start_date          = 31 October 1866
+| completion_date     = 
+| inauguration_date   = 15 October 1883
+| demolition_date     = 
+| height              = {{convert|142|m|ft|abbr=on}}
+| diameter            = {{convert|160|x|150|m|ft|0|abbr=on}}
+| other_dimensions    = 
+| floor_count         = 
+| floor_area          = {{convert|260000|m2|sqft|abbr=on}}
+| architect           = [[Joseph Poelaert]]
+| structural_engineer = 
+| services_engineer   = 
+| civil_engineer      = 
+| other_designers     = 
+| quantity_surveyor   = 
+| main_contractor     = 
+| awards              = 
+| designations        =
+| parking             =
+| url                 = {{URL|example.com}}
+| references          = 
+}}
+
+<pre style="overflow:auto;">
+{{Infobox building
+| name                = Law Courts of Brussels
+| native_name         = {{lang|fr|Palais de justice de Bruxelles}}<br />{{lang|nl|Justitiepaleis van Brussel}}
+| image               = Justitiepaleis1.jpg
+| image_alt           = Building with central cupola and wings with Greek-style columns
+| image_size          = 
+| caption             = Main façade of the Law Courts of Brussels
+| former_names        = 
+| alternate_names     =
+| map_type            = Belgium
+| map_alt             = 
+| map_caption         = Location within Belgium
+| building_type       = 
+| architectural_style = [[Eclecticism in art|Eclectic]], [[Neoclassical architecture|neoclassical]] 
+| structural_system   = 
+| cost                = 45 million [[Belgian franc]]
+| location            = [[Brussels]], [[Belgium]]
+| client              = Belgian government
+| owner               = [[Belgian federal government|Belgian government]]
+| current_tenants     = Belgian court
+| landlord            = 
+| location_country    = Belgium
+| latd                = 50
+| latm                = 50
+| lats                = 12
+| latNS               = N
+| longd               = 4
+| longm               = 21
+| longs               = 6
+| longEW              = E
+| altitude            = {{convert|2|m|ft|0|abbr=on}}
+| start_date          = 31 October 1866
+| completion_date     = 
+| inauguration_date   = 15 October 1883
+| demolition_date     = 
+| height              = {{convert|142|m|ft|abbr=on}}
+| diameter            = {{convert|160|x|150|m|ft|0|abbr=on}}
+| other_dimensions    = 
+| floor_count         = 
+| floor_area          = {{convert|260000|m2|sqft|abbr=on}}
+| architect           = [[Joseph Poelaert]]
+| structural_engineer = 
+| services_engineer   = 
+| civil_engineer      = 
+| other_designers     = 
+| quantity_surveyor   = 
+| main_contractor     = 
+| awards              =
+| parking             =
+| url                 = {{URL|example.com}}
+| references          = 
+}}
+</pre>
+{{-}}
+
+=== Example 2: embedded templates ===
+{{Infobox building
+| name                = Deming Armory
+| image               = Deming Luna Mimbres Museum.jpg
+| image_alt           = The red-brick front facade of the Deming Armory
+| image_caption       = Deming Armory in 2009
+| former_names        = State Armory
+| alternate_names     = Deming Luna Mimbres Museum
+| status              = Used as a museum
+| building_type       = Government [[Armory (military)|armory]]
+| architectural_style = [[Castellated]] style
+| address             = 301 South Silver
+| location_town       = Deming, New Mexico
+| location_country    = United States
+| current_tenants     = Deming Luna Mimbres Museum
+| start_date          = 1915
+| completion_date     = 1916
+| client              = United States Department of the Army 
+| owner               = Luna County Historical Society, Inc. (current)
+| other_dimensions    = {{convert|50|ft}} across x {{convert|132|ft}} deep
+| architect           = Henry C. Trost
+| architecture_firm   = Trost & Trost
+| main_contractor     = W. W. Barracks
+| embedded            = 
+ {{Infobox NRHP
+ | embed = yes
+ | name = Deming Armory
+ | lat_degrees = 32
+ | lat_minutes = 16
+ | lat_seconds = 00
+ | lat_direction = N
+ | long_degrees = 107
+ | long_minutes = 45
+ | long_seconds = 24
+ | long_direction = W
+ | locmapin = New Mexico
+ | map_alt = Located in New Mexico, in the southwest portion of the state
+ | map_caption = Location in New Mexico
+ | coord_display = inline
+ | architect = Henry C. Trost
+ | governing_body = Luna County Historical Society, Inc.
+ | refnum = 83001624
+ | added = April 21, 1983
+ }}
+ {{Designation list
+ | embed = yes
+ | designation1 = USNM
+ | designation1_offname = Deming Armory
+ | designation1_date = January 20, 1978
+ | designation1_number = 584
+ }}
+}}
+
+<pre style="overflow:auto;">
+{{Infobox building
+| name                = Deming Armory
+| image               = Deming Luna Mimbres Museum.jpg
+| image_alt           = The red-brick front facade of the Deming Armory
+| image_caption       = Deming Armory in 2009
+| former_names        = State Armory
+| alternate_names     = Deming Luna Mimbres Museum
+| status              = Used as a museum
+| building_type       = Government [[Armory (military)|armory]]
+| architectural_style = [[Castellated]] style
+| address             = 301 South Silver
+| location_town       = Deming, New Mexico
+| location_country    = United States
+| current_tenants     = Deming Luna Mimbres Museum
+| start_date          = 1915
+| completion_date     = 1916
+| client              = United States Department of the Army 
+| owner               = Luna County Historical Society, Inc. (current)
+| other_dimensions    = {{convert|50|ft}} across x {{convert|132|ft}} deep
+| architect           = Henry C. Trost
+| architecture_firm   = Trost & Trost
+| main_contractor     = W. W. Barracks
+| embedded            = 
+ {{Infobox NRHP
+ | embed = yes
+ | name = Deming Armory
+ | lat_degrees = 32
+ | lat_minutes = 16
+ | lat_seconds = 00
+ | lat_direction = N
+ | long_degrees = 107
+ | long_minutes = 45
+ | long_seconds = 24
+ | long_direction = W
+ | locmapin = New Mexico
+ | map_alt = Located in New Mexico, in the southwest portion of the state
+ | map_caption = Location in New Mexico
+ | coord_display = inline
+ | architect = Henry C. Trost
+ | governing_body = Luna County Historical Society, Inc.
+ | refnum = 83001624
+ | added = April 21, 1983
+ }}
+ {{Designation list
+ | embed = yes
+ | designation1 = USNM
+ | designation1_offname = Deming Armory
+ | designation1_date = January 20, 1978
+ | designation1_number = 584
+ }}
+}}
+</pre>
+{{-}}
+
+==Parameters==
+{| class="wikitable" style="background-color: white;"
+| style="background-color: whitesmoke;" | '''Field Name'''
+| style="background-color: whitesmoke;" | '''Required'''
+| style="background-color: whitesmoke;" | '''Description'''
+| style="background-color: whitesmoke;" | '''Values'''
+|-
+| name || yes || Name of building || wikitext
+|-
+| native_name || no || Name of building in native language || wikitext
+|-
+| native_name_lang || no || [[List of ISO 639-2 codes|ISO 639-2 code]] || use [[List of ISO 639-2 codes|ISO 639-2 code]], e.g. "fr" for French. If there is more than one native name, in different languages, enter those names using {{tl|lang}}, instead.
+|-
+| etymology || no || Thing (event, person, etc) the building was named after
+|-
+| status   || no || useful to show the construction status of new buildings.  The keywords to the right can be used to produce the appropriate colored status:  || 
+*"built", "completed", "finished" or "complete" = <span style="color:darkgreen">Complete</span>
+*"destroyed" = <span style="color:#e42328">Destroyed</span>
+*"demolished" = <span style="color:black">Demolished</span>
+*"on hold" = <span style="color:purple">On hold</span>
+*"incomplete", "unfinished" or "under construction" = <span style="color:purple">Under construction</span>
+*"cancelled", "canceled", or "never built" = <span style="color:red">Never built</span>
+*"topped out" or "topped-out" = <span>[[Topping out|Topped-out]]</span>
+*"planned" or "proposed" = <span style="color:orange">Proposed</span>
+*"approved" = <span style="color:orange">Approved</span>
+*'''Note''', if anything else is included in this field, like reference tags, the color coded status will not be displayed.
+|-
+| image   || no || Image of the building || filename
+|-
+| caption || no || Caption for image || wikitext (can contain links)
+|-
+| location || no || Location of the building || wikitext (can contain links), e.g., <nowiki>[[Joondalup, Western Australia]], [[Australia]], [[Las Vegas Strip]]</nowiki>
+|-
+| address  || no || Address of the building || The address can be different from the location, especially when it is only a mailing address and does not represent the actual physical location.  Generally address should be used except when the location and address are different.
+|-
+| location_town  || no || Settlement where the building is located || wikitext (can contain links)
+|-
+| location_country  || no || Country where the building is located || wikitext (can contain links)
+|-
+| iso_region || no || ISO region code where the building is located || wikitext (can contain links)
+|-
+| latd, latm, lats, latNS<br />longd, longm, longEW  || no || Geographic coordinates of location || See [[#Map and coordinates|map and coordinates]] for details
+|-
+| coordinates_display || no || Option for {{tl|coord}} || Use any nonblank value to display in title
+|-
+| groundbreaking_date || no || Date of the formal ground breaking, if any || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| start_date || no || Date building construction started || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| completion_date || no || Completion date of construction if know || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| opened_date || no || Date of opening || E.g.; <nowiki>{{Start date|2007|01|25}}</nowiki>
+|-
+| relocated_date || no || Date of relocation || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| inauguration_date || no || Inauguration date if know || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| demolition_date || no || Date building was demolished || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| destruction_date || no || Date building was destroyed, generally by a natural event or war || E.g.; <nowiki>25 January 2007</nowiki>
+|-
+| architect          || no || Name of original architect || wikitext (can contain links)
+|-
+| landlord           || no || Name of current landlord || wikitext (can contain links)
+|-
+| owner              || no || Name(s) of current owner(s) || wikitext (can contain links)
+|-
+| cost              || no || Construction cost || wikitext (can contain links)
+|-
+|height   || no || Generic height parameter || For best practice, use {{tl|convert}} in this field.
+|-
+| architectural   || no || CTBUH height to the top of the building || For best practice, use {{tl|convert}}.
+|-
+| tip   || no || CTBUH height to the tip of the building || For best practice, use {{tl|convert}}.
+|-
+| top_floor   || no || CTBUH height to the floor level of the highest floor || For best practice, use {{tl|convert}}.
+|-
+| roof   || no || CTBUH height to the top of the roof || For best practice, use {{tl|convert}}.
+|-
+| observatory   || no || Height of observation deck || For best practice, use {{tl|convert}}.
+|-
+| antenna_spire   || no || Height of highest point of antenna tower || For best practice, use {{tl|convert}}.
+|-
+| floor_area || no || Gross floor area of the building, expressed as a numerical value || For best practice, use {{tl|convert}}.
+|-
+| floor_count   || no || Number of floors expressed as a numerical value ||
+|-
+| seating_type || no ||||
+|-
+| seating_capacity || no || Numbers of seats available ||
+|-
+| grounds_area   || no || Area of associated land, in hectares, square metres or equivalent. Use {{tl|Convert}} if appropriate ||
+|-
+| awards || no || Listed awards should meet the [[WP:N|notability criteria]] for its own non-[[WP:RDR|redirect]] article in the English Wikipedia.  [[WP:RED|Red-linked entries]] are acceptable if the award's notability is [[WP:V|verifiable]], and it is reasonable to expect an article could be forthcoming in the future.  This standard prevents the infobox award section from becoming an [[WP:IINFO|indiscriminate list]]. ||
+|-
+| ren_awards || no || Listed renovation awards should meet the [[WP:N|notability criteria]] for its own non-[[WP:RDR|redirect]] article in the English Wikipedia.  [[WP:RED|Red-linked entries]] are acceptable if the award's notability is [[WP:V|verifiable]], and it is reasonable to expect an article could be forthcoming in the future.  This standard prevents the infobox award section from becoming an [[WP:IINFO|indiscriminate list]]. ||
+|-
+| parking || no || Information on the building's parking facilities (e.g. number of spaces or lots) || 
+|-
+| url  || no || URL || <nowiki>{{URL|url.com.au}}</nowiki>
+|-
+| embed || no || ''Embed'' this infobox into another by using embed=yes ||
+|-
+| embedded || no || Other templates to be ''embedded'' in this infobox. Templates with such capability include {{tl|Designation list}} and {{tl|Infobox NRHP}} (see [[:Category:Embeddable templates]]). || the code of the embedded template
+|-
+| references || no || Footnotes and citations for information within infobox || wikitext (can contain links)
+|-
+| align="center" colspan="4" |
+'''Notes:''' Do not link to the same article more than once in the infobox.
+|-
+| highest_region || no || 
+|-
+| highest_reflabel || no || Override the default reference label 'talleststatus', pointing to the reference marked with {{tlp|note label|2=''thatlabel''}}.
+|-
+| highest_prev || no || 
+|-
+| highest_start || no || 
+|-
+| highest_end || no || 
+|-
+| highest_next || no || 
+|}
+
+===Height parameters===
+The following parameters are provided for the height of buildings. They include parameters corresponding to methods used by the [[Council on Tall Buildings and Urban Habitat]] (CTBUH) to measure the height of tall buildings. CTBUH heights are measured from the level of the lowest, significant, open-air, pedestrian entrance of the building.
+
+{| class="wikitable"
+|-
+! Parameter !! Description
+|-
+| height || Generic height parameter
+|-
+| architectural || (CTBUH) Height to the top of the building, inclusive of spires but excluding items such as flagpoles and antennae. This is the most commonly cited CTBUH measurement.
+|-
+| tip || (CTBUH) Height to the highest point of the building, including antennae, flagpoles, and technical equipment.
+|-
+| top_floor || (CTBUH) Height to the floor level of the highest floor that is occupied by building users on a consistent basis.
+|-
+| roof || (CTBUH) Height to top of roof. This category was removed from CTBUH criteria in 2009, but is included for historical data.
+|-
+| observatory || Height of observation deck.
+|-
+| antenna_spire || Height of the highest point of structures such as antenna towers.
+|}
+
+===Map and coordinates===
+It's usually not necessary to use the <code>coordinates=</code> parameter.
+*The latitude and longitude of the building may be specified:
+**in decimal degrees, using <code>latitude=</code> and <code>longitude=</code> OR
+**in degrees/minutes/seconds, using <code>latd=</code>, <code>latm=</code>, <code>lats=</code>, <code>latNS=</code>, <code>longd=</code>, <code>longm=</code>, <code>longs=</code>, and <code>longEW=</code>.
+*To display coordinates at the top of the page, set <code>coordinates_display=</code> to any non-blank value.  Otherwise coordinates will appear in the infobox only.
+*The [[ISO 3166-1 alpha-2]] or [[ISO 3166-2]] region code can often be determined automatically, based on the <code>location_country=</code> parameter.
+**To override the automatic value, use the <code>iso_region=</code> parameter.
+
+One advantage of omitting the <code>coordinates=</code> parameter is that you can display a {{tl|Location map}} without duplicating coordinates.
+
+<pre style="overflow:auto">
+{{Infobox building
+...
+| coordinates         = <!-- Template {{Coord}} if map is not used; empty if map is displayed. -->
+| coordinates_display = <!-- non-blank to display coordinates at the top of the page. -->
+| iso_region          = <!-- To override any automatically determined region code. -->
+| map_type            = <!-- Location name used for Template:Location map -->
+| map_alt             = <!-- Alternative text for map image, see WP:ALT for details -->
+| map_caption         = <!-- Text to be displayed below map; for no caption enter "map_caption="; if the parameter is omitted then the caption will be "Marker text (location map name)" -->
+| relief              = <!-- Any non-blank value (yes, 1, etc.) will cause the template to display a relief map image, where available. -->
+...
+}}
+</pre>
+
+:Parameters to specify [[Geographic coordinate system|coordinates]] in [[Degree (angle)|degrees]], [[Minute of arc|minutes]], and seconds of arc:
+
+<pre style="overflow: auto">
+{{Infobox building
+...
+| latd   = <!-- ''latitude'' degrees -->
+| latm   = <!-- ''latitude'' minutes -->
+| lats   = <!-- ''latitude'' seconds -->
+| latNS  = <!-- latitude: S=south, N=north (default) -->
+| longd  = <!-- ''longitude'' degrees -->
+| longm  = <!-- ''longitude'' minutes -->
+| longs  = <!-- ''longitude'' seconds -->
+| longEW = <!-- longitude: W=west, E=east (default) -->
+...
+}}
+</pre>
+
+:Parameters to specify coordinates in [[Decimal fraction|decimal]] degrees:
+
+<pre style="overflow: auto">
+{{Infobox building
+...
+| latitude  = <!-- ''latitude'' (decimal format; enter negative numbers for southern latitude) -->
+| longitude = <!-- ''longitude'' (decimal format; enter negative numbers for western longitude) --> 
+...
+}}
+</pre>
+
+Note: coordinates in decimal degrees are sensitive to extra whitespace in the parameters:
+*Incorrect: <code>| longitude = - 123.45</code>
+*Correct: <code>| longitude = -123.45</code>
+
+==Microformat==
+{{UF-hcard-geo}}
+
+==TemplateData==
+{{TemplateDataHeader}}
+<templatedata>
+{
+"description": "This template may be used to summarise information about a building. See template documentation for more information.",
+"params": {
+"name": {"label": "name","description": "Name of building","type": "string","required": true},
+"native_name": {"label": "Native name","description": "Name of building in native language","type": "string","required": false},
+"native_name_lang": {"label": "Native name language","description": "ISO 639-2 code","type": "string","required": false},
+"former_names": {"label": "Former names","description": "Former names","type": "string","required": false},
+"alternate_names": {"label": "Alternate names","description": "Alternate names","type": "string","required": false},
+"status": {"label": "status","description": "useful to show the construction status of new buildings. The keywords to the right can be used to produce the appropriate colored status:","type": "string","required": false},
+"image": {"label": "image","description": "Image of the building","type": "string","required": false},
+"image_alt": {"label": "Image text","description": "Text to display if image cannot be shown","type": "string","required": false},
+"image_size": {"label": "Image size","description": "Image size","type": "number","required": false},
+"caption": {"label": "caption","description": "Caption for image","type": "string","required": false},
+"location": {"label": "location","description": "Location of the building","type": "string","required": false},
+"address": {"label": "address","description": "Address of the building","type": "string","required": false},
+"location_town": {"label": "location_town","description": "Settlement where the building is located","type": "string","required": false},
+"location_country": {"label": "location_country","description": "Country where the building is located","type": "string","required": false},
+"iso_region": {"label": "iso_region","description": "ISO region code where the building is located","type": "string","required": false},
+"coordinates_format": {"label": "coordinates_format","description": "coordinates_format","type": "string","required": false},
+"latitude": {"label": "latitude (decimal)","description": "latitude","type": "string","required": false},
+"longitude": {"label": "longitude (decimal)","description": "longitude","type": "string","required": false},
+"coordinates": {"label": "coordinates","description": "coordinates","type": "string","required": false},
+"latd": {"label": "Latitude degrees","description": "Geographic coordinates of location.","type": "string","required": false},
+"latm": {"label": "Latitude minutes","description": "Geographic coordinates of location","type": "string","required": false},
+"lats": {"label": "Latitude seconds","description": "Geographic coordinates of location","type": "string","required": false},
+"latNS": {"label": "Latitude N/S","description": "Geographic coordinates of location","type": "string","required": false},
+"longd": {"label": "Longitude degrees","description": "Geographic coordinates of location","type": "string","required": false},
+"longm": {"label": "Longitude minutes","description": "Geographic coordinates of location","type": "string","required": false},
+"longEW": {"label": "Longitude E/W","description": "Geographic coordinates of location","type": "string","required": false},
+"coordinates_display": {"label": "coordinates_display","description": "Option for {{coord}}","type": "string","required": false},
+"groundbreaking_date": {"label": "groundbreaking_date","description": "Date of the formal ground breaking, if any","type": "string","required": false},
+"start_date": {"label": "start_date","description": "Date building construction started","type": "string","required": false},
+"completion_date": {"label": "completion_date","description": "Completion date of construction if know","type": "string","required": false},
+"opened_date": {"label": "opened_date","description": "Date of opening","type": "string","required": false},
+"inauguration_date": {"label": "inauguration_date","description": "Inauguration date if know","type": "string","required": false},
+"demolition_date": {"label": "demolition_date","description": "Date building was demolished","type": "string","required": false},
+"destruction_date": {"label": "destruction_date","description": "Date building was destroyed, generally by a natural event or war","type": "string","required": false},
+"architect": {"label": "architect","description": "Name of original architect","type": "string","required": false},
+"landlord": {"label": "landlord","description": "Name of current landlord","type": "string","required": false},
+"owner": {"label": "owner","description": "Name(s) of current owner(s)","type": "string","required": false},
+"cost": {"label": "cost","description": "Construction cost","type": "string","required": false},
+"floor_area": {"label": "floor_area","description": "Gross floor area of the building, expressed as a numerical value","type": "string","required": false},
+"top_floor": {"label": "top_floor","description": "Number of the highest floor expressed as a numerical value","type": "string","required": false},
+"floor_count": {"label": "floor_count","description": "Number of floors expressed as a numerical value","type": "string","required": false},
+"awards": {"label": "awards","description": "listed awards should meet the&nbsp;notability criteria&nbsp;for its own non-redirectarticle in the English Wikipedia.&nbsp;Red-linked entries&nbsp;are acceptable if the award's notability is&nbsp;verifiable, and it is reasonable to expect an article could be forthcoming in the future. This standard prevents the infobox award section from becoming an&nbsp;indiscriminate list.","type": "string","required": false},
+"ren_awards": {"label": "ren_awards","description": "listed awards should meet the&nbsp;notability criteria&nbsp;for its own non-redirectarticle in the English Wikipedia.&nbsp;Red-linked entries&nbsp;are acceptable if the award's notability is&nbsp;verifiable, and it is reasonable to expect an article could be forthcoming in the future. This standard prevents the infobox award section from becoming an&nbsp;indiscriminate list.","type": "string","required": false},
+"parking": {"label": "parking","description": "parking","type": "string","required": false},
+"url": {"label": "url","description": "URL","type": "string","required": false},
+"embed": {"label": "embed","description": "Embed this infobox into another by using embed=yes","type": "string","required": false},
+"embedded": {"label": "embedded","description": "Other templates to be embedded in this infobox. Templates with such capability include {{Designation list}} and {{Infobox NRHP}}","type": "string","required": false},
+"references": {"label": "references","description": "Footnotes and citations for information within infobox","type": "string","required": false},
+"highest_region": {"label": "highest_region","description": "","type": "string","required": false},
+"highest_reflabel": {"label": "highest_reflabel","description": "Override the default reference label 'talleststatus', pointing to the reference marked with&nbsp;{{note label|thatlabel}}.","type": "string","required": false},
+"highest_prev": {"label": "highest_prev","description": "","type": "string","required": false},
+"highest_start": {"label": "highest_start","description": "","type": "string","required": false},
+"highest_end": {"label": "highest_end","description": "","type": "string","required": false},
+"highest_next": {"label": "highest_next","description": "","type": "string","required": false},
+"map_type": {"label": "map_type","description": "map_type","type": "string","required": false},
+"map_alt": {"label": "map_alt","description": "Text to display if the map image cannot be shown","type": "string","required": false},
+"map_caption": {"label": "Map caption","description": "map caption","type": "string","required": false},
+"relief": {"label": "relief","description": "relief","type": "string","required": false},
+"altitude": {"label": "altitude","description": "altitude","type": "string","required": false},
+"building_type": {"label": "building_type","description": "building_type","type": "string","required": false},
+"architectural_style": {"label": "architectural_style","description": "architectural_style","type": "string","required": false},
+"structural_system": {"label": "structural_system","description": "structural_system","type": "string","required": false},
+"ren_cost": {"label": "ren_cost","description": "ren_cost","type": "string","required": false},
+"client": {"label": "client","description": "client","type": "string","required": false},
+"current_tenants": {"label": "current_tenants","description": "current_tenants","type": "string","required": false},
+"renovation_date": {"label": "renovation_date","description": "renovation_date","type": "string","required": false},
+"height": {"label": "height","description": "height","type": "string","required": false},
+"architectural": {"label": "architectural","description": "architectural","type": "string","required": false},
+"tip": {"label": "tip","description": "tip","type": "string","required": false},
+"antenna_spire": {"label": "antenna_spire","description": "antenna_spire","type": "string","required": false},
+"roof": {"label": "roof","description": "roof","type": "string","required": false},
+"observatory": {"label": "observatory","description": "observatory","type": "string","required": false},
+"other_dimensions": {"label": "other_dimensions","description": "other_dimensions","type": "string","required": false},
+"seating_type": {"label": "seating_type","description": "seating_type","type": "string","required": false},
+"seating_capacity": {"label": "seating_capacity","description": "seating_capacity","type": "string","required": false},
+"elevator_count": {"label": "elevator_count","description": "elevator_count","type": "string","required": false},
+"architecture_firm": {"label": "architecture_firm","description": "architecture_firm","type": "string","required": false},
+"structural_engineer": {"label": "structural_engineer","description": "structural_engineer","type": "string","required": false},
+"services_engineer": {"label": "services_engineer","description": "services_engineer","type": "string","required": false},
+"civil_engineer": {"label": "civil_engineer","description": "civil_engineer","type": "string","required": false},
+"other_designers": {"label": "other_designers","description": "other_designers","type": "string","required": false},
+"quantity_surveyor": {"label": "quantity_surveyor","description": "quantity_surveyor","type": "string","required": false},
+"main_contractor": {"label": "main_contractor","description": "main_contractor","type": "string","required": false},
+"designations": {"label": "designations","description": "designations","type": "string","required": false},
+"ren_architect": {"label": "ren_architect","description": "Architect for the building's renovation","type": "string","required": false},
+"ren_firm": {"label": "ren_firm","description": "Company that renovated the building","type": "string","required": false},
+"ren_str_engineer": {"label": "ren_str_engineer","description": "Structural engineer for the building's renovation","type": "string","required": false},
+"ren_serv_engineer": {"label": "ren_serv_engineer","description": "Service engineer for the building's renovation","type": "string","required": false},
+"ren_civ_engineer": {"label": "ren_civ_engineer","description": "Civil engineer for the building's renovation","type": "string","required": false},
+"ren_oth_designers": {"label": "ren_oth_designers","description": "Other designers for the building's renovation","type": "string","required": false},
+"ren_qty_surveyor": {"label": "ren_qty_surveyor","description": "Quantity surveyor for the building's renovation","type": "string","required": false},
+"rooms": {"label": "rooms","description": "How many rooms the building has","type": "number","required": false}
+}
+}
+</templatedata>
+
+==See also==
+* [[:Category:Building using deprecated parameters]] (hidden tracking/maintenance category)
+
+{{Buildings and structures infobox templates}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Buildings and structures infobox templates| ]]
+[[Category:Embeddable templates|Building]]
+[[Category:Infobox templates with module parameter|Building]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

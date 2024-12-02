@@ -1,0 +1,44 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696792 |title=''Phalacrocorax carbo'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Phalacrocorax carbo Vic.jpg
+| image_width = 240px
+| image_caption = A Great Comorant in Victoria, Australia.
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Suliformes Suliformes]
+| familia = [https://en.wikipedia.org/wiki/Phalacrocoracidae Phalacrocoracidae]
+| genus = ''[https://en.wikipedia.org/wiki/Phalacrocorax Phalacrocorax]''
+| species = '''''P. carbo'''''
+| binomial = ''Phalacrocorax carbo''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758])
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+The '''Great Cormorant''' (''Phalacrocorax carbo''), also known as the '''Black Cormorant''' in Australia. 
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Phalacrocorax+(Phalacrocorax)+carbo ''Atlas of Living Australia'': Great Cormorant]
+* [http://birdlife.org.au/bird-profile/great-cormorant ''Birdlife Australia'': Great Cormorant]
+* [https://en.wikipedia.org/wiki/Great_cormorant ''Wikipedia'': Great cormorant]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

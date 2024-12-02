@@ -1,0 +1,403 @@
+
+'''Source:''' ''Torrens Island Biodiversity Action Plan.'' Appendix 2: Bird species list. <ref>EAC – Ecological Evaluation Pty Ltd: ''Torrens Island Biodiversity Action Plan'', Adelaide & Mt Lofty Ranges Natural Resources Management Board, September 2013.</ref>
+The list reproduced below was compiled from several sources, including the ''Metropolitan Adelaide and Northern Coastal Action Plan'' and the [http://www.ala.org.au/ Australian Living Atlas]; comments provided by Tim Croft, Ornithologist, desktop assessment and expert opinion.
+
+Additions to the above list are marked ***
+
+{| class="wikitable"
+! Conservation Ratings:
+|-
+|  '''EPBC''' = ''Environment Protection and Biodiversity Protection Act'' (Australia) ; '''SA''' = South Australia ; '''MR''' = Southern Lofty Botanical Region 
+|-
+| '''E = Endangered:''' rare and in danger of disappearing from the wild in the short term 
+|-
+| '''T = Threatened:''' likely to be either endangered or vulnerable but insufficient data for a more precise assessment. 
+|-
+| '''V = Vulnerable:''' rare and in danger of disappearing from the wild in the long term 
+|-
+| '''R = Rare:''' occurring infrequently, either locally abundant in a limited area or sparsely distributed over a wide area 
+|-
+| '''K = status uncertain''', but considered likely to be either rare, vulnerable or endangered  
+|-
+| '''U = Uncommon:''' less common species of interest but not rare enough to warrant special protective measures  
+|-
+| '''Q = Not yet assessed''' but flagged as being of possible significance 
+|-
+| '''C = Common:''' not of particular importance  
+|-
+| '''M = Migratory''' 
+|-
+|}
+
+
+{| class="wikitable sortable"
+! COMMON NAME || SCIENTIFIC NAME  || EPBC || SA || ML || Comments
+|-
+| [[Australasian Bittern]] || ''Botaurus poiciloptilus'' || E || V || V || More coastal reedy swamps, lagoons, rivers, so more likely fresher water. Feeds at night in shallow water on fish, frogs, crustaceans, invertebrates.
+|-
+| [[Australasian Grebe]] || ''Tachybaptus novaehollandiae'' ||  || C || C || Aquatic species. Any permanent water, but prefers freshwater. Rarely saltwater. Feeds on aquatic insects.
+|-
+| [[Australasian Shoveler]] || ''Anas rhynchotis'' ||  || R || R || E & S Aust. Swamps and permanent water, preferring more undisturbed well vegetated freshwater areas. Occasionally coast. Filter feeder of shallow water or wet mud for invertebrates, crustaceans, water plants.
+|-
+| [[Australian Hobby]] || ''Falco longipennis'' ||  || U || U || Widespread throughout Aust. Prefers open woodlands. Hunts small birds, but also at dusk bats and large moths. 
+|-
+| [[Australian Magpie]] || ''Gymnorhina tibicen'' ||  || C || C || Widespread Australia where trees and adjacent open areas, including urban parks and playing fields. Absent from forest and arid areas. Feeds on ground for insects, larvae.
+|-
+| [[Australian Pelican]] || ''Pelecanus conspicillatus'' ||  || C || C || Found on larger open waters (fresh & salt) and shores. Breeds usually small islands in bays, Coorong etc. Not Torrens Is.
+|-
+| [[Australian Pratincole]] || ''Stiltia isabella'' ||  || C || R || Mainly N E & SE Aust. Especially drier areas. Commonly found near water, in open inland plains, sparsely wooded plains and tussock grasslands. Feeds on insects, spiders and centipedes. Salt glands enables it to drink salt and freshwater.
+|-
+| [[Australian Reed-warbler]] || ''Acrocephalus australis'' ||  || C ||  || Widespread Aust. Where dense vegetation alongside water, especially thick reed beds, tall crops, even bamboo. Feeds on insects.
+|-
+| [[Australian Shelduck]] || ''Tadorna tadornoides'' ||  || C || C || Southern Aust. Prefers freshwater, rarely saltwater if near freshwater. Open grassy flats, swamps, lakes, rivers. Feeds on green grass, and less so on insects, algae, crustaceans.
+|-
+| [[Australian Spotted Crake]] || ''Porzana fluminea'' ||  || C || C || E & S Aust. Prefers well-vegetated edges of fresh or saltwater, permanent or temporary wetlands. Usually found among dense plant growth such as saltbush, reeds, rushes, mangroves, thick grass, or dense shrubs. Feed on seeds, molluscs, insects, crustaceans and spiders, foraging on mudflats, in reed beds, shallow water.
+|-
+| [[Australian White Ibis]] || ''Threskiornis molucca'' ||  || C || C || Nomadic. Widely distributed in wetter parts of Aust. Can be found in swamps, lagoons, floodplains, grasslands, urban parks and gardens. Feeds on terrestrial and aquatic invertebrates, crustaceans and molluscs by probing mud.
+|-
+| [[Australian Wood Duck]] || ''Chenonetta jubata'' ||  || C || C || Common and nomadic. Found grassland, urban parks, wetlands, flooded pasture, around farm dams, along coastal inlets and bays. Feeds on grasses and herbs. Rare on open water.
+|-
+| [[Baillon's Crake]] || ''Porzana pusilla'' ||  || U || R || Cosmopolitan sp. Inhabits freshwater, brackish or saline marshy wetlands both inland and coastal, with dense vegetation. Feeds on invertebrates, crustaceans, molluscs, small fish, frogs, some vegetation.
+|-
+| [[Banded Lapwing]] || ''Vanellus tricolor'' ||  ||  ||  || E & S Aust. Open areas such as paddocks with sparse short grass, overgrazed or ploughed farmland, stony ground, bare dry mud at the edge of swamps, saline herbland. Feeds on invertebrates, worms, molluscs, and at times seeds.
+|-
+| [[Banded Stilt]] || ''Cladorhynchus leucocephalus'' ||  || V || V || Mainly inland & S Aust. Nomadic. Inhabit mostly saline and hypersaline water, typically large, open and shallow water of the inland and coast. Feed on crustaceans, molluscs, insects, vegetation, seeds and roots.
+|-
+| [[Bar-tailed Godwit]] || ''Limosa lapponica'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia inhabits estuarine mudflats, beaches and mangroves. They are common in coastal areas around Australia. Probes mud for molluscs, worms and aquatic insects.
+|-
+| [[Black Falcon]] || ''Falco subniger'' ||  || C || U || Sparsely spread over mainland Aust. Prefers tree-lined watercourses (eg. River Murray) and tree clumps. Feeds mostly on birds, small mammals, reptiles, insects.
+|-
+| [[Black Swan]] || ''Cygnus atratus'' ||  || C || C || Largely sedentary. Common on fresh and salt water, where-ever a wetland throughout Aust. Included estuaries and bays. Feeds on aquatic plants, and less so grazing on land.
+|-
+| [[Black-faced Cormorant]] || ''Phalacrocorax fuscescens'' ||  || C || C || Strictly marine inshore bird breeding on rocky islands near coast, including Outer Harbour. Fishes by diving deep.
+|-
+| [[Black-faced Cuckoo-shrike]] || ''Coracina novaehollandiae'' ||  || C || C || Widespread Aust. Common in almost any wooded habitat including urban areas, except rainforests. Feeds on insects and other invertebrates, at times fruits and seeds.
+|-
+| [[Black-fronted Dotterel]] || ''Elseyornis melanops'' ||  || C || C || Widespread in Aust. Inhabits shallow margins of wetlands, lakes, rivers, sewage farms, storm drains and marshes, normally near freshwater. Rarer near coast. Feeds on small molluscs, also aquatic and terrestrial insects.
+|-
+| [[Black-shouldered Kite]] || ''Elanus axillaris'' ||  || C || C || Common throughout mainland Aust., usually grassland, farms. roadsides and other open habitats, including coastal areas (eg. Torren Island). Feeds mainly on rodents including following mice plagues. Also insects such as grasshoppers.
+|-
+| [[Black-tailed Godwit]] || ''Limosa limosa'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia inhabits estuarine mudflats, beaches and mangroves. More common in coastal areas around Australia. Probe shallows of exposed mud for molluscs, worms and aquatic insects.
+|-
+| [[Black-tailed Native-hen]] || ''Tribonyx ventralis'' ||  || C || C || Nomadic and widespread throughout mainland Aust. Found near permanent or ephemeral terrestrial wetlands in low rainfall areas, in both fresh or brackish water. feeds on seeds, plant material and insects in open ground near wetlands or water edge.
+|-
+| [[Black-winged Stilt]] || ''Himantopus himantopus'' ||  || C || C || Cosmopolitan and widespread over mainland Aust. Prefers fresh and saline water, marshes, mudflats, and the shallow edges of lakes and rivers. Wades in shallow water for aquatic insects, but also molluscs and crustaceans.
+|-
+| [[Blue Bonnet]] || ''Northiella haematogaster'' ||  || C || V || Inhabits open woodland, scrub, riverine forest, spinifex, and farmlands in the eastern half of Aust. Nests in low-lying tree openings. Feeds native grasses and herbs, nectar.
+|-
+| [[Blue-billed Duck]] || ''Oxyura australis'' ||  || R || R || Sthn Aust. Almost entirely aquatic preferring deeper open freshwater lakes and dams. Feeds on water surface and by diving for aquatic insects and less so aquatic plants. Rare salty areas.
+|-
+| [[Blue-winged Parrot]] || ''Neophema chrysostoma'' ||  || V || V || Mainly breed SE Aust. Disperses non-breeding. Found coastal, sub-coastal, inland areas to semi-arid zones. Favour grasslands and grassy woodlands often near wetlands. Feeds mainly on ground for grass and herb seeds.
+|-
+| [[Broad-billed Sandpiper]] || ''Limicola falcinellus'' ||  ||  ||  || Migratory sp. breeding in N hemisphere. In Aust inhabits mostly estuarine mudflats, saltmarshes, and reefs. Probes soft wet mud for crustaceans, worms, molluscs, seeds.
+|-
+| [[Brown Falcon]] || ''Falco berigora'' ||  || C || C || Very common widespread species throughout Aust. Especially farms and grasslands of ag areas with tree or posts to rest on and observe prey. Hunt small mammals, reptiles, insects.
+|-
+| [[Brown Goshawk]] || ''Accipiter fasciatus'' ||  || C || C || Widespread across Aust. Mostly in timbered habitat. Mostly hunt birds, but also take small mammals (rabbits), reptiles and insects.
+|-
+| [[Brown Quail]] || ''Coturnix ypsilophora'' ||  || V || V || N & E Aust. Inhabits rank, overgrown grassy areas, often in damp, low-lying patches beside wetlands. Feeds on ground, mainly on seeds and green shoots, but also insects.
+|-
+| [[Brown Songlark]] || ''Cinclorhamphus cruralis'' ||  || C || C || Widespread where grassland or crops, including open shrublands, Acacia scrub, open woodland. Benefited from ag. Feeds on ground on insects and some seeds. 
+|-
+| [[Brown Thornbill]] || ''Acanthiza pusilla'' ||  || C || C || Found E & SE Aust. Inhabit mostly dense shrubby areas including wet and dry forests, woodlands, shrublands, heath and rainforests, along watercourses. Mainly feeds on insects, at times seeds, nectar or fruit.
+|-
+| [[Brush Bronzewing]] || ''Phaps elegans'' ||  || U || U || Found more towards the coast of E & sthn Australia (but not strictly a coastal sp.). Inhabits areas of dense shrub layer, including coastal dunes, but further inland woodland, forest, mallee with a good shrub layer. Feeds on seeds on ground. Usually builds fragile cup nest in shrubs.
+|-
+| [[Budgerigar]] || ''Melopsittacus undulatus'' ||  || C || C || Found much of mainland Aust., mainly arid and semi-arid areas. But can be found in agricultural areas at times. Feed on seeds of native herbs and grasses.
+|-
+| [[Buff-rumped Thornbill]] || ''Acanthiza reguloides australis'' ||  || C || C || Found E & SE Aust. Inhabits eucalypt open forests and woodlands with grassy or shrubby understorey. Feeds on invertebrates
+|-
+| [[Caspian Tern]] || ''Hydroprogne caspia'' ||  ||  ||  || Widespread around virtually the entire Australian coastline, and also along inland major rivers. Feed almost entirely on fish, by shallow plunging.
+|-
+| [[Cattle Egret]] || ''Ardea ibis'' || M || R || R || Originally native to Africa, Europe, Asia, now naturalised to other continents. Found grasslands (pastures & crops), woodlands, wetlands. Partially migratory moving during winter. Feeds on insects, particularly grasshoppers, but also frogs and lizards. Often follows cattle. Not common on Torrens Is.
+|-
+| [[Chestnut Teal]] || ''Anas castanea'' ||  || U || U || E & S Aust. Stronghold of coastal wetlands and estuaries, tolerating highly saline water. Will also use freshwater lakes, reservoirs, sewerage ponds in the dry seaon. Mainly breeds coastal areas in hollow trees in water or short grasslands near water. Eats seeds, insects, some vegetation. Feeds on molluscs and crustaceans in more coastal habitats. Mainly feeds by dabbling at the water's edge during the rising tide. Good sp. for Torrens Island area.
+|-
+| [[Cockatiel]] || ''Nymphicus hollandicus'' ||  || C || U || Widespread mainland Aust. but more likely inland open country. Feed on ground or in trees on grass seeds, nuts, berries. Nests tree hollows.
+|-
+| [[Collared Sparrowhawk]] || ''Accipiter cirrhocephalus'' ||  || C || U || Widespread throughout Aust. Mostly hunt small birds in flight, or at dawn at their roosting sites. Also lizards, small mammals, insects
+|-
+| [[Common Bronzewing]] || ''Phaps chalcoptera'' ||  ||  ||  ||Widespread across Aust. Inhabiting almost every habitat type, except arid areas and rainforests. Feeds on ground on seeds and other vegetable matter. 
+|-
+| [[Common Greenshank]] || ''Tringa nebularia'' ||  || C || C || Migratory sp. breeding in N hemisphere. Widespread both on the coast and inland, in estuaries and mudflats, mangrove swamps and lagoons, and in billabongs, swamps, sewage farms and flooded crops. Feed on edges of mudflats and shallows on insects, worms, molluscs, small fish and crustaceans.
+|-
+| [[Common Sandpiper]] || ''Actitus hypoleucos'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia inhabits coastal or inland wetlands, both saline or fresh. Found mainly on muddy edges or rocky shores. Feeds on small molluscs, aquatic and terrestrial insects.
+|-
+| [[Common Tern]] || ''Sterna hirundo'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia inhabits mainly coastal areas and offshore waters, ocean beaches, estuaries and large lakes. Feeds on small marine fish, also aquatic insects and crustaceans
+|-
+| [[Crested Pigeon]] || ''Ocyphaps lophotes'' ||  || C || C || Once an inland bird that since European settlement is now widespread throughout mainland Aust., including urban areas. Prefers lightly wooded grasslands in both rural and urban areas, usually near drinking water. Feed on ground mostly on various seeds, and at times insects.
+|-
+| [[Crested Tern]] || ''Thalasseus bergii'' ||  ||  ||  || Widespread around most of Australia coastline. Feeds mainly on small surface fish
+|-
+| [[Crimson Chat]] || ''Epthianura tricolor'' ||  || C ||  || Found semi-arid and arid areas mainly dominated by open shrublands, dunes, plains or grasslands. Feed mostly on insects on or near ground.
+|-
+| [[Crimson Rosella]] || ''Platycercus elegans'' ||  || C ||  || E Aust. Found in eucalypt woodlands & forest. Feeds on eucalypt, grass and shrub seeds, also insects. Nest tree hollows.
+|-
+| [[Curlew Sandpiper]] || ''Calidris ferruginea'' ||  || C || C || Migratory sp. breeding in N hemisphere. In Australia inhabits intertidal mudflats of estuaries, lagoons, mangroves, beaches, rocky shores, lakes, dams and floodwaters. Feeds on small marine invertebrates, especially worms.
+|-
+| [[Double-banded Plover]] || ''Charadrius bicinctus'' ||  || C || C || Migratory sp. From NZ. In Aust. found on mudflats and estuaries, coastal beaches, sewage farms, river banks, fields, dunes, upland tussock grasses and shingle. Feeds on molluscs, crustaceans, insects, and occasionally seeds and fruit.
+|-
+| [[Dusky Moorhen]] || ''Gallinula tenebrosa'' ||  || C || C || E & S Aust. Inhabits swamps, rivers, and artificial waterways. Prefers open water and margins with reeds, rushes and waterlilies. Also found grasses close to water such as parks, pastures and lawns. Feeds on algae, water plants and grasses, also as seeds, fruits, molluscs, invertebrates.
+|-
+| [[Eastern Curlew]] || ''Numenius madagascariensis'' ||  || V || V || Migratory sp. breeding in N hemisphere. In Australia inhabits intertidal mudflats and sandflats, seagrass beds, sheltered coasts, especially estuaries, mangrove swamps, bays, harbours and lagoons. Probes muddy flats mainly for small crabs and molluscs.
+|-
+| [[Eastern Great Egret]] || ''Ardea modesta'' ||  ||  ||  || Widespread, cosmopolitan species. Found on a range of wetlands including lakes, rivers, swamps, estuaries, saltmarsh, intertidal flats. Usually feed in shallow water on fish, frogs, invertebrates etc.
+|-
+| [[Eastern Reef Egret]] || ''Egretta sacra'' || M || R || V || Found on seashore beaches, tidal rivers, inlets, mangroves, and more usually rocky reefs. Not common southern Australia. Forages in shallow water for fish, crustaceans, molluscs. Quite rare for Torrens Is.
+|-
+| [[Elegant Parrot]] || ''Neophema elegans'' ||  || R || K || Found Southern Aust. Feeds grass seeds on ground. Nests eucalypt tree hollows.
+|-
+| [[Eurasian Coot]] || ''Fulica atra'' ||  || C || C || Cosmopolitan. Common in vegetated lagoons and swamps. Require submerged aquatic vegetation or mats of floating waterweed for foraging. Largely dive to feed on vegetable matter, supplemented with a few insects, worms and fish. Also forage on land and water surface.
+|-
+| [[Fairy Martin]] || ''Petrochelidon ariel'' ||  || C || C || Widespread largely where open country near water, usually near its nest sites, in cliffs, culverts or bridges. Feeds high in the air on flying insects.
+|-
+| [[Fairy Tern]] || ''Sterna nereis'' || V || E || E || Southern & W Australia coast. Inhabits isolated sandy inlets and along the coast, including beaches, inshore and offshore islands, sheltered inlets, sewage farms, harbours, estuaries and lagoons. It favours both fresh and saline wetlands and near-coastal terrestrial wetlands .Feeds almost entirely on fish.
+|-
+| [[Fan-tailed Cuckoo]] || ''Cacomantis flabelliformis'' ||  || C || C || E & southern Aust. Where eucalypt forest, woodland, mallee, heath. Feeds on insects and larvae, especially hairy caterpillars.
+|-
+| [[Galah]] || ''Eolophus roseicapilla'' ||  || C || C || Now widespread through Aust. But formerly semi-arid areas. Spread into agricultural areas since European settlement. Prefers timbered habitat near water. Feed on seed on ground. Nests tree hollows.
+|-
+| [[Glossy Ibis]] || ''Plegadis falcinellus'' ||  || R || R || Nomadic, following Australian rainfall events, but found along margins of rivers and swamps in summer. However more common in Nthn Aust. Than SA. Needs shallow water such as floodplains and mudflats, including mangroves. Feeds by probing mud on crustaceans, frogs, invertebrates.
+|-
+| [[Golden Whistler]] || ''Pachycephala pectoralis fuliginosa'' ||  || C || C || E & southern Aust. Found almost any wooded habitat, including rainforest, forest, woodland, mallee. Feed on insects, spiders and at times berries.
+|-
+| [[Golden-headed Cisticola]] || ''Cisticola exilis'' ||  || U || V || Widespread where sub-coastal areas with long, dense grass, such as wetlands, swamp margins, wet grasslands, rivers, and irrigated farmland. Feed on insects and seeds on ground amongst tall grasses.
+|-
+| [[Great Cormorant]] || ''Phalacrocorax carbo'' ||  || C || C || Cosmopolitan. Common & widespread distribution on inland freshwater and less so coastal estuaries and inlets. Breeding colonies on River Murray & Lakes. Dives for fish & crustaceans.
+|-
+| [[Great Crested Grebe]] || ''Podiceps cristatus'' ||  || R || R || Aquatic species. Open fresh and salt water areas. Nomadic. Feeds on aquatic insects and fish.
+|-
+| [[Great Egret]] || ''Ardea alba'' ||  || C || C || Widespread, cosmopolitan species. Found on a range of inland wetlands and and adjacent grasses, but also estuaries, intertidal flats. Usually feed in shallow water on fish, frogs, invertebrates, reptiles etc.
+|-
+| [[Great Knot]] || ''Calidris tenuirostris'' || M || R || R || Migratory sp. breeding in N hemisphere. In Australia found where coastal mudflats. Feeds in shallow water on invertebrates.
+|-
+| [[Greater Sand Plover]] || ''Charadrius leschenaultii'' || M || R || R || Migratory sp. breeding in N hemisphere. In Austrlia found on coastal tidal sandbanks. Feeds on insects and crustaceans.
+|-
+| [[Grey Butcherbird]] || ''Cracticus torquatus leucopterus'' ||  || C || U || Found E, S, W Aust. Inhabit a range of wooded habitats, especially drier areas. Prey on small birds, lizards and insects, and at times feed on fruits and seeds.
+|-
+| [[Grey Fantail]] || ''Rhipidura fuliginosa'' ||  || C || C || Widespread Aust. in most treed habitats, especially wodland and forest. Not an urban bird in Adelaide. Feeds on flying insects.
+|-
+| [[Grey Plover]] || ''Pluvialis squatarola'' ||  ||  ||  || Migratory sp. breeding in N hemisphere. In Aust. inhabits marine shores, inlets, estuaries and lagoons with large tidal mudflats or sandflats. Roosts sandy beaches. Feed on molluscs, insects, crustaceans, worms, and occasionally plants and seeds.
+|-
+| [[Grey Shrike-thrush]] || ''Colluricincla harmonica'' ||  || C || C || Widespread Aust. except arid areas, but prefers woodland and forest. Feeds mostly on ground on a varied diet of insects, spiders, small mammals, frogs and lizards, and young birds and bird eggs.
+|-
+| [[Grey Teal]] || ''Anas gracilis'' ||  || C || C || Widespread nomadic species, following rainfall events across the continent. Found in all sheltered watered areas. Feeds on grass, aquatic plants, seeds, crustaceans, invertebrates.
+|-
+| [[Grey-tailed Tattler]] || ''Tringa brevipes'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Aust. Inhabits sheltered coasts with reefs, rock platforms or intertidal mudflats. Feeds on worms, molluscs, crustaceans (especially small crabs), insects and, occasionally, fish.
+|-
+| [[Hardhead]] || ''Aythya australis'' ||  || U || U || Mostly freshwater wetlands and swamps, and less often sheltered estuaries. Dive for aquatic plants and molluscs. Would be rare at Torrens Is area.
+|-
+| [[Hoary-headed Grebe]] || ''Poliocephalus poliocephalus'' ||  || C || C || Aquatic species. Open fresh and salt water areas. Feeds on aquatic insects.
+|-
+| [[Hooded Robin]] || ''Melanodryas cucullata cucullata'' ||  || R || V || Widespread, but more commonly SE Aust. Inhabit lightly timbered woodland, mainly dominated by Allocasuarina, acacia, eucalypts. Feed mainly on insects.
+|-
+| [[Horsfield's Bronze-cuckoo]] || ''Chalcites basalis'' ||  || C || C || Widespread where open wooded habitats with a range of understorey from grass to shrubs or heath. At times treed farmland. Mostly feeds on insects and their larvae, especially hairy caterpillars.
+|-
+| [[Inland Dotterel]] || ''Peltohyas australis'' ||  || C ||  || Mainly inland semi-arid and arid zones of mainland Australia. Rarely coastal except EP & Nullarbor. Highly unusual here. Not likely or typical habitat.
+|-
+| [[Inland Thornbill]] || ''Acanthiza apicalis'' ||  || C ||  || Widespread more an inland sp. Inhabits dry eucalypt and Callitris woodlands, mallee and acacia scrublands. Feeds on small insects, spiders, at times seeds.
+|-
+| [[Intermediate Egret]] || ''Ardea intermedia'' ||  || R || R || Coastal and inland fresh and salt water wetlands including mangroves and tidal flats. Feeds on invertebrates, and also fish, frogs hunting in shallow water. Rare in SA & Torren Is area. More common northern Aust.
+|-
+| [[Kelp Gull]] || ''Larus dominicanus'' ||  || R || R || Became established in Australia in the 1940s. Now found SE & SW coasts. Prefers sheltered bays, inlets and estuaries, and also beaches and reefs on off-shore islands. Feeds mainly on fish and crustaceans.
+|-
+| [[Lesser Sand Plover]] || ''Charadrius mongolus'' || M || R || R || Migratory sp. breeding in N hemisphere. In Aust. Inhabits coastal area of intertidal sandflats or mudflats in sheltered bays, harbours. estuaries, and occasionally sandy ocean beaches, coral reefs, wave-cut rock platforms, rocky outcrops, saltmarsh, mangroves. Feed on invertebrates, molluscs, worms, crustaceans (especially crabs) and insects.
+|-
+| [[Lewin's Rail]] || ''Lewinia pectoralis'' ||  || V || V || Widespread mainland Aust. Inhabits dense reeds and vegetation bordering many types of wetlands or crops, including sewage ponds and drainage channels. Feeds on crustaceans, molluscs, insects, seeds, fruit, frogs, carrion and refuse.
+|-
+| [[Little Black Cormorant]] || ''Phalacrocorax sulcirostris'' ||  || C || C || Strictly aquatic. More common fresh than salt water, but can be found in sheltered coastal waters. Often resting jetties and rocks. Dives for fish, crustaceans, aquatic invertebrates.
+|-
+| [[Little Corella]] || ''Cacatua sanguinea'' ||  || C || C || Widespread through Aust. Various habitats esp. watercourses. Feed on ground mostly on seeds and grain. Nests tree hollows.
+|-
+| [[Little Curlew]] || ''Numenius minutus'' ||  ||  ||  || Migratory sp. breeding in N hemisphere. In Australia more common N Aust. Inhabits coastal and inland grasslands, swamps and flooded areas. Feeds mostly on insects, as well as seeds and berries.
+|-
+| [[Little Eagle]] || ''Hieraaetus morphnoides'' ||  || U || U || Widespread in Aust. Found open woodland and open forest, also open areas. Mostly hunt rabbits, but also small to medium-sized reptiles, birds and mammals, insects.
+|-
+| [[Little Egret]] || ''Egretta garzetta'' ||  || R || R || Coastal and inland fresh and salt water wetlands including mangroves and tidal flats. Feeds on invertebrates, and also fish, frogs hunting in shallow water. Rare in SA & Torren Is area. More common northern Aust.
+|-
+| [[Little Grassbird]] || ''Megalurus gramineus'' ||  || C || C || Widespread E & southern Aust. Inhabits more freshwater swamps, marshes, especially with reeds, also temporary wetlands after rains. Feeds on insects and arthropods. Nests in reeds.
+|-
+| [[Little Lorikeet]] || ''Glossopsitta pusilla'' ||  || E || E || Found E Aust. Inhabiting open mostly eucalypt forests and woodland, lesser extent mallee. Feed on pollen and nectar. Nest hollow tree branches.
+|-
+| [[Little Pied Cormorant]] || ''Microcarbo melanoleucos'' ||  || C || C || Widespread aquatic species. More common inland than coastal waters of almost any size, but also readily found on tidal waters. Dives for fish, crustaceans, aquatic invertebrates.
+|-
+| [[Little Raven]] || ''Corvus mellori'' ||  || C || C || Found SE Aust. In forest, woodland, Acacia scrub, and into urban areas. Omnivorous feeder on carrion, insects, plants.
+|-
+| [[Little Wattlebird]] || ''Anthochaera chrysoptera'' ||  || U || U || Found SE & SW Aust. Prefers drier and often scrubby habitats, such as banksia heaths, forests, woodlands and urban parks and gardens. Feeds mostly on nectar, but at times insects, flowers, berries, seeds.
+|-
+| [[Long-toed Stint]] || ''Calidris subminuta'' || M || M || M || Migratory sp. breeding in N hemisphere. In Aust. Inhabits drying margins of shallow freshwater lakes and ponds, and less often beaches. Feeds on invertebrates by probing mud.
+|-
+| [[Magpie-lark]] || ''Grallina cyanoleuca'' ||  || C || C || Widespread Aust. in many habitats with mud supply for nest building, including urban areas. Not found in deserts. Feeds mostly on ground on insects, larvae, earthworms and freshwater invertebrates. Mud nests built in trees.
+|-
+| [[Marsh Sandpiper]] || ''Tringa stagnatilis'' ||  ||  ||  || Migratory sp. breeding in N hemisphere. In Aust. inhabits fresh or brackish wetlands such as rivers, water meadows, sewage ponds, drains, lagoons and swamps. Feed by wading through shallow water on aquatic insects, larvae, molluscs and crustaceans.
+|-
+| [[Masked Lapwing]] || ''Vanellus miles'' ||  || C || C || Widespread Australia & adjacent areas. Inhabits open areas of marshes, mudflats, beaches, grasslands, including urban areas. Feed on insects and larvae, earthworms.
+|-
+| [[Masked Woodswallow]] || ''Artamus personatus'' ||  || C || C || Widespread in open woodlands. Feeds on flying insects on the wing, at times nectar.
+|-
+| [[Mistletoebird]] || ''Dicaeum hirundinaceum'' ||  || C || C || Widespread mainland Aust. Wherever mistletoe found. Highly adapted to a diet of mistletoe berries.
+|-
+| [[Musk Duck]] || ''Biziura lobata'' ||  || R || R || Found on most waters, freshwater or salt in southern Aust. But often freshwater fringed with reeds. Can be found in water just offshore along the coast. Feed by diving for aquatic invertebrates, fish, frogs, crustaceans, molluscs
+|-
+| [[Musk Lorikeet]] || ''Glossopsitta concinna'' ||  || C || C || Found Southern Aust. Inhabits tall, open, eucalypt forest and woodlands. Feed mainly on eucalypt pollen and nectar. Nest hollow tree branches.
+|-
+| [[Nankeen Kestrel]] || ''Falco cenchroides'' ||  || C || C || Widespread in most of Aust. Especially lightly wooded and open agricultural areas. Mainly hunts small mammals, reptiles, small birds, insects. Prey is located from a perch or by hovering a short distance above the ground.
+|-
+| [[Nankeen Night Heron]] || ''Nycticorax caledonicus'' ||  || U || U || Widespread in most of Australia, where well vegetated wetlands such as mangroves, tree-lined watercourses, swamps, lagoons. Breeds in area. Spends most of the day roosting, emerging at twilight. Feeds at night in shallow water on fish, frogs, crustaceans, invertebrates.
+|-
+| [[New Holland Honeyeater]] || ''Phylidonyris novaehollandiae'' ||  || C || C || Found Southern Aust. Common in heath, forests, woodland and gardens. Feed mostly nectar, also fruit, insects and spiders.
+|-
+| [[Noisy Miner]] || ''Manorina melanocephala'' ||  || C || C || Found E & SE Aust. Inhabits woodlands, open forests, urban parks and gardens. Feeds largely on nectar, fruits and insects.
+|-
+| [[Orange Chat]] || ''Epthianura aurifrons'' ||  || C ||  || Widespread, especially inland Aust., mostly absent from ag regions. Feeds on ground on insects.
+|-
+| [[Pacific Black Duck]] || ''Anas superciliosa'' ||  || C || C || Very common widespread species. Found in all types of water, including tidal mudflats. Feeds on seeds and aquatic plants, supplemented by small crustaceans, molluscs and aquatic invertebrates.
+|-
+| [[Pacific Golden Plover]] || ''Pluvialis fulva'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia inhabits muddy, rocky and sandy wetlands, seashore, paddocks, saltmarsh, coastal golf courses, estuaries and lagoons. Feeds on molluscs, insects, worms, crustaceans, lizards, at times bird eggs and small fish
+|-
+| [[Pacific Gull]] || ''Larus pacificus'' ||  || U || U || Found southern Aust. Coast, breeding on offshore islands. Prefers sandy, or less often, rocky coasts, also estuaries, bays and harbours. Forages along coasts between the high-water mark and shallow water on sandy beaches, feeding mainly on molluscs, fish, birds and other marine animals.
+|-
+| [[Pallid Cuckoo]] || ''Cacomantis pallidus'' ||  || C || C || Widespread, where open forests and woodlands, also cleared and cultivated open country. Has a liking for hairy caterpillars, but will take other insects and their larvae.
+|-
+| [[Pectoral Sandpiper]] || ''Calidris melanotus'' || M || M || M || Migratory sp. breeding in N hemisphere. In Australia inhabits fresh and saltwater marshes, mudflats, or drying lakes and wet meadows. Feed on small crustaceans, aquatic invertebrates.
+|-
+| [[Peregrine Falcon]] || ''Falco peregrinus'' ||  || R || R || Cosmopolitan species, but uncommonly spread across Aust. For nesting prefers coastal and inland cliffs or open woodlands near water, and may even be found nesting on high city buildings (eg Adelaide Uni.). Feeds on small to medium birds especially feral pigeons in flight, rabbits on ground.
+|-
+| [[Pied Cormorant]] || ''Phalacrocorax varius'' ||  || C || C || Aquatic mostly coastal species, common on salt water in estuaries, bays, harbours etc., but less so freshwater. Dives for fish. Breeds coastal islands.
+|-
+| [[Pied Oystercatcher]] || ''Haematopus longirostris'' ||  || R || R || Coastal areas throughout Aust. With mudflats, sandbanks and sandy ocean beaches. Less common along rocky or shingle coastlines. Feeds bivalve molluscs, also worms, crustaceans and insects.
+|-
+| [[Pink-eared Duck]] || ''Malacorhynchus membranaceus'' ||  || C || C || Widespread and nomadic species. Prefers warm shallow temporary water with adjacent well timbered areas, although can congregate in open water. Filter feeds algae and invertebrates.
+|-
+| [[Purple Swamphen]] || ''Porphyrio porphyrio'' ||  || C || C || Common E & S Aust. & Sth Pacific. Various wetlands. Feeds on soft shoots of reeds and rushes, bird eggs, frogs, snails.
+|-
+| [[Purple-crowned Lorikeet]] || ''Glossopsitta porphyrocephala'' ||  ||  ||  || More a mallee species of Southern Aust. Feeds on mallee blossums.
+|-
+| [[Purple-gaped Honeyeater]] || ''Lichenostomus cratitius'' ||  || U ||  || Found southern Aust. Inhabits mallee heath. Feeds largely on eucalypt and Banksia nectar, also insects.
+|-
+| [[Rainbow Lorikeet]] || ''Trichoglossus haematodus'' ||  || C || C || Found coastal and sub-coastal areas of N & E Aust. Habitat of treed areas, including woodland, forest, urban areas. Harvests nectar and pollen, also fruits, seeds and some insects. Usually nests in hollow eucalypt branches.
+|-
+| [[Red Knot]] || ''Calidris canutus'' ||  ||  ||  || Migratory sp. breeding in N hemisphere. In Australia inhabits on the coast in sandy estuaries with tidal mudflats
+|-
+| [[Red Wattlebird]] || ''Anthochaera carunculata'' ||  || C || C || Found southern Aust. Inhabits forests, woodlands and urban gardens. Feeds largely on nectar, also insects.
+|-
+| [[Red-capped plover|Red-capped Plover]] || ''Charadrius ruficapillus'' ||  || C || C || Widespread mainland Aust. Along coastline and arid areas. Nests on beaches. Prefers saline and brackish waters. Forages on mudflats, sandy beaches and salt marsh for molluscs, small crustaceans and some vegetation.
+|-
+| [[Red-capped Robin]] || ''Petroica goodenovii'' ||  || C || U || More common in semi-arid or arid areas, but generally inland habitats with eucalypts, Acacia, Callitris woodlands. Forages on the ground or in low vegetation for insects and other invertebrates.
+|-
+| [[Red-kneed Dotterel]] || ''Erythrogonys cinctus'' ||  || C || C || Widespread mainland Aust. More N areas. Inhabits wetlands, lagoons and swamps, preferring fresh water and areas prone to flooding. Feeds on aquatic insects, larvae and seeds.
+|-
+| [[Red-necked Avocet]] || ''Revurvirostra novaehollandiae'' ||  || C || C || Widespread in Aust. Prefers salt or brackish water, generally found in shallow water either fresh or salt, or estuarine mudflats. Feeds by wading in shallow water on aquatic insects, larvae, crustaceans and seeds.
+|-
+| [[Red-necked Stint]] || ''Calidris ruficollis'' ||  || C || C || Migratory sp. breeding in N hemisphere. Widespread around coast of Aust. mainland. In Aust. found on the coast, sheltered inlets, bays, lagoons, estuaries, intertidal mudflats, sandy or coralline shores. Also saltworks, sewage farms, saltmarsh, shallow wetlands including lakes, swamps, riverbanks, waterholes, bore drains, dams, soaks and pools in saltflats, flooded paddocks or damp grasslands. Omnivorous feeders mostly on mudflats, feeding on seeds, insects, small vertebrates, plants in saltmarshes, molluscs, gastropods and crustaceans.
+|-
+| [[Red-rumped Parrot]] || ''Psephotus haematonotus'' ||  || C || C || SE Aust. Inhabits open grasslands or lightly timbered plains, also along watercourses, mallee areas where water available, urban areas. Largely feeds on ground on seeds, grass leaves. Also feed on seeds, fruits and flowers in trees. Nest usually hollow in eucalypt.
+|-
+| [[Richard's Pipit]] || ''Anthus novaeseelandiae'' ||  || C || C || Widespread. Inhabit open country, including grassland, wet heaths, dry shrublands and open woodland clearings. Feed on the ground on insects, larvae, seeds. Nest on ground.
+|-
+| [[Rock Parrot]] || ''Neophema petrophila'' ||  || R || R || Found rocky coastline of S and W Aust. Inhabits and restricted to coastlines and offshore rocky islands, frequenting windswept coastal dunes, mangroves, saline swamps and rocky islets. Feeds on seeds, fruits of grasses, rushes, shrubs and salt-tolerant plants. Mostly nests on offshore Is in rock crevices, abandoned seabird nesting burrow, or on a rocky ledges. Not Torrens Is.
+|-
+| [[Royal Spoonbill]] || ''Platalea regia'' ||  || U || U || Nomadic throughout N & E Aust. Found in fresh and salt wetlands, intertidal mudflats and wet grasslands. Feeds on fish (freshwater), shrimps (mudflats), but also aquatic insects, sweeping the shallow water with its bill.
+|-
+| [[Ruddy Turnstone]] || ''Arenaria interpres'' || M || R || R || Migratory sp. breeding in N hemisphere. Widespread around coast of Aust. mainland. In Aust. inhabits mainly exposed rocks or reefs, often with shallow pools, also beaches. Feeds by turning over stones and seaweed to find insects, crustaceans, molluscs and spiders.
+|-
+| [[Ruff]] || ''Philomachus pugnax'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia generally found on fresh, brackish or saline wetlands with exposed mudflats at the edges. Includes lakes, swamps, pools, lagoons, tidal rivers, swampy fields, floodlands, and occasionally sheltered coasts, harbours, estuaries, seashores, saltworks. Forages on exposed mudflats, in shallow water and occasionally on dry mud. In Aust omnivorous feeding on moss, plant fibre, seeds, annelids, molluscs, crustaceans, spiders, insects, fish and amphibians
+|-
+| [[Rufous Songlark]] || ''Cinclorhamphus mathewsi'' ||  || C || C || Widespread inhabiting plains dominated by grass, including open woodland and Acacia scrub. Feeds on ground on seeds and insects.
+|-
+| [[Rufous Whistler]] || ''Pachycephala rufiventris'' ||  || C || C || Widespread Aust. especially in areas with a shrubby cover (forests, woodlands and shrublands). Feeds on insects, and sometimes seeds, fruit or leaves, but rarely found on ground.
+|-
+| [[Sacred Kingfisher]] || ''Todiramphus sanctus'' ||  || C || C || Widespread Aust. near the coast (but not a coastal sp.). Inhabits woodlands, mangroves and forests. More a terrestrial hunter than fishing in water, it mainly feeds on crustaceans, reptiles, insects, larvae and at times fish.
+|-
+| [[Sharp-tailed Sandpiper]] || ''Calidris acuminata'' ||  || C || C || Migratory sp. breeding in N hemisphere. In Aust. inhabits grassy edges of shallow inland freshwater wetlands. Also found around sewerage ponds, flooded fields, mudflats, mangroves, rocky shores and beaches. Forages shallow water for aquatic insects, larvae, worms, molluscs, crustaceans.
+|-
+| [[Shining Bronze-cuckoo]] || ''Chrysococcyx lucidus'' ||  || U || U || E & southern Aust. Inhabit eucalypt forest and woodland. Feeds on insects, spiders, caterpillars.
+|-
+| [[Silver Gull]] || ''Chroicocephalus novaehollandiae'' ||  || C || C || Any watered habitat, but especially the coast. Population greatly expanded since WW2. Feeds on worms, fish, insects and crustaceans, but is a successful scavenger, including refuse tips.
+|-
+| [[Silvereye]] || ''Zosterops lateralis'' ||  || C || C || E & southern Australia Inhabit almost any wooded habitat, including orchards, urban parks and gardens. Feeds on insects, fruit and nectar.
+|-
+|  [[Singing Honeyeater]] || ''Lichenostomus virescens'' ||  || C || C || Very widespread across Aust. Inhabits mostly open shrubland, low woodland, especially dominated by acacias. Feeds on nectar, insects and fruit.
+|-
+| [[Slender-billed Thornbill]] || ''Acanthiza iredalei iredalei'' ||  || V || R || More likely rosinae of Gulf St Vincent area. Inhabits samphire. Feeds largely on insects.
+|-
+| [[Sooty Oystercatcher]] || ''Haematopus fuliginosus'' ||  || R || V || Widespread coastal E & S Aust. Strictly coastal, usually forage along rocky or coral coasts, but sometimes also on adjacent sandy beaches. Feeds on molluscs, crustaceans, also at times marine worms, starfish and sea urchins, and small fish.
+|-
+| [[Southern Boobook]] || ''Ninox novaeseelandiae'' ||  || C || C || Widespread in Aust. in various habitats. feeds mostly at night on on insects, small mammals (esp. mice). Mostly nest in tree hollows.
+|-
+| [[Spiny-cheeked Honeyeater]] || ''Acanthagenys rufogularis'' ||  || C || U || Widespread across Aust. Inhabits dry woodlands, mallee, acacia scrub, but more importantly for Torrens Is. coastal scrubs and occasionally mangroves .Feeds mainly on nectar, fruit, but may also eat insects, reptiles and baby birds.
+|-
+| [[Spotless Crake]] || ''Porzana tabuensis'' ||  || R || R || Australia & S Pacific. Inhabits mangroves, marsh, saltmarsh, bogs, scrub. Feeds on insects and at times berries.
+|-
+| [[Spotted Harrier]] || ''Circus assimilis'' ||  || C || C || Sparsely distributed, but widespread, its stronghold more the arid & semi-arid areas. Mostly open woodland. Hunts ground birds s(eg. quail and pipits), also mice, rats, rabbits and lizards.
+|-
+| [[Spotted Pardalote]] || ''Pardalotus punctatus punctatus'' ||  || U || U || Found E & southern Aust. Found mostly in eucalypt forests and woodlands but can occur in parks and gardens with eucalypts. Forages in tree foliage for insects, especially psyllids.
+|-
+| [[Straw-necked Ibis]] || ''Threskiornis spinicollis'' ||  || C || C || Nomadic following Aust. Rainfall events. Can be found in wet and dry grassland, pasture, crop, wetland margins. Rarely coastal shores, mudflats or mangroves. Mainly feeds on terrestrial invertebrates esp. grasshoppers, but also frogs etc.
+|-
+| [[Striated Pardalote]] || ''Pardalotus striatus'' ||  || C || C || Widespread where treed habitats, especially eucalypts. Feed in the tree top foliage on a wide variety of insects and larvae.
+|-
+| [[Stubble Quail]] || ''Coturnix pectoralis'' ||  || C || C || Ag. areas of southern Aust. Inhabits cereal crops, stubble and leafy crops, wet grasslands, coastal heaths, roadsides and neglected pastures. Feeds on seeds, green grasses, insects, caterpillars and small frogs.
+|-
+| [[Superb Fairy-wren]] || ''Malurus cyaneus leggei'' ||  || C || C || Found E & SE Aust. Most habitats with lower dense shrub cover. Feed on invertebrates.
+|-
+| [[Swamp Harrier]] || ''Circus approximans'' ||  || C || C || Widespread over Australasia. Mainly seen in fresh or salt wetlands, often in deep swamps with emergent reeds and over open water. Hunt for birds and eggs, large insects, frogs, reptiles and small mammals up to the size of hares or rabbits.
+|-
+| [[Terek Sandpiper]] || ''Xenus cinereus'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia inhabits coast in mangrove swamps, tidal mudflats, seashore. Probe shallow water and soft wet intertidal mudflalts for crustaceans and insects.
+|-
+| [[Tree Martin]] || ''Petrochelidon nigricans'' ||  || C || C || Widespread Aust. where treed, as nests in tree hollows, but can use buildings and bridges as substitute nest sites. Hawks for insects above tree tops or at times the sea.
+|-
+| [[Welcome Swallow]] || ''Hirundo neoxena'' ||  || C || C || Very widespread Aust. Distribution except forests and very arid areas. Includes city buildings, farmland, wetlands. Hawk for insects in flight.
+|-
+| [[Whimbrel]] || ''Numenius phaeopus'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia, inhabits mainly coast, on tidal and estuarine mudflats, especially near mangroves. Feed on intertidal mudflats day and night, on worms, crustaceans, occasionally fish and nestling birds.
+|-
+| [[Whiskered Tern]] || ''Chlidonias hybridus'' ||  ||  ||  || Found most regions of Aust. except arid zone. Prefers shallow terrestrial freshwater wetlands and swamps, brackish and saline lakes, floodwaters, sewage ponds, irrigated crops, large dams. Feed by hawking, dipping, or plunging mainly for small fish, amphibians, crustaceans, insects, larvae.
+|-
+| [[Whistling Kite]] || ''Haliastur sphenurus'' ||  || C || U || Widespread over Aust. Found around mostly wetlands, but also woodlands and open country. Feeds mainly on carrion, but during the breeding season takes live prey, especially rabbits and hares, fish, reptiles, birds, small mammals and invertebrates.
+|-
+| [[White-bellied Sea-Eagle]]*** || ''Haliaeetus leucogaster'' ||  || E || E || Observed on Torrens Island, 20 March 2017.
+|-
+| [[White-browed Scrub-wren]] || ''Sericornis frontalis'' ||  || C || U || Found E and southern Australia in open forest, woodland and heaths. Feeds largely on invertebrates and at times some seeds.
+|-
+| [[White-faced Heron]] || ''Egretta novaehollandiae'' ||  || C || C || Widespread, common on various wetlands large and small, around lakes, swamps, farm dams, tidal flats, salt marsh. Forages on various small aquatic animals (fish, invertebrates, frogs).
+|-
+| [[White-fronted Chat]] || ''Epthianura albifrons'' ||  || C || C || Widespread across southern Australia Common in salt marsh. Feed on insects.
+|-
+| [[White-fronted Tern]] || ''Sterna striata'' ||  ||  ||  || Found SE coastal seas and exposed rocky coasts of Aust. (&NZ). Also less so on sheltered sandy beaches of bays, harbours, estuaries. Feeds on fish on or just below water surface.
+|-
+| [[White-necked Heron]] || ''Ardea pacifica'' ||  || U || U || More likely found on inland Aust. freshwater rivers, swamps, it can migrate to the tidal coastal waters during drought. Wades through shallow water of grass feeding on fish, crustaceans, frods, insects.
+|-
+| [[White-plumed Honeyeater]] || ''Lichenostomus penicillatus'' ||  || C || C || Found E & S Aust. Inhabits open forests and woodlands (esp E. camaldulensis), often near water and wetlands, urban areas. Feeds on nectar, insects, lerps and honeydew. Nest an open cup, often in crown of tree.
+|-
+| [[White-winged Black Tern]] || ''Chlidonias leucopterus'' || M || O || O || Migratory sp. breeding in N hemisphere. In Australia widespread inhabiting coastal and sub-coastal north, east, and south-east Aust. Found on tidal estuaries, lagoons, grassy swamps, and sewage ponds. Feeds by hawking, dipping and diving for insects, spiders and fish.
+|-
+| [[White-winged Fairy-wren]] || ''Malurus leucopterus'' ||  || C ||  || Largely found inland and semi-arid coastlines of mainland Australia, with chenopod shrublands. This includes margins of salt lakes, coastal inlets and saltfields.
+|-
+| [[Willie Wagtail]] || ''Rhipidura leucophrys'' ||  || C || C || Widespread mainland Aust. Including urban areas. Mostly prefer open woodlands and forest. Actively hunt for insects on ground.
+|-
+| [[Wood Sandpiper]] || ''Tringa glareola'' ||  || R || R || Migratory sp. breeding in N hemisphere. In Australia widespread inhabiting shallow freshwater wetlands, often with other waders. Prefer areas with emergent reeds and grass, surrounded by tall plants or dead trees. Feed on aquatic insects and larvae, molluscs in moist or dry mud.
+|-
+| [[Yellow-billed Spoonbill]] || ''Platalea flavipes'' ||  || C || C || Nomadic throughout Aust. Mostly found shallow waters of freshwater wetlands such as dams, lagoons swamps, and more coastal areas. Feeds on aquatic invertebrates, sweeping the water with its bill.
+|-
+| [[Yellow-rumped Thornbill]] || ''Acanthiza chrysorrhoa'' ||  || C || C || Found E & SE Aust. Found on ground in open habitats, such as woodlands, forests, shrublands, grasslands with some trees. Also common in agricultural areas, along watercourses, beside roads. Feeds largely on ground on insects, at times seeds.
+|-
+| [[Zebra Finch]] || ''Taeniopygia guttata'' ||  || C || U || Widespread especially arid and semi-arid areas. Feed on ground on ripening grass seeds, also insects.
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{Navboxes
+|title= Birds of the Adelaide region
+|state = {{{state|autocollapse}}}
+|list =
+
+{{Seabirds}}
+{{Shorebirds}}
+{{Waterbirds}}
+{{Terrestrial birds}}
+}}
+
+{{DEFAULTSORT:Torrens Island}}
+[[Category:Bird lists of the Adelaide region]]

@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Purple-crowned Lorikeet
+| image = Purple-crowned Lorikeet (Glossopsitta porphyrocephala) -pair -nesting box-2p.jpg
+| image_width = 240px
+| image_caption = At Rainbow Jungle,<br>Kalbarri, Western Australia
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22684658 |title=''Glossopsitta porphyrocephala'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Loriinae Loriinae]
+| tribus = [https://en.wikipedia.org/wiki/Loriini Loriini]
+| genus = ''[https://en.wikipedia.org/wiki/Glossopsitta Glossopsitta]''
+| species = '''''G. porphyrocephala'''''
+| binomial = ''Glossopsitta porphyrocephala''
+| binomial_authority = (Dietrichsen, 1837)
+| range_map = Purple-crowned Lorikeet.png
+| range_map_caption = Distribution of the Purple-crowned Lorikeet
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Glossopsitta+porphyrocephala ''Atlas of Living Australia'': Purple-crowned Lorikeet]
+* [http://birdlife.org.au/bird-profile/purple-crowned-lorikeet ''Birdlife Australia'': Purple-crowned Lorikeet]
+* [https://en.wikipedia.org/wiki/Purple-crowned_lorikeet ''Wikipedia'': Purple-crowned lorikeet]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Little Lorikeet
+| image = Little Lorikeet kobble.JPG
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22684655 |title=''Glossopsitta pusilla'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Loriinae Loriinae]
+| tribus = [https://en.wikipedia.org/wiki/Loriini Loriini]
+| genus = ''[https://en.wikipedia.org/wiki/Glossopsitta Glossopsitta]''
+| species = '''''G. pusilla'''''
+| binomial = ''Glossopsitta pusilla''
+| binomial_authority = ([https://en.wikipedia.org/wiki/George_Shaw Shaw], 1790)
+| synonyms =
+| range_map = Little Lorriket.jpg
+| range_map_caption = The Distribution of the Little Lorikeet, Data from The Atlas of Living Australia
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Glossopsitta+pusilla ''Atlas of Living Australia'': Little Lorikeet]
+* [http://birdlife.org.au/bird-profile/little-lorikeet ''Birdlife Australia'': Little Lorikeet]
+* [https://en.wikipedia.org/wiki/Little_lorikeet ''Wikipedia'': Little lorikeet]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

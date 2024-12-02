@@ -1,0 +1,80 @@
+{{Documentation subpage}}
+<!-- Categories go where indicated at the bottom of this page, please; interwikis go to Wikidata (see also: [[Wikipedia:Wikidata]]) -->
+
+{{high-risk| 636,000+ }}
+{{lua|Module:Italic title}}
+
+This template italicizes page titles. Article titles cannot contain wiki-formatting, such as <code><nowiki>''</nowiki></code>, so cannot be italicized in the normal way. Instead, place this template in the article, normally at the very top. It will then have the following effect:
+
+*Titles with no [[parentheses]] <code>()</code> are fully italicised:
+**{{Nowrap|<code>Foo</code>}} &rarr; {{Nowrap|'''''Foo'''''}}
+**{{Nowrap|<code>Talk:Foo</code>}} &rarr; {{Nowrap|'''Talk:''Foo'''''}}
+*Titles which contain parentheses are italicised before the first opening parenthesis:
+**{{Nowrap|<code>Foo (bar)</code>}} &rarr; {{Nowrap|'''''Foo'' (bar)'''}}
+**{{Nowrap|<code>Talk:Foo (bar)</code>}} &rarr; {{Nowrap|'''Talk:''Foo'' (bar)'''}}
+*Italicization can be forced on parenthesized text with the {{para|all|yes}} parameter.
+
+This template should only be used in articles that meet the criteria for italic titles given in the [[Wikipedia:Article titles#Italics and other formatting|Article titles]] policy.
+
+==Usage==
+
+'''Basic usage'''
+
+<pre>{{italic title}}</pre>
+
+'''All parameters'''
+
+<pre>{{italic title|noerror|all=yes}}</pre>
+
+== Parameters ==
+
+* '''1''' - if this is set to "noerror", error messages are suppressed. See [[#Errors]] for more details.
+* '''all''' - if this is set to "yes", text in parentheses is italicized. 
+
+== Errors ==
+
+Sometimes you may see red error messages like this at the top of the page:
+
+<span class="error"><nowiki>Warning: Display title "<i>Article title (disambiguation)</i>" overrides earlier display title "<i>Article title</i> (disambiguation)".</nowiki></span>
+
+This usually means that there is another instance of <nowiki>{{italic title}}</nowiki> on the page, usually added by one of the infoboxes. Certain infoboxes, for example {{tl|infobox album}}, add <nowiki>{{italic title}}</nowiki> by default. Check the template documentation for any infobox used on the page; it may have instructions about how to deal with italic titles. You may be able to adjust the italics from the infobox instead of using <nowiki>{{italic title}}</nowiki> at the top of the article. Or if that doesn't work, you may be able to disable the infobox's italics code altogether.
+
+If you are still having problems, try putting <nowiki>{{italic title}}</nowiki> after the infobox. You can suppress the error message by using the code <code><nowiki>{{italic title|noerror}}</nowiki></code>.
+
+Technical details: this template uses the [[Wikipedia:Magic words#Behavior switches|DISPLAYTITLE magic word]] to italicize the title. Error messages can be produced by any two templates which use this magic word, and are not limited to this template. If you are unsure why you are getting a particular error message, you can ask about it at [[Wikipedia:Village pump (technical)]].
+
+== TemplateData ==
+{{TemplateDataHeader}}
+<templatedata>
+{
+	"description": "A template to italicize article titles",
+	"params": {
+		"1": {
+			"label": "Error options",
+			"description": "If set to \"noerror\", suppresses error messages. Using this is a last-ditch fix - see the template documentation for other options.",
+			"type": "string"
+		},
+		"all": {
+			"label": "All",
+			"description": "If set to \"yes\", italicization is forced on parenthesized text.",
+			"type": "string",
+			"required": false
+		}
+	}
+}
+</templatedata>
+
+==See also==
+*[[WP:ITALICTITLE]]
+*{{Tlx|Italic title prefixed}}
+*{{Tlx|Italic correction}}
+{{WrongTitleExamples}}
+Templates which use this template should display the following notice:
+*{{Tl|Auto italic title}}
+
+{{basepage subpage
+|<!-- Categories go below this line, please; interwikis go to Wikidata, thank you! -->
+[[Category:Correct title templates]]
+[[Category:Lua-based templates]]
+
+}}

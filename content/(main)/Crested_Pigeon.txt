@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Crested Pigeon
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22690676 |title=''Ocyphaps lophotes'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Crested_pigeon442.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Columbiformes Columbiformes]
+| familia = [https://en.wikipedia.org/wiki/Columbidae Columbidae]
+| genus = '''''Ocyphaps'''''
+| genus_authority = [https://en.wikipedia.org/wiki/George_Robert_Gray G.R. Gray], 1842
+| species = '''''O. lophotes'''''
+| binomial = ''Ocyphaps lophotes''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Coenraad_Jacob_Temminck Temminck], 1822)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ocyphaps+lophotes ''Atlas of Living Australia'': Crested Pigeon]
+* [http://birdlife.org.au/bird-profile/crested-pigeon ''Birdlife Australia'': Crested Pigeon]
+* [https://en.wikipedia.org/wiki/Crested_pigeon ''Wikipedia'': Crested pigeon]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

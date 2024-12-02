@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Nankeen Kestrel
+| image = Nankeen kestral.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696391 |title=''Falco cenchroides'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Falconiformes Falconiformes]
+| familia = [https://en.wikipedia.org/wiki/Falconidae Falconidae]
+| genus = ''[https://en.wikipedia.org/wiki/Falcon Falco]''
+| species = '''''F. cenchroides'''''
+| binomial = ''Falco cenchroides''
+| binomial_authority = [https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] and [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Falco+(Tinnunculus)+cenchroides ''Atlas of Living Australia'': Nankeen Kestrel]
+* [http://birdlife.org.au/bird-profile/nankeen-kestrel ''Birdlife Australia'': Nankeen Kestrel]
+* [https://en.wikipedia.org/wiki/Nankeen_kestrel ''Wikipedia'': Nankeen kestrel]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

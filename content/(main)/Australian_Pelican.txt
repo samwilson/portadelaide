@@ -1,0 +1,52 @@
+
+{{Taxobox
+| name = Australian pelican
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22697608 |title=''Pelecanus conspicillatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Pelican lakes entrance02.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelican Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/Pelican Pelecanidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pelican Pelecanus]''
+| species = '''''P. conspicillatus'''''
+| binomial = ''Pelecanus conspicillatus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Coenraad_Jacob_Temminck Temminck], 1824
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Breeding sites===
+[[File:Section Bank pelicans 01.JPG|thumb|left|The Section Bank colony, February 2013]]
+The [[Section Bank]] (also known as Bird Island), north of the Outer Harbor breakwater, now has the second largest pelican breeding colony in South Australia, with 1,200 nests in 2016.<ref>[http://www.abc.net.au/news/2016-01-29/man-made-island-provides-creche-for-pelicans-at-port-adelaide/7124782?section=sa Man-made island results in booming crèche for pelicans at Port Adelaide] ''ABC News'', 29 January 2016, Retrieved 31 January 2016.</ref> 
+
+Created by the dumping of dredge spoil since the 1970s, the low-lying artificial island is subject to storm surges, which together with fox predation, caused breeding failures in 2007-8.<ref>Worst breeding season threatens pelican's future. ''The Australian'', 28 January 2008.</ref> <ref>Pelican D-Day ''Portside Messenger'', 6 February 2008.</ref><ref>Outer Harbor pelicans outfoxed. ''Portside Messenger'', 2 July 2008.</ref> After implementation of a fox-baiting program, pelican numbers soon recovered, to more than 1200 pairs in 2010.<ref>[http://w3.unisa.edu.au/unisanews/2011/July/story2.asp Pelicans raise the alarm on water issues] ''UniSANews'', July 2011. Retrieved 1 February 2016.</ref>
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+
+==External links==
+* [http://bie.ala.org.au/species/Pelecanus+conspicillatus ''Atlas of Living Australia'': Australian Pelican]
+* [http://birdlife.org.au/bird-profile/australian-pelican ''Birdlife Australia'': Australian Pelican]
+* [https://en.wikipedia.org/wiki/Australian_pelican ''Wikipedia'': Australian pelican]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

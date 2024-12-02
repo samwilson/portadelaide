@@ -1,0 +1,50 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693709 |title=''Cladorhynchus leucocephalus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Banded stilts 2 Governors Lake Rotto email.jpg
+| image_width = 240px
+| image_caption = Banded stilts,<br>Governors Lake, [https://en.wikipedia.org/wiki/Rottnest_Island Rottnest Island]
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| genus = '''''Cladorhynchus'''''
+| genus_authority = [https://en.wikipedia.org/wiki/George_Robert_Gray G.R. Gray ], 1840
+| species = '''''C. leucocephalus'''''
+| binomial = ''Cladorhynchus leucocephalus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1816)
+|synonyms = ''Recurvirostra leucocephala'' <small>Vieillot</small><br> 
+''Recurvirostra orientalis'' <small>Cuvier, 1816</small><br>
+''Leptorhynchus pectoralis'' <small>[https://en.wikipedia.org/wiki/Bernard_du_Bus_de_Gisignies Du Bus], 1835</small><br>
+''Himantopus palmatus'' <small>Gould</small><br>
+''Cladorhynchus australis'' <small>Lawson</small><br>
+''Cladorhynchus leucocephalus rottnesti'' <small>Mathews</small><br>
+''Xiphidiorhynchus pectoralis'' <small>[https://en.wikipedia.org/wiki/Ludwig_Reichenbach Ludwig Reichenbach], 1845</small>
+|synonyms_ref = <ref name="AFD">{{cite web|url=http://www.environment.gov.au/biodiversity/abrs/online-resources/fauna/afd/taxa/Cladorhynchus_leucocephalus|title=Species ''Cladorhynchus leucocephalus'' (Vieillot, 1816)|last=Australian Biological Resources Study|date=1 March 2012|work=Australian Faunal Directory|publisher=Department of the Environment, Water, Heritage and the Arts, Australian Government|accessdate=21 June 2015|location=Canberra, Australian Capital Territory}}</ref>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Himantopus+himantopus+leucocephalus ''Atlas of Living Australia'': Banded Stilt]
+* [http://birdlife.org.au/bird-profile/banded-stilt ''Birdlife Australia'': Banded Stilt]
+* [https://en.wikipedia.org/wiki/Banded_stilt ''Wikipedia'': Banded stilt]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

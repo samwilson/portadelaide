@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Masked Woodswallow
+| image = Masked Woodswallow (15993399881).jpg
+|image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22706321 |title=''Artamus personatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Artamidae Artamidae]
+| genus = ''[https://en.wikipedia.org/wiki/Artamus Artamus]''
+| species = '''''A. personatus'''''
+| binomial = ''Artamus personatus''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1841
+| synonyms = }}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Artamus+(Campbellornis)+personatus ''Atlas of Living Australia'': Masked Woodswallow]
+* ''Birdlife Australia'': Masked Woodswallow
+* [https://en.wikipedia.org/wiki/Masked_woodswallow ''Wikipedia'': Masked woodswallow]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

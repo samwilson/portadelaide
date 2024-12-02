@@ -1,0 +1,53 @@
+{{Taxobox 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22684813 |title=''Cacatua sanguinea'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Cacatua_sanguinea_upright_crop.jpg
+| image_width = 240px
+| image_caption=In Sydney, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Cockatoo Cacatuoidea]
+| familia = [https://en.wikipedia.org/wiki/Cockatoo Cacatuidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Cacatuinae Cacatuinae]
+| tribus = [https://en.wikipedia.org/wiki/Cacatuini Cacatuini]
+| genus = ''[https://en.wikipedia.org/wiki/Cacatua Cacatua]''
+| subgenus = ''[https://en.wikipedia.org/wiki/Licmetis Licmetis]''
+| species = '''''C. sanguinea'''''
+| binomial = ''Cacatua sanguinea''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould] , 1843
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = ''C. s. sanguinea''<br>
+''C. s. normantoni''<br>
+''C. s. transfreta''<br>
+''C. s. gymnopis''
+| range_map = Bird range little corella.png
+| range_map_caption = Combined Australian range of the Little and [https://en.wikipedia.org/wiki/western_corella Western Corellas] (in red). 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cacatua+(Licmetis)+sanguinea ''Atlas of Living Australia'': Little Corella]
+* [http://birdlife.org.au/bird-profile/little-corella ''Birdlife Australia'': Little Corella]
+* [https://en.wikipedia.org/wiki/Little_corella ''Wikipedia'': Little corella]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

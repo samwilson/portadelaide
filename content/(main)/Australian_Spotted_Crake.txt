@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Australian Crake
+| image =Porzana fluminea -Coolart Wetlands, Mornington Peninsula, Victoria, Australia-8.jpg
+| image_width = 240px
+| image_caption = In Victoria, Australia
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22692680 |title=''Porzana fluminea'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Gruiformes Gruiformes]
+| familia = [https://en.wikipedia.org/wiki/Rallidae Rallidae]
+| genus = ''[https://en.wikipedia.org/wiki/Porzana Porzana]''
+| species = '''''P. fluminea'''''
+| binomial = ''Porzana fluminea''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1843
+| synonyms = 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Porzana+(Porzana)+fluminea ''Atlas of Living Australia'': Australian Spotted Crake]
+* ''Birdlife Australia'': Australian Spotted Crake
+* [https://en.wikipedia.org/wiki/Australian_crake ''Wikipedia'': Australian crake]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

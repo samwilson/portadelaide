@@ -1,0 +1,24 @@
+{| class="wikitable" style="background:transparent"
+|-
+! Template !! Involves !! Correct name !! Actual article name
+|-
+! {{tlp|Italic title}}
+| Title in italics || ''Gone with the Wind'' || [[Gone with the Wind]]
+|-
+! {{tlp|Lowercase title}}
+| Lowercase first character || eBay || [[EBay]]
+|-
+! {{tlp|Correct title|reason{{=}}bracket}} 
+| [[bracket|< > [ ] { }]] ||  <nowiki>Benzo[a]pyrene</nowiki>  || [[Benzo(a)pyrene]]
+|-
+! {{tlp|Correct title|reason{{=}}#}} 
+| [[Number sign|#]] || Pilot #5 || [[Pilot ♯5]]
+|-
+! {{tlp|Correct title|reason{{=}}:}} 
+| [[Forward slash|/]] [[colon (punctuation)|:]] || DK: King of Swing || [[DK King of Swing]]
+|-
+! {{[[meta:Help:Magic words#Miscellany|DISPLAYTITLE]]}}
+| Various || ''Batman'' (1989 film) ||[[Batman (1989 film)]]
+|}<noinclude>
+[[Category:Correct title templates|Examples]]
+</noinclude>

@@ -1,0 +1,180 @@
+{{infobox
+| bodyclass = geography vcard
+| bodystyle = width:23em
+
+| headerstyle = text-align:left
+
+| abovestyle = font-size:1.25em; white-space:nowrap; line-height: 140%;
+| above = {{br separated entries
+ |1= <span class="fn org">{{#if:{{{name|}}}|{{{name}}}|{{PAGENAME}}}}</span>
+ |2= {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}
+ }}<!--
+** names and type **
+-->{{infobox|child=yes|decat=yes<!-- Remove from [[Category:Articles which use infobox templates with no data rows]] -->
+
+| subheaderstyle = background-color:#ccffff; font-weight:bold;
+| subheader = {{{place_type}}}
+
+| rowclass1 = mergedtoprow
+| data1 = {{#if:{{both|{{{name|}}}|{{{other_names|}}}}}|''{{{other_names}}}''}}
+
+| rowclass2 = mergedtoprow
+| data2 = {{#if:{{both|{{{ind_name_lang|}}}|{{{ind_name|}}}}}|{{{ind_name_lang}}}: {{{ind_name}}} }}
+
+<!-- ***Nickname*** -->
+| rowclass3 = mergedrow
+| data3 = {{#if:{{{nickname|}}}|[[Nickname]](s): <span class="nickname">{{{nickname}}}</span>}}
+
+| rowclass4 = mergedrow
+| data4 = {{#if:{{{former_names|}}}|Former name(s): <span class="nickname">{{{former_names}}}</span>}}
+
+}}
+<!-- ***Skyline Image*** -->
+| imagestyle = padding:0.7em 0.8em
+| image = {{#if:{{{image_place|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_place}}}|size={{{imagesize|}}}|sizedefault=250px|alt={{{image_alt|}}}|title={{{image_caption|View of {{#if:{{{name|}}}|{{{name}}}|{{PAGENAME}}}}}}}}}{{#if:{{{image_caption|}}}|<br /><small>{{{image_caption}}}</small>}}}}
+
+<!-- ***Other Image*** -->
+| image2 = {{{image_oth|}}}
+
+| rowclass1 = {{#if:{{{image_place|}}}|mergedrow|mergedtoprow}}
+| label1 = Features:
+| data1 = {{{features|}}}
+
+| rowclass2 = {{#if:{{{image_place|}}}{{{features|}}}|mergedrow|mergedtoprow}}
+| label2 = Design:
+| data2 = {{{designer|}}}
+
+| rowclass3 = {{#if:{{{image_place|}}}{{{features|}}}{{{designer|}}}|mergedrow|mergedtoprow}}
+| label3 = Construction:
+| data3 = {{{construction|}}}
+
+| rowclass4 = {{#if:{{{image_place|}}}{{{features|}}}{{{designer|}}}{{{construction|}}}|mergedrow|mergedtoprow}}
+| label4 = Completion:
+| data4 = {{{complete|}}}
+
+| rowclass5 = {{#if:{{{image_place|}}}{{{features|}}}{{{designer|}}}{{{construction|}}}{{{complete|}}}|mergedrow|mergedtoprow}}
+| label5 = Opening&nbsp;date:
+| data5 = {{{open|}}}
+
+| rowclass7 = {{#if:{{{image_place|}}}{{{features|}}}{{{designer|}}}{{{construction|}}}{{{complete|}}}{{{open|}}}|mergedrow|mergedtoprow}}
+| label7 = Cost:
+| data7 = {{{cost|}}}
+
+| rowclass9 = {{#if:{{{image_place|}}}{{{features|}}}{{{designer|}}}{{{construction|}}}{{{complete|}}}{{{open|}}}{{{cost|}}}|mergedrow|mergedtoprow}}
+| label9 = Steps:
+| data9 = {{{steps|}}}
+
+| rowclass10 = mergedrow
+| label10 = Height:
+| data10 = {{{height|}}}
+
+| rowclass12 = mergedrow
+| label12 = Amenities:
+| data12 = {{{amenities|}}}
+
+| rowclass14 = mergedrow
+| label14 = Area:
+| data14 = {{{area|}}}
+
+| rowclass16 = mergedrow
+| label16 = Surface:
+| data16 = {{{surface|}}}
+
+| rowclass18 = mergedrow
+| label18 = Dedicated&nbsp;to:
+| data18 = {{{dedicated_to|}}}
+
+| rowclass19 = mergedrow
+| label19 = Owner:
+| data19 = {{{owner|}}}
+
+| rowclass20 = mergedrow
+| label20 = Manager:
+| data20 = {{{manager|}}}
+
+| rowclass25 = mergedrow
+| label25 = Location:
+| data25 = {{br separated entries
+ |1 = {{{location|}}}
+ |2 = {{#if:{{{address1|}}}||{{{address2|}}}}}
+ }}
+| rowclass27 = mergedtoprow
+| label27 = Address:
+| data27 = {{#if:{{{address1|}}}
+ |{{br separated entries
+ |1 = {{{address1|}}}
+ |2 = {{{address2|}}}
+ }}}}
+
+<!-- ***Map*** -->
+| rowclass30 = mergedtoprow
+| data30 = {{#if:{{{image_map|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map}}}|size={{{mapsize|}}}|sizedefault=250px|alt={{{map_alt|}}}|title={{{map_caption|Location of {{#if:{{{name|}}}|{{{name}}}|{{PAGENAME}}}}}}}}}{{#if:{{{map_caption|}}}|<br /><small>{{{map_caption}}}</small>}} }}
+
+
+<!--***Dot Map*** -->
+| rowclass32 = {{#if:{{{image_map|}}}|mergedrow|mergedtoprow}}
+| data32 = {{#if:{{{image_dot_map|}}}
+|<center>{{superimpose
+|base = {{{image_dot_map|}}}
+|base_width = {{#if:{{{dot_mapsize|}}}|{{{dot_mapsize|}}}|180px}}
+|base_alt = {{{dot_map_base_alt|}}}
+|base_caption = {{#if:{{{name|}}}|{{{name|}}}|{{PAGENAME}}}}
+|float = Red pog.svg
+|float_width = 9px
+|float_alt = {{{dot_map_alt|}}}
+|float_caption = {{{dot_map_caption|}}}
+|x = {{{dot_x|}}}
+|y = {{{dot_y|}}}
+}}{{#if:{{{dot_map_caption|}}}|<small>{{{dot_map_caption}}}</small>}}</center>
+}}
+
+<!-- ***Pushpin Map*** -->
+| rowclass33 = mergedtoprow
+| data33 = {{#if:{{{pushpin_map|}}}
+|<center>
+{{location map+|{{{pushpin_map|}}}
+|border = none
+|alt = {{{pushpin_map_alt|}}}
+|caption =
+|float = none
+|width = {{{pushpin_mapsize|}}}
+|default_width = 250
+|relief= {{{pushpin_relief|}}}
+|AlternativeMap = {{{pushpin_image|}}}
+|places = {{Location map~|{{{pushpin_map|}}}
+ |label = {{#ifeq: {{lc: {{{pushpin_label_position|}}} }} | none | | {{#if:{{{pushpin_label|}}}|{{{pushpin_label}}}|{{#if:{{{name|}}}|{{{name}}}|{{PAGENAME}}}}}} }}
+ |lat = {{#if:{{{latm|}}}{{{latNS|}}}| |{{{latd|}}} }}
+ |long = {{#if:{{{longm|}}}{{{longEW|}}}| |{{{longd|}}} }}
+ |lat_deg={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}} }}
+ |lat_min={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}} }}
+ |lat_sec={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}} }}
+ |lat_dir={{{latNS|}}}
+ |lon_deg={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}} }}
+ |lon_min={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}} }}
+ |lon_sec={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}} }}
+ |lon_dir={{{longEW|}}}
+ |marksize =6
+ |position = {{{pushpin_label_position|}}}
+ }}
+}}{{#if:{{{pushpin_map_caption|}}}|<small>{{{pushpin_map_caption}}}</small>|{{#if:{{{map_caption|}}}|<small>{{{map_caption}}}</small>}}}}
+</center>}}
+
+<!-- ***Coordinates*** -->
+| rowclass40 = {{#if:{{{image_map|}}}{{{pushpin_map|}}}{{{image_dot_map|}}}|mergedbottomrow}}
+| data40 = {{#if:{{both|{{{latd|}}}|{{{longd|}}}}}
+  |Coordinates{{#if:{{{coor_pinpoint|{{{coor_type|}}}}}}|&#32;({{{coor_pinpoint|{{{coor_type|}}}}}})|}}: {{Geobox coor|{{{latd|}}}|{{{latm|}}}|{{{lats|}}}|{{{latNS|}}}|{{{longd|}}}|{{{longm|}}}|{{{longs|}}}|{{{longEW|}}}|{{#if:{{{coordinates_type|}}}|{{{coordinates_type}}}|type:landmark{{#if:{{{coordinates_region|}}}|_region:{{{coordinates_region}}}}}}} |{{#ifeq:{{{coordinates_display|}}}|inline|μ|{{#if:{{{coordinates_display|}}}|title|μ}}}}={{{coordinates_display|}}}}} {{{coordinates_footnotes|}}}
+}}
+
+<!-- ***Website*** -->
+| rowclass65 = mergedtoprow
+| label65 = Website
+| data65 = {{#if:{{{website|}}}|{{{website}}}}}
+
+<!-- ***Footnotes*** -->
+| belowstyle = text-align:left; font-size:smaller
+| belowrowclass = mergedtoprow
+| below = {{{footnotes|}}}
+
+}}<noinclude>
+{{Documentation}}
+</noinclude>

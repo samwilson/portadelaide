@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Black Falcon
+| image = Falco subniger.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22696484 |title=''Falco subniger'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Falconiformes Falconiformes]
+| familia = [https://en.wikipedia.org/wiki/Falconidae Falconidae]
+| genus = ''[https://en.wikipedia.org/wiki/Falcon Falco]''
+| species = '''''F. subniger'''''
+| binomial = ''Falco subniger''
+| binomial_authority = [https://en.wikipedia.org/wiki/George_Robert_Gray Gray], 1843
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Falco+(Hierofalco)+subniger ''Atlas of Living Australia'': Black Falcon]
+* [http://birdlife.org.au/bird-profile/black-falcon ''Birdlife Australia'': Black Falcon]
+* [https://en.wikipedia.org/wiki/Black_falcon ''Wikipedia'': Black falcon]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

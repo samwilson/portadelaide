@@ -1,0 +1,8 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Victoria (Australia)
+| shortname alias = Victoria
+| flag alias = Flag of Victoria (Australia).svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+}}

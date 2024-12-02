@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Ruddy turnstone
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693336 |title=''Arenaria interpres'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Arenaria interpres (habitus).jpg
+| image_width = 240px
+| image_caption = Adult in breeding plumage.
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Turnstone Arenaria]''
+| species = '''''A. interpres'''''
+| binomial = ''Arenaria interpres''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Arenaria+interpres ''Atlas of Living Australia'': Ruddy Turnstone]
+* [http://birdlife.org.au/bird-profile/ruddy-turnstone ''Birdlife Australia'': Ruddy Turnstone]
+* [https://en.wikipedia.org/wiki/Ruddy_turnstone ''Wikipedia'': Ruddy turnstone]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,43 @@
+{{Taxobox
+| image = Prat - Christopher Watson.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22694157 |title=''Stiltia isabella'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Glareolidae Glareolidae]]
+| genus = '''Stiltia'''
+| genus_authority = [https://en.wikipedia.org/wiki/George_Robert_Gray G.R. Gray], 1855
+| species = '''''S. isabella'''''
+| binomial = ''Stiltia isabella''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1816)
+| synonyms = 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Stiltia+isabella ''Atlas of Living Australia'': Australian Pratincole]
+* [http://birdlife.org.au/bird-profile/australian-pratincole ''Birdlife Australia'': Australian Pratincole]
+* [https://en.wikipedia.org/wiki/Australian_pratincole ''Wikipedia'': Australian pratincole]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

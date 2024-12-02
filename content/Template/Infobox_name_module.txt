@@ -1,0 +1,47 @@
+{{ infobox
+| child     = yes
+| decat     = yes <!-- remove from template:infobox tracking categories -->
+| title     = 
+
+| label1    = Original title
+|  data1    = {{#if: {{{original|}}}|''{{{original|}}}''}}
+
+| label2    = [[Traditional Chinese characters|Traditional]]
+|  data2    = {{#if:{{{traditional|{{{fanti|}}}}}}|<big>{{{traditional|{{{fanti|}}}}}}</big>}}
+| label3    = [[Simplified Chinese characters|Simplified]]
+|  data3    = {{#if:{{{simplified|{{{jianti|}}}}}}|<big>{{{simplified|{{{jianti|}}}}}}</big>}}
+| label4    = [[Chinese characters|Chinese]]
+|  data4    = {{#if:{{{chinese|{{{Chinese|}}}}}}|<big>{{{chinese|{{{Chinese|}}}}}}</big>}}
+| label5    = [[Pinyin|Mandarin]]
+|  data5    = {{{pinyin|}}}
+| label6    = [[Jyutping|Cantonese]]
+|  data6    = {{{jyutping|}}}
+| label7    = [[Pe̍h-ōe-jī|Hokkien]]
+|  data7    = {{{poj|}}}
+
+| label8    = [[Japanese language|Japanese]]
+|  data8    = {{#if: {{{kanji|}}}|<span class="t_nihongo_kanji" lang="ja">{{{kanji|}}}</span>}}{{#if: {{{kana|}}}|<span class="t_nihongo_kanji" lang="ja">{{{kana|}}}</span>}}
+| label9    = [[Hepburn romanization|Hepburn]]
+|  data9    = {{#if: {{{romaji|}}}|''{{{romaji|}}}''}}
+
+| label10   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[Hangul|Chos&#335;n'g&#365;l]]|#default=[[Hangul]]}}
+|  data10   = {{#if: {{{hangul|}}}|{{lang|ko-Hang|{{{hangul}}} }} }}
+| label11   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[Hanja|Hancha]]|#default=[[Hanja]]}}
+|  data11   = {{#if: {{{hanja|}}}|{{#ifeq: {{{hanja|}}}|!|<noinclude>!</noinclude>|{{lang|ko-Hani|{{{hanja}}} }} }} }}
+| label12   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[McCune–Reischauer]]|#default=[[Revised Romanization of Korean|Revised Romanization]]}}
+|  data12   = {{#if: {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{mr|}}}|#default={{{rr|}}} }}|''{{transl|ko|{{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{mr}}}|#default={{{rr}}} }} }}''}}
+| label13   = {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk=[[Revised Romanization of Korean|Revised Romanization]]|#default=[[McCune–Reischauer]]}}
+|  data13   = {{#if: {{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{rr|}}}|#default={{{mr|}}} }}|''{{transl|ko|{{#switch: {{lc:{{{context|}}}}}|n|nk|north|dprk={{{rr}}}|#default={{{mr}}} }} }}''}}
+
+| label14   = [[Vietnamese language|Vietnamese]]
+|  data14   = {{#if:{{{chuquocngu|}}}|{{lang|vi|''{{{chuquocngu|}}}''}}}}
+| label15   = [[Hán-Nôm]]
+|  data15   = {{#if:{{{han-nom|}}}|{{vi-nom|{{{han-nom|}}}}}}}
+
+| label16   = Literally
+|  data16   = {{#if: {{{translation|}}}|''{{{translation|}}}''}}
+}}<noinclude>{{documentation}}
+
+<!-- Add cats and interwikis to the /doc subpage -->
+
+</noinclude>

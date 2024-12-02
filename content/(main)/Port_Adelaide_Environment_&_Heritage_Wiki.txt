@@ -1,0 +1,104 @@
+
+[[File:Port Adelaide 1846.jpg|thumb|400px|Port Adelaide, lithograph based on a drawing by George French Angas, 1846. (SLSA)]]
+
+==About the Wiki==
+The '''''Port Adelaide Environment & Heritage Wiki''''' was started on 17 May 2015 on behalf of the Port of Adelaide Branch of the National Trust of South Australia, and is still under construction. 
+
+It's been created because [[Port Adelaide Wiki:About|''Wikipedia'' has a number of shortcomings]], particularly in scaling down to the local level, and in capturing local content in an integrated way.
+
+It also faces other criticisms - see, for example, [http://www.abc.net.au/news/2016-03-07/women-erased-from-history-on-wikipedia/7225556 Why women are missing from history on Wikipedia] ''ABC News'', 7 March 2016.
+
+===Wiki functionality===
+
+This wiki uses the same basic software as ''Wikipedia'' and shares a lot of the same functionality, so users will find much that is familiar, including page layout, site navigation and editing functions. 
+
+Over time we hope to train and build a community of contributors to build up this shared resource. so that others can learn, appreciate and enjoy the rich cultural, social and natural heritage values of Port Adelaide and the surrounding region.
+
+Basic training sessions in editing the wiki are being held at the Port Adelaide Library.
+To register your interest, please contact Meredith Blundell, the [http://www.portenf.sa.gov.au/page.aspx?u=2357 Local History Officer at the Port Adelaide Library].
+
+[[File:Hsa-hf16-logo-mono.png|300px|right|]]
+
+==PAW anniversary event==
+As part of the [http://historyfestival.sa.gov.au/ 2016 SA History Festival] the '''Port Adelaide Wiki: One Year On''' event was held at the Port Adelaide Library on 19 May 2016, to mark our first anniversary.
+
+==Project areas==
+
+===Birds of Port Adelaide===
+Fully structured article stubs ready for addition of text and more photos:
+{{Navboxes
+|title= Birds of the Adelaide region
+|state = {{{state|collapsed}}}
+|list =
+
+{{Seabirds}}
+{{Shorebirds}}
+{{Waterbirds}}
+{{Terrestrial birds}}
+}}
+
+===Topic areas under construction===
+{{Navboxes
+|title= Ships of Port Adelaide
+|state = {{{state|collapsed}}}
+|list =
+
+{{Ketches of the Mosquito Fleet}}
+{{Ships of Port Adelaide}}
+}}
+
+{{Navboxes
+|title= Social history of Port Adelaide
+|state = {{{state|collapsed}}}
+|list =
+
+{{People of Port Adelaide}}
+{{Names on the Workers' Memorial, Port Adelaide}}
+{{Names on the WWI Memorial, St Alban's}}
+{{Names on the WWI Memorial, St Paul's}}
+{{Trade Unions of Adelaide}}
+{{Community groups of Port Adelaide}}
+
+}}
+
+{{Navboxes
+|title= Buildings and structures of Port Adelaide
+|state = {{{state|collapsed}}}
+|list =
+
+{{Bridges in Port Adelaide}}
+{{Churches in Port Adelaide}}
+{{Monuments and public artworks of Port Adelaide}}
+{{Public buildings Port Adelaide}}
+{{Pubs in Port Adelaide}}
+}}
+
+{{Navboxes
+|title= Places of Port Adelaide
+|state = {{{state|collapsed}}}
+|list =
+
+{{Places}}
+{{Protected Areas of Northern and Western Adelaide}}
+}}
+
+{{Navboxes
+|title= Events of Port Adelaide
+|state = {{{state|collapsed}}}
+|list =
+
+{{Maritime Events}}
+{{Storms and floods}}
+}}
+
+===Lists created===
+* [[Bird species list for Adelaide Airport]]
+* [[Bird species list for Torrens Island]]
+* [[List of ketches of the Mosquito Fleet]]
+* [[List of Mayors of Port Adelaide]]
+* [[List of names on the Workers' Memorial, Port Adelaide]]
+* [[List of names on the WWI Honour Roll, St Alban's, Largs Bay]]
+* [[List of names on the WWI Memorial, St Paul's]]
+* [[List of names of internees at the Torrens Island Concentration Camp]]
+* [[Reptile and Amphibian species list for Torrens Island]]
+* [[Plant species list for Torrens Island]]

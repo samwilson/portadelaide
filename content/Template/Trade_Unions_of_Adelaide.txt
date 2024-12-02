@@ -1,0 +1,66 @@
+
+{{Navbox
+|name       = Trade Unions of Adelaide
+|title      = Trade Unions of Adelaide and Port Adelaide
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = 19th Century
+|list1      = 
+* [[Adelaide Storemen, Porters', and Packers' Union]]
+* [[Adelaide, Suburban, and Port-road Drivers' Association]]
+* [[Amalgamated Shearers' Union of Australasia]]
+* [[Amalgamated Society of Carpenters and Joiners]]
+* [[Amalgamated Society of Engineers]]
+* [[Boilermakers and Iron Ship Builders' Society]]
+* [[Bootmakers' Union]]
+* [[Brickyard Employés' Association]]
+* [[Builders' Laborers' Society]]
+* [[Certificated Enginedrivers' Association]]
+* [[Clickers' Society]]
+* [[Coachmakers' Society]]
+* [[Coasting Seamen's Union]]
+* [[Dry Creek Smelters' Association]]
+* [[Eight Hours Protective Association]]
+* [[Federated Seamen's Union]]
+* [[Felt Hatters' Society]]
+* [[Furniture Trade Society]]
+* [[Gas Company's Employés' Association]]
+* [[Ironmoulders' Society]]
+* [[Journeymen Butchers' Union]]
+* [[Licenced Carters' Association]]
+* [[Marine Officers' Association]]
+* [[Operative Masons' and Bricklayers' Association]]
+* [[Operative Painters' and Paperhangers' Society]]
+* [[Plasterers' Society]]
+* [[Plumbers, Gasfitters. and Galvanized Ironworkers' Society]]
+* [[Port Adelaide Drivers' Association]]
+* [[Port Adelaide Sailmakers' Society]]
+* [[Port Adelaide Sawmills and Timber Yard Employés' Association]]
+* [[Port Adelaide Smelters Employés' Union]]
+* [[Progressive Society of Carpenters and Joiners]]
+* [[Port Adelaide Storemen's Association]]
+* [[Railway Service Association]]
+* [[Retail Assistants' Association]]
+* [[Saddlers and Harnessmakers' Society]]
+* [[Shipwrights' Association]]
+* [[Stewards and Cooks' Union]]
+* [[Tailors' Society]]
+* [[Tanners and Curriers' Union]]
+* [[Tinsmiths' Union]]
+* [[Tobacco Twisters' Society]]
+* [[Trades and Labor Council]]
+* [[Tramway Employés' Association]]
+* [[Typographical Society]]
+* [[United Ironworkers' Assistants' Society]]
+* [[United Millers and Mill Employés' Society]]
+* [[United Sawmills and Timberyard Employés' Association]]
+* [[Working Men's Association]]
+
+|group2     = 20th Century
+|list2      = 
+* [[]]
+* [[]]
+
+}}

@@ -1,0 +1,16 @@
+[http://reptile-database.reptarium.cz/species.php?genus={{{genus}}}&species={{{species}}} ''{{{genus}}} {{{species}}}''] at the [http://reptile-database.reptarium.cz/ Reptarium.cz Reptile Database]{{
+  #if: {{{accessdate|<noinclude>DEMO</noinclude>}}}
+  | . Accessed {{{accessdate}}}.
+  | {{ #ifeq: {{{date|+}}}|{{{date|-}}}|. Accessed {{{date}}} {{{year}}}.|}}
+}}<noinclude>
+
+==See also==
+* [[Template:NRDB family]]
+* [[Template:NRDB genus]]
+* [[:commons:Template:ReptileDB species]]
+
+[[Category:Snake templates|{{PAGENAME}}]]
+[[Category:Biology external link templates|{{PAGENAME}}]]
+
+
+</noinclude>

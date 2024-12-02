@@ -1,0 +1,47 @@
+{{Documentation subpage}}
+<tt>Country_data</tt> templates are also available for the [[states and territories of Australia]]:
+{| style="background-color:#ecfcf4"
+|-
+| [[Template:Country data Australian Capital Territory]] || {{flag|Australian Capital Territory}}
+|-
+| [[Template:Country data New South Wales]] || {{flag|New South Wales}}
+|-
+| [[Template:Country data Northern Territory]] || {{flag|Northern Territory}}
+|-
+| [[Template:Country data Queensland]] || {{flag|Queensland}}
+|-
+| [[Template:Country data South Australia]] || {{flag|South Australia}}
+|-
+| [[Template:Country data Tasmania]] || {{flag|Tasmania}}
+|-
+| [[Template:Country data Victoria]] || {{flag|Victoria}}
+|-
+| [[Template:Country data Western Australia]] || {{flag|Western Australia}}
+|}<includeonly>
+[[Category:Country data templates of countries|Australia]]
+[[Category:Country data templates of Australia| ]]
+[[af:Sjabloon:Landdata Australië]]
+[[ar:قالب:معطيات أستراليا]]
+[[arz:قالب:Country data Australia]]
+[[as:সাঁচ:Country data অষ্ট্ৰেলিয়া]]
+[[bat-smg:Šabluons:Country data Australėjė]]
+[[bn:টেমপ্লেট:Country data অস্ট্রেলিয়া]]
+[[ckb:داڕێژە:Country data Australia]]
+[[dv:ފަންވަތް:Country data Australia]]
+[[eu:Txantiloi:Herrialde info Australia]]
+[[fr:Modèle:Country data Australie]]
+[[hu:Sablon:Country data Ausztrália]]
+[[id:Templat:Country data Australia]]
+[[is:Snið:Country data Ástralía]]
+[[ml:ഫലകം:Country data ഓസ്ട്രേലിയ]]
+[[mzn:شابلون:Country data استرالیا]]
+[[or:ଛାଞ୍ଚ:Country data Australia]]
+[[pl:Szablon:Państwo dane Australia]]
+[[pt:Predefinição:Country data Austrália]]
+[[ro:Format:Country data Australia]]
+[[sl:Predloga:Podatki države Avstralija]]
+[[ta:வார்ப்புரு:நாட்டுத் தகவல் ஆத்திரேலியா]]
+[[te:మూస:Country data Australia]]
+[[uz:Andoza:Country data Australia]]
+[[zh:Template:Country data Australia]]
+</includeonly>

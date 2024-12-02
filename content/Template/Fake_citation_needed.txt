@@ -1,0 +1,7 @@
+{{fake fix
+|link=Wikipedia:Citation needed
+|text=citation needed
+}}<noinclude>
+{{Documentation}}
+<!--Categories and interwikis go on the /doc subpage.-->
+</noinclude>

@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Glossy Ibis
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22697422 |title=''Plegadis falcinellus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2014.3 |year=2012 |accessdate=29 November 2014}}</ref>
+| image = Plegadis falcinellus (aka) background blurred.jpg
+| image_width = 240px
+| image_caption = Non-breeding plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes] 
+| familia = [https://en.wikipedia.org/wiki/Threskiornithidae Threskiornithidae]
+| genus = ''[https://en.wikipedia.org/wiki/Plegadis Plegadis]''
+| species = '''''P. falcinellus'''''
+| binomial = ''Plegadis falcinellus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1766
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Plegadis+falcinellus ''Atlas of Living Australia'': Glossy Ibis]
+* [http://birdlife.org.au/bird-profile/glossy-ibis ''Birdlife Australia'': Glossy Ibis]
+* [https://en.wikipedia.org/wiki/Glossy_ibis ''Wikipedia'': Glossy ibis]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,42 @@
+{{Taxobox
+| image = Sterna striata -Bayswater, Auckland City, New Zealand -adults and nest-8.jpg
+| image_width = 240px
+| image_caption=A pair and their nest at Bayswater, Auckland City, New Zealand
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694607 |title=''Sterna striata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = '' [https://en.wikipedia.org/wiki/Sterna Sterna] ''
+| species = '''''S. striata'''''
+| binomial = ''Sterna striata''
+| binomial_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Sterna+(Sterna)+striata ''Atlas of Living Australia'': White-fronted Tern]
+* [http://birdlife.org.au/bird-profile/white-fronted-tern ''Birdlife Australia'': White-fronted Tern]
+* [https://en.wikipedia.org/wiki/White-fronted_tern ''Wikipedia'': White-fronted tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,53 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693970 |title=''Vanellus miles'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Australia Cairns 03.jpg
+| image_width = 240px
+| image2 = Vanellus miles novaehollandiae.jpg
+| image2_width = 240px
+| image2_caption = ''V. m. miles'' (above)<br>''V. m. novaehollandiae'' (below) 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Charadriidae Charadriidae]
+| genus = ''[https://en.wikipedia.org/wiki/Vanellus Vanellus]''
+| species = '''''V. miles'''''
+| binomial = ''Vanellus miles''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Pieter_Boddaert Boddaert], 1783)
+| subdivision_ranks = Subspecies
+| subdivision =
+*''V. m. miles''
+*''V. m. novaehollandiae''
+| synonyms =
+''Hoplopterus miles'' <small>(Boddaert, 1783)</small><br />
+''Lobibyx miles'' <small>(Boddaert, 1783)</small><br />
+''Lobivanellus miles'' <small>(Boddaert, 1783)</small><br />
+''Tringa miles'' <small>Boddaert, 1783</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Vanellus+(Lobipluvia)+miles ''Atlas of Living Australia'': Masked Lapwing]
+* [http://birdlife.org.au/bird-profile/masked-lapwing ''Birdlife Australia'': Masked Lapwing]
+* [https://en.wikipedia.org/wiki/Masked_lapwing ''Wikipedia'': Masked lapwing]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

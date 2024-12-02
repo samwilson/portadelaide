@@ -1,0 +1,43 @@
+{{Infobox monument
+|monument_name = 
+|native_name   = 
+|image         = WWI Memorial, St Paul's.jpg
+|caption       = 
+|coordinates   = 
+|location      = St Paul's Anglican Church, facing St Vincent Street
+|designer      = 
+|type          =
+|material      = Brass
+|length        =
+|width         =
+|height        =
+|begin         = 
+|complete      = 
+|open          = 
+|dedicated_to  = Commemoration of WWI casualties
+|map_image     = portadelaide-inner
+|map_text      = Location in Port Adelaide
+|map_width     = 
+|relief        =
+|latd  = 34 |latm  = 50 |lats  = 42.63 |latNS  = S 
+|longd = 138 |longm = 30 |longs = 8.95 |longEW = E 
+|extra         =
+}}
+
+{{main list|List of names on the WWI Memorial, St Paul's}}
+
+==History==
+
+
+
+
+
+
+
+
+
+
+
+
+{{Names on the WWI Memorial, St Paul's}}
+{{Monuments and public artworks of Port Adelaide}}

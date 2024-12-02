@@ -1,0 +1,23 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Purpose ==
+This template is used to add an [[IMO numbers|IMO number]] to a ship article's infobox, and to add the article to [[:Category:IMO Number]]. It additionally links the IMO number to [http://www.marinetraffic.com Marinetraffic.com].
+
+This template is intended to be used in the {{para|Ship identification}} field in {{tl|Infobox ship career}}.
+
+== Usage ==
+The only parameter in the template is the ship's IMO number:
+
+<tt><nowiki>
+{{IMO Number|imo}}
+</nowiki></tt>
+
+Example: for the article on [[Black Watch (ship)|''Black Watch'']], <tt><nowiki>{{IMO Number|7108930}}</nowiki></tt> results in {{IMO Number|7108930}}.
+
+== See also ==
+{{Psix name/related}}
+<includeonly>
+[[Category:Ship templates]]
+[[Category:IMO Number|*]]
+</includeonly>

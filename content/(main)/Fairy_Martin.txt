@@ -1,0 +1,43 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22712463 |title=''Hirundo ariel'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Fairy Martin (6084093165).jpg
+| image_width = 240px
+| image_caption =
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Hirundinidae Hirundinidae]
+| genus = ''[https://en.wikipedia.org/wiki/Petrochelidon Petrochelidon]''
+| species = '''''P. ariel'''''
+| binomial = ''Petrochelidon ariel''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1843)
+| synonyms =''Hirundo ariel''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Hirundo+ariel ''Atlas of Living Australia'': Fairy Martin]
+* [http://birdlife.org.au/bird-profile/fairy-martin ''Birdlife Australia'': Fairy Martin]
+* [https://en.wikipedia.org/wiki/Fairy_martin ''Wikipedia'': Fairy martin]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

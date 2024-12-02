@@ -1,0 +1,6 @@
+{{#switch:{{lc:{{{1|}}}}}
+ |add|added |affirm|affirmed |include|included |on |true |yes |y = {{{2|}}}
+ | #default = {{{3|}}}
+}}<noinclude>
+{{Documentation}}
+</noinclude>

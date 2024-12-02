@@ -1,0 +1,7 @@
+{{ mbox
+| type       = notice
+| image      = {{#ifeq:{{{small|}}}|yes|none|[[file:Blue check.svg|30px|link=|alt=]]}}
+| imageright = {{#if:{{{1|}}}|{{Ombox/shortcut|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}}}}
+| text       = {{#ifeq:{{{small|}}}|yes|This [[Wikipedia:Policies and guidelines#guide|guideline]] is part of the English Wikipedia's {{#ifeq:{{FULLPAGENAME}}|Wikipedia:Manual of Style|Manual of Style|[[Wikipedia:Manual of Style|Manual of Style]]}}. [[Wikipedia:What "Ignore all rules" means#Use common sense|Use common sense]] in applying it, as it will have [[Wikipedia:Ignore all rules|occasional exceptions]]. Please ensure that any [[Wikipedia:Policies and guidelines#Content changes|edits to this page]] reflect [[Wikipedia:Consensus|consensus]].|'''This [[Wikipedia:Policies and guidelines#guide|guideline]] is a part of the English Wikipedia's {{#ifeq:{{FULLPAGENAME}}|Wikipedia:Manual of Style|Manual of Style|[[Wikipedia:Manual of Style|Manual of Style]]}}'''. [[Wikipedia:What "Ignore all rules" means#Use common sense|Use common sense]] in applying it; it will have [[Wikipedia:Ignore all rules|occasional exceptions]]. Please ensure that any [[Wikipedia:Policies and guidelines#Content changes|edits to this page]] reflect [[Wikipedia:Consensus|consensus]].}}
+| small      = {{{small|}}}
+}}<noinclude>{{documentation}}<!-- Add categories and interwikis to the /doc subpage, not here! --></noinclude>

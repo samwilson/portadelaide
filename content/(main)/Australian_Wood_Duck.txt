@@ -1,0 +1,50 @@
+{{Taxobox
+| name = Australian Wood Duck
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22680111 |title=''Chenonetta jubata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Chenonetta jubata female 2.jpg
+| image_width = 240px
+| image_caption = Adult female
+| image2 = Australian wood duck - male.jpg
+| image2_width = 240px
+| image2_caption = Adult male
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Anatinae Anatinae] or [https://en.wikipedia.org/wiki/Tadorninae Tadorninae]
+| genus = '''''Chenonetta'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_von_Brandt Brandt], 1836
+| species = '''''C. jubata'''''
+| binomial = ''Chenonetta jubata''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+| range_map = Chenonetta jubata distribution map.png
+| range_map_caption = Range in red
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Chenonetta+jubata ''Atlas of Living Australia'': Australian Wood Duck]
+* [http://birdlife.org.au/bird-profile/Australian-Wood-Duck ''Birdlife Australia'': Australian Wood Duck]
+* [https://en.wikipedia.org/wiki/Australian_wood_duck ''Wikipedia'': Australian wood duck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

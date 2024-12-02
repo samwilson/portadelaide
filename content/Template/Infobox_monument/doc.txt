@@ -1,0 +1,82 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+== Usage ==
+Copy and paste the template below:
+
+{| style="background: transparent;"
+|
+<pre>
+{{Infobox monument
+|monument_name = 
+|native_name   = 
+|image         = 
+|caption       = 
+|coordinates   = 
+|location      = 
+|designer      =
+|type          =
+|material      =
+|length        =
+|width         =
+|height        =
+|begin         =
+|complete      = 
+|open          =
+|dedicated_to  =
+|map_image     = 
+|map_text      = 
+|map_width     = 
+|relief        =
+|latd  = |latm  = |lats  = |latNS  = 
+|longd = |longm = |longs = |longEW = 
+|lat           = 
+|long          = 
+|extra         =
+}}
+</pre>
+|}
+
+==Parameter descriptions==
+* monument_name= Name of monument
+* native_name= Native name of monument
+* image= Filename of monument's image
+* caption= Text for caption beneath image
+* coordinates= Latitude and longitude
+: i.e. <nowiki>{{coord|50|01|01|N|90|01|01|W|region:US_type:landmark|display=inline,title}}</nowiki>
+* location= Area where located (San Francisco, Indiana-Kentucky State Line)
+* designer = Monument designer (Isambard Kingdom Brunel)
+* type= Type of monument ([[obelisk]], [[megalithic]], [[tomb]], [[mausoleum]], [[tumulus]], [[victory column]], [[triumphal arch]])
+* material = Construction material (concrete, steel, iron, stone, brick, wood)
+* length= Length of monument, w/ conversions
+* with= Width of monument, w/ conversions
+* height= Height of monument, w/ conversions
+* begin= Beginning date of construction
+* complete= Completion date
+* open= Opening date
+* dedicated_to = Dedicated to
+* map_image= Name of monument's location map
+* map_text= Caption of monument's map image
+* map_width= Map width in a standard value (pixels, for example) without the "px" suffix 
+* relief= Displays a physical location map (if available), instead of the default blank administrative location map
+<!--Use  always 
+latd, latm, lats, latNS and 
+longd, londm, longs, lobgEW 
+parameters when map_image is selected  -->
+* latd  = , latm  = , lats  = , latNS  = ,
+* longd = , longm = , longs = , longEW = 
+* lat= Latitude
+* long= Longitude
+: (use either coordinates= or both lat= and long=; using {{tl|coord}} emits a [[geo microformat]])
+* extra = Spare field for additional information
+
+==Microformat==
+{{UF-hcard-geo}}
+
+== See also ==
+{{Buildings and structures infobox templates}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Buildings and structures infobox templates|Monument]]
+[[Category:Templates generating hCards]]
+}}</includeonly>

@@ -1,0 +1,14 @@
+<includeonly>{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}{{#if:{{{disp|}}}
+  |{{#switch:{{lc:{{{disp}}}}}
+     <!-- |short=&nbsp;[[Net register tonnage|NRT]] -->
+     |long=&nbsp;{{#ifeq:{{{link|}}}|off|net register tons&nbsp;(NRT)|[[Net register tonnage{{!}}net register tons&nbsp;(NRT)]]}}
+     |adj=-{{#ifeq:{{{link|}}}|off|net register ton&nbsp;(NRT)|[[Net register tonnage{{!}}net register ton&nbsp;(NRT)]]}}
+     |#default=&nbsp;{{#ifeq:{{{link|}}}|off|NRT|[[Net register tonnage{{!}}NRT]]}} {{red|1=&#32;<code>&#124;disp={{{disp}}}}}</code>
+     }}
+|&nbsp;{{#if:{{{first|}}}<!-- Deprecated parameter retained for legacy compatibility -->
+  |{{#switch:{{lc:{{{first|}}}}}
+     |short=[[Net register tonnage|NRT]]
+     |off=net register tons
+     |#default=[[Net register tonnage|net register tons&nbsp;(NRT)]]
+     }}
+|{{#ifeq:{{{link|}}}|off|NRT|[[Net register tonnage{{!}}NRT]]}}}}}}</includeonly><noinclude>{{template doc}}</noinclude>

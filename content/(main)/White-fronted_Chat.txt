@@ -1,0 +1,50 @@
+{{Taxobox
+| name = White-fronted Chat
+| image_width = 240px
+| image = Epthianura albifrons male - Orielton Lagoon.jpg
+| image_caption = male
+| image2 = Epthianura albifrons - Orielton Lagoon.jpg
+| image2_width = 240px
+| image2_caption = female
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=iucn>{{IUCN|id=22704484 |title=''Epthianura albifrons'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Meliphagidae Meliphagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Epthianura Epthianura]''
+| species = '''''E. albifrons'''''
+| binomial = ''Epthianura albifrons''
+| binomial_authority = ([https://en.wikipedia.org/wiki/William_Jardine_(naturalist) Jardine] & Selby, 1828)
+|synonyms_ref = <ref name=AFD>{{cite web|url=http://www.environment.gov.au/topics/science-and-research/abrs/databases-and-online-resources/taxa/Epthianura_(Epthianura)_albifrons |title=Species Epthianura (Epthianura) albifrons (Jardine & Selby, 1828)|last=Department of the Environment, Water, Heritage and the Arts|date=30 August 2011|work=Australian Biological Resources Study: Australian Faunal Directory|publisher=Commonwealth of Australia|accessdate=1 April 2014}}</ref>
+| synonyms = ''Acanthiza albifrons'' Jardine & Selby<br>
+''Fluvicola leucocephala'' Lesson<br>
+''Cinura torquata'' Brehm 
+ }}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Epthianura+(Epthianura)+albifrons ''Atlas of Living Australia'': White-fronted Chat]
+* [http://birdlife.org.au/bird-profile/white-fronted-chat ''Birdlife Australia'': White-fronted Chat]
+* [https://en.wikipedia.org/wiki/White-fronted_chat ''Wikipedia'': White-fronted chat]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

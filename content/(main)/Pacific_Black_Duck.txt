@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Pacific Black Duck
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22680217 |title=''Anas superciliosa'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Pacific Black Duck (Anas superciliosa) RWD2.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Anatinae Anatinae]
+| genus = ''[https://en.wikipedia.org/wiki/Anas Anas]''
+| species = '''''A. superciliosa'''''
+| binomial = ''Anas superciliosa''
+| binomial_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 
+* ''A. s. superciliosa''<br /><small>(New Zealand Grey Duck)</small>
+* ''A. s. rogersi''<br /><small>(Australasian Duck)</small>
+* ''A. s. pelewensis''<br /><small>(Island Black Duck)</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Anas+(Anas)+superciliosa ''Atlas of Living Australia'': Pacific Black Duck]
+* [http://birdlife.org.au/bird-profile/pacific-black-duck ''Birdlife Australia'': Pacific Black Duck]
+* [https://en.wikipedia.org/wiki/Pacific_black_duck ''Wikipedia'': Pacific black duck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

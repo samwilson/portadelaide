@@ -1,0 +1,13 @@
+* <span id="csdoc_editors" />'''editor-last''': Surname of editor. Do not wikilink—use '''editor-link''' instead. Where the surname is usually written first—as in Chinese—or for corporate authors, simply use '''editor-last''' to include the same format as the source. Aliases: '''editor-last1''', '''editor-surname''', '''editor-surname1''', '''editor''', '''editor1'''.
+** '''editor-first''': Given or first names of editor, including title(s); example: ''Firstname Middlename'' or ''Firstname M.'' or ''Dr. Firstname M., Sr.'' Do not wikilink—use '''editor-link''' instead.  Aliases: '''editor-first1''', '''editor-given''', '''editor-given1'''.
+**OR: for multiple editors, use '''editor-last1''', '''editor-first1'''  through '''editor-last<var>n</var>''', '''editor-first<var>n</var>'''. Aliases: '''editor-surname1''', '''editor-given1''' through '''editor-surname<var>n</var>''', '''editor-given<var>n</var>''' or '''editor1''' through '''editor<var>n</var>'''.
+:* '''editor-link''': Title of existing Wikipedia article about the editor—not the editor's website; do not wikilink. Aliases: '''editor-link1'''.
+:*OR: for multiple editors, use '''editor-link1''' through '''editor-link<var>n</var>'''.
+:*'''name-list-format''': displays authors and editors in [[Vancouver style]] when set to <code>vanc</code> and when the list uses <code>last</code>/<code>first</code> parameters for the name list(s)
+*'''veditors''': comma separated list of editor names in [[Vancouver style]]; enclose corporate or institutional names in doubled parentheses:
+*:{{para|veditors|Smythe JB, ((Megabux Corporation))}}
+:* '''editor-link''n''''' and '''editor-mask''n''''' may be used for the individual names in {{para|veditors}} as described above
+*'''editors''': Free-form list of editor names; not an alias of '''editor-last'''
+:Display:
+::If authors: Authors are first, followed by the included work, then "In" and the editors, then the main work.
+::If no authors: Editors appear before the included work; a single editor is followed by "ed."; multiple editors are followed by "eds."; exactly four editors will show three editors followed by "et al., eds." <!-- ERROR MESSAGE IS HIDDEN BY DEFAULT --> <!-- along with an error message -->unless '''display-editors''' is used.

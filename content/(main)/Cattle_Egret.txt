@@ -1,0 +1,60 @@
+{{Taxobox
+| name = Cattle Egret
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22697109 |title=''Bubulcus ibis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Cattle Egret.jpg
+| image_width = 240px
+| image_caption = Breeding-plumaged adult of [https://en.wikipedia.org/wiki/nominate_subspecies nominate subspecies]
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = '''''Bubulcus'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Charles_Lucien_Bonaparte Bonaparte], 1855
+| species = '''''B. ibis'''''
+| binomial = ''Bubulcus ibis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758])
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 
+''B. i. ibis'' <small>(Linnaeus, 1758)</small><br/>
+''B. i. coromandus'' <small>(Boddaert, 1783)</small><br/>
+''B. i. seychellarum'' <small>(Salomonsen, 1934)</small><!-- under Ardeola ibis by Salomonsen, See Peters list http://www.archive.org/stream/checklistofbirds12pete#page/210/mode/2up -->
+| synonyms = 
+''Ardea ibis'' <small>Linnaeus, 1758</small><br/>
+''Ardeola ibis'' <small>(Linnaeus, 1758)</small><br/><!-- Did Salomonsen establish his taxon as Ardeola ibis seychellarum, or as Ardeola seychellarum? -->
+''Bubulcus bubulcus''<br />
+''Buphus coromandus'' <small>(Boddaert, 1783)</small><br/><!-- What was Boddaert's original genus? Probably Ardea too? -->
+''Cancroma coromanda'' <small>(Boddaert, 1783)</small><br/>
+''Egretta ibis'' <small>(Linnaeus, 1758)</small><br />
+''Lepterodatis ibis'' <small>(Linnaeus, 1758)</small>
+| range_map = Ardea ibis map.svg
+| range_map_caption = Range of ''B. ibis'' {{leftlegend|yellow|breeding|outline=gray}}{{leftlegend|blue|non-breeding|outline=gray}}{{leftlegend|green|year-round|outline=gray}}
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ardea+(Bubulcus)+ibis ''Atlas of Living Australia'': Cattle Egret]
+* [http://birdlife.org.au/bird-profile/cattle-egret ''Birdlife Australia'': Cattle Egret]
+* [https://en.wikipedia.org/wiki/Cattle_egret ''Wikipedia'': Cattle egret]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

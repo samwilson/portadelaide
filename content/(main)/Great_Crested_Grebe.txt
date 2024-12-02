@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Great Crested Grebe
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696602 |title=''Podiceps cristatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Podiceps cristatus 2 - Lake Dulverton.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/grebe Podicipediformes]
+| familia = [https://en.wikipedia.org/wiki/Podicipedidae Podicipedidae]
+| genus = ''[https://en.wikipedia.org/wiki/Podiceps Podiceps]''
+| species = '''''P. cristatus'''''
+| binomial = ''Podiceps cristatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [[10th edition of Systema Naturae|1758]])
+| range_map = Podiceps cristatus map.svg
+| range_map_caption = Range of ''P. cristatus'' {{leftlegend|#F1F53D|Breeding range|outline=gray}}{{leftlegend|#266834|Resident range|outline=gray}}{{leftlegend|#F58821|Wintering range|outline=gray}}
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Podiceps+cristatus ''Atlas of Living Australia'': Great Crested Grebe]
+* [http://birdlife.org.au/bird-profile/great-crested-grebe ''Birdlife Australia'': Great Crested Grebe]
+* [https://en.wikipedia.org/wiki/Great_crested_grebe ''Wikipedia'': Great crested grebe]
+
+{{Template:Waterbirds}}
+
+
+[[Category:Birds of the Adelaide region]]

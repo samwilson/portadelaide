@@ -1,0 +1,43 @@
+
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22717415 |title=''Alauda arvensis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = alauda arvensis 2.jpg
+| image_width = 240px
+| image_caption = {{audio|XN Alauda arvensis.ogg|Song}}
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/lark|Alaudidae Alaudidae]
+| genus = ''[https://en.wikipedia.org/wiki/Alauda Alauda]''
+| species = '''''A. arvensis'''''
+| binomial = ''Alauda arvensis''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758
+}}
+
+An introduced species
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/urn%3Alsid%3Abiodiversity.org.au%3Aafd.taxon%3Af28cb55c-3e29-4c7a-9e0a-679fa62a27a2 ''Atlas of Living Australia'': Eurasian Skylark]
+* [http://birdlife.org.au/bird-profile/eurasian-skylark ''Birdlife Australia'': Eurasian Skylark]
+* [https://en.wikipedia.org/wiki/Eurasian_skylark ''Wikipedia'': Eurasian skylark]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

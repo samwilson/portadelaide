@@ -1,0 +1,54 @@
+{{Taxobox
+| name = Budgerigar
+| fossil_range = {{fossil range|Paleocene|recent}} [https://en.wikipedia.org/wiki/Paleocene Paleocene]–recent
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=106001489 |title=''Melopsittacus undulatus'' | assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2012.1 |year=2012 |accessdate=16 July 2012}}</ref>
+| image = Budgerigar-male-strzelecki-qld.jpg
+| image_width = 240px
+| image_caption = Blue [https://en.wikipedia.org/wiki/Beak#Cere cere] indicates male
+| image2 = Budgerigar-strzelecki-qld.jpg
+| image2_width = 240px
+| image2_caption = Flaking Brown [https://en.wikipedia.org/wiki/Beak#Cere cere] indicates female in breeding condition
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Loriinae Loriinae]
+| tribus = '''Melopsittacini'''
+| genus = '''''Melopsittacus'''''
+| genus_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1840
+| species = '''''M. undulatus'''''
+| binomial = ''Melopsittacus undulatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/George_Shaw Shaw], 1805)
+| range_map = Budgerigar map.png
+| range_map_width = 240px
+| range_map_caption = The budgerigar's natural habitat is in red
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Melopsittacus+undulatus ''Atlas of Living Australia'': Budgerigar]
+* [http://birdlife.org.au/bird-profile/budgerigar ''Birdlife Australia'': Budgerigar]
+* [https://en.wikipedia.org/wiki/Budgerigar ''Wikipedia'': Budgerigar]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

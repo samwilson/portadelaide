@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Kelp Gull
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694329 |title=''Larus dominicanus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Larus dominicanus -Kenton-on-Sea, Eastern Cape, South Africa-8.jpg
+| image_width = 240px
+| image_caption = Adult in Eastern Cape, South Africa
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Laridae Laridae]
+| genus = ''[https://en.wikipedia.org/wiki/Larus Larus]''
+| species = '''''L. dominicanus'''''
+| binomial = ''Larus dominicanus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Martin_Lichtenstein Lichtenstein], 1823
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Larus+(Larus)+dominicanus+dominicanus ''Atlas of Living Australia'': Kelp Gull]
+* [http://birdlife.org.au/bird-profile/kelp-gull ''Birdlife Australia'': Kelp Gull]
+* [https://en.wikipedia.org/wiki/Kelp_gull ''Wikipedia'': Kelp gull]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

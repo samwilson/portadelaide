@@ -1,0 +1,41 @@
+{{Taxobox | name = Common Eastern Froglet
+| status = LC | status_system = IUCN3.1
+| trend = stable
+| image = Crinia_signifera.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Amphibian Amphibia]
+| ordo = [https://en.wikipedia.org/wiki/Frog Anura]
+| familia = [https://en.wikipedia.org/wiki/Myobatrachidae Myobatrachidae]
+| genus = ''[https://en.wikipedia.org/wiki/Crinia Crinia]''
+| species = '''''C. signifera'''''
+| binomial = ''Crinia signifera''
+| binomial_authority = [https://en.wikipedia.org/wiki/Charles_Frédéric_Girard Girard], 1853
+| range_map = Crinia signifera distribution.PNG
+| range_map_width = 240px
+| range_map_caption = Common Eastern Froglet range.
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://http://bie.ala.org.au/species/Crinia+signifera ''Atlas of Living Australia'': ''Crinia signifera'']
+* [https://en.wikipedia.org/wiki/Common_eastern_froglet ''Wikipedia'': Common eastern froglet]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

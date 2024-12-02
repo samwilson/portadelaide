@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Australian Hobby
+| image = Australian Hobby Pikedale Jul02.JPG
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696473 |title=''Falco longipennis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Falconiformes Falconiformes]
+| familia = [https://en.wikipedia.org/wiki/Falconidae Falconidae]
+| genus = ''[https://en.wikipedia.org/wiki/Falcon Falco]''
+| species = '''''F. longipennis'''''
+| binomial = ''Falco longipennis''
+| binomial_authority = [https://en.wikipedia.org/wiki/William_John_Swainson Swainson], 1838
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Falco+(Falco)+longipennis ''Atlas of Living Australia'': Australian Hobby]
+* [http://birdlife.org.au/bird-profile/australian-hobby ''Birdlife Australia'': Australian Hobby]
+* [https://en.wikipedia.org/wiki/Australian_hobby Wikipedia: Australian hobby]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

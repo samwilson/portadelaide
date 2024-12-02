@@ -1,0 +1,44 @@
+{{Taxobox
+| name =
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22714763 |title=''Acrocephalus australis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Acrocephalus australis - Jerrabomberra Wetlands.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Sylvioidea Sylvioidea]
+| familia = [https://en.wikipedia.org/wiki/Acrocephalidae Acrocephalidae]
+| genus = ''[https://en.wikipedia.org/wiki/Acrocephalus_(bird) Acrocephalus]''
+| species = '''''A. australis'''''
+| binomial = ''Acrocephalus australis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1838)
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Acrocephalus+(Acrocephalus)+australis ''Atlas of Living Australia'': Australian Reed-warbler]
+* [http://birdlife.org.au/bird-profile/australian-reed-warbler ''Birdlife Australia'': Australian Reed-warbler]
+* [https://en.wikipedia.org/wiki/Australian_reed_warbler ''Wikipedia'': Australian reed warbler]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

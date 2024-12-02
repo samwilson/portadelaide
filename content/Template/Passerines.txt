@@ -1,0 +1,122 @@
+{{Navbox
+|name       = Passerines
+|title      = Passerines of Adelaide
+|listclass  = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1     = Acanthizidae
+|list1      =
+* [[Brown Thornbill]]
+* [[Buff-rumped Thornbill]]
+* [[Inland Thornbill]]
+* [[Slender-billed Thornbill]]
+* [[White-browed Scrubwren]]
+* [[Yellow-rumped Thornbill]]
+
+|group2     = Acrocephalidae
+|list2      =
+* [[Australian Reed-warbler]]
+
+|group3     = Artamidae
+|list3      =
+* [[Australian Magpie]]
+* [[Grey Butcherbird]]
+
+|group4     = Campephagidae 	
+|list4      =
+* [[Black-faced Cuckoo-shrike]]
+
+|group5     = Cisticolidae
+|list5      =
+* [[Golden-headed Cisticola]]
+
+|group6     = Corvidae
+|list6      =
+* [[Little Raven]]
+
+|group7     = Dicaeidae
+|list7      =
+* [[Mistletoebird]]
+
+|group8     = Estrildidae
+|list8      =
+* [[Zebra Finch]]
+
+|group9     = Locustellidae
+|list9      =
+* [[Brown Songlark]]
+* [[Little Grassbird]]
+* [[Rufous Songlark]]
+
+|group10     = Maluridae 
+|list10      =
+* [[Superb Fairy-wren]]
+* [[White-winged Fairy-wren]]
+
+|group11     = Meliphagidae
+|list11      =
+* [[Crimson Chat]]
+* [[Little Wattlebird]]
+* [[New Holland Honeyeater]]
+* [[Noisy Miner]]
+* [[Orange Chat]]
+* [[Purple-gaped Honeyeater]]
+* [[Red Wattlebird]]
+* [[Singing Honeyeater]]
+* [[Spiny-cheeked Honeyeater]]
+* [[White-fronted Chat]]
+* [[White-plumed Honeyeater]]
+
+|group12     = Monarchidae
+|list12      =
+* [[Magpie-lark]]
+
+|group13     = Motacillidae
+|list13      =
+* [[Australasian Pipit]]
+
+|group14     = Pachycephalidae
+|list14      =
+* [[Golden Whistler]]
+* [[Grey Shrike-thrush]]
+* [[Rufous Whistler]]
+
+|group15     = Pardalotidae
+|list15      =
+* [[Spotted Pardalote]]
+* [[Striated Pardalote]]
+
+|group16     = Petroicidae
+|list16      =
+* [[Hooded Robin]]
+* [[Red-capped Robin]]
+
+|group17     = Pomatostomidae
+|list17      =
+* [[White-browed Babbler]]
+
+|group18     = Rhipiduridae
+|list18      =
+* [[Grey Fantail]]
+* [[Willie Wagtail]]
+
+|group19     = Swallows and Martins
+|list19      =
+* [[Fairy Martin]]
+* [[Masked Woodswallow]]
+* [[Tree Martin]]
+* [[Welcome Swallow]]
+
+|group20     = Zosteropidae
+|list20      =
+* [[Silvereye]]
+
+|group21     = Introduced passerines
+|list21      =
+* [[Common Blackbird]]
+* [[Common Starling]]
+* [[Eurasian Skylark]]
+* [[European Goldfinch]]
+* [[House Sparrow]]
+
+}}

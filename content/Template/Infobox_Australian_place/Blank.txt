@@ -1,0 +1,375 @@
+{{Template:Infobox Australian place/pagelinks}}
+This page shows some blank versions to use when adding the template to an article. Please note that these templates may not necessarily contain all the valid fields for an article type, but will contain the common ones.
+
+== Region ==
+{{Infobox Australian place | type = region | name = Region }}
+<pre>
+{{Infobox Australian place
+| type                = region
+| name                = 
+| state               = 
+| image               = 
+| caption             = 
+| pop                 = 
+| est                 = 
+| area                = 
+| lga                 = 
+| lga2                = 
+| lga3                = 
+| lga4                = 
+| stategov            = 
+| fedgov              = 
+| logo                = 
+| url                 = 
+}}
+</pre>
+
+== Local Government Area ==
+{{Infobox Australian place | type = lga | name = Local Government Area }}
+<pre>
+{{Infobox Australian place
+| type                = lga
+| name                = 
+| state               = 
+| image               = 
+| caption             = 
+| image2              = 
+| caption2            = 
+| pop                 = 
+| est                 = 
+| area                = 
+| mayor               = 
+| seat                = 
+| region              = 
+| stategov            = 
+| fedgov              = 
+| logo                = 
+| logosize            = 
+| url                 = 
+| near-n              = 
+| near-ne             = 
+| near-e              = 
+| near-se             = 
+| near-s              = 
+| near-sw             = 
+| near-w              = 
+| near-nw             = 
+}}</pre>
+
+== City ==
+{{Infobox Australian place | type = city | name = City }}
+<pre>
+{{Infobox Australian place
+| type                = city
+| name                = 
+| state               = 
+| image               = 
+| caption             = 
+| pop                 = 
+| poprank             = 
+| density             = 
+| est                 = 
+| area                = 
+| timezone            = 
+| utc                 = 
+| timezone-dst        = 
+| utc-dst             = 
+| dist1               = 
+| dir1                = 
+| location1           = 
+| lga                 = 
+| stategov            = 
+| fedgov              = 
+}}
+</pre>
+
+== Suburb and locality ==
+{{Infobox Australian place | type = suburb | name = Suburb }}
+<pre>
+{{Infobox Australian place
+| type                = suburb
+| name                = 
+| city                = 
+| state               = 
+| image               = 
+| caption             = 
+| pop                 = 
+| est                 = 
+| postcode            = 
+| area                = 
+| dist1               = 
+| dir1                = 
+| location1           = 
+| lga                 = 
+| stategov            = 
+| fedgov              = 
+| near-n              = 
+| near-ne             = 
+| near-e              = 
+| near-se             = 
+| near-s              = 
+| near-sw             = 
+| near-w              = 
+| near-nw             = 
+}}
+</pre>
+
+== Town ==
+{{Infobox Australian place | type = town | name = Town }}
+<pre>
+{{Infobox Australian place
+| type      = town
+| name      = 
+| state     = 
+| image     = 
+| caption   = 
+| pop       = 
+| est       = 
+| postcode  = 
+| elevation = 
+| dist1     = 
+| dir1      = 
+| location1 = 
+| lga       = 
+| stategov  = 
+| fedgov    = 
+| maxtemp   = 
+| mintemp   = 
+| rainfall  = 
+}}
+</pre>
+
+== Cadastral unit ==
+{{Infobox Australian place
+| type              = cadastral
+| name              = Cadastral unit
+}}
+<pre>
+{{Infobox Australian place
+| type               = cadastral
+| name               = 
+| state              = 
+| image              = 
+| imagesize          = 
+| caption            = 
+| image_alt          = 
+| coordinates        = 
+| coord_type         = 
+| est                = 
+| area               = 
+| area_footnotes     = 
+| lga                = 
+| lga2               = 
+| region             = 
+| county             = 
+| parish             = 
+| hundred            = 
+| former_hundred     = 
+| division           = 
+| maxtemp            = 
+| maxtemp_footnotes  = 
+| mintemp            = 
+| mintemp_footnotes  = 
+| rainfall           = 
+| rainfall_footnotes = 
+| near-n             = 
+| near-ne            = 
+| near-e             = 
+| near-se            = 
+| near-s             = 
+| near-sw            = 
+| near-w             = 
+| near-nw            = 
+}}
+</pre>
+
+== Protected area ==
+{{Infobox Australian place
+| type                   = protected
+| name                   = Protected area
+}}
+<pre>
+{{Infobox Australian place
+| type                   = protected
+| name                   = 
+| state                  = 
+| iucn_category          = 
+| image                  = 
+| imagesize              = 
+| caption                = 
+| image_alt              = 
+| coord_type             = 
+| map_scale              = 
+| force_national_map     = 
+| relief                 = 
+| latd                   = 
+| latm                   = 
+| lats                   = 
+| longd                  = 
+| longm                  = 
+| longs                  = 
+| pushpin_map_caption    = 
+| pushpin_label_position = 
+| map_alt                = 
+| established            = 
+| established_footnotes  = 
+| area                   = 
+| area_footnotes         = 
+| visitation_num         = 
+| visitation_year        = 
+| visitation_footnotes   = 
+| managing_authorities   = 
+| url                    = 
+| footnotes              = 
+}}
+</pre>
+
+== Pushpin map fields ==
+For adding a basic push-pin map to an existing page.
+<pre>
+| latd                     = 
+| latm                     = 
+| lats                     = 
+| longd                    = 
+| longm                    = 
+| longs                    = 
+</pre>
+
+To add a more advanced map, additional fields are available. 
+<pre>
+| coord_type               = 
+| map_scale                = 
+| alternative_location_map = 
+| force_national_map       = 
+| use_lga_map              = 
+| relief                   = 
+| latd                     = 
+| latm                     = 
+| lats                     = 
+| longd                    = 
+| longm                    = 
+| longs                    = 
+| pushpin_map_caption      = 
+| pushpin_label_position   = 
+</pre>
+
+== Blank template with all fields included ==
+{{Infobox Australian place
+| name                     = Blank template
+}}
+<pre>
+{{Infobox Australian place
+| type                     = 
+| name                     = 
+| city                     = 
+| state                    = 
+| iucn_category            = 
+| image                    = 
+| imagesize                = 
+| caption                  = 
+| image_alt                = 
+| image2                   = 
+| image2size               = 
+| caption2                 = 
+| image2_alt               = 
+| coordinates              = 
+| coord_type               = 
+| map_scale                = 
+| alternative_location_map = 
+| force_national_map       = 
+| use_lga_map              = 
+| relief                   = 
+| latd                     = 
+| latm                     = 
+| lats                     = 
+| longd                    = 
+| longm                    = 
+| longs                    = 
+| pushpin_map_caption      = 
+| pushpin_label_position   = 
+| nearest_town_or_city     = 
+| pop                      = 
+| pop_year                 = 
+| pop_footnotes            = 
+| pop2                     = 
+| pop2_year                = 
+| pop2_footnotes           = 
+| poprank                  = 
+| density                  = 
+| density_footnotes        = 
+| est                      = 
+| established              = 
+| established_footnotes    = 
+| abolished                = 
+| gazetted                 = 
+| postcode                 = 
+| elevation                = 
+| elevation_footnotes      = 
+| area                     = 
+| area_footnotes           = 
+| timezone                 = 
+| utc                      = 
+| timezone-dst             = 
+| utc-dst                  = 
+| mayor                    = 
+| mayortitle               = 
+| dist1                    = 
+| dir1                     = 
+| location1                = 
+| dist2                    = 
+| dir2                     = 
+| location2                = 
+| dist3                    = 
+| dir3                     = 
+| location3                = 
+| dist4                    = 
+| dir4                     = 
+| location4                = 
+| dist5                    = 
+| dir5                     = 
+| location5                = 
+| lga                      = 
+| lga2                     = 
+| lga3                     = 
+| lga4                     = 
+| seat                     = 
+| region                   = 
+| county                   = 
+| parish                   = 
+| hundred                  = 
+| former_hundred           = 
+| division                 = 
+| stategov                 = 
+| stategov2                = 
+| stategov3                = 
+| stategov4                = 
+| stategov5                = 
+| fedgov                   = 
+| fedgov2                  = 
+| fedgov3                  = 
+| fedgov4                  = 
+| logo                     = 
+| logosize                 = 
+| visitation_num           = 
+| visitation_year          = 
+| visitation_footnotes     = 
+| managing_authorities     = 
+| url                      = 
+| maxtemp                  = 
+| maxtemp_footnotes        = 
+| mintemp                  = 
+| mintemp_footnotes        = 
+| rainfall                 = 
+| rainfall_footnotes       = 
+| near-n                   = 
+| near-ne                  = 
+| near-e                   = 
+| near-se                  = 
+| near-s                   = 
+| near-sw                  = 
+| near-w                   = 
+| near-nw                  = 
+| near                     = 
+| footnotes                = 
+}}
+</pre>

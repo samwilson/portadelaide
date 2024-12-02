@@ -1,0 +1,31 @@
+{{Navbox
+|name       = Protected Areas of Northern and Western Adelaide
+|title      = Areas of conservation significance in Northern and Western Adelaide
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = Conservation Parks
+|list1      =
+* [[Fort Glanville Conservation Park|Fort Glanville CP]]
+* [[Port Gawler Conservation Park|Port Gawler CP]]
+* [[Torrens Island Conservation Park|Torrens Island CP]]
+
+|group2     = Conservation Reserves<br /> (incl. ''Other'' and ''Informal'')
+|list2      =
+* [[Adelaide International Bird Sanctuary]]
+* [[Biodiversity Park]]
+* [[Folland Park]]
+* [[Mangrove Cove]]
+* [[Mutton Cove]]
+* [[Patawalonga Creek]]
+* [[R.B. Connelly Reserve]]
+* [[Section Bank (Bird Island)]]
+* [[Tennyson Dunes]]
+
+|group3     = Aquatic Reserves
+|list3      =
+* [[Adelaide Dolphin Sanctuary]]
+* [[Barker Inlet Aquatic Reserve|Barker Inlet]]
+* [[St Kilda – Chapman Creek Aquatic Reserve|St Kilda – Chapman Creek]]
+}}

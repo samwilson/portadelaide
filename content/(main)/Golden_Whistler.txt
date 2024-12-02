@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Golden Whistler
+| image = Golden Whistler.jpg
+| image_width = 240px
+| image_caption = Male
+| image2 = Pachycephala pectoralis female.jpg
+| image2_width = 240px
+| image2_caption = Female, Queensland
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22705489 |title=''Pachycephala pectoralis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pachycephalidae Pachycephalidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pachycephala Pachycephala]''
+| species = '''''P. pectoralis'''''
+| binomial = ''Pachycephala pectoralis''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Pachycephala+(Pachycephala)+pectoralis ''Atlas of Living Australia'': Golden Whistler]
+* [http://birdlife.org.au/bird-profile/golden-whistler ''Birdlife Australia'': Golden Whistler]
+* [https://en.wikipedia.org/wiki/Australian_golden_whistler ''Wikipedia'': Australian golden whistler]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,51 @@
+
+{{Infobox Australian place
+| type                   = protected
+| name                   = Fort Glanville Conservation Park
+| state                  = sa
+| iucn_category          = 
+| image                  = 
+| imagesize              = 
+| caption                = 
+| image_alt              = 
+| coord_type             = 
+| map_scale              = 
+| force_national_map     = 
+| relief                 = 
+| latd                   = 34
+| latm                   = 51
+| lats                   = 4
+| longd                  = 138
+| longm                  = 28
+| longs                  = 40
+| alternative_location_map = Northern Adelaide
+| coordinates_region = AU-SA_type:landmark
+| coordinates_display = inline
+| pushpin_map_caption    = 
+| pushpin_label_position = 
+| map_alt                = 
+| established            = 
+| established_footnotes  = 
+| area                   = {{convert| 635|ha|acres|abbr=on}}
+| area_footnotes         = 
+| visitation_num         = 
+| visitation_year        = 
+| visitation_footnotes   = 
+| managing_authorities   = 
+| url                    = 
+| footnotes              = 
+}}
+
+
+==See also==
+*[[Fort Largs]]
+
+==References==
+{{reflist}}
+
+==External links==
+
+
+{{Template:Protected Areas of Northern and Western Adelaide}}
+
+[[Category:Places]]

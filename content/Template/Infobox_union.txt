@@ -1,0 +1,47 @@
+{{ infobox
+| bodyclass  = vcard
+| titleclass = fn org
+| title      = {{{name|<includeonly>{{PAGENAME}}</includeonly>}}}
+| image      = {{{image|}}}
+
+| label1     = Full name
+| data1      = {{{full_name|}}}
+| class1     = nickname
+
+| label2     = Native name
+| data2      = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}
+
+| label3     = Motto
+| data3     = {{#if:{{{motto|}}}|{{#if:{{{motto_lang|}}}|<span lang="{{{motto_lang}}}">}}{{{motto}}} {{#if:{{{motto_lang|}}}|</span>}} }}
+| label4     = Motto in English
+| data4      = {{{mottoeng|}}}
+| label5     = Founded
+| data5      = {{{founded|}}}
+| label6     = Predecessor
+| data6      = {{{predecessor|}}}
+| label7     = Successor
+| data7      = {{{successor|}}}
+| label8     = Current affiliation date
+| data8      = {{{current|}}}
+| label9     = Date dissolved
+| data9      = {{{dissolved_date|}}}
+| label10     = {{{dissolved_state|Merged into}}}
+| data10      = {{{merged_into|}}}
+| label11     = Members
+| data11      = {{{members|}}}
+| label12    = Head union
+| data12     = {{{head|}}}
+| label13    = Affiliation
+| data13     = {{{affiliation|}}}
+| label14    = Key people
+| data14     = {{{people|}}}
+| label15    = Office location
+| data15     = {{{office|}}}
+| class15    = label
+| label16    = Country
+| data16     = {{{country|}}}
+| label17    = Website
+| data17     = {{{website|}}}
+
+| below      = {{{footnotes|}}}
+}}<noinclude>{{Documentation}}<!-- place category on the /doc sub-page, not here --></noinclude>

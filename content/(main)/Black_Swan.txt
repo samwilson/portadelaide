@@ -1,0 +1,52 @@
+{{Taxobox
+| name               = Black Swan
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22679843 |title=''Cygnus atratus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image              = File:Black Swan at Martin Mere.JPG
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia         = [https://en.wikipedia.org/wiki/Anserinae Anserinae]
+| tribus             = Cygnini
+| genus              = ''[https://en.wikipedia.org/wiki/Swan Cygnus]''
+| species            = '''''C. atratus'''''
+| binomial           = ''Cygnus atratus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1790)
+| subdivision_ranks  = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision        =
+* ''C. a. atratus'' <br /><small>black swan</small>
+* †''C. a. sumnerensis'' <br /><small>[https://en.wikipedia.org/wiki/New_Zealand_swan New Zealand swan] ([https://en.wikipedia.org/wiki/extinct extinct])</small>
+| synonyms =
+* ''Anas atrata'' <small>Latham, 1790</small>
+* ''Chenopis atratus''
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cygnus+(Chenopis)+atratus ''Atlas of Living Australia'': Black Swan]
+* [http://birdlife.org.au/bird-profile/black-swan ''Birdlife Australia'': Black Swan]
+* [https://en.wikipedia.org/wiki/Black_swan ''Wikipedia'': Black swan]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,153 @@
+{{#ifeq:{{{force|}}}|abbr||
+{{#switch: {{uc:{{{1}}}}}
+<!-- 50 States -->
+| AL = Alabama
+| AK = Alaska
+| AZ = Arizona
+| AR = Arkansas
+| CA = California
+| CO = Colorado
+| CT = Connecticut
+| DE = Delaware
+| FL = Florida
+| GA = Georgia
+| HI = Hawaii
+| ID = Idaho
+| IL = Illinois
+| IN = Indiana
+| IA = Iowa
+| KS = Kansas
+| KY = Kentucky
+| LA = Louisiana
+| ME = Maine
+| MD = Maryland
+| MA = Massachusetts
+| MI = Michigan
+| MN = Minnesota
+| MS = Mississippi
+| MO = Missouri
+| MT = Montana
+| NE = Nebraska
+| NV = Nevada
+| NH = New Hampshire
+| NJ = New Jersey
+| NM = New Mexico
+| NY = New York
+| NC = North Carolina
+| ND = North Dakota
+| OH = Ohio
+| OK = Oklahoma
+| OR = Oregon
+| PA = Pennsylvania
+| RI = Rhode Island
+| SC = South Carolina
+| SD = South Dakota
+| TN = Tennessee
+| TX = Texas
+| UT = Utah
+| VT = Vermont
+| VA = Virginia
+| WA = Washington
+| WV = West Virginia
+| WI = Wisconsin
+| WY = Wyoming
+<!-- Federal District -->
+| DC = District of Columbia
+<!-- Insular areas -->
+| AS = American Samoa
+| GU = Guam
+| MP = Northern Mariana Islands
+| PR = Puerto Rico
+| VI = U.S. Virgin Islands
+| UM = U.S. Minor Outlying Islands
+<!-- USPS Freely Associated State -->
+| FM = Federated States of Micronesia
+| MH = Marshall Islands
+| PW = Palau
+<!-- USPS Armed forces -->
+| AA = Armed Forces Americas (except Canada)
+| AE = Armed Forces Europe (USARAEUR, Canada, Middle East, Africa)
+| AP = Armed Forces Pacific
+<!-- USPS Historical -->
+| CM = Commonwealth of the Northern Mariana Islands
+| CZ = Canal Zone
+| TT = Trust Territory of the Pacific Islands
+| PI = Philippine Islands
+| {{#ifeq:{{{force|}}}|long|{{{1}}}}}
+}}}}{{#ifeq:{{{force|}}}|long||
+{{#switch: {{lc:{{{1}}}}}
+<!-- 50 States -->
+| alabama = AL
+| alaska = AK
+| arizona = AZ
+| arkansas = AR
+| california = CA
+| colorado = CO
+| connecticut = CT
+| delaware = DE
+| florida = FL
+| georgia = GA
+| hawaii = HI
+| idaho = ID
+| illinois = IL
+| indiana = IN
+| iowa = IA
+| kansas = KS
+| kentucky = KY
+| louisiana = LA
+| maine = ME
+| maryland = MD
+| massachusetts = MA
+| michigan = MI
+| minnesota = MN
+| mississippi = MS
+| missouri = MO
+| montana = MT
+| nebraska = NE
+| nevada = NV
+| new hampshire = NH
+| new jersey = NJ
+| new mexico = NM
+| new york = NY
+| north carolina = NC
+| north dakota = ND
+| ohio = OH
+| oklahoma = OK
+| oregon = OR
+| pennsylvania = PA
+| rhode island = RI
+| south carolina = SC
+| south dakota = SD
+| tennessee = TN
+| texas = TX
+| utah = UT
+| vermont = VT
+| virginia = VA
+| washington = WA
+| west virginia = WV
+| wisconsin = WI
+| wyoming = WY
+<!-- Federal District -->
+| district of columbia|washington dc|washington, d.c.|washington d.c.|united states washington, d.c. central = DC
+<!-- Insular areas -->
+| american samoa = AS
+| guam = GU
+| northern mariana islands = MP
+| puerto rico = PR
+| u.s. virgin islands|virgin islands = VI
+| u.s. minor outlying islands|minor outlying islands = UM
+<!-- USPS Freely Associated State -->
+| federated states of micronesia|micronesia = FM
+| marshall islands = MH
+| palau = PW
+<!-- USPS Armed forces -->
+| armed forces americas = AA
+| armed forces europe = AE
+| armed forces pacific = AP
+<!-- USPS Historical -->
+| commonwealth of the northern mariana islands|northern mariana islands commonwealth = CM
+| canal zone = CZ
+| trust territory of the pacific islands|pacific islands trust territory = TT
+| philippines|philippine islands = PI
+| {{#ifeq:{{{force|}}}|abbr|{{uc:{{{1}}}}}}}
+}}}}<noinclude>{{Documentation|Template:ConvertAbbrev/doc}}</noinclude>

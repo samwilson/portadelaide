@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Chestnut Teal
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22680277 |title=''Anas castanea'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Male chestnut teal.jpg
+| image_width = 240px
+| image_caption = Male
+| image2 = Female Chestnut Teal duck.jpg
+| image2_width = 240px
+| image2_caption = Female
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Anatinae Anatinae]
+| genus = ''[https://en.wikipedia.org/wiki/Anas Anas]''
+| species = '''''A. castanea'''''
+| binomial = ''Anas castanea''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Thomas_Campbell_Eyton Eyton], 1838)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Anas+(Nettion)+castanea ''Atlas of Living Australia'': Chestnut Teal]
+* [http://birdlife.org.au/bird-profile/chestnut-teal ''Birdlife Australia'': Chestnut Teal]
+* [https://en.wikipedia.org/wiki/Chestnut_teal ''Wikipedia'': Chestnut teal]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

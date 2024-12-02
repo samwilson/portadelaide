@@ -1,0 +1,50 @@
+{{Taxobox
+| image = Actitis hypoleucos - Laem Pak Bia.jpg
+| image_width = 240px
+| image_caption = 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693264 |title=''Actitis hypoleucos'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| subclassis = [https://en.wikipedia.org/wiki/Neornithes Neornithes]
+| infraclassis = [https://en.wikipedia.org/wiki/Neognathae Neognathae]
+| superordo = [https://en.wikipedia.org/wiki/Neoaves Neoaves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| subordo = Scolopaci<!-- monotypic - don't link -->
+| genus = ''[https://en.wikipedia.org/wiki/Actitis Actitis]''
+| species = '''''A. hypoleucos'''''
+| binomial = ''Actitis hypoleucos''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+| synonyms =
+''Tringa hypoleucos'' <small>Linnaeus, 1758</small>
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Actitis+hypoleucos ''Atlas of Living Australia'': Common Sandpiper]
+* [http://birdlife.org.au/bird-profile/common-sandpiper ''Birdlife Australia'': Common Sandpiper]
+* [https://en.wikipedia.org/wiki/Common_sandpiper ''Wikipedia'': Common sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

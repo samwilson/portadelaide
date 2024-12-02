@@ -1,0 +1,42 @@
+{{Taxobox | name = Spotted Grass Frog
+| status = LC | status_system = IUCN3.1
+| trend = stable
+| image = Limnodynastes tasmaniensis.jpg
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Amphibian Amphibia]
+| ordo = [https://en.wikipedia.org/wiki/Frog Anura]
+| familia = [https://en.wikipedia.org/wiki/Myobatrachidae Myobatrachidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Limnodynastinae Limnodynastinae]
+| genus = ''[https://en.wikipedia.org/wiki/Limnodynastes Limnodynastes]''
+| species = '''''L. tasmaniensis'''''
+| binomial = ''Limnodynastes tasmaniensis''
+| binomial_authority = [https://en.wikipedia.org/wiki/Albert_C._L._G._Günther Günther], 1858
+| range_map = Limnodynastes tasmaniensis distribution.PNG
+| range_map_caption = Spotted Grass Frog range.
+}}
+
+
+
+Spotted Grass Frog or Spotted Marsh Frog
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://http://bie.ala.org.au/species/Limnodynastes+tasmaniensis ''Atlas of Living Australia'': ''Limnodynastes tasmaniensis'']
+* [https://en.wikipedia.org/wiki/Spotted_grass_frog ''Wikipedia'': Spotted grass frog]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

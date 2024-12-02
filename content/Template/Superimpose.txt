@@ -1,0 +1,8 @@
+<div style="position: relative; width: {{{base_width}}};">{{
+#if: {{{x|}}} 
+  | <div style="position: absolute; left: {{{x|0}}}px; top: {{{y|0}}}px; padding: 0;"><!--
+       -->[[Image:{{{float}}}|{{{float_width}}}{{#ifeq:{{{float_link|}}}|file:||{{!}}link={{{float_link|}}}}}|alt={{{float_alt|}}}|{{{float_caption|}}}]]</div>
+}}[[Image:{{{base}}}|{{{base_width}}}{{#ifeq:{{{base_link|file:}}}|file:||{{!}}link={{{base_link|file:}}}}}|alt={{{base_alt|}}}|{{{base_caption|}}}]]</div><noinclude>
+{{Documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

@@ -1,0 +1,52 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+This template may be used in articles about storms, including cyclones and winter storms.
+== Usage ==
+{{Parameter names example|name|event|RSI=1|image|image location|image alt|alt|caption|image name|type|stormtype|formed|date formed|active|dissipated|date dissipated|lowest pressure|pressure|lowest temperature|tornadoes|fujitascale|enhanced|tornado duration|beaufortscale|10-min winds=0|10-min prefix|10-min suffix|1-min winds=0|highest winds=0|sustained wind=0|gusts=0|1-min prefix|1-min suffix|pregust|gust|hail|maximum snow|maximum rain|damages|total damages (USD)|total snow damages (USD)|power outages|casualties|total fatalities, injuries|snow fatalities|affected|areas affected|countries affected|location|current advisories|notes}}
+<pre style="overflow: auto;">
+{{Infobox storm
+| name               = <!-- name of event, can be omitted if same as article title -->
+| image              = <!-- just the filename-->
+| alt                = 
+| caption            = 
+| type               = 
+| formed             = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
+| active             = 
+| dissipated         = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+| lowest pressure    = <!-- in mb/hPa, gets automatically converted to inHg -->
+| lowest temperature = 
+| tornadoes          = 
+| fujitascale        = 
+| tornado duration   = 
+| beaufort scale     =
+| highest winds      = <!-- in km/h, gets automatically converted to mph and knots -->
+| gusts              = 
+| hail               = 
+| maximum snow       = <!-- maximum snowfall or ice accretion -->
+| maximum rain       = <!-- maximum rainfall -->
+| power outages      = 
+| casualties         = 
+| damages            = 
+| areas affected     = 
+| current advisories = 
+| enhanced           = 
+| notes              = 
+}}
+</pre>
+
+===Region- or type-specific parameters===
+
+'''[[Regional Snowfall Index]]''' (used only for U.S. winter storms)
+<pre>
+| RSI                = <!-- Regional Snowfall Index -->
+</pre>
+
+== See also ==
+*{{tl|Infobox earthquake}}
+*{{tl|Infobox flood}}
+*{{tl|Infobox hurricane}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories go here, and interwikis go in Wikidata -->
+[[Category:Weather infobox templates|Storm]]
+}}</includeonly>

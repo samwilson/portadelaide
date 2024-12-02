@@ -1,0 +1,87 @@
+{{Documentation subpage}}
+{{High-risk| 1,000,000+ }}
+<!--Categories where indicated at the bottom of this page, please; interwikis at Wikidata (see [[Wikipedia:Wikidata]])-->
+
+This is the {{tl|talk other}} meta-template.
+
+This template helps other templates detect if they are on a talk page or some "other" type of page.
+
+== Usage ==
+This template usually takes two parameters, like this:
+
+<pre>
+{{talk other | Talk pages text | Other pages text }}
+</pre>
+
+If the template is on any talk page, it will return this:
+
+:{{talk other | demospace=talk | Talk pages text | Other pages text }}
+
+If the template is on any other page, it will return this:
+
+:{{talk other | Talk page text | Other pages text }}
+
+A typical usage case could be to make it so that a template only adds a category when on talk pages. Thus not adding other pages that just show the template. Like this:
+
+<pre>
+{{talk other | [[Category:Some talk page category]] }}
+</pre>
+
+Or to warn that a template should not be used on other pages:
+
+<pre>
+{{talk other | | This template should only be used on talk pages. }}
+</pre>
+
+Note that in the first case above the "other" parameter was not used, and in the second example the "talk" parameter was left empty.
+
+== Demospace ==
+For testing and demonstration purposes this template can take a parameter named '''demospace'''. 
+
+* If it has the value '''talk''' it returns the talk pages text.
+* It if has the value '''other''' or any other value such as the name of some other namespace it returns the other pages text.
+* If the parameter is empty or undefined, the actual page type determines the result.
+
+Like this:
+
+<pre>
+{{talk other 
+| Talk pages text 
+| Other pages text 
+| demospace = talk
+}}
+</pre>
+
+No matter on what kind of page the code above is used it will return this:
+
+:{{talk other 
+| Talk pages text 
+| Other pages text 
+| demospace = talk
+}}
+
+You can make it so your template also understands the '''demospace''' parameter. That means you can demonstrate the different appearances of your template in the documentation for your template. Then do like this:
+
+<pre>
+{{talk other 
+| Talk pages text 
+| Other pages text 
+| demospace = {{{demospace|}}}
+}}
+</pre>
+
+== Technical details ==
+This template detects all types of talk pages as type '''talk'''. That is, "Talk:", "User talk:", "File talk:" and so on are all of type '''talk'''.
+
+On 28 December 2009, the new namespaces "Book:" and "Book talk:" were added to the English Wikipedia. This template correctly considers the "Book:" namespace to be type '''other''', and "Book talk:" to be type '''talk'''.
+
+This template works like {{tl|main talk other}}, for more examples and technical details see full documentation there.
+
+
+{{Namespace and pagename-detecting templates}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Namespace manipulation templates]]
+[[Category:Talk namespace templates]]
+}}</includeonly>

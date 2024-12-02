@@ -1,0 +1,7 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Tasmania
+| flag alias = Flag of Tasmania.svg
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink}}}
+}}

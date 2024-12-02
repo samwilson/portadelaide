@@ -1,0 +1,151 @@
+{{Navbox
+| name = Inline cleanup tags
+| state = {{{state<includeonly>|autocollapse</includeonly>}}}
+| bodyclass = hlist
+| title = Inline cleanup tags
+| evenodd = off
+
+| group1 = Attribution
+| list1 =
+* {{tl|According to whom}}
+* {{tl|Attribution needed}}
+* {{tl|By whom}}
+* {{tl|From whom?}}
+* {{tl|To whom?}}
+* {{tl|Who}}
+* {{tl|Whom2}}
+
+| group2 = Clarity
+| list2 =
+* {{tl|Ambiguous}}
+* {{tl|Clarify}}
+* {{tl|Clarify span}}
+* {{tl|Expand acronym}}
+
+| group3 = Miscellaneous
+| list3 =
+* {{tl|Chinese script needed-inline}} 
+* {{tl|OR}}
+* {{tl|Disambiguation needed}}
+* {{tl|Pronunciation needed}}
+
+| group4 = Neutrality
+| list4 =
+* {{tl|Lopsided}}
+* {{tl|Peacock term}}
+* {{tl|POV-statement}}
+* {{tl|Weasel-inline}}
+
+| group5 = Precision
+| list5 =
+{{Navbox |child
+  | evenodd = off
+  | list2 =
+* {{tl|Definition}}
+* {{tl|Elucidate}}
+* {{tl|Example needed}}
+* {{tl|Examples}}
+* {{tl|How}}
+* {{tl|Quantify}}
+* {{tl|Specify}}
+* {{tl|Vague}}
+* {{tl|When}}
+* {{tl|Where}}
+* {{tl|Which}}
+* {{tl|Why}}
+* {{tl|Year needed}}
+  | group3 = Excessive
+  | list3 =
+* {{tl|Importance-inline}}
+* {{tl|Relevance-inline}}
+* {{tl|Undue-inline}}
+ }}
+
+| group6 = Time-sensitivity
+| list6 =
+* {{tl|Clarify timeframe}}
+* {{tl|Update after}}
+* {{tl|Update inline}}
+
+| group7 = Verifiability
+| list7 =
+  {{Navbox subgroup
+  | groupstyle = white-space: normal;
+  | evenodd = off
+
+  | group1 = Dubious
+  | list1  =
+* {{tl|Contradict-inline}}
+* {{tl|Contradiction-inline}}
+* {{tl|Disputed-inline}}
+* {{tl|Dubious}}
+* {{tl|Inconsistent}}
+  | group2 = Missing or problematic reference
+  | list2  =
+* {{tl|Better source}}
+* {{tl|Citation needed}}
+* {{tl|Citation needed (lead)}}
+* {{tl|Citation needed span}}
+* {{tl|Citation not found}}
+* {{tl|Cite quote}}
+* {{tl|Failed verification}}
+* {{tl|Irrelevant citation}}
+* {{tl|Nonspecific}}
+* {{tl|Primary source-inline}}
+* {{tl|Request quotation}}
+* {{tl|Retracted}}
+* {{tl|Self-published inline}}
+* {{tl|Source needs translation}}
+* {{tl|Third-party-inline}}
+* {{tl|Unreliable source?}}
+* {{tl|Verify source}}
+  | group3 = Incomplete or broken citation
+  | list3  =
+* {{tl|Author incomplete}}
+* {{tl|Author missing}}
+* {{tl|Citation broken}}
+* {{tl|Date missing}}
+* {{tl|Dead link}}
+* {{tl|Edition needed}}
+* {{tl|Episode needed}}
+* {{tl|Full citation needed}}
+* {{tl|Incomplete short citation}}
+* {{tl|ISBN missing}}
+* {{tl|Page needed}}
+* {{tl|Place missing}}
+* {{tl|Publisher missing}}
+* {{tl|Season needed}}
+* {{tl|Time needed}}
+* {{tl|Title incomplete}}
+* {{tl|Title missing}}
+* {{tl|Volume needed}}
+* {{tl|Year missing}}
+  }}
+
+| group8 = Wording
+| list8 =
+* {{tl|Awkward}}
+* {{tl|Buzz}}
+* {{tl|Technical-statement}}
+
+| belowstyle = font-weight:bold;
+| below =
+* {{icon|Category}} {{c|Inline cleanup templates}}
+* {{icon link|WikiProject|Wikipedia:WikiProject Inline Templates|WikiProject Inline Templates}}
+
+}}<noinclude>
+{{Documentation |link box=off
+ | content =
+This is a convenience navbox for use on the documentation pages for various inline templates, linking to the others.
+{{clear}}
+{{Collapsible option}}
+
+==See also==
+*{{tl|Tools}}
+*[[Wikipedia:Template messages/Cleanup]]
+
+[[Category:Related-topic templates]]
+[[Category:Wikipedia help templates]]
+[[Category:Wikipedia maintenance templates]]
+}}<!--(end Documentation)-->
+</noinclude>

@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Grey plover
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693749 |title=''Pluvialis squatarola'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Pluvialis squatarola (summer plumage).jpg
+| image_width = 240px
+| image_caption = Adult in breeding plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Charadriidae Charadriidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pluvialis Pluvialis]''
+| species = '''''P. squatarola'''''
+| binomial = ''Pluvialis squatarola''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Pluvialis+squatarola ''Atlas of Living Australia'': Grey Plover]
+* [http://birdlife.org.au/bird-profile/grey-plover ''Birdlife Australia'': Grey Plover]
+* [https://en.wikipedia.org/wiki/Grey_plover ''Wikipedia'': Grey plover]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

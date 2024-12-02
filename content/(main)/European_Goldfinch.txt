@@ -1,0 +1,46 @@
+{{Taxobox
+| name = European goldfinch
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22720419 |title=''Carduelis carduelis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Carcar.jpg
+| image_width = 240px
+| image_caption=In Tarn, France
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/finch Fringillidae]
+| genus = ''[https://en.wikipedia.org/wiki/Carduelis Carduelis]''
+| species = '''''C. carduelis'''''
+| binomial = ''Carduelis carduelis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758])
+| range_map = Carduelis carduelis map.png
+| range_map_caption = ''Carduelis carduelis carduelis''<br>1 summer 2 all year<br>''Carduelis carduelis caniceps''<br>3 summer 4 all year
+}}
+
+An introduced species
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Carduelis+carduelis ''Atlas of Living Australia'': European Goldfinch]
+* [http://birdlife.org.au/bird-profile/european-goldfinch ''Birdlife Australia'': European Goldfinch]
+* [https://en.wikipedia.org/wiki/European_goldfinch ''Wikipedia'': European goldfinch]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

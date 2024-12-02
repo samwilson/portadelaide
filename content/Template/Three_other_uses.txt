@@ -1,0 +1,15 @@
+{{about |{{#if:true|{{{1|}}}}}<!--
+     -->|{{#if:true|{{{2|}}}}}<!--
+     -->|{{#if:true|{{{3|}}}}}<!--
+     -->|{{#if:true|{{{4|}}}}}<!--
+     -->|{{#if:true|{{{5|}}}}}<!--
+     -->|{{#if:true|{{{6|other uses}}}}}<!--
+     -->|{{#if:true|{{{7|{{PAGENAME}} (disambiguation)}}}}}<!--
+-->}}<noinclude>
+{{Documentation}}
+
+<!--
+ Note: The {{#if:true...}} construct strips whitespace
+       from the (parameter) value it surrounds.
+-->
+</noinclude>

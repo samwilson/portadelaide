@@ -1,0 +1,45 @@
+{{Taxobox
+| image = Calidris tenuirostris - Laem Phak Bia.jpg
+| image_width = 240px
+| image_caption = Nonbreeding
+| image2 = Calidris tenuirostris - Great Knot.jpg
+| image2_width = 240px
+| image2_caption = Breeding
+| status = VU
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693359 |title=''Calidris tenuirostris'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Calidrid Calidris]''
+| species = '''''C. tenuirostris'''''
+| binomial = ''Calidris tenuirostris''
+| binomial_authority = [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1821
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Calidris+(Calidris)+tenuirostris ''Atlas of Living Australia'': Great Knot]
+* [http://birdlife.org.au/bird-profile/great-knot ''Birdlife Australia'': Great Knot]
+* [https://en.wikipedia.org/wiki/Great_knot ''Wikipedia'': Great knot]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

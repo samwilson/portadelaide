@@ -1,0 +1,14 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||$N=Unreliable source? |date=__DATE__ |$B=
+<!--{{Unreliable source?}} begin-->{{Fix
+| subst = <includeonly>{{subst:substcheck}}</includeonly>
+| name  = {{{name|Unreliable source?}}}
+| link  = Wikipedia:Identifying reliable sources
+| title = {{{reason|The material near this tag may rely on an unreliable source.}}}
+| text  = unreliable source{{#ifeq:{{{certain|}}}|y||?}}
+| date  = {{{date|}}}
+| cat   = [[Category:All articles lacking reliable references]]
+| cat-date = Category:Articles lacking reliable references
+}}<!--{{Unreliable source?}} end-->
+}}<noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,14 @@
+<includeonly>{{#if: {{{first|}}}<!-- Deprecated parameter retained for legacy compatibility -->
+  |{{#switch:{{lc:{{{first}}}}}
+     |yes=[[net tonnage]]&nbsp;(NT)&nbsp;of&nbsp;{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}
+     |caps=[[Net tonnage]]&nbsp;(NT)&nbsp;of&nbsp;{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}
+     |short={{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}&nbsp;NT&nbsp;([[net tonnage]])
+     |#default={{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}&nbsp;NT {{red|1=&#32;<code>&#124;first={{{first}}}}}</code>
+     }}<!--
+-->|{{#if:{{{disp|}}}|{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}} }} }}{{#if:{{{disp|}}}
+  |{{#switch:{{lc:{{{disp}}} }}
+     <!-- |short=&nbsp;[[Net tonnage|NT]] -->
+     |long=&nbsp;{{#ifeq:{{{link|}}}|off|net tonnage&nbsp;(NT)|[[Net tonnage{{!}}net tonnage&nbsp;(NT)]]}}
+     |adj=-{{#ifeq:{{{link|}}}|off|net tonnage&nbsp;(NT)|[[Net tonnage{{!}}net tonnage&nbsp;(NT)]]}}
+     |#default=&nbsp;{{#ifeq:{{{link|}}}|off|NT|[[Net tonnage{{!}}NT]]}} {{red|1=&#32;<code>&#124;disp={{{disp}}}}}</code>
+     }} | {{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}} }}&nbsp;{{#ifeq:{{{link|}}}|off|NT|[[Net tonnage{{!}}NT]]}} }} }}</includeonly><noinclude>{{template doc}}</noinclude>

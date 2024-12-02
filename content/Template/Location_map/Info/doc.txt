@@ -1,0 +1,28 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+This template displays values for the map templates such as {{tl|Location map Spain}}. These templates are used by {{tl|Location map}} to obtain values such as the file name and the border coordinates of each location map.
+
+=== Usage ===
+;On a template page
+<pre>
+<noinclude>{{Location map/Info}}</noinclude>
+</pre>
+;On a documentation sup-page
+<pre>
+{{Location map/Info}}
+</pre>
+
+====The <code>name</code> parameter====
+
+The {{tl|Location map}} family of templates uses the value assigned to <code>name</code> to generate [[wp:alt|alt text]]. It is used to construct the sentence "<code>label</code> is located in <code>name</code>". Assign a value to <code><name></code> that fits in the sentence. For example:
+
+:  Chicago is located in <u>the</u> United States</u>. So {{para|name|the United states}}.
+:  Santo Domingo is located in <u>the</u> Dominican Republic. So {{para|name|the Dominican Republic}}.
+
+=== See also ===
+* [[Template:Location map]]
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Template namespace templates]]
+
+</includeonly>

@@ -1,0 +1,45 @@
+{{Taxobox
+| image = Charadrius australis (Inland Dotterel).jpg
+| image_width = 240px
+| image_caption = '' Charadrius australis ''
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693936 |title=''Peltohyas australis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2014.3 |year=2012 |accessdate=9 December 2014}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Charadriidae Charadriidae]
+| genus = '''''Peltohyas'''''
+| genus_authority = Sharpe, 1896
+| species = ''P. australis''
+| binomial = ''Peltohyas australis''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1841
+| synonyms = ''Charadrius australis''
+| synonyms_ref = <ref name=avibase>{{avibase|C1DC658FF498BC38|Peltohyas australis}}</ref>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Charadrius+(Eupoda)+australis ''Atlas of Living Australia'': Inland Dotterel]
+* [http://birdlife.org.au/bird-profile/inland-dotterel ''Birdlife Australia'': Inland Dotterel]
+* [https://en.wikipedia.org/wiki/Inland_dotterel ''Wikipedia'': Inland dotterel]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,42 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22712294 |title=''Hirundo neoxena'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Hirundo_neoxena_risdon.jpg
+| image_width = 240px
+| image_caption = Risdon Brook Park in Tasmania
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Swallow Hirundinidae]
+| genus = ''[https://en.wikipedia.org/wiki/Hirundo Hirundo]''
+| species = '''''H. neoxena'''''
+| binomial = ''Hirundo neoxena''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1842)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Hirundo+(Hirundo)+neoxena ''Atlas of Living Australia'': Welcome Swallow]
+* [http://birdlife.org.au/bird-profile/welcome-swallow ''Birdlife Australia'': Welcome Swallow]
+* [https://en.wikipedia.org/wiki/Welcome_swallow ''Wikipedia'': Welcome swallow]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

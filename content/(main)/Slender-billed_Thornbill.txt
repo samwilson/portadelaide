@@ -1,0 +1,46 @@
+{{Taxobox 
+| name = Slender-billed thornbill
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704644 |title=''Acanthiza iredalei'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = 
+| image_caption =  
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pardalotidae Pardalotidae]
+| genus = ''[https://en.wikipedia.org/wiki/Acanthiza Acanthiza]''
+| species = '''''A. iredalei'''''
+| binomial = ''Acanthiza iredalei''
+| binomial_authority = [https://en.wikipedia.org/wiki/Gregory_Mathews Mathews], 1911
+| subdivision_ranks = Subspecies
+| subdivision = ''Acanthiza iredalei hedleyi <br> Acanthiza iredalei iredalei <br> Acanthiza iredalei rosinae''
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Acanthiza+(Geobasileus)+iredalei+hedleyi ''Atlas of Living Australia'': Slender-billed Thornbill]
+* ''Birdlife Australia'': Slender-billed Thornbill
+* [https://en.wikipedia.org/wiki/Slender-billed_thornbill ''Wikipedia'': Slender-billed thornbill]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

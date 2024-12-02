@@ -1,0 +1,13 @@
+* <span id="csdoc_date" />'''date''': Date of source being referenced. Can be full date (day, month, and year) or partial date (month and year, season and year, or year). Use same format as other publication dates in the citations.{{r|date|group=date}} Required when '''year''' is used to disambiguate {{tlx|sfn}} links to multiple-work citations by the same author in the same year.{{sup|[[Template:Sfn#More_than_one_work_in_a_year|[more]]]}} Do not wikilink. Displays after the authors and is enclosed in parentheses. If there is no author, then displays after publisher.{{#if:{{{aliases|}}}|&#32;Aliases: {{{aliases}}}}} For acceptable date formats, see [[Help:Citation Style 1#Dates]].
+:For approximate year, precede with "<code>c. </code>", like this: {{para|date|c. 1900}}.
+{{anchor|Undated}}
+:For no date, or "undated", add as {{para|date|n.d.}} 
+* <span id="csdoc_year" />'''year''': Year of source being referenced. Use of {{para|date}} is recommended unless all of the following conditions are met: 
+:# The template uses {{para|ref|harv}}, or the template is {{tlx|citation}}, or {{para|mode|cs2}}
+:# The {{para|date}} format is YYYY-MM-DD.
+:# The citation requires a <code>[[Wikipedia:Citation templates and reference anchors|CITEREF]]</code> [[Template:Sfn#More than one work in a year|disambiguator]].
+* <span id="csdoc_origyear" />'''orig-year''': Original publication year; displays after the date or year. For clarity, please supply specifics. For example: {{para|orig-year|First published 1859}} or {{para|orig-year|Composed 1904}}.{{#if:{{{began|}}}|
+* <span id="csdoc_began" />OR: {{xtd|'''began'''}}: (deprecated) <s>Full date the first part of the program or episode aired.</s> Use {{para|date}} with a date range.
+* <span id="csdoc_ended" />AND: {{xtd|'''ended'''}}: (deprecated) <s>Full date the last part of the program or episode aired.</s> Use {{para|date}} with a date range.}}
+{{#if:{{{aliases2|}}}|&#32;Aliases:{{{aliases2}}}}}
+{{reflist|group=date|refs=<ref name=date>Publication dates in references within an article should all have the same format. This may be a different format from that used for archive and access dates. See: [[MOS:DATEUNIFY]].</ref>}}

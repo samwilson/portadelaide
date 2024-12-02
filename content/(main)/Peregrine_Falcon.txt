@@ -1,0 +1,49 @@
+{{Taxobox
+| name = Peregrine Falcon
+| image = Falco peregrinus -Nova Scotia, Canada -eating-8.jpg
+| image_width = 240px
+| image_caption = Adult with prey in Nova Scotia, Canada
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=45354964 |title=''Falco peregrinus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2014.3 |year=2014 |accessdate=25 April 2015}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Falconiformes Falconiformes]
+| familia = [https://en.wikipedia.org/wiki/Falconidae Falconidae]
+| genus = ''[https://en.wikipedia.org/wiki/Falcon Falco]''
+| species = '''''F. peregrinus'''''
+| binomial = ''Falco peregrinus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Marmaduke_Tunstall Tunstall], 1771
+| range_map =PeregrineRangeMap.png
+| range_map_caption = Global range of ''F. peregrinus''
+{{leftlegend|yellow|Breeding summer visitor|outline=gray}}{{leftlegend|green|Breeding resident|outline=gray}}{{leftlegend|#0080FF|Winter visitor|outline=gray}}{{leftlegend|#00FFFF|Passage visitor|outline=gray}}
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 17–19, see text
+| synonyms = ''Falco atriceps'' <small>[https://en.wikipedia.org/wiki/Allan_Octavian_Hume Hume]</small><br />''Falco kreyenborgi'' <small>[https://en.wikipedia.org/wiki/Otto_Kleinschmidt Kleinschmidt], 1929<br /></small>''Falco pelegrinoides madens'' <small>[https://en.wikipedia.org/wiki/Sidney_Dillon_Ripley Ripley] & Watson, 1963</small><br />''Rhynchodon peregrinus'' <small>(Tunstall, 1771)</small><br />and see text
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Falco+(Hierofalco)+peregrinus ''Atlas of Living Australia'': Peregrine Falcon]
+* [http://birdlife.org.au/bird-profile/peregrine-falcon ''Birdlife Australia'': Peregrine Falcon]
+* [https://en.wikipedia.org/wiki/Peregrine_falcon ''Wikipedia'': Peregrine falcon]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,278 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{intricate template}}
+
+== Usage ==
+{{Parameter names example|alt|architect|begin|builder|caption|carries|child|clearance_above|clearance_below|closed|collapsed|complete|contracted_designer|coordinates|coordinates_display|coordinates_format|coordinates_region|coordinates_type|cost|crosses|depth|design|designer|embed|engineering|extra|fabricator|followed|height|heritage|id|id_type|image|image_size|image_upright|inaugurated|length|life|load|locale|mainspan|maint|map_alt|map_caption|map_dot_label|map_image|map_relief|map_size|map_type=|map_upright|material|material1|material2|name|named_for|native_name|native_name_lang|number_spans|official_name|open|os_grid_reference|other_name|owner|piers_in_water|preceded|rebuilt|replaces|toll|towpath|traffic|traversable|website|width|winner}}
+
+Copy and paste the template below:
+<pre style="overflow:auto">
+{{Infobox bridge
+| name                = 
+| native_name         = 
+| native_name_lang    = 
+| image               = 
+| image_upright       = 
+| alt                 = 
+| caption             = 
+| lat                 = 
+| long                = 
+| coordinates_display = inline,title
+| coordinates_region  = 
+| os_grid_reference   = 
+| carries             = 
+| crosses             = 
+| locale              = 
+| official_name       = 
+| other_name          = 
+| named_for           = 
+| owner               = 
+| maint               = 
+| heritage            = 
+| id                  = 
+| id_type             = 
+| website             = 
+| preceded            = 
+| followed            = 
+| design              = 
+| material            = 
+| material1           = 
+| material2           = 
+| length              = 
+| width               = 
+| height              = 
+| depth               = 
+| traversable         = 
+| towpath             = 
+| mainspan            = 
+| number_spans        = 
+| piers_in_water      = 
+| load                = 
+| clearance_above     = 
+| clearance_below     = 
+| life                = 
+| architect           = 
+| designer            = 
+| contracted_designer = 
+| winner              = 
+| engineering         = 
+| builder             = 
+| fabricator          = 
+| begin               = 
+| complete            = 
+| cost                = 
+| open                = 
+| inaugurated         = 
+| rebuilt             = 
+| collapsed           = 
+| closed              = 
+| replaces            = 
+| traffic             = 
+| toll                = 
+| map_type            = 
+| map_relief          = 
+| map_dot_label       = 
+| map_image           = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+}}
+</pre>{{clear right}}
+
+== Parameters ==
+; name                : Name of bridge
+; native_name         : Name of the bridge in the local language, if different
+; native_name_lang    : ISO code for the local language (e.g. "fr" for French). If more than one, enter the native names using {{Tl|Lang}} instead.
+; image               : Filename of image of the bridge
+; alt                 : Alt text for bridge image (see [[WP:ALT]])
+; caption             : Text for caption beneath image
+; lat                 : Latitude
+; long                : Longitude
+; coordinates_display : Either "inline" or "inline,title" 
+; coordinates_region  : [[ISO 3166]] code
+; os_grid_reference   : OS grid reference
+; carries             : Type of vehicles bridge carries
+; crosses             : Body of water or geographic feature that is being crossed
+; locale              : General area where located (e.g. San Francisco, Indiana-Kentucky State Line)
+; official_name       : Official name
+; other_name          : Also known as name
+; named_for           : [[namesake]]
+; owner               : Persons or body that owns the bridge
+; maint               : Maintaining entity (e.g. California Department of Transportation)
+; heritage            : Heritage status (e.g. UK listed building)
+; id                  : ID number, if available
+; id_type             : Label for the ID field. The default, if this parameter is not specified, is [[National Bridge Inventory#ID numbers|ID number]] (for the United States National Bridge Inventory)
+; website             : URL to the bridge's website; enclose within {{tl|URL}}
+; preceded            : Name of bridge upstream
+; followed            : Name of bridge downstream
+; design              : Type of bridge (cantilever, truss, suspension)
+; material            : Construction material (concrete, steel, iron, stone, brick, wood)
+; material1           : Construction material for trough
+; material2           : Construction material for piers
+; length              : Length of bridge, w/ conversions
+; width               : Width of bridge, w/ conversions
+; height              : Height of bridge, w/ conversions
+; depth               : Depth of aqueduct channel, w/ conversions
+; traversable         : Can standard craft (for that navigation) pass on the aqueduct? Yes/No
+; towpath             : Side of towpath (None, N, S, E, W, NE, NW, SE, SW, Both)
+; mainspan            : Length of main span, w/ conversions
+; number_spans        : Number of spans or arches
+; piers_in_water      : Number of [[pier (architecture)|piers]] standing in a river or other water in normal conditions
+; load                : Load limit of the bridge, w/ conversions
+; clearance_above     : Clearance on top of the bridge, if proper
+; clearance_below     : Clearance ''beneath'' the bridge
+; life                : Design life of the bridge in years
+; architect           : Those responsible for the conceptual design of the bridge - to be used when engineering/construction design was done by another party
+; designer            : Bridge designer/architect  (e.g. Isambard Kingdom Brunel)
+; contracted_designer : The lead designer at the contract/post competition phase
+; winner              : The winner/s of the design competition phase
+; engineering         : The person or organization that did the engineering/construction design, where that differs from 'designer' above
+; builder             : Construction company or bridge builder
+; fabricator          : Steel fabricator
+; begin               : Construction begin
+; complete            : Construction end
+; cost                : Total project cost
+; open                : Opening date, use {{Tl|Start date}}
+; inaugurated         : the date the bridge is ceremonially opened
+; rebuilt             : Date of major rebuild
+; collapsed           : If collapsed, then date of collapse, don't use <code>closed</code> - closure is assumed
+; closed              : Closing date
+; replaces            : The bridge or ferry services that this bridge made redundant
+; traffic             : Average Daily Traffic value
+; toll                : Price of the toll (if a toll bridge)
+; map_type            : The name of a locator map; see [[Template:Location_map#Available maps]] for a complete listing f options. This parameter is mutually exclusive with {{para|map_image}}.
+; map_relief          : Whether to display a relief map with {{para|map_type}}; defaults to <code>yes</code>.
+; map_image           : Filename of map image of bridge
+; map_alt             : Alt text for map image (see [[WP:ALT]])
+; map_caption         : Caption for the locator or image map
+; extra               : Spare field for modules, e.g. {{tl|Infobox designation list}}
+
+===Map and coordinates===
+It's usually not necessary to use the <code>coordinates=</code> parameter.
+*The latitude and longitude of the bridge may be specified:
+**in decimal degrees, using <code>lat=</code> and <code>long=</code> OR
+**in degrees/minutes/seconds, using <code>latd=</code>, <code>latm=</code>, <code>lats=</code>, <code>latNS=</code>, <code>longd=</code>, <code>longm=</code>, <code>longs=</code>, and <code>longEW=</code>.
+*To suppress the display coordinates at the top of the page, set <code>coordinates_display=inline</code>.
+*The [[ISO 3166-1 alpha-2]] or [[ISO 3166-2]] region code can set using the <code>coordinates_region=</code> parameter.
+
+One advantage of omitting the <code>coordinates=</code> parameter is that you can display a {{tl|Location map}} without duplicating coordinates.
+
+<pre style="overflow:auto">
+{{Infobox bridge
+...
+| latd   = <!-- ''latitude'' degrees -->
+| latm   = <!-- ''latitude'' minutes -->
+| lats   = <!-- ''latitude'' seconds -->
+| latNS  = <!-- latitude: S=south, N=north (default) -->
+| longd  = <!-- ''longitude'' degrees -->
+| longm  = <!-- ''longitude'' minutes -->
+| longs  = <!-- ''longitude'' seconds -->
+| longEW = <!-- longitude: W=west, E=east (default) -->
+| coordinates_display = <!-- non-blank to display coordinates at the top of the page. -->
+| coordinates_region  = <!-- coordinates region code. -->
+| map_type            = <!-- Location name used for Template:Location map -->
+| map_relief          = yes<!-- Use the relief map, if it exists -->
+| map_alt             = <!-- Alternative text for map image, see WP:ALT for details -->
+| map_caption         = <!-- Text to be displayed below map; for no caption enter "map_caption="; if the parameter is omitted then the caption will be "Marker text (location map name)" -->
+...
+}}
+</pre>
+:Parameters to specify [[Geographic coordinate system|coordinates]] in [[Degree (angle)|degrees]], [[Minute of arc|minutes]], and seconds of arc:
+<pre style="overflow: auto">
+{{Infobox bridge
+...
+| latd   = <!-- ''latitude'' degrees -->
+| latm   = <!-- ''latitude'' minutes -->
+| lats   = <!-- ''latitude'' seconds -->
+| latNS  = <!-- latitude: S=south, N=north (default) -->
+| longd  = <!-- ''longitude'' degrees -->
+| longm  = <!-- ''longitude'' minutes -->
+| longs  = <!-- ''longitude'' seconds -->
+| longEW = <!-- longitude: W=west, E=east (default) -->
+...
+}}
+</pre>
+:Parameters to specify coordinates in [[Decimal fraction|decimal]] degrees:
+<pre style="overflow: auto">
+{{Infobox bridge
+...
+| lat  = <!-- ''latitude'' (decimal format; enter negative numbers for southern latitude) -->
+| long = <!-- ''longitude'' (decimal format; enter negative numbers for western longitude) --> 
+...
+}}
+</pre>
+
+Note: coordinates in decimal degrees are sensitive to extra whitespace in the parameters:
+*Incorrect: <code>| long = - 123.45</code>
+*Correct: <code>| long = -123.45</code>
+
+==Example==
+{{Infobox bridge
+| name        = Sydney Harbour Bridge
+| image       = Sydney Harbour Bridge from Circular Quay.jpg
+| carries     = Trains, Motor vehicles, pedestrians and bicycles
+| crosses     = [[Port Jackson]]
+| locale      = [[Sydney]], [[New South Wales]], Australia
+| design      = [[Through arch bridge]]
+| length      = {{Convert|1149|m|ft|0|abbr=on}}
+| width       = {{Convert|49|m|ft|0|abbr=on}}
+| height      = {{Convert|134|m|ft|0|abbr=on}}
+| mainspan    = {{Convert|503|m|ft|0|abbr=on}}
+| below       = {{Convert|49|m|ft|0|abbr=on}} at mid-span
+| begin       = 28 July 1923
+| complete    = 19 January 1932
+| open        = {{Start-date|19 March 1932}}
+| map_type    = Australia New South Wales
+| map_relief  = yes
+| latd = 33 | latm = 51 | lats = 08 | latNS = S
+| longd= 151| longm= 12 | longs= 38 | longEW= E
+| coordinates_region = AU-NSW_type:landmark
+| coordinates_display = inline
+}}
+<pre style="overflow: auto;">
+{{Infobox bridge
+| name        = Sydney Harbour Bridge
+| image       = Sydney Harbour Bridge from Circular Quay.jpg
+| carries     = Trains, Motor vehicles, pedestrians and bicycles
+| crosses     = [[Port Jackson]]
+| locale      = [[Sydney]], [[New South Wales]], Australia
+| design      = [[Through arch bridge]]
+| length      = {{Convert|1149|m|ft|0|abbr=on}}
+| width       = {{Convert|49|m|ft|0|abbr=on}}
+| height      = {{Convert|134|m|ft|0|abbr=on}}
+| mainspan    = {{Convert|503|m|ft|0|abbr=on}}
+| below       = {{Convert|49|m|ft|0|abbr=on}} at mid-span
+| begin       = 28 July 1923
+| complete    = 19 January 1932
+| open        = {{Start-date|19 March 1932}}
+| map_type    = Australia New South Wales
+| map_relief  = yes
+| latd = 33 | latm = 51 | lats = 08 | latNS = S
+| longd= 151| longm= 12 | longs= 38 | longEW= E
+| coordinates_region = AU-NSW_type:landmark
+| coordinates_display = inline
+}}
+</pre>
+{{-}}
+
+== Microformat ==
+{{UF-hcard-geo}} A typical 4-lane bridge (25m wide) requires 0.1 second or 0.0001&deg; of precision.
+
+== See also ==
+; Hidden tracking/maintenance categories
+* [[:Category:Articles using Template:Infobox bridge with clearance]]
+* [[:Category:Pages using Infobox bridge with deprecated parameters]]
+* [[:Category:Pages using Infobox bridge with extra]]
+* [[:Category:Pages using deprecated coordinates format]]
+
+{{Buildings and structures infobox templates}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!--Categories below this line, please; interwikis at Wikidata-->
+[[Category:Bridge templates]]
+[[Category:Buildings and structures infobox templates|Bridge]]
+[[Category:Transport infobox templates|Bridge]]
+[[Category:Templates generating hCards]]
+[[Category:Embeddable templates]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Southern Grass Skink
+| image = Southern Grass Skink (Pseudemoia entrecasteauxii).jpg
+| regnum = [[Animal]]ia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Sauria Sauria] / [https://en.wikipedia.org/wiki/Lacertilia Lacertilia]
+| infraordo = [https://en.wikipedia.org/wiki/Scincomorpha Scincomorpha]
+| familia = [https://en.wikipedia.org/wiki/Scincidae Scincidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Eugongylinae Eugongylinae]<ref name="RDB"/>
+| genus = ''[https://en.wikipedia.org/wiki/Pseudemoia Pseudemoia]''
+| species = ''P. entrecasteauxii''
+| binomial = ''Pseudemoia entrecasteauxii''
+| binomial_authority = ([https://en.wikipedia.org/wiki/André_Marie_Constant_Duméril A.M.C. Duméril] and [https://en.wikipedia.org/wiki/Gabriel_Bibron Bibron], 1839) 
+| synonyms = *''Lygosoma entrecasteauxii'' {{small|A.M.C. Duméril & Bibron, 1839}}
+*''Leilopisma entrecasteauxi'' <br>{{small|— [https://fr.wikipedia.org/wiki/Allen_Eddy_Greer Greer], 1974}}
+*''Claireascincus entrecasteauxii'' {{small|— [https://en.wikipedia.org/wiki/Richard_Walter_Wells Wells] & [https://en.wikipedia.org/wiki/Cliff_Ross_Wellington Wellington], 1985}}
+*''Pseudemoia entrecasteauxii'' <br>{{small|— [https://en.wikipedia.org/wiki/Mark_Norman_Hutchinson Hutchinson] et al., 1990}}
+*''Niveoscincus entrecasteauxii'' <br>{{small|— [https://fr.wikipedia.org/wiki/Aaron_Matthew_Bauer Bauer] et al., 1995}}<ref name="RDB">"''Pseudemoia entrecasteauxii'' ". The Reptile Database. www.reptile-database.org.</ref>
+| range_map = Southern Grass Skink.png
+| range_map_caption = Distribution of the<br />Southern Grass Skink
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Pseudemoia+entrecasteauxii ''Atlas of Living Australia'': ''Pseudemoia entrecasteauxii'']
+* [https://en.wikipedia.org/wiki/Souther_grass_skink ''Wikipedia'': Southern grass skink]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

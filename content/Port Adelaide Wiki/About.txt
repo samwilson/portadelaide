@@ -1,0 +1,28 @@
+
+== <strong>Port Adelaide Environment & Heritage Wiki</strong> ==
+
+* This wiki was started on 17 May 2015 - some basic technical information on MediaWiki can be found [[Main Page/About the wiki|here]]. 
+* It is modelled on Wikipedia, from where many templates have been imported. Some of these are "intricate", and have been difficult to implement; solutions that have been found are listed [[User:Bahudhara/Bugs and fixes|here]].
+
+===About this Wiki===
+The Port Adelaide Environment & Heritage Wiki has been created to address some of the shortcomings of Wikipedia in scaling down to the local level, with a particular focus on the environment, history and heritage of Port Adelaide and the surrounding region.
+
+Due to Wikipedia's key policies of "[https://en.wikipedia.org/wiki/Wikipedia:Notability Notability]", "[https://en.wikipedia.org/wiki/Wikipedia:No_original_research No original research]" and "[https://en.wikipedia.org/wiki/Wikipedia:Verifiability Verifiability]" a lot of historical material relevant at the community level is likely to be missed, or dismissed (being deemed irrelevant, not notable enough, or not verifiable) by editors, particularly those based on the other side of the globe, who may lack local knowledge or perspective.
+
+Another aspect of Wikipedia culture that affects its content is that its editors are preponderantly young, and male. While at the best of times interaction between editors can be harmonious and productive, at other times it can become acrimonious, and this can be very off-putting to many potential contributors, particularly women.
+
+In allowing anonymous IP editing, Wikipedia does open itself up to abuse, especially minor vandalism. The problem has largely been addressed there through the creation of bots (automated tools), as well as through the constant vigilance of the global community of Wikipedia editors. For a smaller wiki this could potentially be a bigger problem, and a waste of limited resources.
+
+To avoid these sorts of issues, account creation will be required to edit the Port Adelaide Wiki. Contributors can set up an account using a [https://en.wikipedia.org/wiki/Pen_name pen name], but there is an expectation that there will be more interaction between editors as members of a real, rather than just a virtual, community.
+
+This wiki is being supported by the [http://portofadelaident.wix.com/portofadelaident Port of Adelaide Branch of the National Trust of SA (PoANT)], some of whose members are undertaking training in techniques of recording oral histories. This material will be used to enrich the wiki.
+
+In making these departures from standard Wikipedia policies, it may be that other problems may arise, e.g. copyright issues. We anticipate that by running training courses for new editors, and by continuing to develop an active and involved local community of editors, that these issues can be overcome.
+
+===For more information===
+For more information about the Port Adelaide Wiki project, contact [[User talk:Bahudhara|User:Bahudhara]] (on this wiki) or on [https://en.wikipedia.org/wiki/User_talk:Bahudhara User:Bahudhara] (Wikipedia).
+
+==Joining this Wiki - how to create an account==
+Due to being targetted bu a [https://en.wikipedia.org/wiki/Spambot spambot] (which created over 90 fake accounts over one weekend), online account creation has been disabled on this wiki.
+
+However, we do welcome genuine contributions from real humans, so if you would like to become involved in this project, please contact [[User:Bahudhara]] by phone '''8234 1420''', or email to '''littoral#chariot.net.au''' (replacing the "#" with "@"), with your preferred username, and he can create an account for you.

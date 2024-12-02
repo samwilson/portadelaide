@@ -1,0 +1,88 @@
+{{Navbox
+| name = Buildings and structures infobox templates
+| state = {{{state|{{{1|}}}}}}
+| bodyclass = hlist
+| title = {{c|Buildings and structures infobox templates}}
+
+| above = '''[[Template:Infobox building|Infobox building]]'''
+
+| group1 = Buildings
+| list1 =
+* [[Template:Infobox airport|airport]]
+* [[Template:Infobox brewery|brewery]]
+* [[Template:Infobox casino|casino]]
+* [[Template:Infobox convention center|convention center]]
+* [[Template:Infobox desalination plant|desalination plant]]
+* [[Template:Infobox factory|factory]]
+* [[Template:Infobox hospital|hospital]]
+* [[Template:Infobox hut|hut]]
+* [[Template:Infobox library|library]]
+* [[Template:Infobox lighthouse|lighthouse]]
+* [[Template:Infobox mill building|mill]]
+* [[Template:Infobox museum|museum]]
+* [[Template:Infobox observatory|observatory]]
+* [[Template:Infobox oil refinery|oil refinery]]
+* [[Template:Infobox power station|power station]]
+* [[Template:Infobox prison|prison]]
+* [[Template:Infobox religious building|religious building]]
+** [[Template:Infobox church|church]]
+<!--[Too specific to include here?:] ** [[Template:Infobox Jain temple|Jain temple]] -->
+** [[Template:Infobox monastery|monastery]]
+* [[Template:Infobox restaurant|restaurant]]
+* [[Template:Infobox shopping mall|shopping mall]] <!--(can be within (single) building/complex)-->
+* [[Template:Infobox station|station]]
+* [[Template:Infobox venue|venue]] 
+* [[Template:Infobox windmill|windmill]]
+
+<!----
+ Too specific to include here?:
+* [[Template:Infobox Burg|Burg]]
+
+ Too general or not intrinsically/originally a building?:
+* [[Template:Infobox Disney resort|Disney resort]]
+* [[Template:Infobox fishery|fishery]]
+* [[Template:Infobox UK property|UK property]]
+ ----->
+
+| group2 = Structures
+| list2 =
+* [[Template:Infobox aqueduct|aqueduct]]
+* [[Template:Infobox artwork|artwork]]{{sup|1}}
+* [[Template:Infobox bridge|bridge]]
+** [[Template:Infobox bridge type|type]]
+* [[Template:Infobox dam|dam]]
+* [[Template:Infobox future infrastructure project|future infrastructure project]]
+* [[Template:Infobox military installation|military installation]]
+* [[Template:Infobox monument|monument]]
+** [[Template:Infobox military memorial|military memorial]]
+* [[Template:Infobox pier|pier]]
+* [[Template:Infobox pipeline|pipeline]]
+* [[Template:Infobox power transmission line|power transmission line]]
+* [[Template:Infobox pyramid|pyramid]]
+* [[Template:Infobox roller coaster|roller coaster]]
+** [[Template:Infobox dual roller coaster|dual]]
+* [[Template:Infobox room|room]]
+* [[Template:Infobox swimming pool|swimming pool]]
+* [[Template:Infobox telescope|telescope]]
+** [[Template:Infobox space telescope|space-based]]
+* [[Template:Infobox tunnel|tunnel]]
+
+<!----
+ Too specific to include here?:
+* [[Template:Infobox water ride|water ride]]
+
+ Too general or not intrinsically/originally a structure?:
+* [[Template:Infobox historic site|historic site]]
+* [[Template:Infobox urban feature|urban feature]]
+ ----->
+
+| below = {{sup|1}}&nbsp;including statues.
+
+}}<noinclude>
+{{Documentation
+ | content =
+{{Collapsible option |statename=optional}}
+
+[[Category:Buildings and structures infobox templates| ]]
+}}<!--(end Documentation)
+--></noinclude>

@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Australasian Shoveler
+| image = Anas-rhynchotis-variegata.jpg
+| image_width = 240px
+| image_caption = ''Anas rhynchotis''
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22680243 |title=''Anas rhynchotis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Anatinae Anatinae]
+| genus = ''[https://en.wikipedia.org/wiki/Anas Anas]''
+| species = '''''A. rhynchotis'''''
+| binomial = ''Anas rhynchotis''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham] 1802
+| synonyms = 
+*''A. r. rhynchotis''<small>(Latham, 1802)</small><br><small>([https://en.wikipedia.org/wiki/Australian_shoveler Australian Shoveler])</small>
+*''A. r. variegata''<small>([https://en.wikipedia.org/wiki/John_Gould Gould], 1856)</small><br><small>([https://en.wikipedia.org/wiki/New_Zealand_shoveler New Zealand Shoveler])</small>
+}}
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Anas+(Spatula)+rhynchotis ''Atlas of Living Australia'': Australasian Shoveler]
+* [http://birdlife.org.au/bird-profile/australasian-shoveler ''Birdlife Australia'': Australasian Shoveler]
+* [https://en.wikipedia.org/wiki/Australasian_shoveler ''Wikipedia'': Australasian shoveler]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

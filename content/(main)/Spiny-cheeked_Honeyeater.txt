@@ -1,0 +1,44 @@
+{{Taxobox 
+| name =  Spiny-cheeked Honeyeater
+| image = Acanthagenus rufogularis - Spiny-cheeked Honeyeater.jpg
+| image_width = 240px
+| image_caption = 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704451 |title=''Acanthagenys rufogularis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus = '''''Acanthagenys'''''
+| genus_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1838
+| species = '''''A. rufogularis'''''
+| binomial = ''Acanthagenys rufogularis''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1838
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Acanthagenys+rufogularis ''Atlas of Living Australia'': Spiny-cheeked Honeyeater]
+* [http://birdlife.org.au/bird-profile/spiny-cheeked-honeyeater ''Birdlife Australia'': Spiny-cheeked Honeyeater]
+* [https://en.wikipedia.org/wiki/Spiny-cheeked_honeyeater ''Wikipedia'': Spiny-cheeked honeyeater]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

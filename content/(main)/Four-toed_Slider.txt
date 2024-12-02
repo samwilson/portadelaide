@@ -1,0 +1,41 @@
+{{Taxobox
+| name = Four-toed Earless Skink
+| regnum = [[Animal]]ia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Sauria Sauria]
+| infraordo = [https://en.wikipedia.org/wiki/Scincomorpha Scincomorpha]
+| familia = [https://en.wikipedia.org/wiki/Scincidae Scincidae]
+| genus = '''''Lerista'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Thomas_Bell_(zoologist) Bell], 1833
+| species = ''L. dorsalis''
+| binomial = ''Lerista dorsalis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Glen_Milton_Storr Storr], 1985)
+}}
+
+
+
+Four-toed Slider, also called Southern Slider 
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Lerista+dorsalis ''Atlas of Living Australia'': ''Lerista dorsalis'']
+* [https://en.wikipedia.org/wiki/Lerista ''Wikipedia'': ''Lerista''] (Genus only, no species article - 27 October 2015) 
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

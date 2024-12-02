@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Eastern Bluetongue
+| image = Immature eastern blue tongued lizard.jpg
+| image_width = 
+| image_caption = Immature
+| status = [https://en.wikipedia.org/wiki/Not_Evaluated Not Evaluated]
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Sauria Sauria]
+| familia = [https://en.wikipedia.org/wiki/Scincidae Scincidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tiliqua Tiliqua]''
+| species = ''[https://en.wikipedia.org/wiki/Tiliqua_scincoides T. scincoides]''
+| subspecies = '''''T. s. scincoides'''''
+| trinomial = ''Tiliqua scincoides scincoides''
+| trinomial_authority =([https://en.wikipedia.org/wiki/John_White_(surgeon) White], 1790)<ref name=NRDB>{{NRDB species |genus=Tiliqua| species=scincoides}}</ref>
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Tiliqua+scincoides ''Atlas of Living Australia'': ''Tiliqua scincoides'']
+* [https://en.wikipedia.org/wiki/Eastern_blue-tongued_lizard ''Wikipedia'': Eastern blue-tongued lizard]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

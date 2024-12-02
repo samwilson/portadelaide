@@ -1,0 +1,3 @@
+Korean<noinclude>
+{{ISO 639 name conversion template doc|{{ISO 639 name ko-Hang}}|ko-Hang}}
+</noinclude>

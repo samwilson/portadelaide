@@ -1,0 +1,44 @@
+{{Taxobox
+| status = NE
+| status_system = IUCN3.1
+| status_ref = 
+| image = Intermediate Egret in breeding plumage.1 - Fogg Dam - Middle Point - Northern Territory - Australia.jpg
+| image_width = 240px
+| image_caption = ''Mesophoyx intermedia'' of breeding plumage in Northern Territory, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = '''''Mesophoyx'''''
+| species = ''M. intermedia''
+| binomial = ''Mesophoyx intermedia''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Georg_Wagler Wagler], 1827)
+| synonyms = ''Ardea intermedia''<br>''Egretta intermedia''
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ardea+(Mesophoyx)+intermedia ''Atlas of Living Australia'': Intermediate Egret]
+* ''Birdlife Australia'': Intermediate Egret
+* [https://en.wikipedia.org/wiki/Intermediate_egret ''Wikipedia'': Intermediate egret]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

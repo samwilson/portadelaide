@@ -1,0 +1,14 @@
+<noinclude>
+For internal use by <tt><nowiki>{{Template:Infobox ship characteristics/paramline}}</nowiki></tt> and possibly <tt><nowiki>{{Template:Infobox ship characteristics}}</nowiki></tt> itself in the future.
+:<tt>lab</tt>= infobox line label
+:<tt>val</tt>= optional value for parameter
+:::::if absent and no <tt>WDval</tt> parameter: line is not displayed
+:::::if absent and <tt>WDval</tt> parameter: Wikidata is used to provide a value
+:::::if "<tt>none</tt>": line is not displayed
+:<tt>WDval</tt>= optional Wikidata property value (imported using parser function <tt><nowiki>{{#property:}}</nowiki></tt>)
+:<tt>WDlnk</tt>= optional link to corresponding Wikidata item page
+</noinclude>{{#ifeq:{{{val|}}}|none|{{#if:{{{WDval|}}}|[[Category:Ship infoboxes blocking Wikidata import]]}}<!-- 
+ -->|{{#if:{{{val|}}}<!-- either -->{{{WDval|}}}|<tr style="vertical-align:top;"><td>{{{lab|}}}</td><td><!--
+     -->{{#if:{{{val|}}}|{{{val|}}}<!--
+       -->|[[{{{WDval|}}}]] [[File:Wikidata-favicon.png|16px|alt=Imported from Wikidata|link={{{WDlnk|}}}]] <sup>[[Template:Infobox_ship_characteristics#Parameter_value_import_from_Wikidata|(?)]]</sup>[[Category:Ship infoboxes importing Wikidata]]}}</td></tr>{{#if:{{{WDpid|}}}|{{{WDpid|}}}}}}}
+}}

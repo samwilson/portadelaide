@@ -1,0 +1,3 @@
+* <span id="csdoc_lay" />'''lay-url''': URL link to a non-technical summary or review of the source; the URL title is set to "Lay summary". Aliases: '''lay-summary''', '''laysummary'''.
+** '''lay-source''': Name of the source of the laysummary. Displays in italics and preceded by an endash. Alias: '''laysource'''.
+** '''lay-date''': Date of the summary. Displays in parentheses. Alias: '''laydate'''.

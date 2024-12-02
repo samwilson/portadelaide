@@ -1,0 +1,3 @@
+<includeonly>{{ship|HMS|{{{1}}}|{{#if:{{{2|}}}|{{{2}}}}}|{{#if:{{{3|}}}|{{{3}}}}}}}</includeonly><noinclude>{{template doc}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

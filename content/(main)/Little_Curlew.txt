@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Little curlew
+| image = Numenius minutus 1.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693165 |title=''Numenius minutus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Curlew Numenius]''
+| species = '''''N. minutus'''''
+| binomial = ''Numenius minutus''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1841
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Numenius+(Mesoscolopax)+minutus ''Atlas of Living Australia'': Little Curlew]
+* [http://birdlife.org.au/bird-profile/little-curlew ''Birdlife Australia'': Little Curlew]
+* [https://en.wikipedia.org/wiki/Little_curlew ''Wikipedia'': Little curlew]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Southern Boobook
+| image = Nz boobook.JPG
+| image_width = 240px
+| image_caption = Morepork in Warkworth, New Zealand
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22733528 |title=''Ninox novaeseelandiae'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Strigiformes Strigiformes]
+| familia = [https://en.wikipedia.org/wiki/Strigidae Strigidae]
+| genus = ''[https://en.wikipedia.org/wiki/Ninox Ninox]''
+| species = '''''N. novaeseelandiae'''''
+| binomial = ''Ninox novaeseelandiae''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1788)
+| synonyms = *''Ninox rotiensis''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ninox+(Ninox)+novaeseelandiae ''Atlas of Living Australia'': Southern Boobook]
+* [http://birdlife.org.au/bird-profile/southern-boobook ''Birdlife Australia'': Southern Boobook]
+* [https://en.wikipedia.org/wiki/Morepork ''Wikipedia'': Morepork]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

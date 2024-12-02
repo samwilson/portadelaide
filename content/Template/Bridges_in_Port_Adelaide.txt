@@ -1,0 +1,20 @@
+
+{{Navbox
+|name       = Bridges in Port Adelaide
+|title      = Bridges in Port Adelaide
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = Road bridges
+|list1      =
+* [[Birkenhead Bridge]] 
+* [[Jervois Bridge]] 
+* [[Tom 'Diver' Derrick Bridge]]
+
+|group2     = Rail bridges
+|list2      =
+* [[Commercial Road rail viaduct]]
+* [[Mary McKillop Bridge]]
+* [[Port River rail bridge]]
+}}

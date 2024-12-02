@@ -1,0 +1,33 @@
+{{Documentation subpage}}
+<!----PLEASE ADD CATEGORIES WHERE INDICATED AT THE BOTTOM OF THIS PAGE---->
+
+{{tl|Collapsible option}} provides a standardised message for [[Wikipedia:Transclusion|transclusion]] on the pages of collapsible templates whose collapsibility may be managed by the parameter <code>state</code>.
+
+It may be used on either the template page itself (wrapped within {{tag|noinclude}} tags) or on the template's {{tl|documentation subpage}}.
+
+===Indicating optional use of ''state'' name===
+The <code>state</code> parameter used to manage collapsible templates need not always be named explicitly, i.e. {{braces|[''Template name'']{{!}}''state''}} can be the same as {{braces|[''Template name'']{{!}}state&#61;''state''}}. To indicate this in the <nowiki>{{Collapsible option}}</nowiki> message, add the parameter {{para|statename|optional}}. This modifies the message so that it reads (if it were used for itself):
+<div style="clear:both;margin:1.0em 0;background:whitesmoke;">
+{{Collapsible option |statename=optional}}
+</div>
+<div style="font-size:95%;line-height:1.7em;">(This possibility is enabled by including <code><nowiki>{{{1|}}}</nowiki></code> as part of a collapsible template's <code>state</code> parameter{{spaced ndash}}for instance, as {{para|state|<nowiki>{{{state|{{{1|}}}}}}</nowiki>}} or {{para|state|<nowiki>{{{state|{{{1|<noinclude>expanded</noinclude>}}}}}}</nowiki>}}, etc. If, however, the template includes collapsible sections within itself (e.g. {{tl|Navbox with collapsible groups}}), then enabling this possibility may introduce ambiguity as regards what is to be collapsed or expanded. In those instances, therefore, the requirement to use {{para|state}} should be retained.)</div>
+
+===Changing the default state reported===
+To change the default state <nowiki>{{Collapsible option}}</nowiki> reports in its second bullet-point, add the parameter {{para<!--|plain-->|default|collapsed}} or {{para<!--|plain-->|default|expanded}} accordingly. To restore the default report, remove any {{para<!--|plain-->|default}} previously included.
+
+===''nobase''===
+If the template name given to <nowiki>{{Collapsible option}}</nowiki> includes a (forward-)slash character ("/"), the parameter {{para<!--|plain-->|nobase}} (set to "on", "true", etc) will need to be added so that the name is displayed correctly (i.e. so that {{wikivar|PAGENAME}} rather than the default {{wikivar|BASEPAGENAME}} is used to display it).
+
+== See also ==
+* {{tl|Collapsible lists option}}
+* {{tl|Collapsible sections option}}
+* [[Help:Collapsing]]
+
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!----CATEGORIES BELOW THIS LINE, PLEASE:---->
+[[Category:Template namespace templates]]
+[[Category:Wikipedia metatemplates]]
+
+[[es:Plantilla:Opción plegable]]
+}}</includeonly>

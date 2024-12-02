@@ -1,0 +1,69 @@
+{{DEFAULTSORT:Winckel, Alfred}}
+
+{{Infobox military person AIF
+| honorific_prefix  = 
+| name              = Alfred Otto Winckel
+| honorific_suffix  = 
+| image         = Australian Army Rising Sun Badge 1904.png
+| image_size    = 
+| alt           = 
+| caption       = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name    = 
+| other_name    =
+| prior_occupation   = Engine driver
+| birth_date    = 
+<!-- {{birth date and age|YYYY|MM|DD}} or {{birth date|YYYY|MM|DD}} if dead -->
+| birth_place   = [https://en.wikipedia.org/wiki/Ninnes,_South_Australia Ninnes, S.A.]
+| enlistment_date = 22 February 1916 , <br /> aged 21 years, 1 month <!-- {{enlistment date|1916|08|14}} -->
+| death_date    = 6 November 1917 <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} death date first, then birth date -->
+| death_place   =  [https://en.wikipedia.org/wiki/Second_Battle_of_Passchendaele near Passchendaele], Belgium
+| cause_of_death = 44th Casualty Clearing Station, from wounds sustained on 6 November 1917 
+| placeofburial_label = [http://www.cwgc.org/find-a-cemetery/cemetery/14300/NINE%20ELMS%20BRITISH%20CEMETERY Nine Elms British Cemetery], West Vlaanderen, Belgium
+| placeofburial = 
+| placeofburial_coordinates = <!-- {{Coord|LAT|LONG|display=inline,title}} -->
+| religion      = Church of England
+| branch        = 
+| servicelength  = 1 year, 8 months, 14 days
+| rank          = Private
+| servicenumber = 5453
+| unit          = [https://en.wikipedia.org/wiki/10th_Battalion_(Australia) 10th Battalion],<br />[https://aif.adfa.edu.au/showUnit?unitCode=INF10REIN17 17th Reinforcement]
+| commands      = 
+| battles_label = 
+| battles       = 
+| awards        =
+| memorials     = {{Plainlist|* Australian War Memorial Roll of Honour, Panel number 61 
+* [[List of names on the Workers' Memorial, Port Adelaide|Workers' Memorial]] 
+* [[List of names on the WWI Memorial, St Paul's|WWI Memorial, St Paul's]] }}
+| spouse        = 
+| next_of_kin   = Mrs Frances Hannah (Anna) Winckel (mother)
+| relations     = Frederick Otto Winckel (father)<br />Frances Ellen Winckel (sister)
+| laterwork     = 
+| signature     = 
+| signature_size =
+| signature_alt =
+| websites       = [https://www.awm.gov.au/people/rolls/R1680067/ AWM - Roll of Honour] <br />[https://aif.adfa.edu.au/aif/showPerson?pid=329144 ADFA - The AIF Project] <br />[http://discoveringanzacs.naa.gov.au/browse/records/349262 NAA - Discovering Anzacs]
+| module        = 
+}}
+
+
+==Life==
+
+==Legacy==
+Alfred Winckel was nominated for the Workers' Memorial by the [[Federated Engine Drivers and Firemen Association]] as one of the eight trade unionists who had been killed in World War I. 
+
+==External links==
+
+===Contemporary press clippings:===
+'''Family Notices'''
+
+:<blockquote></blockquote>
+
+
+
+{{Names on the Workers' Memorial, Port Adelaide}}
+{{Names on the WWI Memorial, St Paul's}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:Names on the WWI Memorial, St Paul's]]
+[[Category:People of Port Adelaide]]

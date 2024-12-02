@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Eurasian Coot
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22692913 |title=''Fulica atra'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Fulica atra, Blässhuhn am Adenauer-Weiher.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Gruiformes Gruiformes]
+| familia = [https://en.wikipedia.org/wiki/Rallidae Rallidae]
+| genus = ''[https://en.wikipedia.org/wiki/Fulica Fulica]''
+| species = '''''F. atra'''''
+| binomial = ''Fulica atra''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758]
+| range_map = Fulica_atra_distribution.png
+| range_map_caption = Range of ''F. atra'' {{leftlegend|#CE6256|Breeding range|outline=gray}}{{leftlegend|#E58E7B|Year-round range|outline=gray}}{{leftlegend|#F2C1AD|Wintering range|outline=gray}}
+| synonyms =
+* ''Fulica prior'' <small>De Vis, 1888</small><ref name=Condon1975>{{cite book |last1=Condon |first1=H.T. |year=1975 |title=Checklist of the Birds of Australia: Non-Passerines |publisher=Royal Australasian Ornithologists Union |location=Melbourne |page=57}}</ref>
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+
+==External links==
+* [http://bie.ala.org.au/species/Fulica+atra ''Atlas of Living Australia'': Eurasian Coot]
+* [http://birdlife.org.au/bird-profile/eurasian-coot ''Birdlife Australia'': Eurasian Coot]
+* [https://en.wikipedia.org/wiki/Eurasian_coot ''Wikipedia'': Eurasian coot]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

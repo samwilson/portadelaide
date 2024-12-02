@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Great Egret
+| image = Great_egret_(Ardea_alba)_Tobago.jpg
+| image_width = 240px
+| image_caption = Adult in Tobago
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22697043 |title=''Casmerodius albus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = ''[https://en.wikipedia.org/wiki/Ardea_(genus) Ardea]''
+| species = '''''A. alba'''''
+| binomial = ''Ardea alba''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758]
+| synonyms = ''Casmerodius albus''<br />
+''[https://en.wikipedia.org/wiki/Egretta Egretta] alba''
+| range_map = Ardea_alba_map.svg
+| range_map_caption = Range of ''A. alba'' (excluding ''A. a. modesta'') {{leftlegend|#FFFF00|Breeding range|outline=gray}}{{leftlegend|#008000|Year-round range|outline=gray}}{{leftlegend|#0000FF|Wintering range|outline=gray}}
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/search?q=Ardea+alba+Linnaeus%2C+1758 ''Atlas of Living Australia'': Eastern Great Egret] (accepted name: Ardea (Casmerodius) modesta) 
+* ''Birdlife Australia'': Great Egret
+* [https://en.wikipedia.org/wiki/Great_egret ''Wikipedia'': Great egret]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

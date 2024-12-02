@@ -1,0 +1,15 @@
+{{Language with name|uk|Ukrainian|{{{1}}}|links={{{links|}}}}}<noinclude>
+{{pp-template|small=yes}}
+{{Documentation|Template:Lang-x/doc}}
+[[Category:Balto-Slavic multilingual support templates]]
+
+[[es:Plantilla:Lang-ua]]
+[[mk:Шаблон:Lang-uk]]
+[[ms:Templat:Lang-uk]]
+[[ja:Template:Lang-uk]]
+[[ru:Шаблон:Lang-uk]]
+[[sl:Predloga:Jezik-uk]]
+[[fi:Malline:K-uk]]
+[[vi:Tiêu bản:Lang-uk]]
+[[zh:Template:Lang-uk]]
+</noinclude>

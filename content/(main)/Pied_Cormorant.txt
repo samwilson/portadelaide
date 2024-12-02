@@ -1,0 +1,42 @@
+{{Taxobox
+| image= Phalacrocorax varius -Waikawa, Marlborough, New Zealand-8.jpg
+| image_width = 240px
+| image_caption=In New Zealand
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696782 |title=''Phalacrocorax varius'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Suliformes Suliformes]
+| familia = [https://en.wikipedia.org/wiki/Phalacrocoracidae Phalacrocoracidae]
+| genus = ''[https://en.wikipedia.org/wiki/Phalacrocorax Phalacrocorax]''
+| species = '''''P. varius'''''
+| binomial = ''Phalacrocorax varius''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Phalacrocorax+(Phalacrocorax)+varius ''Atlas of Living Australia'': Pied Cormorant]
+* [http://birdlife.org.au/bird-profile/pied-cormorant ''Birdlife Australia'': Pied Cormorant]
+* [https://en.wikipedia.org/wiki/Australian_pied_cormorant ''Wikipedia'': Australian pied cormorant]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

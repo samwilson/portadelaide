@@ -1,0 +1,13 @@
+Birds of the Adelaide region
+
+
+{{Navboxes
+|title= Birds of the Adelaide region
+|state = {{{state|collapsed}}}
+|list =
+
+{{Seabirds}}
+{{Shorebirds}}
+{{Waterbirds}}
+{{Terrestrial birds}}
+}}

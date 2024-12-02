@@ -1,0 +1,221 @@
+This is a summary of changes I've made to the Mediawiki files, and temnplate files imported from Wikipedia, in case they need to be undone, replicated, or reinstalled.
+
+==Changes to templates - [[Template:Infobox bridge]]==
+On importing the XML file from Wikipedia, these elements worked straight away:
+* images display - '''OK'''
+* distance conversion templates - '''OK'''
+* map pin on location map - '''OK'''
+
+====Problem 1.1: changing the Infobox map====
+On copying the source code for the Sydney Harbour Bridge example and trying to over-write the data to change the display to the SA map, I found that this didn't work.
+
+'''Solution:'''
+Creating [[Template:Location map Australia South Australia]] fixed this problem.
+
+====Problem 1.2: other Infobox display issues====
+* infobox not aligned on RHS - '''FIXED'''
+* No border around infobox - '''FIXED'''
+* Font size too big - '''FIXED'''
+* Location map for SA doesn't display - '''FIXED'''
+* Text not constrained within infobox border - '''FIXED''' 
+
+'''Solution:''' This involved modifying [[MediaWiki:Common.css]], which originally contained just one single line of CSS comment:
+
+'''FROM:''' 
+
+/* CSS placed here will be applied to all skins */
+
+'''TO:''' 
+
+Source code copied from corresponding Wikipedia page (with same name, => "select all"), and pasted here.
+
+'''RESULT:''' 
+
+Most Infobox problems fixed.
+
+====Problem 1.3: Infobox coordinates not displaying properly====
+
+'''Solution:'''
+
+Ashleigh fixed this by installing the GeoData Extension to the MediaWiki installation.
+
+=====Displaying coordinates=====
+'''N.B.1''': Use only "| coordinates_display = inline" and not "| coordinates_display = inline, title" otherwise get repetition of coords in infobox.
+
+<nowiki>{{coord|34.842297|S|138.501537|E|format=dms|display=it}}</nowiki> 
+
+'''renders as:'''
+
+{{coord|34.842297|S|138.501537|E|format=dms|display=it}}
+
+However:
+
+<nowiki>{{coord|34.842297|S|138.501537|E|format=dms|display=i}}</nowiki> 
+
+'''renders as:'''
+
+{{coord|34.842297|S|138.501537|E|format=dms|display=i}}
+
+'''N.B.2''': Use the dms parameter format, e.g.:
+| latd = 34 | latm = 50 | lats = 32.2 | latNS = S
+| longd= 138 | longm= 30 | longs= 5.93 | longEW= E
+
+If "| latitude =" and "| longitude= " are used with decimal degrees, this will cause repetition of the coordinates to be displayed.
+
+'''N.B.3''':
+Using the dms parameter format in [[Template:Infobox monument]], needed to remove these additional params for the coords to display properly: ( |lat = ,  |long = )
+
+==Changes to templates - [[Template:Infobox ship begin]]==
+====Problem 2.1: Infobox parameters not displaying properly====
+* Infobox photo and caption - '''OK'''
+* Other parameters not displaying
+* Extraneous text displaying instead - HTML table tags, etc
+
+Possible solutions - Is this a Wikidata problem? Need to modify template to remove parameters with Wikidata?
+
+===Editing Test 1===
+In [[Template:Infobox bridge]], changed :
+
+'''FROM:'''
+
+| headerstyle = background-color: #efefef;
+
+'''TO:'''
+
+| headerstyle = background-color: #cfcfcf;
+
+'''RESULT:'''
+
+It worked - changed background colour of subheaders in infobox to a darker shade of grey.
+
+
+<!-- '''FROM:'''
+
+'''TO:'''
+
+'''RESULT:'''
+
+
+'''FROM:'''
+
+'''TO:'''
+
+'''RESULT:'''
+ -->
+
+===[[Module:Infobox]]===
+No changes made yet
+<!-- '''FROM:'''
+
+'''TO:'''
+
+'''RESULT:'''
+
+
+'''FROM:'''
+
+'''TO:'''
+
+'''RESULT:'''
+ -->
+
+==Changes to templates - [[Template:Taxobox]]==
+
+I copied the taxobox from the equivalent WP article to [[Australian pelican]]. The result was very messy, and it seemed likely that a number of different issues were involved.
+
+===Problem 3.1: "Magic words" error messages===
+Besides the infobox itself, text was displayed in the page itself, with each line repeating a message about "Soft redirect mw:Help:Magic words#Other"
+
+'''Solution'''
+There was a clue on [https://www.mediawiki.org/wiki/Help_talk:Magic_words#Help!_I'm_completely_stumped! Help talk:Magic words#Help!] which I followed. This involved editing [[Template:!]] to remove the line <nowiki>{{Soft redirect|mw:Help:Magic words#Other}}</nowiki> and replacing it with a single pipe character, "|". Once the template was saved and the article page reloaded, this had the effect of removing all the extraneous text outside the taxobox (apart from 1 remaining error message about a missing 'reference' end tag, which was fixed by adding the 'reflist' template). 
+
+===Problem 3.2: display of the taxobox parameters===
+The section headers weren't showing, and there was a lot of HTML table markup showing instead.
+
+First I tried editing [[Template:Taxobox/species]] converting local redlinks to external WP links. (I might have gone too far, in doing this with Category links as well - this, in hindsight seemed a bit unnecessary, but I completed the task. This didn't seem to have much effect on the appearance of the infobox, so I then tried the same task on [[Template:Taxobox colour]].
+
+I then tried reloading [[Australian pelican]], but found that the combined effect of the changes had been too drastic - the page only showed the conservation status section, repeated across the page.
+
+At this stage I reverted all the template changes, and reloaded [[Australian pelican]], being careful to purge the history - it went back to how it had been before.
+
+I then reversed the revert to [[Template:Taxobox colour]], then reloaded [[Australian pelican]], again being careful to purge the history - and found that all the taxobox display issues seemed to have been fixed, and all the section headers are now displaying OK. 
+
+Links in the section headers showing as redlinks were changed to external WP links by editing [[Template:Taxobox/core]].
+
+The one remaining problem is that the "Least concern" and IUCN links are <S>still showing as redlinks</S> now linked to WP (changed this in [[Template:Taxobox/species]]), but I haven't yet found a way to insert a line break between the two links, so it still looks a little messy. '''All NOW FIXED''' - add param "| image_width = 240px".
+
+'''N.B.''' Some of these template pages ([[Template:Taxobox colour]] and [[Template:Taxobox]]) aren't displaying properly, indicating that there seems to be something wrong somewhere - but that doesn'T appear to be affecting how these templates actually function in mainspace articles.
+
+==Changes to other Mediawiki files==
+Importing code from Wikipedia to modify [[MediaWiki:Common.css]] - see above.
+
+<!-- ===''next filename goes here''===
+
+'''FROM:'''
+
+'''TO:'''
+
+'''RESULT:'''
+
+'''FROM:'''
+
+'''TO:'''
+
+'''RESULT:'''
+
+
+'''FROM:'''
+
+'''TO:'''
+ -->
+
+==Changes to templates - [[Template:Infobox person]]==
+No real problems encountered, except the "Birth date and age" and "Death date and age" templates don't work if specific dates aren't known. '''Solution:''' Don't use them, enter dates as straight text.
+
+==Changes to templates - [[Template:Infobox Australian place]]==
+===Coordinates not displaying properly===
+Repetition of coordinates, a similar problem encountered earlier.
+'''Solution:''' copy these lines to the infobox:
+::| coordinates_region = AU-SA_type:landmark
+::| coordinates_display = inline
+
+===Location map not displaying properly===
+"Lua errors" reported when infobox was first deployed; fixed by importing  "Template:Location map Australia" from WP. This had the result of showing pushpin location on a map of Australia.
+:By changing parameter " | state = sa ", this brought up the SA map instead, but also brought a redlink to "South Australia" as a second line in the title of the infobox, as well as a "See also" redlink to "Protected areas of South Australia".
+:::'''Solution:''' Change the WPLs to ELs in "Template:Infobox Australian place"
+:There are also redlinks to "IUCN" and "natural monument or feature".
+:::'''Solution:''' Change the WPLs to ELs in "Template:IUCN banner"
+
+===Displaying alternative location maps not hard-coded in the template===
+The first map, [[:File:Northernadelaidemap.png|Northern Adelaide]],  was created from the open source [https://www.openstreetmap.org/ OpenStreetMap]. (I found that the easiest way to get the boundary box coordinates of the map selection, was from the browser history entry for the downloaded file.)
+
+There's no need to edit [[Template:Infobox Australian place]], instead follow the instructions in [[Template:Location map/Creating a new map definition]]. This involved creating two new files, [[Module:Location map/data/Northern_Adelaide]] and [[Module:Location map/data/Northern_Adelaide/doc]], with the appropriate content. 
+
+To use the map in an article, the line "| alternative_location_map = Northern Adelaide" was added to the infobox.
+
+==Getting Navbox and Navbars to collapse==
+'''Problem:''' Although creating navbars is simple, creating nested navbars within a navbox is a little more complex. However, getting them to show in a "collapsed" state was rather more difficult. At first I tried importing other templates (including ''Template:Navbox/doc'', ''Template:Navigation with collapsible groups'', and ''Template:Navboxes''), then copy-pasting the content of ''MediaWiki:Common.js''‎ from Wikipedia. It was all very frustrating as nothing seemed to work, even after repeatedly purging the cache for the various template pages. However, after a cold reboot, I found that the combination of all these changes had had the desired effect after all. '''FIXED'''
+
+==Additional notes==
+* If a paragraph starts with a space instead of a character, the text font will render as Courier, not Arial. 
+
+
+==Templates that still need fixing==
+
+==More templates that still need to be imported==
+
+===To fix bugs in already imported templates===
+See: [[Special:WantedTemplates|Wanted templates]]
+
+===For additional infoboxes, navbars, etc.===
+
+
+==Changes to Main Page==
+===Logo===
+'''Problem:''' The logo was loaded successfully, but due to the default width of the sidebar, the size displayed is rather small. With text added to the graphic. it's rather tall, and the text is barely legible. I tried following the FAQ instructions in ''[https://www.mediawiki.org/wiki/Manual:FAQ#Can_I_customize_the_logo_in_the_top_left_corner.3F_If_so.2C_how.3F Can I customize the logo in the top left corner? If so, how?]'' by adding the code to MediaWiki:Common.css, ‎with height = 260 px (to match the image width/height ratio), but this resulted in the same-sized image, being shifted down and obscuring the sidebar links, so I reverted all the changes. '''NOT FIXED'''
+
+===Change to Main Page title===
+Following the FAQ instructions in ''[https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_change_the_Main_Page_title.3F How do I change the Main Page title?]'', I successfully moved the Main Page to "Port Adelaide - Environment and Heritage".
+
+'''Problems:''' I then tried to follow the FAQ instructions in ''[https://www.mediawiki.org/wiki/Manual:FAQ#How_do_I_change_which_page_is_the_main_page.3F How do I change which page is the main page?]'' by creating the pages MediaWiki:Mainpage and MediaWiki:Sidebar. In MediaWiki:Mainpage, I added the link to "Port Adelaide - Environment and Heritage". This did work, and when the logo link on any page was clicked, it would go to the right page, but showed "redirected from Main Page" at the top. The "Main Page" link in the sidebar pointed to "INVALID TITLE", and the MediaWiki instructions (and viewing the source code in "MediaWiki:Sidebar" in MediaWiki) weren't all that clear. I reverted all the changes. '''NOT FIXED'''
+:Checked again - now works OK (March 2018) - maybe moving to a new server did the trick.

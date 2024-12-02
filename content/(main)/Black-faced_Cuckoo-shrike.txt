@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Black-faced Cuckoo-shrike
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22706495 |title=''Coracina novaehollandiae'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Coracina novaehollandiae.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Campephagidae Campephagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Coracina Coracina]''
+| species = '''''C. novaehollandiae'''''
+| binomial = ''Coracina novaehollandiae''
+| binomial_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Coracina+(Coracina)+novaehollandiae ''Atlas of Living Australia'': Black-faced Cuckoo-shrike]
+* [http://birdlife.org.au/bird-profile/black-faced-cuckoo-shrike ''Birdlife Australia'': Black-faced Cuckoo-shrike]
+* [https://en.wikipedia.org/wiki/Black-faced_cuckooshrike ''Wikipedia'': Black-faced cuckooshrike]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

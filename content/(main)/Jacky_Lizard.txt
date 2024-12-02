@@ -1,0 +1,40 @@
+{{Taxobox 
+| name = Jacky Lizard
+| image = 
+| image = Tree Dragon444.jpg
+| image_caption = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| familia = [https://en.wikipedia.org/wiki/Agamidae Agamidae]
+| genus = ''[https://en.wikipedia.org/wiki/Amphibolurus Amphibolurus]''
+| species = '''''A. muricatus'''''
+| binomial = ''Amphibolurus muricatus''
+| binomial_authority = (White, 1790)&nbsp;<ref>{{cite web |url=http://www.environment.gov.au/biodiversity/abrs/online-resources/fauna/afd/taxa/Amphibolurus_muricatus |title=Species ''Amphibolurus muricatus'' (White, 1790) |work=[https://en.wikipedia.org/wiki/Australian_Faunal_Directory Australian Faunal Directory] |publisher=[https://en.wikipedia.org/wiki/Department_of_the_Environment,_Water,_Heritage_and_the_Arts Department of the Environment, Water, Heritage and the Arts] |date=9 October 2008}}</ref>
+}}
+
+
+
+Jacky Lizard. Jacky Dragon
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Amphibolurus+muricatus ''Atlas of Living Australia'': ''Amphibolurus muricatus'']
+* [https://en.wikipedia.org/wiki/Jacky_dragon ''Wikipedia'': Jacky dragon]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

@@ -1,0 +1,45 @@
+{{DEFAULTSORT:Finger, Alan}}
+{{Infobox person
+| honorific_prefix   = Dr.
+| name          = Alan Finger
+| honorific_suffix   = 
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 6 December 1909
+| birth_place   = Dandenong, Victoria
+| death_date    = 24 January 1985
+| death_place   = Heidelberg, Victoria
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+'''Alan Henry Finger'''
+
+==Life==
+
+==Legacy==
+
+==External links==
+* [https://en.wikipedia.org/wiki/Alan_Finger ''Wikipedia'': Alan Finger]
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

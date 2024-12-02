@@ -1,0 +1,47 @@
+{{DEFAULTSORT:MacGillivray, Ivor}}
+{{Infobox person
+| honorific_prefix   = 
+| name          = Ivor MacGillivray
+| honorific_suffix   = 
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 24 May 1840
+| birth_place   = Lossiemouth, Morayshire, Scotland
+| death_date    = 16 January 1939
+| death_place   = 
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = United Trades and Labor Council 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+* [http://www2.parliament.sa.gov.au/formermembers/Detail.aspx?pid=3637 ''SA Parliament'': Ivor MacGillivray]
+* [https://en.wikipedia.org/wiki/Ivor_MacGillivray ''Wikipedia'': Ivor MacGillivray]
+
+==Sources==
+===Contemporary press clippings:===
+[http://trove.nla.gov.au/ndp/del/article/60751299 TROVE: ''The Register'' Saturday 13 March 1915 p12]
+:'''MR. MACGILLIVRAY, M.P. (Port Adelaide).'''
+:Mr. Ivor MacGillivray was born at Lossiemouth, Morayshire, Scotland, on May 24, 1840, and after visiting Victoria, New Zea and, and Western Australia, arrived at Port Adelaide in 1875. In February, 1887, when working men were gazetted   justices of the peace, he was one of the first four to receive that honour. He was a prime mover in the formation of the Maritime Labour Council in 1886, and when it was absorbed in the larger and more representative District Trades and Labour Council he was chosen President of the body. He was first returned to Parliament in 1893 as a representative for Port Adelaide, and has since continued in that capacity.
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

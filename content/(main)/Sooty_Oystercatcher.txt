@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Sooty oystercatcher
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693663 |title=''Haematopus fuliginosus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Haematopus fuliginosus Bruny.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Haematopodidae Haematopodidae]
+| genus = ''[https://en.wikipedia.org/wiki/Haematopus Haematopus]''
+| species = '''''H. fuliginosus'''''
+| binomial = ''Haematopus fuliginosus''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1845
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/urn%3Alsid%3Abiodiversity.org.au%3Aafd.taxon%3Ad28f0f0f-ad8f-442f-a606-ae84213f74a2 ''Atlas of Living Australia'': Sooty Oystercatcher]
+* [http://birdlife.org.au/bird-profile/sooty-oystercatcher ''Birdlife Australia'': Sooty Oystercatcher]
+* [https://en.wikipedia.org/wiki/Sooty_oystercatcher ''Wikipedia'': Sooty oystercatcher]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

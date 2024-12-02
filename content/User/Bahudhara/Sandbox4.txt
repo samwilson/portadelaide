@@ -1,0 +1,43 @@
+
+
+[[File:Port Adelaide 1846.jpg|400px|right|alt=xyz]]
+
+{{Navboxes
+|title= Birds of the Adelaide region
+|state = {{{state|autocollapse}}}
+|list =
+
+{{Seabirds}}
+{{Shorebirds}}
+{{Waterbirds}}
+{{Terrestrial birds}}
+}}
+
+
+
+{{Navbox with collapsible groups
+| name = Bahudhara/Sandbox4
+| state = {{{state|autocollapse}}}
+| titlestyle = 
+| title = Birds of the Adelaide region
+| image = 
+| listclass = hlist
+| selected = {{{selected|{{{1|}}}}}}
+
+| abbr1 = 
+| group1 = {{Seabirds}}
+| content1 = 
+
+| abbr2 = 
+| group2 = {{Shorebirds}}
+| content2 = 
+
+| abbr3 = 
+| group3 = {{Waterbirds}}
+| content3 = 
+
+| abbr4 = 
+| group4 = {{Terrestrial birds}}
+| content4 = 
+
+}}

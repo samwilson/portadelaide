@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Bar-tailed Godwit
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693158 |title=''Limosa lapponica'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Bar-tailed Godwit.jpg
+| image_width = 240px
+| image_caption = Breeding plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/[bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Godwit Limosa]''
+| species = '''''L. lapponica'''''
+| binomial = ''Limosa lapponica''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], 1758)
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Limosa+lapponica ''Atlas of Living Australia'': Bar-tailed Godwit]
+* [http://birdlife.org.au/bird-profile/bar-tailed-godwit ''Birdlife Australia'': Bar-tailed Godwit]
+* [https://en.wikipedia.org/wiki/Bar-tailed_godwit ''Wikipedia'': Bar-tailed godwit]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

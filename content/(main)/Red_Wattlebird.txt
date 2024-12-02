@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Red Wattlebird
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22704466 |title=''Anthochaera carunculata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image =Red Wattlebird Nov09.jpg
+| image_width = 240px
+| image_caption=Red Wattlebird feeding
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Wattlebird Anthochaera]''
+| species = '''''A. carunculata'''''
+| binomial = ''Anthochaera carunculata''
+| binomial_authority = ([https://en.wikipedia.org/wiki/George_Shaw Shaw], 1790)
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Anthochaera+(Anthochaera)+carunculata ''Atlas of Living Australia'': Red Wattlebird]
+* [http://birdlife.org.au/bird-profile/red-wattlebird ''Birdlife Australia'': Red Wattlebird]
+* [https://en.wikipedia.org/wiki/Red_wattlebird ''Wikipedia'': Red wattlebird]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

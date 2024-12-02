@@ -1,0 +1,102 @@
+{{Infobox
+| child        = {{lc:{{{embed}}}}}
+
+| bodyclass    = vcard
+| bodystyle    = {{WPMILHIST Infobox style|{{#switch:{{{width_style|}}}|narrow|person|auto=main_box_raw_auto_width|wide|military|#default=main_box_raw}}}}
+
+| title        = {{#ifeq:{{lc:{{{embed}}}}}|yes|'''{{if empty|{{{embed_title|}}}|Military career}}'''}}
+| decat        = yes <!-- remove from template:infobox tracking categories -->
+
+| above        = {{br separated entries
+ |1={{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span>}}
+ |2={{#if:{{{name|<includeonly>{{PAGENAME}}</includeonly>}}}|<span class="fn">{{{name|{{PAGENAMEBASE}}}}}</span>}}
+ |3={{#if:{{{honorific suffix|{{{honorific_suffix|}}}}}}|<span class="honorific-suffix" style="font-size: small">{{{honorific suffix|{{{honorific_suffix|}}}}}}</span>}}
+ }}
+| abovestyle   = {{WPMILHIST Infobox style|header_color}} 
+
+| image        = {{#if:{{{image|}}}|{{#ifeq:{{Str left | {{{image|}}} | 1 }}|[|[[Category:Infobox military person image param needs updating]]}}{{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|upright=1|alt={{{alt|}}}|suppressplaceholder=yes}} }}
+| imagestyle   = border-bottom: {{WPMILHIST Infobox style|section_border}}; line-height: 1.5em
+
+| caption      = {{{caption|}}}
+| captionstyle = font-size: 95%
+
+| labelstyle   = padding-right: 1em
+
+| label1       = Native name
+| data1        = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}" xml:lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span> }}
+
+| label2       = Birth name
+| data2        = {{{birth_name|}}}
+| class2       = nickname
+
+| label3       = Other name(s)
+| data3        = {{{other_name|}}}
+| class3       = nickname
+
+| label4       = Prior occupation(s)
+| data4        = {{{prior_occupation|}}}
+| class4       = occupation
+
+| label5       = Born
+| data5        = {{br separated entries | {{{birth_date|}}} | {{{birth_place|}}} }}
+
+| label6       = Enlisted
+| data6        = {{{enlistment_date|}}}
+
+| label7       = Died
+| data7        = {{br separated entries | {{{death_date|}}} | {{{death_place|}}} }}
+
+| label8       = Cause of death
+| data8        = {{{cause_of_death|}}}
+
+| label9       = {{#if:{{{placeofburial_label|}}}|{{{placeofburial_label}}}|Buried&nbsp;at}}
+| data9        = {{#if:{{{placeofburial|}}}{{{placeofburial_coordinates|}}}|<span class="label">{{{placeofburial|}}}</span> {{#if:{{{placeofburial_coordinates|}}}|({{{placeofburial_coordinates}}})}}}}
+
+| label10       = Religion
+| data10        = {{{religion|}}}
+
+| label11       = Service/branch
+| data11        = {{{branch|}}}
+
+| label12      = Length&nbsp;of service
+| data12       = {{{servicelength|}}}
+
+| label13      = Rank
+| data13       = {{{rank|}}}
+
+| label14      = [https://en.wikipedia.org/wiki/Service_number#Australia Service number]
+| data14       = {{{servicenumber|}}}
+
+| label15      = Unit
+| data15       = {{{unit|}}}
+
+| label16      = Commands held
+| data16       = {{{commands|}}}
+
+| label17      = {{#if:{{{battles_label|}}}|{{{battles_label|}}}|Battles/wars}}
+| data17       = {{{battles|}}}
+
+| label18      = Awards
+| data18       = {{{awards|}}}
+
+| label19      = Memorials
+| data19       = {{{memorials|}}}
+
+| label20      = Spouse(s)
+| data20       = {{{spouse|}}}
+
+| label21      = Relations
+| data21       = {{{relations|}}}
+
+| label22      = Other&nbsp;work
+| data22       = {{{otherwork|{{{laterwork|}}}}}}
+
+| label23      = Signature
+| data23       = {{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|size={{{signature_size|}}}|sizedefault=100px|alt={{{signature alt|{{{signature_alt|}}}}}}}}
+
+| label24      = {{#if:{{{website|{{{homepage|{{{URL|}}}}}}}}}|Website}}
+| data24       = {{{website|{{{homepage|{{{URL|}}}}}}}}}
+
+| data25       = {{{module|}}}  
+
+}}<noinclude>{{documentation}}</noinclude>

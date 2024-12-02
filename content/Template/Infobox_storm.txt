@@ -1,0 +1,62 @@
+{{Infobox
+|bodyclass   = vevent
+|title       = {{{name|{{{event|<includeonly>{{PAGENAME}}</includeonly>}}}}}}
+
+<!-- RSI (US winter storms) -->
+|subheader = {{#if:{{{RSI|}}}|Category {{#ifexpr:{{{RSI}}}>=3|{{#ifexpr:{{{RSI}}}>=6|{{#ifexpr:{{{RSI}}}>=10|{{#ifexpr:{{{RSI}}}>=18|5 "Extreme"|4 "Crippling"}}|3 "Major"}}|2 "Significant"}}|1 "Notable"}} ([[Regional Snowfall Index|RSI]]: {{{RSI}}}) }}
+ |subheaderstyle = {{#if:{{{RSI|}}}|font-weight:bold;background-color:#{{Storm colour|{{#ifexpr:{{{RSI}}}>=3|{{#ifexpr:{{{RSI}}}>=6|{{#ifexpr:{{{RSI}}}>=10|{{#ifexpr:{{{RSI}}}>=18|cat5|cat4}}|cat3}}|cat2}}|cat1}} }} }}
+
+|image = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|{{{image location|}}}}}}|size=frameless|upright=1.22|alt={{{image alt|{{{alt|}}}}}}}}
+ |caption = {{{caption|{{{image name|}}}}}}
+
+|label1 = Type
+ |data1 = {{{type|{{{stormtype|}}}}}}
+|label2 = Formed
+ |data2 = {{{formed|{{{date formed|}}}}}}
+|label3 = Duration
+ |data3 = {{{active|}}}
+|label4 = Dissipated
+ |data4 = {{{dissipated|{{{date dissipated|}}}}}}
+|label5 = Lowest pressure
+ |data5 = {{#if:{{{lowest pressure|}}}|{{Convert|{{{lowest pressure|}}}|mb|inHg|abbr=on|lk=on|sigfig=4}}|{{{pressure|}}}}}
+|label6 = Lowest temperature
+ |data6 = {{{lowest temperature|}}}
+|label7 = Tornadoes confirmed
+ |data7 = {{{tornadoes|}}}
+|label8 = {{abbr|Max|Maximum}} rating<sup>1</sup>
+ |data8 = {{#if:{{{fujitascale|}}}|[[{{#ifeq:{{{enhanced|}}}|yes|Enhanced Fujita scale|Fujita scale}}|{{{fujitascale}}}]] tornado}}
+|label9 = Duration of tornado outbreak<sup>2</sup>
+ |data9 = {{{tornado duration|}}}
+|label10 = Highest winds
+ |data10 = {{unbulleted list
+ |1 = {{#if:{{{10-min winds|}}}|<small>''10-minute sustained:''</small><br />{{{10-min prefix|}}}{{#expr:((1.852*{{{10-min winds}}})/5 round 0)*5}} km/h ({{#expr:((1.151*{{{10-min winds}}})/5 round 0)*5}} mph){{{10-min suffix|}}} }}
+ |2 = {{#if:{{{1-min winds|}}}|<small>''1-minute sustained:''</small><br />{{{1-min prefix|}}}{{#expr:((1.852*{{{1-min winds}}})/5 round 0)*5}} km/h ({{#expr:((1.151*{{{1-min winds}}})/5 round 0)*5}} mph){{{1-min suffix|}}} }}
+ |3 = {{#if:{{{highest winds|}}}|{{#iferror:{{#expr:1+{{{highest winds}}}+1}}|{{{highest winds}}}|{{Convert|{{{highest winds}}}|km/h|mph kn|abbr=on|lk=on}}}}|{{{sustained wind|}}}}}
+ }}
+|label11 = Highest gust
+ |data11 = {{#if:{{{gusts|{{{gust|}}}}}}|{{#iferror:{{#expr:1+{{{gusts|{{{gust}}}}}}+1}}|{{{gusts|{{{gust|}}}}}}|{{{gusts prefix|{{{pregusts|}}}}}}{{#expr:((1.852*{{{gusts}}})/5 round 0)*5}} km/h ({{#expr:((1.151*{{{gusts}}})/5 round 0)*5}} mph){{{gusts suffix|}}} }} }}
+|label12 = [[Beaufort scale]]
+ |data12 = {{{beaufort scale|}}}
+|label13 = Largest hail
+ |data13 = {{{hail|}}}
+|label14 = Maximum snowfall or ice accretion
+ |data14 = {{{maximum snow|{{{maximum amount|}}}}}}
+|label15 = Maximum rainfall
+ |data15 = {{{maximum rain|}}}
+|label16 = Damage
+ |data16 = {{{damages|{{{total damages (USD)|{{{total snow damages (USD)|}}}}}}}}}
+|label17 = Power outages
+ |data17 = {{{power outages|}}}
+|label18 = Casualties
+ |data18 = {{{casualties|{{{total casualties|{{{snow casualties|}}}}}}}}}
+|label19 = Areas affected
+ |data19 = {{{affected|{{{areas affected|{{{countries affected|{{{location|}}}}}}}}}}}}
+|label20 = Current advisories
+ |data20 = {{{current advisories|}}}
+|below = {{#if:{{{fujitascale|}}}|<sup>1</sup><small>Most severe tornado damage; see [[{{#ifeq:{{{enhanced|}}}|yes|Enhanced Fujita scale|Fujita scale}}]]</small>}}
+{{#if:{{{tornado duration|}}}|<sup>2</sup><small>Time from first tornado to last tornado</small>}}
+{{{notes|}}}
+|belowstyle = border-top:1px solid #aaaaaa;
+}}<noinclude>
+{{documentation}}
+</noinclude>

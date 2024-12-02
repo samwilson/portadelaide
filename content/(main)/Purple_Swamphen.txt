@@ -1,0 +1,51 @@
+{{Taxobox
+| name = Purple Swamphen
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22692792 |title=''Porphyrio porphyrio'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Purple Moorhen (Porphyrio porphyrio) Photograph By Shantanu Kuveskar.jpg
+| image_caption = ''P. porphyrio'' at Mangaon, Maharashtra, India
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Gruiformes Gruiformes]
+| familia = [https://en.wikipedia.org/wiki/Rallidae Rallidae]
+| genus = ''[https://en.wikipedia.org/wiki/Porphyrio Porphyrio]''
+| species = '''''P. porphyrio'''''
+| binomial = ''Porphyrio porphyrio''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758])
+| subdivision_ranks = Subspecies groups
+| subdivision =
+* ''P. p. porphyrio'' in the Mediterranean.
+* ''P. p. madagascariensis'' in Africa
+* ''P. p. poliocephalus'' in tropical Asia
+* ''[https://en.wikipedia.org/wiki/Pukeko P. p. melanotus]'' in much of Australasia
+* ''P. p. indicus'' in Indonesia
+* ''P. p. pulverulentis'' in the Philippines
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Porphyrio+(Porphyrio)+porphyrio ''Atlas of Living Australia'': Purple Swamphen]
+* [http://birdlife.org.au/bird-profile/purple-swamphen ''Birdlife Australia'': Purple Swamphen]
+* [https://en.wikipedia.org/wiki/Purple_swamphen ''Wikipedia'': Purple swamphen]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

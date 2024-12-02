@@ -1,0 +1,1269 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+{{esoteric}}
+__NOTOC__
+<includeonly>{{Shortcut|T:IAP|WP:IAP}}</includeonly>
+{{Template:Infobox Australian place/pagelinks}}
+
+== Purpose ==
+{{tl|Infobox Australian place}} is used to add infoboxes to articles on [[Location (geography)|places]] in Australian states and territories. It is not limited to populated places such as cities, towns and suburbs, but may be used on any place including regions, [[Local government in Australia|local government areas]], [[Lands administrative divisions of Australia|cadastral units]], [[protected area]]s and even some areas that do not fall into any of the preceding descriptions and for which no other infobox is appropriate. It is the standard infobox used in Australian articles. Australian articles using {{tl|Infobox settlement}} should be converted to use this infobox.
+
+The infobox been extensively customised for Australia and includes automation that results in some parameters being redundant to other parameters. For example, when the location map function is used, it is not necessary to specify <code>coordinates</code> as the coordinate string is automatically generated during creation of the locator map. Similarly, if a population density (in the <code>density</code> field) is not specified, this will be automatically generated based on the <code>pop</code> and <code>area</code> fields. It is therefore important to read parameter descriptions thoroughly, to avoid unnecessarily providing redundant, or incorrect information.
+
+== Usage ==
+=== To use this template === 
+#Copy the relevant blank template from the <u>'''[[Template:Infobox Australian place/Blank|Blank infobox page]]'''</u> into the beginning of your document, remembering to put the code at the very top of the article and the first word of the article on the very next line.
+#Enter values for the fields as outlined in the [[Template:Infobox Australian place#Fields|table below]]. Fields left blank will automatically be hidden.
+#Preview.
+#Save the page with an appropriate edit summary.
+
+=== Examples ===
+* Examples of this template can found on the [[Template:Infobox Australian place/Examples|examples page]].
+
+== Parameters ==
+All parameters used by this template are optional. The following are available:
+{| class="wikitable plainrowheaders" style="background-color: white; width:100%;"
+! scope="col" style="background-color: whitesmoke;" width=15% | Parameter
+! scope="col" style="background-color: whitesmoke;" width=17% | Description
+! scope="col" style="background-color: whitesmoke;" width=8% | Valid for<br /><small>blank = all</small>
+! scope="col" style="background-color: whitesmoke;" width=40% | Source/notes
+! scope="col" style="background-color: whitesmoke;" width=20% | Values
+|-
+| scope="row" | type
+| infobox type
+| 
+| Sets up the template for a specific type of locality. Should be set to <code>other</code> when the place is not one of the defined types.
+| "city", "suburb", "town", "lga", "region", "cadastral", "protected" or "other"
+|-
+| scope="row" | name
+| name of place
+| 
+| If this field does not exist, the template will use the name of the article. If the field exists, but the place name is not defined, the infobox title will be blank.
+| plain text
+|-
+| scope="row" | city
+| city name
+| suburb
+| See [[List of cities in Australia]].In some cases it may be desirable to include the name of a non-city here. In any case, if the name is not wikilinked, it will automatically be linked.
+| plain text, may be linked.
+|-
+| scope="row" | state
+| state abbreviation
+| 
+| Abbreviation for the state. For consistency, lower case is preferred, but upper case may be used. When a state code is not applicable, "au" should be used, although the field may be left blank.
+| "qld", "nsw", "act", "vic", "tas", "sa", "wa", "nt", or use "au" for Australia – plain text, do not link
+|-
+| scope="row" | iucn_category
+| IUCN category
+| [[protected area]]
+| This field should be populated with the [[World Commission on Protected Areas#IUCN Categories of Protected Area|IUCN]] category associated with the protected area. Although optional, use of this field is strongly recommended. For more information on how this field is displayed, see [[#IUCN Categories|IUCN Categories]] below.
+| Ia, Ib, II, III, IV, V, or VI<br />(plain text, do not wikilink)
+|-
+| scope="row" | image
+| generic image of the locality
+| 
+| For cadastral units, this is typically a map showing the location of the cadastral unit within the state or territory.
+| filename
+|-
+| scope="row" | imagesize
+| width of generic image of the locality
+| 
+| This is an optional field. If not specified, the image width will default to 270px.
+| number
+|-
+| scope="row" | caption
+| caption for the locality image
+| 
+| 
+| wikitext (can contain links)
+|-
+| scope="row" | image_alt
+| 
+| 
+| [[MOS:ALT|Alt text]] for the image
+| wikitext (can contain links)
+|-
+| scope="row" | image2
+| A second image of the locality
+|
+| In LGA articles this is typically used where a map of the LGA is required but the appropriate locator map template is not available in {{cl|Australia location map templates}}.
+| filename
+|-
+| scope="row" | image2size
+| width of the second image of the locality
+| 
+| scope="row" | This is an optional field. If not specified, the image width will default to 270px.
+| number
+|-
+| scope="row" | caption2
+| caption for the second locality image
+| 
+| 
+| wikitext (can contain links)
+|-
+| scope="row" | image2_alt
+| 
+| 
+| [[MOS:ALT|Alt text]] for the image
+| wikitext (can contain links)
+|-
+| scope="row" | coordinates
+| coordinates of the locality
+| 
+| {{UF-coord}}<br />If the locator map function is being used, this may be omitted, as the template generates the {{tl|coord}} string from the locator map parameters, in which case this field is overridden.
+| Example:<br /><nowiki>{{Coord|32|45|41.3|S|151|44|38.6|E|type:city_region:AU-NSW|display=inline,title}}</nowiki>
+|-
+| scope="row" | coord_type
+| coordinates type override
+| 
+| If the locator map is being used and the infobox is not being used for one of the standard types (city, suburb, town, lga, region, cadastral, protected), this field must be used to override the default <code>type:city</code> or <code>type:landmark</code> generated by the infobox.<br />May include <code>scale:, dim:, source:</code>, joined by underscores ("_").
+| For valid inputs see [[Template:Coord/doc#type:T|type:]], [[Template:Coord/doc#scale:N|scale:]], [[Template:Coord/doc#dim:D|dim:]], [[Template:Coord/doc#source:S|source:]].<br />Example: <code><nowiki>| coord_type=city_dim:100km</nowiki></code>
+|-
+| scope="row" | map_scale
+| changes scale of map
+| 
+| The scale of the map linked to in the generated coordinates string can be changed from the default by setting this field.
+| unformatted number. See {{tl|coord}} for examples.
+|-
+| scope="row" | latd<br />latm<br />lats
+| latitude
+| 
+| <code>coordinates</code> field
+| degrees<br />minutes<br />seconds (optional for region and lga)
+|-
+| scope="row" | longd<br />longm<br />longs
+| longitude
+| 
+| <code>coordinates</code> field
+| degrees<br />minutes<br />seconds (optional for region and lga)
+|-
+| scope="row" | alternative_location_map
+| forces locator map
+| 
+| Forces the locator map to use an alternative, rather than the state map, regardless of the contents of <code>state</code>.
+| Name of the alternative map
+|-
+| scope="row" | force_national_map
+| forces locator map
+| city, region, protected
+| Forces the locator map to use the Australian, rather than the state map, regardless of the contents of <code>state</code>.
+| "yes" or leave blank, plain text, do not link <!-- Anything in this field will force the Australian map to be used. For consistency though, let's force people to use something simple and obvious. -->
+|-
+| scope="row" | use_lga_map
+| forces locator map
+| suburb, lga, protected
+| Forces the locator map to use the lga map. For this to work, both <code>state</code> and <code>lga</code> must be set to the correct parameters.
+| "yes" or leave blank, plain text, do not link <!-- Anything in this field will force the Australian map to be used. For consistency though, let's force people to use something simple and obvious. -->
+|-
+| scope="row" | relief
+| forces relief map
+| 
+| 
+| "yes" or leave blank, plain text, do not link <!-- Anything in this field will force the relief map to be used. For consistency though, let's force people to use something simple and obvious. -->
+|-
+| scope="row" | pushpin_map_caption
+| caption
+| 
+| 
+| optional, plain text or linked
+|-
+| scope="row" | pushpin_label_position
+| label position
+| 
+| 
+| left, right, top, bottom<br />default: left
+|-
+| scope="row" | map_alt
+| 
+| 
+| [[MOS:ALT|Alt text]] for the location map
+| wikitext (can contain links)
+|-
+| scope="row" | nearest_town_or_city
+| nearest town or city to the area
+| protected
+| If the area is not within a town or city, the nearest town or city to the area can be listed here. If only one, wikilinking may be omitted as the article will be automatically linked. If there are more than one, use {{tl|Plainlist}}.
+| wikitext (can contain links)
+|-
+| scope="row" | pop
+| population
+| all except protected; use approx for region
+| [http://www.abs.gov.au/ ABS] (generic)<br />[http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/quickstat/0?opendocument&navpos=220 2011 Census QuickStats]<br />Do not add anything else to this field (years, references etc.)
+| number. should be plain, either with or without a comma. i.e. 12345 or 12,345
+|-
+| scope="row" | pop_year
+| population year
+| all except protected; use approx for region
+| Year applicable to the population figure
+| number<br />When the population is for a census year, use {{tl|CensusAU}}
+|-
+| scope="row" | pop_footnotes
+| population footnote for references
+| all except protected; use approx for region
+| [http://www.abs.gov.au/ ABS] (generic)<br />[http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/quickstat/0?opendocument&navpos=220 2011 Census QuickStats]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|Census 2011 AUS}}
+|-
+| scope="row" | pop2
+| 2nd population figure
+| all except protected; use approx for region
+| [http://www.abs.gov.au/ ABS] (generic)<br />[http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/quickstat/0?opendocument&navpos=220 2011 Census QuickStats]<br />Do not add anything else to this field (years, references etc.)<br />In some articles it may be necessary to provide a second population figure. (see [[Clarence Town, New South Wales]] for an example) Use <code>pop2</code>, <code>pop2_year</code> and <code>pop2_footnotes</code> for the second figure.
+| number. should be plain, either with or without a comma. i.e. 12345 or 12,345
+|-
+| scope="row" | pop2_year
+| 2nd population year
+| all except protected; use approx for region
+| Year applicable to the population figure
+| number<br />When the population is for a census year, use {{tl|CensusAU}}
+|-
+| scope="row" | pop2_footnotes
+| population footnote for <code>pop2</code> references
+| all except protected; use approx for region
+| [http://www.abs.gov.au/ ABS] (generic)<br />[http://www.censusdata.abs.gov.au/census_services/getproduct/census/2011/quickstat/0?opendocument&navpos=220 2011 Census QuickStats]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|Census 2011 AUS}}
+|-
+| scope="row" | poprank
+| population rank
+| city
+| Used with <code>pop</code><br />[[List of cities in Australia by population]]
+| number
+|-
+| scope="row" | density
+| population density
+| city, region
+| [http://www.abs.gov.au/ ABS]
+| unformatted number (people/km²)
+|-
+| scope="row" | density_footnotes
+| population density footnote for references
+| city, region
+| [http://www.abs.gov.au/ ABS]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | established
+| established
+| 
+| Date the location was established. If the exact date is unknown, a year will suffice
+| date
+|-
+| scope="row" | established_footnotes
+| reference(s) for establishment date
+| 
+| 
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | abolished
+| abolished
+| 
+| Date the location was abolished. If the exact date is unknown, a year will suffice
+| date
+|-
+| scope="row" | gazetted
+| Date the place name was [[Gazetteer of Australia|gazetted]]
+| 
+| 
+| date
+|-
+| scope="row" | postcode
+| 
+| suburb, town
+| [http://auspost.com.au/apps/postcode.html Australia Post postcode search tool]
+| number
+|-
+| scope="row" | elevation
+| measured from sea level in metres
+| suburb, town
+| [http://www.fallingrain.com/world/AS/ fallingrain.com]
+| unformatted number (m)
+|-
+| scope="row" | elevation_footnotes
+| elevation footnote for references
+| suburb, town
+| [http://www.fallingrain.com/world/AS/ fallingrain.com]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | area
+| 
+| 
+| [http://www.abs.gov.au/ ABS]
+| unformatted number (km<sup>2</sup>)
+|-
+| scope="row" | area_footnotes
+| area footnote for references
+| 
+| [http://www.abs.gov.au/ ABS]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | timezone
+| timezone
+| city, suburb, town, lga, region
+| See [[Time in Australia#Time zones and legislation|Time in Australia]]
+| plain text, link
+|-
+| scope="row" | utc
+| utc offset
+| city, suburb, town, lga, region
+| 
+| "+" followed by number
+|-
+| scope="row" | timezone-dst
+| summer timezone
+| city, suburb, town, lga, region
+| See [[Time in Australia#Time zones and legislation|Time in Australia]]
+| plain text, link
+|-
+| scope="row" | utc-dst
+| summer utc offset
+| city, suburb, town, lga, region
+| 
+| "+" followed by number
+|-
+| scope="row" | mayor
+| Mayor of LGA
+| lga
+| Name of the mayor only. Do not include titles, postnominals or political party information.
+| plain text
+|-
+| scope="row" | mayortitle
+| Title of the mayor
+| lga
+| 
+| Wiki text. If omitted (but mayor is provided), defaults to "[[Mayor]]". Otherwise likely to be "Lord Mayor", "President" or "Chairman" (etc.). The text can include a link to a list of mayors etc.
+|-
+| scope="row" | dist#
+| ''See Notes below''
+| city, suburb, town (other cities)
+| Distance by road, not direct – [http://www.travelmate.com.au/MapMaker/MapMaker.asp travelmate.com.au], maps, Google earth, [http://www.whereis.com.au whereis (get directions)], [http://www3.visitvictoria.com/displayObject.cfm/ObjectID.0000B41D-D36D-1A88-8B4680C476A9047C/lk.Left2_3/pg.VVHomepage/vvt.vhtml Route planner – Victoria, Australia]
+| unformatted number (km)
+|-
+| scope="row" | dir#
+| ''See Notes below''
+| city, suburb, town (other cities)
+| 
+| plain text, normally "N", "S", "E", "W", "NE", "SW", "SSE", "WNW" etc.
+|-
+| scope="row" | location#
+| ''See Notes below''
+| city, suburb, town
+| maps, Google earth
+| plain text, may be wikilinked, automatically links the name
+|-
+| scope="row" | lga
+| local government area
+| city, suburb, town
+| Name of the local government area<br />[http://www.gnb.nsw.gov.au/place_naming/placename_search NSW Geographical Names Board] (NSW only)
+| plain text, may be wikilinked, automatically links the name
+|-
+| scope="row" | lga2-lga4
+| 2nd-4th LGAs
+| city, suburb, town
+| If more than 4 LGAs are required, use {{tl|plainlist}} as necessary. See [https://en.wikipedia.org/w/index.php?title=Hunter_Region&oldid=615428967 Hunter Region] for an example.
+| plain text, link
+|-
+| scope="row" | seat
+| LGA seat
+| lga
+| 
+| plain text, link
+|-
+| scope="row" | region
+| Name of region location is in
+| city, suburb, town, lga, cadastral, protected
+| 
+| plain text, link
+|-
+| scope="row" | county
+| lands administrative division (not in all areas)
+| city, suburb, town, lga
+| [[Lands administrative divisions of Australia]]<br />[http://www.gnb.nsw.gov.au/place_naming/placename_search NSW Geographical Names Board] (NSW only)
+| plain text, link
+|-
+| scope="row" | parish
+| NSW, Qld, Vic only
+| city, suburb, town
+| [[Lands administrative divisions of Australia]]<br />[http://www.gnb.nsw.gov.au/place_naming/placename_search NSW Geographical Names Board] (NSW only)
+| plain text
+|-
+| scope="row" | hundred
+| lands administrative division (not in all areas)
+| cadastral
+| 
+| plain text, link
+|-
+| scope="row" | former_hundred
+| lands administrative division (not in all areas)
+| cadastral
+| 
+| plain text, link
+|-
+| scope="row" | division
+| lands administrative division (NSW only)
+| cadastral
+| [[Lands administrative divisions of New South Wales]]
+| plain text, link
+|-
+| scope="row" | stategov
+| state government electorates
+| city, suburb, town, lga, region
+| 
+| plain text, link
+|-
+| scope="row" | stategov2-stategov5
+| 2nd-5th state government electorates
+| city, suburb, town, lga, region
+| 
+| plain text, link
+|-
+| scope="row" | fedgov
+| federal government electorates
+| city, suburb, town, lga, region
+| 
+| plain text, link
+|-
+| scope="row" | fedgov2-fedgov4
+| 2nd-4th federal government electorates
+| city, suburb, town, lga, region
+| 
+| plain text, link
+|-
+| scope="row" | logo
+| Logo of LGA
+| lga
+| Individual LGA website
+| image link
+|-
+| scope="row" | logosize
+| width of LGA logo
+| lga
+| Individual LGA website
+| number. If not specified, logosize defaults to 175px
+|-
+| scope="row" | visitation_num
+| number of visitors
+| protected
+| The number of visitors in a recent year if known.
+| unformatted number, will be formatted automatically
+|-
+| scope="row" | visitation_year
+| year of <code>visitation_num</code>
+| protected
+| The year during which the number of visitors was counted
+| raw year<br />plain text, do not wikilink
+|-
+| scope="row" | visitation_footnotes
+| reference(s) for visitation figure and year
+| protected
+| 
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | managing_authorities
+| authority that manages the area
+| protected
+| Name of the authority or organisation that manages the area.
+| wikitext (can contain links). If an unpiped link is to be used, wikilinking may be excluded as an existing article will be wikilinked automatically.
+|-
+| scope="row" | url
+| website address
+| lga, protected
+| Individual website for the LGA or protected area<br />(Do not use for former LGAs)
+| bare url. e.g. http://www.example.com
+|-
+| scope="row" | maxtemp
+| max average annual temperature
+| suburb, town
+| [http://www.bom.gov.au/climate/data/ Bureau of Meteorology]
+| number (°C)
+|-
+| scope="row" | maxtemp_footnotes
+| footnote for references
+| suburb, town
+| [http://www.bom.gov.au/climate/data/ Bureau of Meteorology]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | mintemp
+| min average annual temperature
+| suburb, town
+| [http://www.bom.gov.au/climate/data/ Bureau of Meteorology]
+| number (°C)
+|-
+| scope="row" | mintemp_footnotes
+| footnote for references
+| suburb, town
+| [http://www.bom.gov.au/climate/data Bureau of Meteorology]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | rainfall
+| average annual rainfall
+| suburb, town
+| [http://www.bom.gov.au/climate/data/ Bureau of Meteorology]
+| unformatted number (mm)
+|-
+| scope="row" | rainfall_footnotes
+| footnote for references
+| suburb, town
+| [http://www.bom.gov.au/climate/data/ Bureau of Meteorology]
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags and {{tl|cite web}}
+|-
+| scope="row" | near-n/ne/e/se/s/sw/w/nw
+| neighbours (suburb, lga)
+| suburb, lga
+| Only places that share borders with the subject place should be included in these fields.
+| plain text, link
+|-
+| scope="row" | near
+| Central to neighbours
+| suburb, lga
+| replaces name (best used without any near-* e.g. to specify a #link to the main text for further info)
+| plain text, link
+|-
+| scope="row" | footnotes
+| general footnotes
+| 
+| Additional footnotes for fields that do not have their own field for footnotes
+| wikitext (can contain links)<br />Best when used with <nowiki><ref> </ref></nowiki> tags.
+|-
+| scope="row" | _noautocat
+| auto categorisation
+| 
+| In a very limited number of cases, the automatic categorisation built into this template may cause anomalies. In such cases, this parameter may be used to prevent automatic categorisation. However, it should only be used when absolutely necessary. When it is used, a hidden note should be included to explain why the parameter is being used in the article.
+| "yes" to not categorise, or<br />leave blank to categorise
+|}
+
+== Notes ==
+=== Type ===
+The infobox type affects the colour of the top bar of the infobox.
+{| class="wikitable plainrowheaders"  style="text-align:center; width:26%;"
+|-
+! scope="col" style="padding:0 8px; width:19%;" | Colour<ref group=lower-alpha>Colour names per [http://www.color-blindness.com/color-name-hue this site]</ref>
+! scope="col" style="padding:0 8px; width:7%;" | {{para|type}}
+|-
+| scope="row" style="background:#f9f6d2; color:#100;" width=10px | Light Goldenrod Yellow
+| city
+|-.
+| scope="row" style="background:#f9e2d2; color:#100;" width=10px | Antique White
+| suburb
+|-
+| scope="row" style="background:#e9f9d2; color:#100;" width=10px | Snow Flurry (greenish)
+| town
+|-
+| scope="row" style="background:#d2d5f9; color:#100;" width=10px | Lavender
+| lga
+|-
+| scope="row" style="background:#e6c4fb; color:#100;" width=10px | Mauve
+| region
+|-
+| scope="row" style="background:#ffffe0; color:#100;" width=10px | Light Yellow
+| cadastral
+|-
+| scope="row" style="background:#ffffff; color:#100;" width=10px | No colour
+| protected
+|-
+| scope="row" style="background:#ffffff; color:#100;" width=10px | No colour
+| "other"
+|-
+| scope="row" style="background:#ccc; color:#100;" width=10px | Very Light Grey
+| Undefined
+|}
+{{reflist|group=lower-alpha}}
+
+=== IUCN Categories for protected areas ===
+Depending on the value of the <code>iucn_category</code> parameter, one of the following banners will be displayed below the name. Valid values are Ia, Ib, II, III, IV, V and VI. For more information read the [[World Commission on Protected Areas]] article,
+
+{| style="border:1px solid gray; width:300px; font-size: 90%; text-align: center; line-height: 1.5;"
+|-
+| {{IUCN banner|Ia}}
+|-
+| {{IUCN banner|Ib}}
+|-
+| {{IUCN banner|II}}
+|-
+| {{IUCN banner|III}}
+|-
+| {{IUCN banner|IV}}
+|-
+| {{IUCN banner|V}}
+|-
+| {{IUCN banner|VI}}
+|}
+
+=== Footnotes fields ===
+Any references should be placed within the respective "_footnotes" field and not within the field reserved solely for a numeric value.  For example, place the reference used for the area of City X in the parameter {{{area_footnotes}}} and not in the {{{area}}} parameter.  Otherwise, an error may result.
+
+=== Unformatted numbers and expression errors ===
+Certain fields require numeric values to be entered in an unformatted/raw fashion—i.e. 1000.0 NOT 1,000.0.  If an expression error is present, simply remove any commas or spaces from the number.
+<!-- === Maps ===
+For some locations this infobox supports the display of links to the popular web mapping services Google and Bing. However, in order for this to function a valid map page containing a [[Keyhole Markup Language|KML]] format map must exist. As KML files cannot currently be uploaded, the text of those files must be copied into a Wikipedia page. By default, the infobox uses a file name with the same title as the article at the location <code>Template:Infobox Australian place/mapdata/<place name></code> e.g. [[Raymond Terrace, New South Wales]] uses [[Template:Infobox Australian place/mapdata/Raymond Terrace, New South Wales]]. A list of currently available maps may be found [[Template:Infobox Australian place/mapdata|here]]. -->
+
+=== Dist#, Dir# and Location# ===
+This is the distance and approximate direction to another location. The '#' is replaced with a number between 1 and 5. Therefore distances for up to five locations can be listed using the range 'dist1' – 'dist5'. Direction from the locations can be specified use 'dir1' – 'dir5' and the locations can be listed as 'location1' – 'location5'. Each dist# must be partnered with an appropriate location#. Dir# is optional.
+
+== Where to find information ==
+* [[Wikipedia:WikiProject Australian places#Useful Resources|WikiProject Australian places – Useful resources]]
+* [http://www.abs.gov.au/ Australian Bureau of Statistics]
+* [http://alga.asn.au/?ID=7030&Menu=56,199,415 LGA links for each state]
+* [http://www.bom.gov.au/climate/data/ Bureau of Meteorology]
+
+== Tracking categories ==
+=== Deprecated fields ===
+* {{cl|Australian place articles using missing parameters}} &ndash; articles that include deprecated fields are automatically added. As of January 2015, the tracked parameters are <code>lat</code>, <code>long</code>, <code>locator_x</code>, <code>locator_y</code>, and <code>official_site</code>.
+=== Errors ===
+* {{cl|Australian place articles using missing parameters}} &ndash; articles that contain general errors are automatically added.
+* {{cl|Australian place articles with no population year}} &ndash; articles missing the <code>pop_year</code> or <code>pop2_year</code> fields are automatically added.
+* {{cl|Australian place articles with no population footnotes}} &ndash; Articles missing the <code>pop_footnotes</code> or <code>pop2_footnotes</code> fields are automatically added.
+* {{cl|Australian place articles with density errors}}
+
+== Subpages ==
+: [[Template:Infobox Australian place]]
+: [[Template:Infobox Australian place/Blank]]
+: [[Template:Infobox Australian place/Examples]]
+: [[Template:Infobox Australian place/doc]]
+<!-- : [[Template:Infobox Australian place/KML]] -->
+: [[Template:Infobox Australian place/sandbox]]
+: [[Template:Infobox Australian place/sandbox/doc]]
+: [[Template:Infobox Australian place/testcases]]
+<!-- All subpages
+{{Special:PrefixIndex/Template:Infobox Australian place}} -->
+
+== Microformat ==
+{{UF-hcard-geo}}
+
+== TemplateData ==
+This is the [[WP:VisualEditor/TemplateData|TemplateData]] for this template to help users add it with the new [[WP:VisualEditor|VisualEditor]].
+<templatedata>
+{
+"description": "Display information about a place in Australia in a standard infobox format.",
+"params": {
+    "type": {
+	"label": "Type",
+	"description": "The type of place, which determines the look of the infobox. Can be empty or one of the following: 'city', 'suburb', 'town', 'lga', 'region', or 'cadastral'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "name": {
+	"label": "Name",
+	"description": "The name of the place. If this parameter is left empty, the infobox title will be blank, while if this parameter is not called at all, it defaults to the name of the article.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "city": {
+	"label": "City",
+	"description": "The name of the city the place is located in, which is automatically wikilinked.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "state": {
+	"label": "State Abbreviation",
+	"description": "The abbreviation for the state the place in located in, which can be uppercase or lowercase.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "image": {
+	"label": "Image",
+	"description": "A filename for a generic image of the locality.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "imagesize": {
+	"label": "Image Width",
+	"description": "Override the default width of the image, in pixels.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "caption": {
+	"label": "Caption",
+	"description": "A caption for the image.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "image_alt": {
+	"label": "Image Alt Text",
+	"description": "Alt text for the image.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "image2": {
+	"label": "Image 2",
+	"description": "A filename for a second image of the locality. Usually used for maps, especially in LGA articles.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "image2size": {
+	"label": "Image 2 Width",
+	"description": "Override the default width of the second image, in pixels.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "caption2": {
+	"label": "Image 2 Caption",
+	"description": "A caption for the second image.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "image2_alt": {
+	"label": "Image 2 Alt Text",
+	"description": "Alt text for the second image.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "coordinates": {
+	"label": "Coordinates",
+	"description": "Coordinates of the locality. Use {{coord}} with 'display=inlines,title' if not using the locator map function. Please don't be overly precise.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "coord_type": {
+	"label": "Coordinates Type",
+	"description": "Override the coordinates type parameter when using the locator map and this is not one of the standard place types.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "latd": {
+	"label": "Latitude (Degrees)",
+	"description": "The latitude of the place, degrees part. Can be negative.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "latm": {
+	"label": "Latitude (Minutes)",
+	"description": "The latitude of the place, minutes part. Can be negative.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "lats": {
+	"label": "Latitude (Seconds)",
+	"description": "The latitude of the place, seconds part. Can be negative.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "longd": {
+	"label": "Longitude (Degrees)",
+	"description": "The longitude of the place, degrees part. Can be negative.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "longm": {
+	"label": "Longitude (Minutes)",
+	"description": "The longitude of the place, minutes part. Can be negative.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "longs": {
+	"label": "Longitude (Seconds)",
+	"description": "The longitude of the place, seconds part. Can be negative.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "alternative_location_map": {
+	"label": "Alternative Location Map",
+	"description": "Forces the locator map to use this alternative map instead of the default state map.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "force_national_map": {
+	"label": "Force National Map",
+	"description": "Set to 'yes' or leave this parameter blank to force the locator map to use the Australian map instead of the default state map.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "use_lga_map": {
+	"label": "Force LGA Map",
+	"description": "Set to 'yes' or leave this parameter blank to force the locator map to use the LGA map instead of the default state one.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "relief": {
+	"label": "Relief Map",
+	"description": "Set to 'yes' or leave this parameter blank to make the locator map use a relief map.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "pushpin_map_caption": {
+	"label": "Pushpin Map Caption",
+	"description": "The caption for the locator map's pushpin. Defaults to the place name.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "pushpin_label_position": {
+	"label": "Pushpin Label Position",
+	"description": "Where the caption should appear relative to the locator map's pushpin. Can be one of the following: 'left', 'right', 'top', or 'bottom'.",
+	"type": "string",
+	"default": "right",
+	"required": false},
+    "map_alt": {
+	"label": "Locator Map Alt Text",
+	"description": "Alt text for the locator map.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "pop": {
+	"label": "Population",
+	"description": "The total population of the place.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "pop_year": {
+	"label": "Population Year",
+	"description": "The year in which the population measurement was taken. {{CensusAU}} may be used.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "pop_footnotes": {
+	"label": "Population Footnotes",
+	"description": "Footnotes for the population figure. Please use references here.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "pop2": {
+	"label": "Population 2",
+	"description": "A second total population measurement.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "pop2_year": {
+	"label": "Population 2 Year",
+	"description": "The year in which the second population measurement was taken. {{CensusAU}} may be used.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "pop2_footnotes": {
+	"label": "Population 2 Footnotes",
+	"description": "Footnotes for the second population figure. Please use references here.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "poprank": {
+	"label": "Population Rank",
+	"description": "Only for cities. The total population rank of the city.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "density": {
+	"label": "Population Density",
+	"description": "The population density of the place.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "density_footnotes": {
+	"label": "Population Density Footnotes",
+	"description": "Footnotes for the population density figure. Please use references here.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "est": {
+	"label": "Established",
+	"description": "The year the place was established.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "abolished": {
+	"label": "Abolished",
+	"description": "The year the place was abolished.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "gazetted": {
+	"label": "Gazetted",
+	"description": "The date the place was gazetted.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "postcode": {
+	"label": "Postcode",
+	"description": "The postcode of the place.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "elevation": {
+	"label": "Elevation",
+	"description": "Elevation of the place above sea level in metres.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "elevation_footnotes": {
+	"label": "Elevation Footnotes",
+	"description": "Footnotes for the elevation figure.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "area": {
+	"label": "Area",
+	"description": "Area of the place in square kilometres.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "area_footnotes": {
+	"label": "Area Footnotes",
+	"description": "Footnotes for the area figure.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "timezone": {
+	"label": "Time Zone",
+	"description": "The time zone the place is located in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "utc": {
+	"label": "UTC Time",
+	"description": "The difference between UTC time and the time zone the place resides in, in the format '+' followed by a number.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "timezone-dst": {
+	"label": "Summer Time Zone (DST)",
+	"description": "The summer time zone the place is located in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "utc-dst": {
+	"label": "Summer UTC Time (DST)",
+	"description": "The difference between UTC time and the time zone the place resides in in the summer, in the format '+' followed by a number.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "mayor": {
+	"label": "Mayor",
+	"description": "LGA only. The name of the mayor of the LGA.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "mayortitle": {
+	"label": "Mayor Title",
+	"description": "LGA only. The title of the mayor of the LGA. Defaults to 'Mayor'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "dist1": {
+	"label": "Distance 1",
+	"description": "The distance by road in kilometres from the place to location 1.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "dir1": {
+	"label": "Direction 1",
+	"description": "The compass direction from the place to location 1. Examples are 'NW', 'E', and 'SSE'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "location1": {
+	"label": "Location 1",
+	"description": "Another location to compare with this one.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "dist2": {
+	"label": "Distance 2",
+	"description": "The distance by road in kilometres from the place to location 2.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "dir2": {
+	"label": "Direction 2",
+	"description": "The compass direction from the place to location 2. Examples are 'NW', 'E', and 'SSE'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "location2": {
+	"label": "Location 2",
+	"description": "Another location to compare with this one.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "dist3": {
+	"label": "Distance 3",
+	"description": "The distance by road in kilometres from the place to location 3.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "dir3": {
+	"label": "Direction 3",
+	"description": "The compass direction from the place to location 3. Examples are 'NW', 'E', and 'SSE'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "location3": {
+	"label": "Location 3",
+	"description": "Another location to compare with this one.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "dist4": {
+	"label": "Distance 4",
+	"description": "The distance by road in kilometres from the place to location 4.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "dir4": {
+	"label": "Direction 4",
+	"description": "The compass direction from the place to location 4. Examples are 'NW', 'E', and 'SSE'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "location4": {
+	"label": "Location 4",
+	"description": "Another location to compare with this one.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "dist5": {
+	"label": "Distance 5",
+	"description": "The distance by road in kilometres from the place to location 5.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "dir5": {
+	"label": "Direction 5",
+	"description": "The compass direction from the place to location 5. Examples are 'NW', 'E', and 'SSE'.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "location5": {
+	"label": "Location 5",
+	"description": "Another location to compare with this one.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "lga": {
+	"label": "Local Government Area (LGA)",
+	"description": "The name of the local government area of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "lga2": {
+	"label": "Local Government Area (LGA) 2",
+	"description": "Another local government area of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "lga3": {
+	"label": "Local Government Area (LGA) 3",
+	"description": "Another local government area of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "lga4": {
+	"label": "Local Government Area (LGA) 4",
+	"description": "Another local government area of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "seat": {
+	"label": "Local Government Area (LGA) Seat",
+	"description": "The local government area's seat of government.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "region": {
+	"label": "Region",
+	"description": "The region the LGA is in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "county": {
+	"label": "County",
+	"description": "The county the place is in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "parish": {
+	"label": "Parish",
+	"description": "The parish the place is in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "hundred": {
+	"label": "Hundred",
+	"description": "The hundred the place is in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "former_hundred": {
+	"label": "Former Hundred",
+	"description": "The former hundred the place is in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "division": {
+	"label": "Division",
+	"description": "The division the place is in.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "localgov": {
+	"label": "Local Government",
+	"description": "The local government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "stategov": {
+	"label": "State Government",
+	"description": "The state government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "stategov2": {
+	"label": "State Government 2",
+	"description": "Another state government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "stategov3": {
+	"label": "State Government 3",
+	"description": "Another state government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "stategov4": {
+	"label": "State Government 4",
+	"description": "Another state government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "stategov5": {
+	"label": "State Government 5",
+	"description": "Another state government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "fedgov": {
+	"label": "Federal Government",
+	"description": "The federal government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "fedgov2": {
+	"label": "Federal Government 2",
+	"description": "Another federal government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "fedgov3": {
+	"label": "Federal Government 3",
+	"description": "Another federal government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "fedgov4": {
+	"label": "Federal Government 4",
+	"description": "Another federal government electorate of the place.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "logo": {
+	"label": "LGA Logo",
+	"description": "A filename for the logo, if any, of the place's LGA.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "logosize": {
+	"label": "LGA Logo Size",
+	"description": "Override the default width of the LGA logo, which is 175px.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "url": {
+	"label": "LGA URL",
+	"description": "The bare URL for the place's LGA's website.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "maxtemp": {
+	"label": "Maximum Temperature",
+	"description": "The maximum average annual temperature of the place in degrees Celsius.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "maxtemp_footnotes": {
+	"label": "Maximum Temperature Footnotes",
+	"description": "Footnotes for the maximum temperature figure. Please use references here.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "mintemp": {
+	"label": "Minimum Temperature",
+	"description": "The minimum average annual temperature of the place in degrees Celsius.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "mintemp_footnotes": {
+	"label": "Minimum Temperature Footnotes",
+	"description": "Footnotes for the minimum temperature figure. Please use references here.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "rainfall": {
+	"label": "Rainfall",
+	"description": "The average annual rainfall of the place in millimetres.",
+	"type": "number",
+	"default": "",
+	"required": false},
+    "rainfall_footnotes": {
+	"label": "Rainfall Footnotes",
+	"description": "Footnotes for the rainfall figure.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near": {
+	"label": "Central Near Grid",
+	"description": "Replace the default text in the center of the 'Near' grid (the name of the place).",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-n": {
+	"label": "North Near Grid",
+	"description": "The nearest neighbour of the place to the north.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-ne": {
+	"label": "Northeast Near Grid",
+	"description": "The nearest neighbour of the place to the northeast.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-e": {
+	"label": "East Near Grid",
+	"description": "The nearest neigbour of the place to the east.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-se": {
+	"label": "Southeast Near Grid",
+	"description": "The nearest neighbour of the place to the southeast.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-s": {
+	"label": "South Near Grid",
+	"description": "The nearest neighbour of the place to the south.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-sw": {
+	"label": "Southwest Near Grid",
+	"description": "The nearest neighbour of the place to the southwest.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-w": {
+	"label": "West Near Grid",
+	"description": "The nearest neighbour of the place to the west.",
+	"type": "string",
+	"default": "",
+	"required": false},
+    "near-nw": {
+	"label": "Northwest Near Grid",
+	"description": "The nearest neighbour of the place to the northwest.",
+	"type": "string",
+	"default": "",
+	"required": false}
+}
+}
+</templatedata>
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!-- Categories below this line, please; interwikis at Wikidata -->
+{{DEFAULTSORT:Australian Place}}
+[[Category:Australia infobox templates|Place]]
+[[Category:City infobox templates]]
+[[Category:Templates that add a tracking category|{{PAGENAME}}]]
+}}</includeonly>

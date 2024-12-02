@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Common Bronzewing
+| image = Phaps chalcoptera -Brisbane, Queensland, Australia -male-8.jpg
+| image_width = 240px
+| image_caption = A male Common Bronzewing in Queensland
+| image2 = Phaps chalcoptera - Australian National Botanic Gardens.jpg
+| image2_width = 240px
+| image2_caption = Female
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22690667 |title=''Phaps chalcoptera'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Columbiformes Columbiformes]
+| familia = [https://en.wikipedia.org/wiki/Columbidae Columbidae]
+| genus = ''[https://en.wikipedia.org/wiki/Phaps Phaps]''
+| species = '''''P. chalcoptera''
+| binomial = ''Phaps chalcoptera''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1790)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Phaps+(Phaps)+chalcoptera ''Atlas of Living Australia'': Common Bronzewing]
+* [http://birdlife.org.au/bird-profile/common-bronzewing ''Birdlife Australia'': Common Bronzewing]
+* [https://en.wikipedia.org/wiki/Common_bronzewing ''Wikipedia'': Common bronzewing]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

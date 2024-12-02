@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Pacific Gull
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694279 |title=''Larus pacificus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Larus pacificus Bruny Island.jpg
+| image_width = 240px
+| image_caption = ''Larus pacificus pacificus'' Adventure Bay, Tasmania, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Laridae Laridae]
+| genus = ''[https://en.wikipedia.org/wiki/Larus Larus]''
+| species = '''''L. pacificus'''''
+| binomial = ''Larus pacificus''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies]]
+| subdivision = ''L. p. pacificus'' <small>[https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802</small><br>
+''L. p. georgis'' <small>King, 1826</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Larus+(Larus)+pacificus+pacificus ''Atlas of Living Australia'': Pacific Gull]
+* [http://birdlife.org.au/bird-profile/pacific-gull ''Birdlife Australia'': Pacific Gull]
+* [https://en.wikipedia.org/wiki/Pacific_gull ''Wikipedia'': Pacific gull]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

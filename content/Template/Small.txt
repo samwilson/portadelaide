@@ -1,0 +1,4 @@
+<small>{{{1}}}</small>{{#if:{{{1|}}}||<includeonly>[[Category:Pages using small with an empty input parameter]]</includeonly>}}<noinclude>
+<!--Categories and interwikis go in the /doc sub-page.-->
+{{Documentation}}
+</noinclude>

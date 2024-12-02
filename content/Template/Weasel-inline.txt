@@ -1,0 +1,13 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||$N=Weasel-inline |date=__DATE__ |$B=
+<!--{{Weasel-inline}} begin-->{{Fix-span
+| content = {{{text|<noinclude>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</noinclude>}}}
+| subst = <includeonly>{{subst:substcheck}}</includeonly>
+| link  = Wikipedia:Avoid weasel words
+| text  = weasel&nbsp;words
+| title = Who says this?
+| cat   = [[Category:All articles with specifically marked weasel-worded phrases]]
+| date  = {{{date|}}}
+| cat-date = Category:Articles with specifically marked weasel-worded phrases}}<!--{{Weasel-inline}} end-->
+}}<noinclude>
+{{Documentation}}
+</noinclude>

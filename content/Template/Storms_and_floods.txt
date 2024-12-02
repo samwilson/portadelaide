@@ -1,0 +1,23 @@
+{{Navbox
+|name       = Storms and floods
+|title      = Storms and floods
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = Storms
+|list1      = 
+* [[Storm event, 9 May 2016|9 May 2016]]
+* 
+
+|group2     = Floods
+|list2      = 
+* 
+* 
+
+|group3     = Other
+|list3      = 
+* 
+* 
+
+}}

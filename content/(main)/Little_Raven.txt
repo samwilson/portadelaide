@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Little Raven
+| image = Corvus mellori.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name="IUCN">{{IUCN|id=22706036 |title=''Corvus mellori'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Corvidae Corvidae]
+| genus = ''[https://en.wikipedia.org/wiki/Corvus_(biology) Corvus]''
+| species = '''''C. mellori'''''
+| binomial = ''Corvus mellori''
+| binomial_authority = [https://en.wikipedia.org/wiki/Gregory_Mathews Mathews], 1912
+| range_map = Corvus mellori map.jpg
+| range_map_caption = Distribution map
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Corvus+mellori ''Atlas of Living Australia'': Little Raven]
+* ''Birdlife Australia'': Little Raven
+* [https://en.wikipedia.org/wiki/Little_raven ''Wikipedia'': Little raven]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

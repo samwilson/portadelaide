@@ -1,0 +1,49 @@
+{{Taxobox
+| image = Charadrius mongolus - Laem Phak Bia.jpg
+| image_width = 240px
+| image_caption = Laem Phak Bia, Ban Laem, Phetchaburi, Thailand
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693855 |title=''Charadrius mongolus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Charadriidae Charadriidae]
+| genus = ''[https://en.wikipedia.org/wiki/Charadrius Charadrius]''
+| species = '''''C. mongolus'''''
+| binomial = ''Charadrius mongolus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Peter_Simon_Pallas Pallas], 1776
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 
+* ''C. m. mongolus''
+* ''C. m. atrifrons''
+* ''C. m. pamirensis''
+* ''C. m. stegmanni''
+* ''C. m. schaeferi''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Charadrius+(Charadrius)+mongolus ''Atlas of Living Australia'': Lesser Sand Plover]
+* ''Birdlife Australia'': Lesser Sand Plover
+* [https://en.wikipedia.org/wiki/Lesser_sand plover ''Wikipedia'': Lesser sand plover]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

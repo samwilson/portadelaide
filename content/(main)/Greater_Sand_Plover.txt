@@ -1,0 +1,41 @@
+{{Taxobox
+| image = Greater Sand Plover.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693862 |title=''Charadrius leschenaultii'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Charadriidae Charadriidae]
+| genus = ''[https://en.wikipedia.org/wiki/Charadrius Charadrius]''
+| species = '''''C. leschenaultii'''''
+| binomial = ''Charadrius leschenaultii''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Rene_Primevere_Lesson Lesson], 1826)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Charadrius+(Charadrius)+leschenaultii ''Atlas of Living Australia'': Greater Sand Plover]
+* ''Birdlife Australia'': Greater Sand Plover
+* [https://en.wikipedia.org/wiki/Greater_sand_plover ''Wikipedia'': Greater sand plover]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

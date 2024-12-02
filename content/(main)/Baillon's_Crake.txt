@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Baillon's Crake
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22692667 |title=''Zapornia pusilla'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2015.1 |year=2012 |accessdate=2 June 2015}}</ref>
+| image = Almost! (6165018831).jpg
+| image_width = 240px
+| image_caption = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Gruiformes Gruiformes]
+| familia = [https://en.wikipedia.org/wiki/Rallidae Rallidae]
+| genus = ''[https://en.wikipedia.org/wiki/Porzana Porzana]''
+| species = '''''P. pusilla'''''
+| binomial = ''Porzana pusilla''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Peter_Simon_Pallas Pallas], 1776)
+| synonyms = ''Zapornia pusilla''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Porzana+(Porzana)+pusilla+palustris ''Atlas of Living Australia'': Baillon's Crake]
+* ''Birdlife Australia'': Baillon's Crake
+* [https://en.wikipedia.org/wiki/Baillon's_crake ''Wikipedia'': Baillon's crake]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

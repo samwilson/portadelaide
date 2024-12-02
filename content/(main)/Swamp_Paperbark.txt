@@ -1,0 +1,42 @@
+{{taxobox
+|name = Swamp Paperbark
+|image = 
+|image_width = 240px
+|regnum = [https://en.wikipedia.org/wiki/Plantae Plantae]
+|unranked_divisio = [https://en.wikipedia.org/wiki/Angiosperm Angiosperms]
+|unranked_classis = [https://en.wikipedia.org/wiki/Eudicot Eudicots]
+|unranked_ordo = [https://en.wikipedia.org/wiki/Rosid Rosids]
+|ordo = [https://en.wikipedia.org/wiki/Myrtales Myrtales]
+|familia = [https://en.wikipedia.org/wiki/Myrtaceae Myrtaceae]
+|genus = ''[https://en.wikipedia.org/wiki/Melaleuca Melaleuca]''
+|species = '''''M. halmaturorum'''''
+|binomial = ''Melaleuca halmaturorum''
+|binomial_authority = [https://en.wikipedia.org/wiki/Ferdinand_von_Mueller F.Muell.] ex [https://en.wikipedia.org/wiki/Friedrich_Anton_Wilhelm_Miquel Miq.]
+|synonyms = ''Melaleuca cymbifolia'' <small>[https://en.wikipedia.org/wiki/George_Bentham Benth.]</small>  <br />
+''Melaleuca halmaturorum'' subsp. ''cymbifolia'' <small>([https://en.wikipedia.org/wiki/George_Bentham Benth.]) Barlow</small>  <br />
+|}}
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Plant species list for Adelaide Airport|Adelaide Airport - Patawalonga Creek]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:apni.taxon:450620 ''Atlas of Living Australia'': ''Melaleuca halmaturorum'' F.Muell. ex Miq. Blistered Paper-bark]
+* [http://www.flora.sa.gov.au/cgi-bin/specimens_map_gd.cgi?genus=Melaleuca&species=halmaturorum&infraname=&region=SA ''State Herbarium of South Australia'' Plant Distribution Mapper 2: ''Melaleuca halmaturorum'']
+* [http://www.flora.sa.gov.au/cgi-bin/speciesfacts_display.cgi?form=speciesfacts&family=&genus=Melaleuca&species=halmaturorum&iname=&submit=Display ''Electronic Flora of South Australia'' Species Fact Sheet: ''Melaleuca halmaturorum'']
+* [http://vro.depi.vic.gov.au/dpi/vro/vrosite.nsf/pages/water_sss_kangaroo_island ''Victorian Resources Online'': Salt Paperbark]
+* [http://florabase.dpaw.wa.gov.au/browse/profile/5916 ''WA Department of Parks and Wildlife'' Florabase: ''Melaleuca halmaturorum'' Miq.] 
+* [https://en.wikipedia.org/wiki/Melaleuca_halmaturorum ''Wikipedia'': ''Melaleuca halmaturorum'']
+
+{{Template:Plants of the Adelaide coast and plains}}
+[[Category:Plants of the Adelaide coast and plains]]

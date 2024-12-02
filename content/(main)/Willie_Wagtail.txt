@@ -1,0 +1,52 @@
+{{Taxobox
+| name = Willie Wagtail
+| image = Willy wag tail.jpg
+| image_width = 240px
+| image_caption = In the Melbourne Botanical Gardens 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22706805 |title=''Rhipidura leucophrys'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Rhipiduridae Rhipiduridae]
+| genus = ''[https://en.wikipedia.org/wiki/Fantail Rhipidura]''
+| species = '''''R. leucophrys'''''
+| binomial = ''Rhipidura leucophrys''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802
+| range_map=WillieWagtailRangeMap.png
+| range_map_width=240px
+| range_map_caption=Willie Wagtail range
+| subdivision_ranks=[https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision=
+''R. l. leucophrys''<br />
+''R. l. melaleuca''<br />
+''R. l. picata''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Rhipidura+(Sauloprocta)+leucophrys ''Atlas of Living Australia'': Willie Wagtail]
+* [http://birdlife.org.au/bird-profile/willie-wagtail ''Birdlife Australia'': Willie Wagtail]
+* [https://en.wikipedia.org/wiki/Willie_wagtail ''Wikipedia'': Willie wagtail]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,1 @@
+<small class="vcard"><span class="fn">{{{author}}}</span>,&nbsp;{{{date}}}</small><noinclude>{{documentation}}</noinclude>

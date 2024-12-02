@@ -1,0 +1,45 @@
+{{Taxobox
+| image = Ardea_modesta.jpg
+| image_width = 240px
+| image_caption = Non-breeding plumage in Tasmania
+| status = LC
+| status_system = IUCN3.1
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = ''[https://en.wikipedia.org/wiki/Ardea_(genus) Ardea]''
+| species = ''[https://en.wikipedia.org/wiki/Ardea_alba A. alba]''
+| trinomial = ''Ardea alba modesta''
+| trinomial_authority = [https://en.wikipedia.org/wiki/John_Edward_Gray J.E. Gray], 1831
+| synonyms = ''Ardea modesta''
+| range_map=Ardea modesta map.svg
+| range_map_caption=Yellow: breeding, green: year-round, blue: nonbreeding
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ardea+(Casmerodius)+modesta ''Atlas of Living Australia'': Eastern Great Egret]
+* [http://birdlife.org.au/bird-profile/eastern-great-egret ''Birdlife Australia'': Eastern Great Egret]
+* [https://en.wikipedia.org/wiki/Eastern_great_egret ''Wikipedia'': Eastern great egret]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

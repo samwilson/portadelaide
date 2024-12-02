@@ -1,0 +1,753 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+
+{{tl|Infobox organization}} can be used to provide at-a-glance information at the start of an article about an organization.
+
+== Blank template ==
+
+{{Generic template demo |_display=italics
+ |name |native_name |named_after
+ |image={{{image}}} |image_size={{{image_size}}} |alt={{{alt}}} |caption
+ |map={{{map}}} |map_size={{{map_size}}} |map_alt={{{map_alt}}} |map_caption |map2={{{map2}}} |map2_size={{{map2_size}}} |map2_alt={{{map2_alt}}} |map2_caption
+ |abbreviation |motto |predecessor |merged |successor |formation |founder=''founder''&nbsp;{{\}}&nbsp;''founders''|founding_location
+ |extinction |merger |type |tax_id=''tax_id''&nbsp;{{\}}&nbsp;''vat_id''
+ |registration_id |status |purpose |headquarters |location |coords |region |services |products |methods |fields
+ |membership |num_members_year=''_year'' |language |owner=''owner''&nbsp;{{\}}&nbsp;''owners'' |sec_gen
+ |leader_title |leader_name |leader_title2 |leader_name2 |leader_title3 |leader_name3 |leader_title4 |leader_name4
+ |board_of_directors |key_people |main_organ |parent_organization |subsidiaries |secessions |affiliations
+ |budget |budget_year=''_year'' |revenue |revenue_year=''_year'' |disbursements |expenses |endowment
+ |staff |staff_year=''_year'' |volunteers |volunteers_year=''_year''
+ |slogan |mission |website=<code><nowiki>{{url|...}}</nowiki></code> |remarks |formerly |footnotes
+}}
+
+<pre style="overflow:auto;">
+{{Infobox organization
+| name                = 
+| native_name         = 
+| native_name_lang    = 
+| named_after         = 
+| image               = 
+| image_size          = 
+| alt                 = 
+| caption             = 
+| map                 = 
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| map2                = 
+| map2_size           = 
+| map2_alt            = 
+| map2_caption        = 
+| abbreviation        = 
+| motto               = 
+| predecessor         = 
+| merged              = 
+| successor           = 
+| formation           = <!-- use {{start date|YYYY|MM|DD|df=y}} -->
+| founder             = 
+| founding_location   = 
+| extinction          = <!-- use {{end date and age|YYYY|MM|DD}} -->
+| merger              = 
+| type                = 
+| tax_id              = <!-- or | vat_id = (for European organizations) -->
+| registration_id     = <!-- for non-profit org -->
+| status              = 
+| purpose             = 
+| headquarters        = 
+| location            = 
+| coords              = <!-- {{coord|LAT|LON|display=inline,title}} -->
+| region              = 
+| services            = 
+| products            = 
+| methods             = 
+| fields              = 
+| membership          = 
+| membership_year     = 
+| language            = 
+| owner               = <!-- or | owners = -->
+| sec_gen             = 
+| leader_title        = 
+| leader_name         = 
+| leader_title2       = 
+| leader_name2        = 
+| leader_title3       = 
+| leader_name3        = 
+| leader_title4       = 
+| leader_name4        = 
+| board_of_directors  = 
+| key_people          = 
+| main_organ          = 
+| parent_organization = 
+| subsidiaries        = 
+| secessions          = 
+| affiliations        = 
+| budget              = 
+| budget_year         = 
+| revenue             = 
+| revenue_year        = 
+| disbursements       = 
+| expenses            = 
+| expenses_year       = 
+| endowment           = 
+| staff               = 
+| staff_year          = 
+| volunteers          = 
+| volunteers_year     = 
+| slogan              = 
+| mission             = 
+| website             = <!-- {{URL|example.com}} -->
+| remarks             = 
+| formerly            = 
+| footnotes           = 
+}}
+</pre>
+{{clear}}
+
+== Usage ==
+
+All fields are [[lower case]] and optional.
+
+{{Infobox organization
+| name          = Organization's ''name''
+| native_name   = ''native_name''
+| native_name_lang = ''native_name_lang''
+| named_after   = ''named_after''
+| image         = Test.png
+| alt           = Text alternative for those who do not see the image 
+| caption       = {{longitem|(''caption''{{thinsp}}''':''')<br/>Test.png (''image'') at template's default size.}}
+| map           = World map.jpg
+| map_alt       = This is the message carried by "map_alt" parameter
+| map_caption   = {{longitem|(''map_caption''{{thinsp}}''':''')<br/>World map.jpg (''map'') at template's default size.}}
+| abbreviation  = ''abbreviation''
+| motto         = ''motto''
+| predecessor   = ''predecessor''
+| merged        = ''merged''
+| successor     = ''successor''
+| formation     = {{nowrap|''formation'' &nbsp;(or ''established'')}}
+| founder       = ''founder'' &nbsp;(or ''founders'')
+| founding_location = ''founding_location''
+| dissolved     = ''dissolved'' &nbsp;(or ''extinction'')
+| merger        = ''merger''
+| type          = ''type''
+| tax_id        = ''tax_id'' &nbsp;(or ''vat_id'')
+| registration_id = ''registration_id''
+| status        = ''status''
+| purpose       = ''purpose''
+| headquarters  = ''headquarters''
+| location      = ''location''
+| coords        = ({{thinsp|use {{tl|coord}}}})
+| region        = ''region''
+| services      = ''services''
+| products      = ''products''
+| methods       = ''methods''
+| fields        = ''fields''
+| membership    = ''membership''
+| membership_year = ''_year''
+| language      = ''language'' &nbsp;(or ''languages'')
+| owner         = ''owner'' &nbsp;(or ''owners'')
+| sec_gen       = ''sec_gen''
+| leader_title  = ''leader_title''
+| leader_name   = ''leader_name''
+| leader_title4 = ''leader_title4''
+| leader_name4  = ''leader_name4''
+| board_of_directors = ''board_of_directors''
+| key_people    = ''key_people''
+| main_organ    = {{nowrap|''main_organ'' &nbsp;(or ''publication'')}}
+| parent_organization = ''parent_organi[z/s]ation''
+| subsidiaries  = ''subsidiaries''
+| secessions    = ''secessions''
+| affiliations  = ''affiliations''
+| budget        = ''budget''
+| budget_year   = ''_year''
+| revenue       = ''revenue''
+| revenue_year  = ''_year''
+| disbursements = ''disbursements''
+| expenses      = ''expenses''
+| expenses_year = ''_year''
+| endowment     = ''endowment''
+| staff         = ''staff''
+| staff_year    = ''_year''
+| volunteers    = ''volunteers''
+| volunteers_year = ''_year''
+| slogan        = ''slogan''
+| mission       = ''mission''
+| website       = ''website''
+| remarks       = ''remarks''
+| formerly      = {{nowrap|''formerly'' &nbsp;(or ''former_name'')}}
+| footnotes     = ''footnotes''
+}}
+<pre style="overflow:auto;">
+{{Infobox organization
+| name =             <!-- defaults to {{PAGENAME}} if not provided -->
+| native_name =      <!-- Organization's name in its local language -->
+| native_name_lang =      <!-- ISO code of the above language -->
+| named_after = 
+| image =
+| image_size = 
+| alt =              <!-- see [[WP:ALT]] -->
+| caption = 
+| map =              <!-- map image -->
+| map_size =         <!-- defaults to 250px -->
+| map_alt = 
+| map_caption = 
+| map2 =             <!-- second map image, if required -->
+| map2_size = 
+| map2_alt = 
+| map2_caption = 
+| abbreviation = 
+| motto = 
+| predecessor = 
+| merged =           <!-- Any other organizations with which the organization was merged -->
+| successor = 
+| formation =        <!-- or: | established = --> <!--e.g. use {{start date and age|YYYY|MM|DD}}-->
+| founder =          <!-- or: | founders = -->
+| founding_location = 
+| extinction =       <!-- or: | dissolved = -->   <!--e.g. use {{end date and age|YYYY|MM|DD}}-->
+| merger =           <!-- Other organizations (if any) merged to constitute the organization -->
+| type =             <!-- e.g. [[Governmental organization]], [[Non-governmental organization|NGO]], etc -->
+| status =           <!-- Organization's legal status and/or description (company, charity, foundation, etc) -->
+| purpose =          <!-- or: | focus = -->       <!--(humanitarian, activism, peacekeeping, etc)-->
+| professional_title = <!-- for professional associations -->
+| headquarters = 
+| location = 
+| coords =           <!-- location's {{coord}}s -->
+| region =           <!-- or: | region_served = --> <!--Any particular region or regions associated with or served by the organization-->
+| services = 
+| membership =       <!-- Usually the number of members -->
+| membership_year =  <!-- Year to which membership number/data apply -->
+| language =         <!-- or: | languages = --> <!--Any official language or languages used by the organization-->
+| sec_gen =          <!-- Name of the organization's Secretary General (if post exists) -->
+| leader_title =     <!-- defaults to "Leader" -->
+| leader_name = 
+| leader_title2 = 
+| leader_name2 = 
+| leader_title3 = 
+| leader_name3 = 
+| leader_title4 = 
+| leader_name4 = 
+| board_of_directors = 
+| key_people = 
+| main_organ =       <!-- or: | publication = --> <!--Organization's principal body (assembly, committee, board, etc) or publication-->
+| parent_organization =  <!-- or: | parent_organisation = -->
+| subsidiaries = 
+| secessions = 
+| affiliations = 
+| budget = 
+| budget_year = 
+| staff =            <!-- Numbers and/or types of staff -->
+| staff_year =       <!-- Year to which staff numbers/data apply -->
+| volunteers =       <!-- Numbers and/or types of volunteers -->
+| volunteers_year =  <!-- Year to which volunteer numbers/data apply -->
+| slogan =           <!-- in quotemarks / inverted commas -->
+| website =          <!-- e.g. {{url|example.com}} -->
+| remarks = 
+| formerly =         <!-- Any former names by which the organization known -->
+| footnotes = 
+}}
+</pre>
+
+== Microformat ==
+{{UF-hcard-org}}
+
+== TemplateData ==
+{{TemplateData header}}
+<templatedata>
+{
+	"description":"",
+	"params":{
+		"name ":{
+			"label":"name ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"defaults to {{PAGENAME}} if name not provided"
+		},
+		"native_name ":{
+			"label":"native_name ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Organization's name in its local language"
+		},
+		"named_after ":{
+			"label":"named_after ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Entity the organisation was named after, if any"
+		},
+		"image":{
+			"label":"image",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"image of organisation"
+		},
+		"image_size ":{
+			"label":"image_size ",
+			"type":"string/wiki-file-name",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"size of image"
+		},
+		"alt":{
+			"label":"alt",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"see [[WP:ALT]]"
+		},
+		"caption ":{
+			"label":"caption ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"caption"
+		},
+		"map":{
+			"label":"map",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"map image"
+		},
+		"map_size":{
+			"label":"map_size",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"defaults to 250px"
+		},
+		"map_alt":{
+			"label":"map_alt",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"map_caption  ":{
+			"label":"map_caption  ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"caption for map"
+		},
+		"map2 ":{
+			"label":"map2 ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"second map image, if required"
+		},
+		"map2_size":{
+			"label":"map2_size",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"size of map"
+		},
+		"map2_alt":{
+			"label":"map2_alt",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"map2_caption ":{
+			"label":"map2_caption ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"caption for map"
+		},
+		"abbreviation ":{
+			"label":"abbreviation ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"abbreviation of organisation"
+		},
+		"motto":{
+			"label":"motto",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"motto of organisation"
+		},
+		"predecessor":{
+			"label":"predecessor",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"merged":{
+			"label":"merged",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Any other organizations with which the organization was merged"
+		},
+		"successor":{
+			"label":"successor",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"successor of organisation"
+		},
+		"formation":{
+			"label":"formation",
+			"type":"number",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"established, e.g. use {{start date and age|YYYY|MM|DD}}"
+		},
+		"founder  ":{
+			"label":"founder  ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"founder of organisation"
+		},
+		"founding_location ":{
+			"label":"founding_location ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"place founded"
+		},
+		"extinction":{
+			"label":"extinction",
+			"type":"number",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"dissolved=e.g. use {{end date and age|YYYY|MM|DD}}"
+		},
+		"merger ":{
+			"label":"merger ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Other organizations (if any) merged to constitute the organization "
+		},
+		"type":{
+			"label":"type",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"e.g. [[Governmental organization]], [[Non-governmental organization|NGO]]"
+		},
+		"status":{
+			"label":"status",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Organization's legal status and/or description (company, charity, foundation"
+		},
+		"purpose":{
+			"label":"purpose",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"focus=(humanitarian, activism, peacekeeping, …)"
+		},
+		"professional_title":{
+			"label":"professional_title",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"for professional associations"
+		},
+		"headquarters":{
+			"label":"headquarters",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"organisation headquater"
+		},
+		" location":{
+			"label":" location",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"location of organisation"
+		},
+		"coords":{
+			"label":"coords",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"location's {{coord}}s"
+		},
+		"region ":{
+			"label":"region ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"region_served =Any particular region or regions associated with or served by the organization"
+		},
+		"services":{
+			"label":"services",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"services of organisation"
+		},
+		"membership ":{
+			"label":"membership ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"membership of organisation"
+		},
+		"language":{
+			"label":"language",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"languages =Any official language or languages used by the organization"
+		},
+		"sec_gen ":{
+			"label":"sec_gen ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Name of the organization's Secretary General (if post exists)"
+		},
+		"leader_title":{
+			"label":"leader_title",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"leader_name":{
+			"label":"leader_name",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"leader name"
+		},
+		"leader_title2":{
+			"label":"leader_title2",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"leader_name2":{
+			"label":"leader_name2",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"leader_name3":{
+			"label":"leader_name3",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"leader_title3":{
+			"label":"leader_title3",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"leader_title4":{
+			"label":"leader_title4",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"leader_name4":{
+			"label":"leader_name4",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":""
+		},
+		"board_of_directors":{
+			"label":"board_of_directors",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"board of directors of organisation"
+		},
+		"key_people":{
+			"label":"key_people",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"key people of organisation"
+		},
+		"main_organ":{
+			"label":"main_organ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"publication =Organization's principal body (assembly, committee, board, …) or publication"
+		},
+		"parent_organization":{
+			"label":"parent_organization",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"parent_organisation"
+		},
+		"subsidiaries":{
+			"label":"subsidiaries",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"organisation subsidiaries"
+		},
+		"secessions ":{
+			"label":"secessions ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"organisation secessions"
+		},
+		"affiliations":{
+			"label":"affiliations",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"affiliation of organisation"
+		},
+		"budget":{
+			"label":"budget",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"organisation budget"
+		},
+		"staff  ":{
+			"label":"staff  ",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Numbers and/or types of staff"
+		},
+		"volunteers":{
+			"label":"volunteers",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Numbers and/or types of volunteers"
+		},
+		"slogan":{
+			"label":"slogan",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"slogan of organisation"
+		},
+		"website ":{
+			"label":"website ",
+			"type":"string/wiki-page-name",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"organisation website"
+		},
+		"remarks":{
+			"label":"remarks",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"organisation remarks"
+		},
+		"formerly":{
+			"label":"formerly",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"Any former names by which the organization known"
+		},
+		"footnotes":{
+			"label":"footnotes",
+			"type":"string",
+			"required":false,
+			"suggested":false,
+			"deprecated":false,
+			"description":"footnotes of organisation"
+		}
+	}
+}
+</templatedata>
+
+== See also ==
+* [[:Category:Pages using infobox organization with unsupported parameters]] (hidden tracking/maintenance category)
+* [[Wikipedia:INFOBOXFLAG]]
+
+{{Organization infoboxes}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Organization infobox templates| ]]
+[[Category:Society and social science infobox templates|Organization]]
+[[Category:Templates that add a tracking category]]
+}}</includeonly>

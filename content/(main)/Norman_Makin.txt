@@ -1,0 +1,45 @@
+{{DEFAULTSORT:Makin, Norman}}
+{{Infobox person
+| honorific_prefix   = Hon.
+| name          = Norman Makin
+| honorific_suffix   = MHR
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 31 March 1889 
+| birth_place   = 
+| death_date    = 20 July 1982 
+| death_place   = 
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+* [https://en.wikipedia.org/wiki/Norman_Makin ''Wikipedia'': Norman Makin]
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

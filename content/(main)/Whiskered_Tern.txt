@@ -1,0 +1,47 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694764 |title=''Chlidonias hybrida'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Whiskered_tern_(Chlidonias_hybrida).jpg
+| image_width = 240px
+| image caption = Lake Sibaya, Kwa-Zulu Natal, South Africa
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = ''[https://en.wikipedia.org/wiki/Chlidonias Chlidonias]''
+| species = '''''C. hybrida'''''
+| binomial = ''Chlidonias hybrida''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Peter_Simon_Pallas Pallas], 1811)
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision =
+* ''C. h. hybrida'' – <small>([https://en.wikipedia.org/wiki/Peter_Simon_Pallas Pallas], 1811)</small><br /><small>(Eurasian Whiskered Tern)</small>
+* ''C. h. delalandii'' – <small>([https://en.wikipedia.org/wiki/Gregory_Mathews Mathews], 1912)</small><br /><small>(African Whiskered Tern)</small>
+* ''C. h. javanicus'' – <small>([https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1821)</small><br /><small>(Australasian Whiskered Tern)</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/ALA_Chlidonias_hybridus_javanicus ''Atlas of Living Australia'': Whiskered Tern]
+* [http://birdlife.org.au/bird-profile/whiskered-tern ''Birdlife Australia'': Whiskered Tern]
+* [https://en.wikipedia.org/wiki/Whiskered_tern ''Wikipedia'': Whiskered tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

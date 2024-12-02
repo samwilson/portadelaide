@@ -1,0 +1,217 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+[[File:As-map.png|thumb|250px|Map of Australia]]
+
+'''Template:Location map Australia''' is a location map definition used to overlay markers and labels on an [[equirectangular projection]] map of [[Australia]]. The markers are placed by [[latitude]] and [[longitude]] coordinates on the default map or a similar map image. 
+
+== Usage ==
+These definitions are used by the following templates when invoked with parameter "Australia":
+* {{tlx|Location map | Australia&nbsp;| ...}}
+* {{tlx|Location map many | Australia&nbsp;| ...}}
+* {{tlx|Location map+ | Australia&nbsp;| ...}}
+* {{tlx|Location map~ | Australia&nbsp;| ...}}
+
+== Map definition ==
+* <tt>'''name''' = {{{{BASEPAGENAME}}|name}}</tt>
+*: Name used in the default map caption
+
+* <tt>'''image''' = [[:File:{{{{BASEPAGENAME}}|image}}|{{{{BASEPAGENAME}}|image}}]]</tt>
+*: The default map image, without "Image:" or "File:"
+{{#if:{{{{BASEPAGENAME}}|image1}}|
+
+* <tt>'''image1''' = [[:File:{{{{BASEPAGENAME}}|image1}}|{{{{BASEPAGENAME}}|image1}}]]</tt>
+*: An alternative map image, usually a relief map, can be displayed via the ''relief'' or ''AlternativeMap'' parameters
+}}{{#if:{{{{BASEPAGENAME}}|image2}}|
+
+* <tt>'''image2''' = [[:File:{{{{BASEPAGENAME}}|image2}}|{{{{BASEPAGENAME}}|image2}}]]</tt>
+*: A second alternative map image, can be displayed via the ''AlternativeMap'' parameter only
+}}{{#if:{{{{BASEPAGENAME}}|top}}{{{{BASEPAGENAME}}|bottom}}{{{{BASEPAGENAME}}|left}}{{{{BASEPAGENAME}}|right}}|
+
+* <tt>'''top''' = {{{{BASEPAGENAME}}|top}}</tt>
+*: [[Latitude]] at top edge of map, in [[decimal degrees]]
+
+* <tt>'''bottom''' = {{{{BASEPAGENAME}}|bottom}}</tt>
+*: Latitude at bottom edge of map, in decimal degrees
+
+* <tt>'''left''' = {{{{BASEPAGENAME}}|left}}</tt>
+*: [[Longitude]] at left edge of map, in decimal degrees
+
+* <tt>'''right''' = {{{{BASEPAGENAME}}|right}}</tt>
+*: Longitude at right edge of map, in decimal degrees
+}}{{#if:{{{{BASEPAGENAME}}|x}}{{{{BASEPAGENAME}}|y}}|
+
+* <tt>'''x''' = {{{{BASEPAGENAME}}|x}}</tt>
+*: An expression to calculate a location on the map via its [[longitude]]; evaluates as 0 along the left edge and 100 along the right edge
+
+* <tt>'''y''' = {{{{BASEPAGENAME}}|y}}</tt>
+*: An expression to calculate a location on the map via its [[latitude]]; evaluates as 0 along the top edge and 100 along the bottom edge
+}}{{#if:{{{{BASEPAGENAME}}|mark}}|
+
+* <tt>'''mark''' = [[:File:{{{{BASEPAGENAME}}|mark}}|{{{{BASEPAGENAME}}|mark}}]] ([[File:{{{{BASEPAGENAME}}|mark}}|{{{{BASEPAGENAME}}|mark}}|8px]])</tt>
+*: The default mark image to display with this map. This can be overridden by the <code>mark</code> parameter in [[Template:Location map]], which would otherwise default to [[:File:Red pog.svg|Red pog.svg]] ([[File:Red pog.svg|8px]]).
+}}{{#if:{{{{BASEPAGENAME}}|marksize}}|
+
+* <tt>'''marksize''' = {{{{BASEPAGENAME}}|marksize}}</tt>
+*: The default mark size (in [[pixel]]s) for the mark image displayed with this map (should not include <code>px</code>, for example <code>marksize={{{{BASEPAGENAME}}|marksize}}</code>, not <code>marksize={{{{BASEPAGENAME}}|marksize}}px</code>). This can be overridden by the <code>marksize</code> parameter in [[Template:Location map]], which would otherwise default to 8.
+}}
+{{#if:{{{{BASEPAGENAME}}|image1}}|
+== Alternative map ==
+The map defined as '''image1''' (<tt>{{{{BASEPAGENAME}}|image1}}</tt>) can be displayed by using the ''relief'' or ''AlternativeMap'' parameters in {{tl|Location map}}, {{tl|Location map many}} and {{tl|Location map+}}. {{#if:{{{{BASEPAGENAME}}|image2}}| The map defined as '''image2''' (<tt>{{{{BASEPAGENAME}}|image2}}</tt>) can only be displayed by using the ''AlternativeMap'' parameter.}} The use of these two parameters is shown in the examples below. Additional examples can be found at:
+{{{!}}
+{{!}}
+* [[Template:Location map#Relief parameter]]
+* [[Template:Location map#AlternativeMap parameter]]
+{{!}}
+* [[Template:Location map+/relief]]
+* [[Template:Location map+/AlternativeMap]]
+{{!}}}
+}}
+{{#if:{{{{BASEPAGENAME}}|top}}{{{{BASEPAGENAME}}|bottom}}{{{{BASEPAGENAME}}|left}}{{{{BASEPAGENAME}}|right}}|
+== Precision ==
+[[Longitude]]: from West to East this map definition covers {{#expr: -( {{{{BASEPAGENAME}}|left}} - {{{{BASEPAGENAME}}|right}} ) round 4}} degrees.
+* At an image width of 200 [[pixel]]s, that is {{#expr: -( {{{{BASEPAGENAME}}|left}} - {{{{BASEPAGENAME}}|right}} ) / 200 round 4}} degrees per pixel.
+* At an image width of 1000 pixels, that is {{#expr: -( {{{{BASEPAGENAME}}|left}} - {{{{BASEPAGENAME}}|right}} ) / 1000 round 4}} degrees per pixel.
+
+[[Latitude]]: from North to South this map definition covers {{#expr: {{{{BASEPAGENAME}}|top}} - {{{{BASEPAGENAME}}|bottom}} round 4}} degrees.
+* At an image height of 200 pixels, that is {{#expr: ( {{{{BASEPAGENAME}}|top}} - {{{{BASEPAGENAME}}|bottom}} ) / 200 round 4}} degrees per pixel.
+* At an image height of 1000 pixels, that is {{#expr: ( {{{{BASEPAGENAME}}|top}} - {{{{BASEPAGENAME}}|bottom}} ) / 1000 round 4}} degrees per pixel.
+}}
+== Examples using location map templates ==
+
+=== Location map, using default map (image) ===
+{{Location map | Australia
+| width = 200
+| label = Canberra
+| lat_deg=35  | lat_min=18 | lat_sec=27 | lat_dir=S
+| lon_deg=149 | lon_min=07 | lon_sec=28 | lon_dir=E
+}}
+<pre style="width:35em">
+{{Location map | Australia
+| width = 200
+| label = Canberra
+| lat_deg=35  | lat_min=18 | lat_sec=27 | lat_dir=S
+| lon_deg=149 | lon_min=07 | lon_sec=28 | lon_dir=E
+}}
+</pre>
+{{clear}}
+
+=== Location map many, using relief map (image1) ===
+{{Location map many | Australia
+| relief   = yes
+| width    = 200
+| caption  = Locations in Australia
+| lat1 = -12.45 | long1 = 130.83 | label1 = Darwin
+| lat2 = -42.88 | long2 = 147.33 | label2 = Hobart
+| lat3 = -31.95 | long3 = 115.86 | label3 = Perth
+| lat4 = -27.47 | long4 = 153.03 | label4 = Brisbane
+}}
+<pre style="width:35em">
+{{Location map many | Australia
+| relief   = yes
+| width    = 200
+| caption  = Locations in Australia
+| lat1 = -12.45 | long1 = 130.83 | label1 = Darwin
+| lat2 = -42.88 | long2 = 147.33 | label2 = Hobart
+| lat3 = -31.95 | long3 = 115.86 | label3 = Perth
+| lat4 = -27.47 | long4 = 153.03 | label4 = Brisbane
+}}
+</pre>
+{{clear}}
+
+=== Location map+, using AlternativeMap ===
+{{Location map+ | Australia
+| AlternativeMap = Australia relief map.jpg
+| width   = 200
+| caption = Locations in Australia
+| places  =
+  {{Location map~ | Australia
+  | lat = -12.45 | long = 130.83 | label = Darwin
+  }}
+  {{Location map~ | Australia
+  | lat = -42.88 | long = 147.33 | label = Hobart
+  }}
+  {{Location map~ | Australia
+  | lat = -31.95 | long = 115.86 | label = Perth
+  }}
+  {{Location map~ | Australia
+  | lat = -27.47 | long = 153.03 | label = Brisbane
+  }}
+}}
+<pre style="width:35em">
+{{Location map+ | Australia
+| AlternativeMap = Australia relief map.jpg
+| width   = 200
+| caption = Locations in Australia
+| places  =
+  {{Location map~ | Australia
+  | lat = -12.45 | long = 130.83 | label = Darwin
+  }}
+  {{Location map~ | Australia
+  | lat = -42.88 | long = 147.33 | label = Hobart
+  }}
+  {{Location map~ | Australia
+  | lat = -31.95 | long = 115.86 | label = Perth
+  }}
+  {{Location map~ | Australia
+  | lat = -27.47 | long = 153.03 | label = Brisbane
+  }}
+}}
+</pre>
+{{clear}}
+
+=== Location map+, using location map (grey) ===
+{{Location map+ | Australia
+| AlternativeMap = Australia location map grey.svg
+| width   = 200
+| caption = Locations in Australia
+| places  =
+  {{Location map~ | Australia
+  | lat = -12.45 | long = 130.83 | label = Darwin
+  }}
+  {{Location map~ | Australia
+  | lat = -42.88 | long = 147.33 | label = Hobart
+  }}
+  {{Location map~ | Australia
+  | lat = -31.95 | long = 115.86 | label = Perth
+  }}
+  {{Location map~ | Australia
+  | lat = -27.47 | long = 153.03 | label = Brisbane
+  }}
+}}
+<pre style="width:35em">
+{{Location map+ | Australia
+| AlternativeMap = Australia location map grey.svg
+| width   = 200
+| caption = Locations in Australia
+| places  =
+  {{Location map~ | Australia
+  | lat = -12.45 | long = 130.83 | label = Darwin
+  }}
+  {{Location map~ | Australia
+  | lat = -42.88 | long = 147.33 | label = Hobart
+  }}
+  {{Location map~ | Australia
+  | lat = -31.95 | long = 115.86 | label = Perth
+  }}
+  {{Location map~ | Australia
+  | lat = -27.47 | long = 153.03 | label = Brisbane
+  }}
+}}
+</pre>
+{{clear}}
+
+== See also ==
+* [[Template:Geobox locator Australia]], a location map definition used by {{tl|Geobox}} and other templates in [[:Category:Geobox]]
+; Location map templates
+* [[Template:Location map]], to display one mark and label using latitude and longitude
+* [[Template:Location map many]], to display up to nine marks and labels
+* [[Template:Location map+]], to display an unlimited number of marks and labels
+
+; Infobox templates incorporating (passing values to) the Location map template
+{{Location map/doc/See also infobox templates}}
+<includeonly>
+<!-- Categories go here, and interwikis go in Wikidata -->
+[[Category:Location map by country templates|Australia]]
+[[Category:Australia location map templates| ]]
+
+</includeonly>

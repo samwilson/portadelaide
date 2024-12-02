@@ -1,0 +1,52 @@
+{{Taxobox
+| name = Hardhead
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22680387 |title=''Aythya australis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image =Female Hardhead duck.jpg
+| image_width = 240px
+| image_caption=Female
+| image2 =Hardhead male drip crop.jpg
+| image2_width = 240px
+| image2_caption=Male
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Aythyinae Aythyinae]
+| genus = ''[https://en.wikipedia.org/wiki/Aythya Aythya]''
+| species = '''''A. australis'''''
+| binomial = ''Aythya australis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Thomas_Campbell_Eyton Eyton], 1838)
+| synonyms = ''Nyroca australis'' <small>Eyton, 1838</small>
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 
+* ''A. a. extima'' <small>([https://en.wikipedia.org/wiki/Ernst_Mayr Mayr], 1940) (disputed)</small>
+* ''A. a. australis'' <small>(Eyton, 1838)</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Aythya+(Nyroca)+australis ''Atlas of Living Australia'': Hardhead]
+* [http://birdlife.org.au/bird-profile/hardhead ''Birdlife Australia'': Hardhead]
+* [https://en.wikipedia.org/wiki/Hardhead ''Wikipedia'': Hardhead]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

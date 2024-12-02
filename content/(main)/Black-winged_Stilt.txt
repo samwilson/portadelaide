@@ -1,0 +1,50 @@
+{{Taxobox
+| name = Black-winged stilt
+| image = Black-winged stilt (Himantopus himantopus).jpg
+| image_width = 240px
+| image_caption = at iSimangaliso Wetland Park, KwaZulu Natal, South Africa
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22727969 |title=''Himantopus himantopus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2015.2 |year=2014 |accessdate=24 June 2015}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| subclassis = [https://en.wikipedia.org/wiki/Neornithes Neornithes]
+| infraclassis = [https://en.wikipedia.org/wiki/Neognathae Neognathae]
+| superordo = [https://en.wikipedia.org/wiki/Neoaves Neoaves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| subordo = [https://en.wikipedia.org/wiki/Charadrii Charadrii]
+| familia = [https://en.wikipedia.org/wiki/Recurvirostridae Recurvirostridae]
+| genus = ''[https://en.wikipedia.org/wiki/Himantopus Himantopus]''
+| species = '''''H. himantopus''''' <small>(disputed)</small>
+| binomial = ''Himantopus himantopus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision =
+1–7, see [https://en.wikipedia.org/wiki/Black-winged_stilt#Taxonomy_and_systematics text in WP article]
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Himantopus+himantopus ''Atlas of Living Australia'': Black-winged Stilt]
+* [http://birdlife.org.au/bird-profile/black-winged-stilt ''Birdlife Australia'': Black-winged Stilt]
+* [https://en.wikipedia.org/wiki/Black-winged_stilt ''Wikipedia'': Black-winged stilt]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

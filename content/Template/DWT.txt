@@ -1,0 +1,7 @@
+<includeonly>{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}} }}{{#if:{{{first|}}}|&nbsp;{{{2|{{{unit}}}}}} tons [[Deadweight tonnage|deadweight]] (DWT) |{{#if:{{{disp|}}}<!-- 
+ -->|{{#switch:{{{disp}}}
+       |long={{#if:{{{2|{{{unit}}}}}}|{{#ifeq:{{{2|{{{unit}}}}}}|metric|&nbsp;tonnes|{{#ifeq:{{{2|{{{unit}}}}}}|long|&nbsp;long tons|&nbsp;tons}} }}|}} {{#ifeq:{{{link|}}}|off|deadweight|[[Deadweight tonnage|deadweight]]}} (DWT)
+       |adj={{#if:{{{2|{{{unit}}}}}}|{{#ifeq:{{{2|{{{unit}}}}}}|metric|-tonne|{{#ifeq:{{{2|{{{unit}}}}}}|long|-long ton|-ton}} }}|}} {{#ifeq:{{{link|}}}|off|deadweight|[[Deadweight tonnage|deadweight]]}} (DWT)
+       |#default={{red|1=&#32;<code>&#124;disp={{{disp}}}}}</code>
+     }}<!-- 
+ -->|{{#if:{{{2|{{{unit}}}}}}|{{#ifeq:{{{2|{{{unit}}}}}}|metric|&nbsp;t|{{#ifeq:{{{2|{{{unit}}}}}}|long|&nbsp;LT|}} }}|}}&nbsp;{{#ifeq:{{{link|}}}|off|DWT|[[Deadweight tonnage|DWT]]}}}} }}</includeonly><noinclude>{{template doc}}</noinclude>

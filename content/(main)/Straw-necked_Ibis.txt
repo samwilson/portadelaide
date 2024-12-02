@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Straw-necked Ibis
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22697525 |title=''Threskiornis spinicollis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Threskiornis spinicollis - Centenary Lakes.jpg
+| image_width = 240px
+| image_caption=Adult in Queensland
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Ciconiiformes Ciconiiformes] <small>(disputed)</small>
+| familia = [https://en.wikipedia.org/wiki/Threskiornithidae Threskiornithidae]
+| genus = ''[https://en.wikipedia.org/wiki/Threskiornis Threskiornis]''
+| species = '''''T. spinicollis'''''
+| binomial = ''Threskiornis spinicollis''
+| binomial_authority = [https://en.wikipedia.org/wiki/Robert_Jameson Jameson], 1835
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Threskiornis+spinicollis ''Atlas of Living Australia'': Straw-necked Ibis]
+* [http://birdlife.org.au/bird-profile/straw-necked-ibis ''Birdlife Australia'': Straw-necked Ibis]
+* [https://en.wikipedia.org/wiki/Straw-necked_ibis ''Wikipedia'': Straw-necked ibis]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

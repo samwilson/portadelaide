@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Singing Honeyeater
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704061 |title=''Lichenostomus virescens'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Singing Honeyeater (5113414347).jpg
+| image_width = 240px
+| image_caption=
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Lichenostomus Lichenostomus]''
+| species = '''''L. virescens'''''
+| binomial = ''Lichenostomus virescens''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1817)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Gavicalis+virescens ''Atlas of Living Australia'': Singing Honeyeater]
+* [http://birdlife.org.au/bird-profile/singing-honeyeater ''Birdlife Australia'': Singing Honeyeater]
+* [https://en.wikipedia.org/wiki/Singing_honeyeater ''Wikipedia'': Singing honeyeater]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,51 @@
+{{Taxobox
+| name = Muscovy duck
+| image = MuscovyDuck.jpg 
+| image_width = 240px
+| image_caption = A Piebald Muscovy drake 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22680061 |title=''Cairina moschata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| subclassis = [https://en.wikipedia.org/wiki/Neornithes Neornithes]
+| infraclassis = [https://en.wikipedia.org/wiki/Neognathae Neognathae]
+| superordo = [https://en.wikipedia.org/wiki/Galloanserae Galloanserae]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| genus = ''[https://en.wikipedia.org/wiki/Cairina Cairina]''
+| species = '''''C. moschata'''''
+| binomial = ''Cairina moschata''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], 1758)
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 
+*''C. moschata sylvestris'' <small>(Stephens 1824)</small>
+*''C. moschata domestica'' <small>Donkin, 1989</small>
+| synonyms =
+''Anas moschata'' <small>(Linnaeus, 1758)</small>
+}}
+An introduced species
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species//Cairina+moschata ''Atlas of Living Australia'': Muscovy Duck]
+* [https://en.wikipedia.org/wiki/MuscovyUduck ''Wikipedia'': Muscovy duck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

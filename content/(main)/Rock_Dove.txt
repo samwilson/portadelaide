@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Rock dove
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22690066 |title=''Columba livia'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Paloma bravía (Columba livia), Palacio de Nymphenburg, Múnich, Alemania01.JPG
+| image_width = 240px
+| image_caption = Adult male in Germany.
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Columbiformes Columbiformes]
+| familia = [https://en.wikipedia.org/wiki/Columbidae Columbidae]
+| genus = ''[https://en.wikipedia.org/wiki/Columba_(genus) Columba]''
+| species = '''''C. livia'''''
+| binomial = ''Columba livia''
+| binomial_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789
+| range_map=Columba livia distribution map.png
+| range_map_caption ={{leftlegend|#7E0308|approximate native range|outline=gray}}{{leftlegend|#FD8182|introduced non-native populations|outline=gray}}
+}}
+An introduced species
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Columba+(Columba)+livia ''Atlas of Living Australia'': Rock Dove]
+* [http://bie.ala.org.au/species/rock-dove ''Atlas of Living Australia'': Rock Dove]
+* [https://en.wikipedia.org/wiki/Rock_dove ''Wikipedia'': Rock dove]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

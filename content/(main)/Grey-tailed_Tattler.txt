@@ -1,0 +1,51 @@
+{{Taxobox
+| name = Grey-tailed tattler
+| image = Tringa brevipes2.jpg
+| image_width = 240px
+| image_caption = Breeding plumage
+| image2 = Tringa brevipes.jpg
+| image2_width = 240px
+| image2_caption = Non-breeding plumage
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693289 |title=''Tringa brevipes'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2014.3 |year=2014 |accessdate=7 January 2015}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tringa Tringa]''
+| species = '''''T. brevipes'''''
+| binomial = ''Tringa brevipes''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1816)
+| synonyms =
+''Heteroscelus brevipes''<br/>
+''Heterosceles brevipes''<br/>
+''Heteractitis brevipes''
+|synonyms_ref = <ref name=avibase>{{avibase|29256A389375B43E|Tringa brevipes}}</ref>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Heteroscelus+brevipes ''Atlas of Living Australia'': Grey-tailed Tattler]
+* [http://birdlife.org.au/bird-profile/grey-tailed-tattler ''Birdlife Australia'': Grey-tailed Tattler]
+* [https://en.wikipedia.org/wiki/Grey-tailed_tattler ''Wikipedia'': Grey-tailed tattler]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

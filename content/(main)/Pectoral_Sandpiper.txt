@@ -1,0 +1,52 @@
+{{Taxobox
+| image = Pectoral Sandpiper3.jpg
+| image_width = 240px
+| image_caption = Adult in breeding plumage
+| image2 = Pectoral-sandpiper-floreana.jpg
+| image2_width = 240px
+| image2_caption = Adult non-breeding
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693408 |title=''Calidris melanotos'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| subclassis = [https://en.wikipedia.org/wiki/Neornithes Neornithes]
+| infraclassis = [https://en.wikipedia.org/wiki/Neognathae Neognathae]
+| superordo = [https://en.wikipedia.org/wiki/Neoaves Neoaves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| subordo = Scolopaci<!-- monotypic - don't link -->
+| genus = ''[https://en.wikipedia.org/wiki/Calidris Calidris]'' <small>(disputed)</small>
+| species = '''''C. melanotos'''''
+| binomial = ''Calidris melanotos''
+| binomial_authority = [https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1819
+| synonyms =
+''Actodromas maculata''<br />
+''Erolia melanotos''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Calidris+(Erolia)+melanotos ''Atlas of Living Australia'': Pectoral Sandpiper]
+* ''Birdlife Australia'': Pectoral Sandpiper
+* [https://en.wikipedia.org/wiki/Pectoral_sandpiper ''Wikipedia'': Pectoral sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

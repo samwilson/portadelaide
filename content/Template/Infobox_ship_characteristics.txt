@@ -1,0 +1,84 @@
+<includeonly>{{#switch: {{{Hide header| }}}
+| yes
+| Yes =
+| no
+| No
+| #default = <tr>
+<th colspan="2" height="30" {{WPMILHIST Infobox style|header_bar}}>General characteristics {{{Header caption|}}}</th></tr>
+}}{{#if:{{{Ship class|}}}|<tr style="vertical-align:top;"><td>Class and type:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship class|}}}}}</td></tr>
+}}{{#if:{{{Ship type|}}}|<tr style="vertical-align:top;"><td>Type:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship type|}}}}}</td></tr>
+}}{{#if:{{{Ship tonnage|}}}|<tr style="vertical-align:top;"><td>Tonnage:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship tonnage|}}}}}</td></tr>
+}}{{#if:{{{Ship displacement|}}}|<tr style="vertical-align:top;"><td>Displacement:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship displacement|}}}}}</td></tr>
+}}{{#if:{{{Ship tons burthen|}}}|<tr style="vertical-align:top;"><td>Tons burthen:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship tons burthen|}}}}}</td></tr>
+}}{{#if:{{{Ship length|}}}|<tr style="vertical-align:top;"><td>Length:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship length|}}}}}</td></tr>
+}}{{#if:{{{Ship beam|}}}|<tr style="vertical-align:top;"><td>Beam:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship beam|}}}}}</td></tr>
+}}{{#if:{{{Ship height|}}}|<tr style="vertical-align:top;"><td>Height:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship height|}}}}}</td></tr>
+}}{{#if:{{{Ship draught|}}}|<tr style="vertical-align:top;"><td>Draught:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship draught|}}}}}</td></tr>
+}}{{#if:{{{Ship draft|}}}|<tr style="vertical-align:top;"><td>Draft:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship draft|}}}}}</td></tr>
+}}{{#if:{{{Ship depth|}}}|<tr style="vertical-align:top;"><td>Depth:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship depth|}}}}}</td></tr>
+}}{{#if:{{{Ship hold depth|}}}|<tr style="vertical-align:top;"><td>Depth of hold:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship hold depth|}}}}}</td></tr>
+}}{{#if:{{{Ship decks|}}}|<tr style="vertical-align:top;"><td>Decks:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship decks|}}}}}</td></tr>
+}}{{#if:{{{Ship deck clearance|}}}|<tr style="vertical-align:top;"><td>Deck clearance:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship deck clearance|}}}}}</td></tr>
+}}{{#if:{{{Ship ramps|}}}|<tr style="vertical-align:top;"><td>Ramps:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship ramps|}}}}}</td></tr>
+}}{{#if:{{{Ship ice class|}}}|<tr style="vertical-align:top;"><td>Ice class:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship ice class|}}}}}</td></tr>
+}}{{#if:{{{Ship power|}}}|<tr style="vertical-align:top;"><td>Installed power:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship power|}}}}}</td></tr>
+}}{{#if:{{{Ship propulsion|}}}|<tr style="vertical-align:top;"><td>Propulsion:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship propulsion|}}}}}</td></tr>
+}}{{#if:{{{Ship sail plan|}}}|<tr style="vertical-align:top;"><td>Sail plan:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship sail plan|}}}}}</td></tr>
+}}{{#if:{{{Ship speed|}}}|<tr style="vertical-align:top;"><td>Speed:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship speed|}}}}}</td></tr>
+}}{{#if:{{{Ship range|}}}|<tr style="vertical-align:top;"><td>Range:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship range|}}}}}</td></tr>
+}}{{#if:{{{Ship endurance|}}}|<tr style="vertical-align:top;"><td>Endurance:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship endurance|}}}}}</td></tr>
+}}{{#if:{{{Ship test depth|}}}|<tr style="vertical-align:top;"><td>Test depth:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship test depth|}}}}}</td></tr>
+}}{{#if:{{{Ship boats|}}}|<tr style="vertical-align:top;"><td>Boats & landing <br /> craft carried:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship boats|}}}}}</td></tr>
+}}{{#if:{{{Ship capacity|}}}|<tr style="vertical-align:top;"><td>Capacity:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship capacity|}}}}}</td></tr>
+}}{{#if:{{{Ship troops|}}}|<tr style="vertical-align:top;"><td>Troops:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship troops|}}}}}</td></tr>
+}}{{#if:{{{Ship complement|}}}|<tr style="vertical-align:top;"><td>Complement:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship complement|}}}}}</td></tr>
+}}{{#if:{{{Ship crew|}}}|<tr style="vertical-align:top;"><td>Crew:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship crew|}}}}}</td></tr>
+}}{{#if:{{{Ship time to activate|}}}|<tr style="vertical-align:top;"><td>Time to activate:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship time to activate|}}}}}</td></tr>
+}}{{#if:{{{Ship sensors|}}}|<tr style="vertical-align:top;"><td>Sensors and <br /> processing systems:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship sensors|}}}}}</td></tr>
+}}{{#if:{{{Ship EW|}}}|<tr style="vertical-align:top;"><td>Electronic warfare <br /> & decoys:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship EW|}}}}}</td></tr>
+}}{{#if:{{{Ship armament|}}}|<tr style="vertical-align:top;"><td>Armament:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship armament|}}}}}</td></tr>
+}}{{#if:{{{Ship armour|}}}|<tr style="vertical-align:top;"><td>Armour:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship armour|}}}}}{{#if:{{{Ship armor|}}}|[[Category:Pages using infobox ship with both armor and amour]]}}</td></tr>
+|{{#if:{{{Ship armor|}}}|<tr style="vertical-align:top;"><td>Armor:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship armor|}}}}}</td></tr>
+}}}}{{#if:{{{Ship aircraft|}}}|<tr style="vertical-align:top;"><td>Aircraft carried:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship aircraft|}}}}}</td></tr>
+}}{{#if:{{{Ship aircraft facilities|}}}|<tr style="vertical-align:top;"><td>Aviation facilities:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship aircraft facilities|}}}}}</td></tr>
+}}{{#if:{{{Ship notes|}}}|<tr style="vertical-align:top;"><td>Notes:</td><td>
+{{#invoke:WPSHIPS utilities|unbulleted_list|{{{Ship notes|}}}}}</td></tr>
+}}</includeonly><noinclude>
+{{Documentation}}
+</noinclude>

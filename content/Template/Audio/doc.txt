@@ -1,0 +1,34 @@
+{{Documentation subpage}}
+<!--PLEASE ADD CATEGORIES WHERE INDICATED AT THE BOTTOM OF THIS PAGE-->
+{{for|instructions on inserting audio files|Wikipedia:Creation and usage of media files#Audio}}
+===Purpose===
+This template links to an audio file for quick listening.  It is meant to be used inline with text, for pronunciations and the like. Please note that this just creates a link to the file and does not actually embed the file. If the file is Non-Free and only referenced via this template it is not in compliance with [[WP:NFCC#7]].
+
+===Usage===
+;Basic:
+<code><nowiki>{{Audio|name of sound file|text to use as link to soundfile|help=}}</nowiki></code>
+
+;Simple
+:<code><nowiki>'''Alabama''' ({{Audio|en-us-Alabama.ogg|/ˌæləˈbæmə/}}) is a state located in...</nowiki></code>
+:&rarr; '''Alabama''' ({{Audio|en-us-Alabama.ogg|/ˌæləˈbæmə/}}) is a state located in...
+;Variant
+:<code><nowiki>'''Alabama''' ({{Audio|en-us-Alabama.ogg|Pronunciation of "Alabama"}})</nowiki></code>
+:&rarr; '''Alabama''' ({{Audio|en-us-Alabama.ogg|Pronunciation of "Alabama"}})
+;Help links
+Setting {{para|help|no}} disables the "help/info" links. If this is done the template {{tlx|inline audio}} ''must'' be shown on the page.
+
+:<code><nowiki>'''Alabama''' ({{Audio|en-us-Alabama.ogg|Pronunciation of "Alabama"|help=no}})</nowiki></code>
+: &rarr; '''Alabama''' ({{Audio|en-us-Alabama.ogg|Pronunciation of "Alabama"|help=no}})
+: Todo: add {{tlx|inline audio}} to this page.
+
+===Microformat===
+{{UF-audio}}
+
+===See also===
+{{Audio templates}}
+
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!-- PLEASE ADD CATEGORIES BELOW THIS LINE: -->
+[[Category:Audio templates]]
+}}</includeonly>

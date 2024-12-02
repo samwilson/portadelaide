@@ -1,0 +1,51 @@
+{{Taxobox
+| name = White-winged Fairywren
+| image = Malurus leucopterus.jpg
+| image_width = 240px
+| image_caption = ssp. ''leuconotus''<br>Coolmunda Dam, nr Inglewood, Qld
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22703732 |title=''Malurus leucopterus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Maluridae Maluridae]
+| genus = ''[https://en.wikipedia.org/wiki/Malurus Malurus]''
+| species = '''''M. leucopterus'''''
+| binomial = ''Malurus leucopterus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Charles_Dumont_de_Sainte-Croix Dumont], 1824
+| range_map=White winged fairy wren dist.png
+| range_map_width=240px
+| range_map_caption=White-winged Fairywren range<div>{{Legend2|#2BA7D7|''M. l. leuconotus''|border=1px solid #aaa}};<br/> ''M.l. leucopterus'' (Dirk Hartog Island);<br/> ''M.l. edouardi'' (Barrow Island)</div>
+| subdivision_ranks=[https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision=
+* ''M. l. leucopterus''
+* ''M. l. leuconotus''
+* ''M. l. edouardi''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Malurus+(Musciparus)+leucopterus ''Atlas of Living Australia'': White-winged Fairy-wren]
+* [http://birdlife.org.au/bird-profile/white-winged-fairy-wren ''Birdlife Australia'': White-winged Fairy-wren]
+* [https://en.wikipedia.org/wiki/White-winged_fairywren ''Wikipedia'': White-winged fairywren]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

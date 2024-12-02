@@ -1,0 +1,43 @@
+{{Infobox monument
+|monument_name = WWI Honour Roll, St Alban's
+|native_name   = 
+|image         = Honour Roll, St Alban's.jpg
+|caption       = The Honour Roll, in the church foyer
+|coordinates   = 
+|location      = St Alban's Anglican Church, Jetty Road, Largs Bay
+|designer      = 
+|type          =
+|material      = Wood
+|length        =
+|width         =
+|height        =
+|begin         = 
+|complete      = 
+|open          = 
+|dedicated_to  = Commemoration of WWI casualties
+|map_image     = Northwestern Adelaide
+|map_text      = Location in Largs Bay
+|map_width     = 
+|relief        =
+|latd  = 34 |latm  = 49 |lats  = 33.85 |latNS  = S 
+|longd = 138 |longm = 29 |longs = 20.63 |longEW = E 
+|extra         =
+}}
+
+
+{{main list|List of names on the WWI Honour Roll, St Alban's, Largs Bay}}
+
+==History==
+
+
+
+
+
+
+
+
+
+
+
+{{Names on the WWI Memorial, St Alban's}}
+{{Monuments and public artworks of Port Adelaide}}

@@ -1,0 +1,221 @@
+{{Infobox|child={{{child|}}}
+| bodyclass  = biography vcard
+| above      = {{br separated entries
+ |1={{#if:{{{honorific prefix|{{{honorific_prefix|}}}}}}|<span class="honorific-prefix" style="font-size: small">{{{honorific prefix|{{{honorific_prefix|}}}}}}</span>}}
+ |2={{#if:{{{name|<includeonly>{{PAGENAMEBASE}}</includeonly>}}}|<span class="fn">{{{name|{{PAGENAMEBASE}}}}}</span>}}
+ |3={{#if:{{{honorific suffix|{{{honorific_suffix|}}}}}}|<span class="honorific-suffix" style="font-size: small">{{{honorific suffix|{{{honorific_suffix|}}}}}}</span>}}
+ }}
+| image      = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image size|{{{image_size|{{{imagesize|}}}}}}}}}|sizedefault=frameless|upright=1|alt={{{alt|}}}|suppressplaceholder=yes}}
+| caption    = {{{image caption|{{{caption|{{{image_caption|}}}}}}}}}
+
+| labelstyle = padding-right:0.6em;<!--(to ensure sufficient gap between any (long/unwrapped) label and subsequent data on same line)-->
+
+| label1     = Native&nbsp;name
+| data1      = {{#if:{{{native_name|}}}|<span class="nickname" {{#if:{{{native_name_lang|}}}|lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span> }}
+
+| label10     = Born
+| data10      = {{br separated entries|1={{#if:{{{birth_name|{{{birthname|}}}}}}|<span class="nickname">{{{birth_name|{{{birthname|}}}}}}</span>}}|2={{{birth_date|}}}|3={{#if:{{{birth_place|}}}|<span class="birthplace">{{{birth_place|}}}</span>}}}}
+
+| label11     = Baptised
+| data11      = {{#if:{{{birth_date|}}}||{{{baptised|}}}}}
+
+| label12     = Disappeared
+| data12      = {{br separated entries|{{{disappeared_date|}}}|{{{disappeared_place|}}} }}
+
+| label13     = Status
+| data13      = {{{status|{{{disappeared_status|}}}}}}
+
+| label14     = Died
+| data14      = {{br separated entries|1={{{death_date|}}}|2={{#if:{{{death_place|}}}|<span class="deathplace">{{{death_place|}}}</span>}}}}
+
+| label15     = {{Longitem|Cause&nbsp;of death}}
+| data15      = {{{death cause|{{{death_cause|}}}}}}
+
+| label16     = {{Longitem|Body discovered}}
+| data16      = {{{body discovered|{{{body_discovered|}}}}}}
+
+| label17     = {{Longitem|Resting place}}
+| class17     = label
+| data17      = {{br separated entries|{{{resting place|{{{resting_place|{{{restingplace|}}}}}}}}}|{{{resting place coordinates|{{{resting_place_coordinates|{{{restingplacecoordinates|}}}}}}}}}}}
+
+| label18     = Monuments
+| data18      = {{{monuments|}}}
+
+| label19     = Residence
+| class19     = {{#if:{{{death_date|}}}{{{death_place|}}}||label}}
+| data19      = {{{residence|}}}
+
+| class20    = category
+| label20    = Nationality
+| data20     = {{{nationality|}}}
+
+| label21    = Other&nbsp;names
+| class21    = nickname
+| data21     = {{{other names|{{{other_names|{{{othername|{{{alias|}}}}}}}}}}}}
+
+| class22    = category
+| label22    = Ethnicity
+| data22     = {{{ethnicity|}}}
+
+| class23    = category
+| label23    = Citizenship
+| data23     = {{{citizenship|}}}
+
+| label24    = Education
+| data24     = {{{education|}}}
+
+| label25    = Alma&nbsp;mater
+| data25     = {{{alma mater|{{{alma_mater|}}}}}}
+
+| label26    = Occupation
+| class26    = role
+| data26     = {{{occupation|}}}
+
+| label27    = Years&nbsp;active
+| data27     = {{{years active|{{{years_active|{{{yearsactive|}}}}}}}}}
+
+| label28    = Era
+| data28     = {{{era|}}}
+| class28    = category
+
+| label29    = Employer
+| data29     = {{{employer|}}}
+| class29    = org
+
+| label30    = Organization
+| data30     = {{{organization|{{{organizations|}}}}}}
+| class30    = org
+
+| label31    = Agent
+| data31     = {{{agent|}}}
+| class31    = agent
+
+| label32    = Known&nbsp;for
+| data32     = {{{known for|{{{known_for|{{{known|}}}}}}}}}
+
+| label33    = <span style="white-space:nowrap;">{{#if:{{{credits|}}}|Notable credit(s)|Notable work}}</span>
+| data33     = {{#if:{{{credits|}}}|{{{credits}}}|{{{notable works|{{{notable_works|}}}}}}}}
+
+| label34    = Style
+| data34     = {{{style|}}}
+| class34    = category
+
+| label37    = Home&nbsp;town
+| data37     = {{{home town|{{{home_town|}}}}}}
+
+| label38    = Salary
+| data38     = {{{salary|}}}
+
+| label39    = Net&nbsp;worth
+| data39     = {{{net worth|{{{net_worth|{{{networth|}}}}}}}}}
+
+| label40    = Height
+| data40     = {{#if:{{{height_m|{{{height_cm|}}}}}}{{{height_ft|}}}{{{height_in|}}} | {{convinfobox|{{{height_m|{{{height_cm|}}}}}}|{{#if:{{{height_m|}}}|m|cm}}|{{{height_ft|}}}|ft|{{{height_in|}}}|in}} }}{{#if:{{{height|}}} | {{infobox person/height|{{{height|}}}}} }}
+
+| label41    = Weight
+| data41     = {{#if:{{{weight_kg|}}}{{{weight_st|}}}{{{weight_lb|}}} | {{convinfobox|{{{weight_kg|}}}|kg|{{{weight_st|}}}|st|{{{weight_lb|}}}|lb}} }}{{#if:{{{weight|}}} | {{infobox person/weight|{{{weight|}}}}} }}
+
+| label42    = Television
+| data42     = {{{television|}}}
+
+| label43    = Title
+| data43     = {{{title|}}}
+| class43    = title
+
+| label44    = Term
+| data44     = {{{term|}}}
+
+| label45    = Predecessor
+| data45     = {{{predecessor|}}}
+
+| label46    = Successor
+| data46     = {{{successor|}}}
+
+| label47    = {{Longitem|Political party}}
+| data47     = {{{party|}}}
+| class47    = org
+
+| label48    = Movement
+| data48     = {{{movement|}}}
+| class48    = category
+
+| label49    = <span style="white-space:nowrap;">Opponent(s)</span>
+| data49     = {{{opponents|}}}
+
+| label50    = {{Longitem|Board member&nbsp;of}}
+| data50     = {{{boards|}}}
+
+| label51    = Religion
+| data51     = {{{religion|}}}
+| class51    = category
+
+| label52    = Denomination
+| data52     = {{{denomination|}}}
+| class52    = category
+
+| label53    = {{Longitem|Criminal charge}}
+| data53     = {{{criminal charge|{{{criminal_charge|}}}}}}
+
+| label54    = {{Longitem|Criminal penalty}}
+| data54     = {{{criminal penalty|{{{criminal_penalty|}}}}}}
+
+| label55    = <span style="padding:0.1em 0;line-height:1.2em">{{#if:{{{judicial_status|{{{judicial status|}}}}}}|Judicial status|Criminal status}}</span>
+| data55      = {{#if:{{{judicial status|{{{judicial_status|}}}}}} | {{{judicial status|{{{judicial_status}}}}}} | {{{criminal status|{{{criminal_status|}}}}}} }}
+| class55    = category
+
+| label56    = <span style="white-space:nowrap;">Spouse(s)</span>
+| data56     = {{{spouse|}}}
+
+| label57    = <span style="white-space:nowrap;">Partner(s)</span>
+| data57     = {{{partner|{{{domesticpartner|{{{domestic_partner|}}}}}}}}}
+
+| label58    = Children
+| data58     = {{{children|}}}
+
+| label59    = Parent(s)
+| data59     = {{{parents|}}}
+
+| label60    = Relatives
+| data60     = {{{relations|{{{relatives|}}}}}}
+
+| label61    = Family
+| data61     = {{{family|}}}
+
+| label62    = Call-sign
+| data62     = {{{callsign|}}}
+
+| label63    = Awards
+| data63     = {{{awards|}}}
+
+| label64    = {{#if:{{{honours|}}}|Honours|Honors}}
+| data64     = {{#if:{{{honours|}}}|{{{honours}}}|{{{honors|}}}}}
+
+| data65     = {{{misc|{{{module|}}}}}}
+| data66     = {{{misc2|{{{module2|}}}}}}
+| data67     = {{{misc3|{{{module3|}}}}}}
+| data68     = {{{misc4|{{{module4|}}}}}}
+| data69     = {{{misc5|{{{module5|}}}}}}
+| data70     = {{{misc6|{{{module6|}}}}}}
+
+| label71    = Signature
+| data71     = {{#if:{{{signature|}}}|{{#invoke:InfoboxImage|InfoboxImage|image={{{signature|}}}|size={{{signature_size|}}}|sizedefault=150px|alt={{{signature alt|{{{signature_alt|}}}}}}}} }}
+
+| header72   = {{#if:{{{website|{{{homepage|{{{URL|}}}}}}}}}|Website}}
+| data73     = {{{website|{{{homepage|{{{URL|}}}}}}}}}
+
+| below      = {{#if:{{{footnotes|}}}|'''Notes'''<div style="line-height:1.2em;">{{{footnotes}}}</div>}}
+| belowstyle = border-top:1px solid #aaaaaa; text-align:left
+
+}}{{main other|<!--
+
+-->{{#if:{{{1|}}}|{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Category:Infobox person using numbered parameter]]}}}}<!--
+-->{{#if:{{{box_width|}}}|[[Category:Infobox person using boxwidth parameter]]}}<!--
+-->{{#if:{{{death_date|}}}{{{death_place|}}}|{{#if:{{{salary|}}}{{{net worth|{{{net_worth|{{{networth|}}}}}}}}}|[[Category:Infobox person using certain parameters when dead]]}}}}<!--
+-->{{#if:{{{influences|}}}{{{influenced|}}}|[[Category:Infobox person using influence]]}}<!--
+-->{{#if:{{{pronunciation|}}}|[[Category:Biography template using pronunciation]]}}<!--
+
+-->{{#if:{{{signature|}}}|[[Category:Biography with signature]]}}[[Category:Articles with hCards]]
+}}<includeonly>{{Wikidata image|1={{{image|}}} }}</includeonly><noinclude>
+<!---Please add categories to the <includeonly> section at the bottom of the /doc subpage--->
+{{documentation}} 
+</noinclude>

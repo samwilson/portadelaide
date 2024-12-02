@@ -1,0 +1,45 @@
+{{Taxobox 
+| name = Inland Thornbill
+| image = Inland Thornbill (5669197054).jpg
+| image_width = 240px
+| image_caption =  
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22731025 |title=''Acanthiza apicalis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pardalotidae Pardalotidae]
+| genus = ''[https://en.wikipedia.org/wiki/Acanthiza Acanthiza]''
+| species = '''''A. apicalis'''''
+| binomial = ''Acanthiza apicalis''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1847
+| subdivision_ranks = Subspecies
+| subdivision = ''Acanthiza apicalis apicalis <br> Acanthiza apicalis albiventris <br> Acanthiza apicalis cinerascens <br> Acanthiza apicalis whitlocki''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Acanthiza+(Acanthiza)+apicalis+apicalis ''Atlas of Living Australia'': Inland Thornbill]
+* [http://birdlife.org.au/bird-profile/inland-thornbill ''Birdlife Australia'': Inland Thornbill]
+* [https://en.wikipedia.org/wiki/Inland_thornbill ''Wikipedia'': Inland thornbill]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

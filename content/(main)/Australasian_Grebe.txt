@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Australasian Grebe
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696553 |title=''Tachybaptus novaehollandiae'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2014.3 |year=2012 |accessdate=6 January 2015}}</ref>
+| image = Tachybaptus novaehollandiae - Mulligan's Flat.jpg
+| image_width = 240px
+| image_caption = A mature Australasian Grebe in its breeding plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/grebe Podicipediformes]
+| familia = [https://en.wikipedia.org/wiki/Podicipedidae Podicipedidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tachybaptus Tachybaptus]''
+| species = '''''T. novaehollandiae'''''
+| binomial = ''Tachybaptus novaehollandiae''
+| binomial_authority = [https://en.wikipedia.org/wiki/James_Francis_Stephens Stephens], 1826
+| range_map = Australasian Grebe.png
+| range_map_caption = Distribution of the Australasian Grebe with subspecies separated with lines
+}}
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Tachybaptus+novaehollandiae ''Atlas of Living Australia'': Australasian Grebe]
+* [http://birdlife.org.au/bird-profile/australasian-grebe ''Birdlife Australia'': Australasian Grebe]
+* [https://en.wikipedia.org/wiki/Australasian_grebe ''Wikipedia'': Australasian grebe]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

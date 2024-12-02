@@ -1,0 +1,47 @@
+{{Documentation subpage}}
+
+This is a template used in {{tl|Infobox settlement}} and some of the templates of the [[:Category:Geobox|Geobox]] ''series''. It only translates the coordinates related parameters from the Geoboxes to the {{tl|coord}} templates which handles the actual display and therefore it shouldn't be used on its own. 
+
+It displays coordinates and the appropriate wikimap link from various styles of input (can be classic with deg, min and sec or decimal with NSWE or decimal with negative values for S and W hemispheres). Additional formatting parameters can be used: to display the coordinates in title to, to display decimally-entered values as classic DMS values and vice versa.
+
+For usage see examples at [[Template talk:Geobox coor]] or any [[:Category:Geobox|Geobox]].
+
+'''Note:''' This is '''not''' used by {{tl|Geobox}}. Geobox uses [[Template:Geobox2 coor]] and [[Template:Geobox2 coor type]].
+
+== Optional parameters ==
+* <code>title</code> &ndash; if set to any value, the coordinates will appear in the title as well as inline.
+* <code>format</code> &ndash; set to ''dms'' for "degrees/minutes/seconds" or ''dec'' for "decimal".
+* <code>wrap</code> &ndash; if set to any value, the coordinates will be allowed to linewrap.
+
+== Examples of use ==
+*<code><nowiki>{{Geobox coor|25|30|01|N|12|15|01|E|type:city}}: </nowiki></code>{{Geobox coor|25|30|01|N|12|15|01|E|type:city}}
+*<code><nowiki>{{Geobox coor|25|30|01|N|12|15|01|E|type:city|title=1}}: </nowiki></code>{{Geobox coor|25|30|01|N|12|15|01|E|type:city|title=1}}
+*<code><nowiki>{{Geobox coor|25|30|01|N|12|15|01|E|type:city|format=dec}}: </nowiki></code>{{Geobox coor|25|30|01|N|12|15|01|E|type:city|format=dec}}
+
+*<code><nowiki>{{Geobox coor|25|30||N|12|15||E|type:city}}: </nowiki></code>{{Geobox coor|25|30||N|12|15||E|type:city}}
+*<code><nowiki>{{Geobox coor|25|30||N|12|15||E|type:city|format=dec}}: </nowiki></code>{{Geobox coor|25|30||N|12|15||E|type:city|format=dec}}
+
+*<code><nowiki>{{Geobox coor|25.135|||N|12.588|||E|type:city}}: </nowiki></code>{{Geobox coor|25.135|||N|12.588|||E|type:city}}
+*<code><nowiki>{{Geobox coor|25.135|||N|12.588|||E|type:city|format=dms}}: </nowiki></code>{{Geobox coor|25.135|||N|12.588|||E|type:city|format=dms}}
+
+*<code><nowiki>{{Geobox coor|25.135||||-12.588||||}}: </nowiki></code>{{Geobox coor|25.135||||-12.588|||}}
+*<code><nowiki>{{Geobox coor|25.135||||-12.588||||type:city|format=dms}}: </nowiki></code>{{Geobox coor|25.135||||-12.588||||type:city|format=dms}}
+
+*<code><nowiki>{{Geobox coor|25|30|01||12|15|01||type:city}}: </nowiki></code>{{Geobox coor|25|30|01||12|15|01||type:city}}
+*<code><nowiki>{{Geobox coor|25|30|01||12|15|01||type:city|format=dec}}: </nowiki></code>{{Geobox coor|25|30|01||12|15|01||type:city|format=dec}}
+
+*<code><nowiki>{{Geobox coor|25|30|||12|15|||type:city}}: </nowiki></code>{{Geobox coor|25|30|||12|15|||type:city}}
+*<code><nowiki>{{Geobox coor|25|30|||12|15|||type:city|format=dec}}: </nowiki></code>{{Geobox coor|25|30|||12|15|||type:city|format=dec}}
+
+== Microformat ==
+{{UF-geo}}
+
+== See also ==
+*[[Template:Geobox2 coor]]
+*[[Template:Geobox2 coor type]]
+
+<includeonly>{{basepage subpage|
+<!-- Categories below this line, please: -->
+[[Category:Geobox include]]
+[[Category:Coordinates templates]]
+}}</includeonly>

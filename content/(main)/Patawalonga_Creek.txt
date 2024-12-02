@@ -1,0 +1,53 @@
+
+{{Infobox Australian place
+| type                   = protected
+| name                   = Patawalonga Creek
+| state                  = sa
+| iucn_category          = 
+| image                  = 
+| imagesize              = 
+| caption                = 
+| image_alt              = 
+| coord_type             = 
+| map_scale              = 
+| force_national_map     = 
+| relief                 = 
+| latd                   = 34
+| latm                   = 56
+| lats                   = 52
+| longd                  = 138
+| longm                  = 30
+| longs                  = 48
+| alternative_location_map = Northern Adelaide
+| coordinates_region = AU-SA_type:landmark
+| coordinates_display = inline
+| pushpin_map_caption    = 
+| pushpin_label_position = 
+| map_alt                = 
+| established            = 
+| established_footnotes  = 
+| area                   = {{convert| 9|ha|acres|abbr=on}}
+| area_footnotes         = 
+| visitation_num         = 
+| visitation_year        = 
+| visitation_footnotes   = 
+| managing_authorities   = 
+| url                    = 
+| footnotes              = 
+}}
+
+
+==See also==
+
+==References==
+{{reflist}}
+
+===Further reading===
+Winkler, A.K. (Compiler, 2009): ''[[:File:Coastal Parks Tour guide - small.pdf|From the Lefevre Peninsula to the Patawalonga - a Tour Guide  to the Coastal Parks with Remnant Vegetation of Northern & Western Adelaide]]''
+
+==External links==
+
+
+{{Template:Protected Areas of Northern and Western Adelaide}}
+
+[[Category:Places]]

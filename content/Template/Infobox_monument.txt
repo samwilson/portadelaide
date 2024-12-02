@@ -1,0 +1,80 @@
+{{Infobox
+| bodyclass   = vcard
+
+| aboveclass  = fn org
+| abovestyle  = background: #ededed;
+| above       = {{If empty|{{{monument_name|}}}|{{PAGENAMEBASE}}}}{{#if:{{{native_name|}}}|<br /><span class="nickname" {{#if:{{{native_name_lang|}}}| lang="{{{native_name_lang}}}" xml:lang="{{{native_name_lang}}}"}}>{{{native_name}}}</span>}}
+
+| image       = {{#invoke:InfoboxImage|InfoboxImage|image={{{image|}}}|size={{{image_size|}}}|sizedefault=frameless|alt={{{image_alt|{{{alt|}}}}}}}}
+| caption     = {{{caption|}}}
+
+| image2      = {{#if:{{{map_image|}}}
+<!-- if map_image -->|{{Location map|{{{map_image|}}}
+ |relief  = {{{relief|}}}
+ |alt     = {{{map_alt|}}}
+ |lat     = {{#if:{{{latm|}}}{{{latNS|}}}| | {{{lat|{{{latitude|{{{latd|}}}}}}}}} }}
+ |long    = {{#if:{{{longm|}}}{{{longEW|}}}| | {{{long|{{{longitude|{{{longd|}}}}}}}}} }}
+ |lat_deg ={{#if:{{{latm|}}}{{{latNS|}}}|{{{latd|}}}| }}
+ |lat_min ={{#if:{{{latm|}}}{{{latNS|}}}|{{{latm|}}}| }}
+ |lat_sec ={{#if:{{{lats|}}}{{{latNS|}}}|{{{lats|}}}| }}
+ |lat_dir ={{#if:{{{latNS|}}}|{{{latNS|}}}| }}
+ |lon_deg ={{#if:{{{longm|}}}{{{longEW|}}}|{{{longd|}}}| }}
+ |lon_min ={{#if:{{{longm|}}}{{{longEW|}}}|{{{longm|}}}| }}
+ |lon_sec ={{#if:{{{longs|}}}{{{longEW|}}}|{{{longs|}}}| }}
+ |lon_dir ={{#if:{{{longEW|}}}|{{{longEW|}}}| }}
+ |float   = center
+ |label   = {{{map_dot_label|}}}
+ |border  = infobox
+ |caption = {{If empty|{{{map_text|{{{map_caption|}}}}}}|Location in {{#invoke:Location map|data|{{{map_image}}}|name}}}}
+ |width   = {{{map_size|}}}
+}}
+<!-- else -->|{{#invoke:InfoboxImage|InfoboxImage|image={{{image_map|}}}|size={{{map_width|{{{map_size|}}}}}}|sizedefault=frameless|alt={{{map_alt|}}}}}
+ }}
+| caption2    = {{#if:{{{map_image|}}}
+ |<!-- blank -->
+ |{{{map_text|{{{map_caption|}}}}}} 
+ }}
+
+| label1    = Coordinates
+| data1     = {{#if:{{both|{{{lat|{{{latitude|{{{latd|}}}}}}}}}|{{{long|{{{longitude|{{{longd|}}}}}}}}} }}|
+{{Geobox coor|{{{lat|{{{latitude|{{{latd|}}}}}}}}}|{{{latm|}}}|{{{lats|}}}|{{{latNS|}}}|{{{long|{{{longitude|{{{longd|}}}}}}}}}|{{{longm|}}}|{{{longs|}}}|{{{longEW|}}}|type:landmark{{#if: {{{coord_region|{{{iso_region|}}}}}}|_region:{{{coord_region|{{{iso_region}}}}}} }}|{{#if:{{{coordinates_display|}}}|title|μ}}={{{coordinates_display|}}}|format={{{coordinates_format|}}}}}|{{{coordinates|}}}}}
+
+| label2    = Location
+| data2     = {{{location|}}}
+| class2    = nickname
+
+| label3    = Designer
+| data3     = {{{designer|{{{ldesigner|}}}}}}
+
+| label4    = Type
+| data4     = {{{type|}}}
+
+| label5    = Material
+| data5     = {{{material|}}}
+
+| label6    = Length
+| data6     = {{{length|}}}
+
+| label7    = Width
+| data7     = {{{width|}}}
+
+| label8    = Height
+| data8     = {{{height|}}}
+
+| label9    = Beginning&nbsp;date
+| data9     = {{{begin|}}}
+
+| label10    = Completion&nbsp;date
+| data10     = {{{complete|}}}
+
+| label11    = Opening&nbsp;date
+| data11     = {{{open|}}}
+
+| label12    = Dedicated&nbsp;to
+| data12     = {{{dedicated_to|}}}
+
+| data13     = {{{extra|}}}
+
+}}<noinclude>
+{{Documentation}}
+</noinclude>

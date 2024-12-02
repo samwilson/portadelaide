@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Fan-tailed Cuckoo
+| image = Cacomantis flabelliformis.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22683941 |title=''Cacomantis flabelliformis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Cuculiformes Cuculiformes]
+| familia = [https://en.wikipedia.org/wiki/Cuculidae Cuculidae]
+| genus = ''[https://en.wikipedia.org/wiki/Cacomantis Cacomantis]''
+| species = '''''C. flabelliformis'''''
+| binomial = ''Cacomantis flabelliformis''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1801
+| synonyms =
+| range_map = Fan-tailed Cuckoo.jpg
+| range_map_caption = Australian Distribution of the Fan-tailed Cuckoo <br> Data from ''The Atlas Of Living Australia'' 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cacomantis+(Vidgenia)+flabelliformis ''Atlas of Living Australia'': Fan-tailed Cuckoo]
+* [http://birdlife.org.au/bird-profile/fan-tailed-cuckoo ''Birdlife Australia'': Fan-tailed Cuckoo]
+* [https://en.wikipedia.org/wiki/Fan-tailed_cuckoo ''Wikipedia'': Fan-tailed cuckoo]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

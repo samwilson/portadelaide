@@ -1,0 +1,70 @@
+{{Navbox
+| name = Namespace and pagename-detecting templates
+| state = {{{state|{{{1|<noinclude>expanded</noinclude>}}}}}}
+| class = plainlist
+| title = Namespace and pagename-detecting templates
+| tracking = no <!--(to keep documented templates out of hlist tracking category)-->
+
+| group1 = [[Wikipedia:Namespace|Namespace]]
+| list1 =
+ {{Navbox |child
+  |groupstyle=font-weight:normal;
+  |listclass=hlist
+  | group1 = Particular
+  | list1 =
+* {{tlbare|When in article}}&nbsp;({{tlbare|main other}})
+* {{tlbare|When on talk page}}&nbsp;({{tlbare|talk other}})
+* {{tlbare|book other}}
+* {{tlbare|category other}}
+* {{tlbare|draft other}}
+* {{tlbare|file other}}
+* {{tlbare|help other}}
+* {{tlbare|module other}}
+* {{tlbare|portal other}}
+* {{tlbare|When on template page}}&nbsp;({{tlbare|template other}})
+* {{tlbare|When on user page}}&nbsp;({{tlbare|user other}})
+* {{tlbare|wikipedia other}}
+* {{tlbare|single namespace}}
+* {{tlbare|If talkspace of}}
+* {{tlbare|If usertalk of}}
+  | group2 = More generic
+  | list2 =
+* {{tlbare|When in namespace}}&nbsp;({{tlbare|namespace detect}})
+* {{tlbare|namespace detect showall}}
+* {{tlbare|main talk category other}}
+* {{tlbare|main talk other}}
+* {{tlbare|talkspace detect}}
+ }}
+
+<!---group2 omitted to maintain alternating list backgrounds--->
+
+| group3 = [[Wikipedia:Page name|Pagename]]
+| list3 =
+  {{Aligned table
+   |style=text-align:left;line-height:1.3em;
+   |col1style=padding-right:1.5em;
+   | {{tlbare|When on basepage}} | Detects and acts according to whether it is on a basepage, subpage, subsubpage or beyond.
+   | {{tlbare|When pagename is}} | For pattern matching on the pagename.
+   | {{tlbare|When on page}}     | For pattern matching on the pagename with input reuse.
+   | {{tlbare|pgn}}              | Can take apart and put together pagenames in several ways.
+   | {{tlbare|IP-talk}}          | Returns IP-user talkpage, registered-user talkpage or non-user talkpage.
+   | {{tlbare|IP-user other}}    | For detecting IP-user pages.
+  }}
+
+| belowclass = hlist
+| below =
+* [[Wikipedia:Namespace]]
+* [[Wikipedia:Page name]]
+* [[mw:Help:Magic words|Magic words]]
+* [[mw:Help:Extension:ParserFunctions|ParserFunctions]]
+
+}}<noinclude>
+{{Documentation
+ | content =
+{{Collapsible option |statename=optional}}
+
+[[Category:Namespace manipulation templates| ]]
+[[Category:Documentation see also templates]]
+[[Category:Template namespace templates]]
+}}<!--(end Documentation)-->
+</noinclude>

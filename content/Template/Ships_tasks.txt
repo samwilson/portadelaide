@@ -1,0 +1,22 @@
+{{plainlist |1=
+*'''[[Wikipedia:WikiProject Ships/Assessment|Assessments]]''':
+*:[[:Category:Ships articles with incomplete B-Class checklists|B-Class assessment needed]] • [[:Category:Unassessed Ships articles|Class assessment needed]] • [[Wikipedia:WikiProject_Ships/Log|Log]]
+*'''[[Wikipedia:WikiProject Ships/Categorization|Categorize]] & [[Template:WikiProject Ships|tag]]''':
+*:[[Wikipedia:WikiProject Ships/New articles|New article feed]]
+*'''Cleanup listing''':
+*:Articles tagged for cleanup [http://tools.wmflabs.org/bambots/cwb/alpha/Ships.html alphabetically] or by [https://tools.wmflabs.org/bambots/cwb/bycat/Ships.html category] at Labs
+*'''Expand stubs''':
+*:[[:Category:Stub-Class Ships articles|Stub-class ship articles]]
+*'''Images''':
+*:[[:Category:Wikipedia requested photographs of ships|Requested ship photos]] • [[:Category:Ship infoboxes without an image|Infoboxes without an image]]
+*'''[[Template:Infobox Ship Begin/doc|Infoboxes]]''':
+*:[[:Category:Ship articles without infoboxes|Infobox needed]] • [[:Category:Ship articles needing infobox conversion|Infobox conversion needed]]
+*'''Recent changes''':
+*:[[Special:Recentchangeslinked/Wikipedia:WikiProject Ships/Articles US|US changes]] • [[Special:Recentchangeslinked/Wikipedia:WikiProject Ships/Articles UK|UK changes]] • [[Special:RecentChangesLinked/Wikipedia:WikiProject Ships/Articles cruiseships|cruiseship changes]]
+*[[Wikipedia:WikiProject Ships/Review|'''Review''']]:
+*:[[Wikipedia:WikiProject_Ships/Review#Peer review|Peer review]] • [[Wikipedia:WikiProject Ships/Review#A-Class review|A-class review]]
+}}
+<noinclude>
+[[Category:WikiProject Ships templates|Ships tasks]]
+[[Category:To-do list templates for WikiProjects]]
+</noinclude>

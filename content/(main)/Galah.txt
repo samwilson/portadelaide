@@ -1,0 +1,53 @@
+{{Taxobox 
+| status = LC
+| status_system = iucn3.1
+| image = Eolophus roseicapilla AF.jpg
+| image_width = 240px
+| image_caption = Male, in Tasmania, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Cockatoo Cacatuoidea]
+| familia = [https://en.wikipedia.org/wiki/Cockatoo Cacatuidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Cacatuinae Cacatuinae]
+| tribus = [https://en.wikipedia.org/wiki/Cacatuini Cacatuini]
+| genus = '''''Eolophus'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Charles_Lucien_Bonaparte Bonaparte], 1854
+| species = '''''E. roseicapilla'''''
+| binomial = ''Eolophus roseicapilla''
+| binomial_authority = [https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1817
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = ''E. r. roseicapilla''<br>
+''E. r. assimilis''<br>
+''E. r. kuhli''
+| range_map = Bird range galah.png
+| range_map_caption = Galah range (in red; all-year resident)
+| synonyms =
+''Cacatua roseicapilla'' {{Taxobox_authority | author = [https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot] | date = 1817}}
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Eolophus+roseicapillus ''Atlas of Living Australia'': Galah]
+* [http://birdlife.org.au/bird-profile/galah ''Birdlife Australia'': Galah]
+* [https://en.wikipedia.org/wiki/Galah ''Wikipedia'': Galah]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

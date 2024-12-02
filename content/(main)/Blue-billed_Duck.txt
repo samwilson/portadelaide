@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Blue-billed Duck
+| image = Blue-billed-duck.jpg 
+| image_width=240px
+| status = NT
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22679827 |title=''Oxyura australis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Oxyurinae Oxyurinae]
+| genus = ''[https://en.wikipedia.org/wiki/Oxyura Oxyura]''
+| species = '''''O. australis'''''
+| binomial = ''Oxyura australis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1836)
+| range_map = Oxyura australis distribution.svg
+| range_map_caption = Range of ''Oxyura australis''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Oxyura+australis ''Atlas of Living Australia'': Blue-billed Duck]
+* [http://birdlife.org.au/bird-profile/blue-billed-duck ''Birdlife Australia'': Blue-billed Duck]
+* [https://en.wikipedia.org/wiki/Blue-billed_duck ''Wikipedia'': Blue-billed duck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

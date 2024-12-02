@@ -1,0 +1,11 @@
+<!--{{Improve documentation}} begin -->{{Ombox
+| substcheck = <includeonly>{{subst:substcheck}}</includeonly>
+| type  = content
+| name  = Improve documentation
+| class = ambox-Refimprove
+| image = [[File:Question book-new.svg|50x40px|alt=|link=]]
+| text  = '''This {{#switch:{{NAMESPACE}}|Module=module|#default=template}}'s documentation is missing or does not accurately describe its functionality''' or the parameters in its code. Please help [{{fullurl:{{FULLPAGENAME}}{{#ifexist:{{FULLPAGENAME}}/doc|/doc}}|action=edit}} improve it]. {{#if:{{{talk|}}} |See [[{{TALKPAGENAME}}|talk page]] for details.|}} {{#if:{{{date|}}} |{{smaller|''({{{date}}})''}}}}
+}}<includeonly>{{Dated maintenance category|||Templates with incorrect documentation}}</includeonly><!--
+<!--{{Improve documentation}} end--><noinclude>
+{{Documentation}}
+</noinclude>

@@ -1,0 +1,50 @@
+{{Taxobox
+| name = Terek sandpiper
+| image = Xenus cinereus (Alnus).jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693251 |title=''Xenus cinereus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| subclassis = [https://en.wikipedia.org/wiki/Neornithes Neornithes]
+| infraclassis = [https://en.wikipedia.org/wiki/Neognathae Neognathae]
+| superordo = [https://en.wikipedia.org/wiki/Neoaves Neoaves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| subordo = Scolopaci<!-- monotypic - don't link -->
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = '''''Xenus '''''
+| genus_authority = [https://en.wikipedia.org/wiki/Johann_Jakob_Kaup Kaup], 1829
+| species = '''''X. cinereus'''''
+| binomial = ''Xenus cinereus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Anton_Güldenstädt Güldenstädt], 1775)
+| synonyms = 
+''Tringa cinerea''<br />
+''Tringa terek''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Xenus+cinereus ''Atlas of Living Australia'': Terek Sandpiper]
+* [http://birdlife.org.au/bird-profile/terek-sandpiper ''Birdlife Australia'': Terek Sandpiper]
+* [https://en.wikipedia.org/wiki/Terek_sandpiper ''Wikipedia'': Terek sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

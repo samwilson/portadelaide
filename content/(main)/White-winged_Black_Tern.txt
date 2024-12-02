@@ -1,0 +1,41 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694782 |title=''Chlidonias leucopterus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Chlidonias leucopterus Mai Po.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = ''[https://en.wikipedia.org/wiki/Chlidonias Chlidonias]''
+| species = '''''C. leucopterus'''''
+| binomial = ''Chlidonias leucopterus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Coenraad_Jacob_Temminck Temminck], 1815)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Chlidonias+(Chlidonias)+leucopterus ''Atlas of Living Australia'': White-winged Black Tern]
+* [http://birdlife.org.au/bird-profile/white-winged-black-tern ''Birdlife Australia'': White-winged Black Tern]
+* [https://en.wikipedia.org/wiki/White-winged_tern ''Wikipedia'': White-winged tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

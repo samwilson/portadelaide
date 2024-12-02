@@ -1,0 +1,13 @@
+Map of Port Adelaide, from Semaphore Road in the north, to Grand Junction Road. 
+
+Coords - From original file download, to 4 decimal places: 
+Top = -34.8371
+Bottom = -34.8572
+Left = 138.4914
+Right = 138.5179
+
+:"You are free to copy, distribute, transmit and adapt our data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same licence. The full legal code explains your rights and responsibilities.
+
+:"The cartography in our map tiles, and our documentation, are licensed under the Creative Commons Attribution-ShareAlike 2.0 license (CC BY-SA)."
+
+© [https://www.openstreetmap.org/ OpenStreetMap] contributors.

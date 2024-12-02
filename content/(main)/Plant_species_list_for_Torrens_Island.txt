@@ -1,0 +1,338 @@
+'''Source:''' 
+''Torrens Island Biodiversity Action Plan.'' Appendix 1: Plant species list. <ref>EAC – Ecological Evaluation Pty Ltd: ''Torrens Island Biodiversity Action Plan'', Adelaide & Mt Lofty Ranges Natural Resources Management Board, September 2013.</ref>
+
+The list reproduced below was compiled from several sources, including: 
+* BDBSA – Biological Database of South Australia – Torrens Island records;
+* AMWRO – AMWRRO Vegetation Survey in the area proposed for the Torrens Island Greenhouse Precinct, May 2005; 
+* EAC – Ecological Evaluation Pty Ltd, 2013.
+
+x = redlink or absent
+
+{| class="wikitable sortable"
+! WP article || Species Name|| Common Name || AUS || SA || SL 
+|-
+| [https://en.wikipedia.org/wiki/List_of_Acacia_species#Subgenus_Phyllodineae x] || ''Acacia cupularis'' || Cup Wattle ||  ||  || R
+|-
+| [https://en.wikipedia.org/wiki/Acacia_leiophylla Acacia leiophylla] || ''Acacia leiophylla'' || Coast Golden Wattle ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Acacia_ligulata Acacia ligulata] || ''Acacia ligulata'' || Umbrella Bush ||  ||  || K
+|-
+| [https://en.wikipedia.org/wiki/Acacia_sophorae Acacia sophorae] || ''Acacia longifolia'' ssp. ''sophorae'' || Coastal Wattle ||  ||  || N
+|-
+| [https://en.wikipedia.org/wiki/Acacia_pycnantha Acacia pycnantha] || ''Acacia pycnantha'' || Golden Wattle ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Adriana_quadripartita Adriana quadripartita] || ''Adriana quadripartita''|| Coast Bitter-bush  ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Allocasuarina_verticillata Allocasuarina verticillata] || ''Allocasuarina verticillata'' || Drooping Sheoak ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Angianthus x] || ''Angianthus preissianus'' || Salt Angianthus ||  ||  || R
+|-
+| [https://en.wikipedia.org/wiki/Apium_annuum Apium annuum] || ''Apium annuum'' || Annual Celery ||  ||  || R
+|-
+| [https://en.wikipedia.org/wiki/Atriplex_cinerea Atriplex cinerea] || ''Atriplex cinerea'' || Coast Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Atriplex_nummularia Atriplex nummularia] || ''Atriplex nummularia'' ssp. ''nummularia'' (planted) || Old-man Saltbush ||  ||  || T
+|-
+| [https://en.wikipedia.org/wiki/Atriplex_paludosa Atriplex paludosa] || ''Atriplex paludosa'' || Marsh Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Atriplex_paludosa x] || ''Atriplex paludosa'' ssp. ''cordata'' || Marsh Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Atriplex_semibaccata Atriplex semibaccata] || ''Atriplex semibaccata'' || Berry Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Atriplex_suberecta Atriplex suberecta] || ''Atriplex suberecta'' || Lagoon Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Austrodanthonia x] || ''Austrodanthonia pilosa'' || Velvet Wallaby-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Rytidosperma_setaceum Rytidosperma setaceum] || ''Austrodanthonia setacea'' || Small-flower Wallaby-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Austrodanthonia Austrodanthonia] || ''Austrodanthonia'' sp. || Spear-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Austrostipa Austrostipa] || ''Austrostipa drummondii'' || Cottony Spear-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Austrostipa Austrostipa] || ''Austrostipa nodosa'' || Tall Spear-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Austrostipa Austrostipa] || ''Austrostipa'' sp. || Spear-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Avicennia_marina Avicennia marina] || ''Avicennia marina'' ssp. ''marina'' || Grey Mangrove ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Bolboschoenus Bolboschoenus] || ''Bolboschoenus caldwellii'' || Salt Club-rush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Calandrinia_calyptrata Calandrinia calyptrata] || ''Calandrinia calyptrata'' || Pink Purslane ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Calandrinia Calandrinia] || ''Calandrinia eremaea'' || Dryland Purslane ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Callitris_preissii Callitris preissii] || ''Callitris gracilis'' || Southern Cypress Pine ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Carpobrotus_rossii Carpobrotus rossii] || ''Carpobrotus rossii'' || Native Pigface ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Centrolepis Centrolepis] || ''Centrolepis cephaloformis'' ssp. ''cephaloformis'' || Cushion Centrolepis ||  || R || K
+|-
+| [https://en.wikipedia.org/wiki/Centrolepis Centrolepis] || ''Centrolepis polygyna'' || Wiry Centrolepis ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Chloris_truncata Chloris truncata] || ''Chloris truncata'' || Windmill Grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Clematis_microphylla Clematis microphylla] || ''Clematis microphylla'' var. ''microphylla'' || Old Man's Beard  ||  ||  || 
+|-
+|  || ''Compositae'' sp. || Daisy Family ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Cotula_australis Cotula australis] || ''Cotula australis'' || Common Cotula ||  ||  || 
+|-
+| x || ''Crassula colligata'' ssp. ''colligata'' ||  ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Crassula_colorata Crassula colorata] || ''Crassula colorata'' || Dense Crassula ||  ||  || 
+|-
+| x || ''Crassula exserta'' || Large-fruit Crassula ||  || R || R
+|-
+| [https://en.wikipedia.org/wiki/Dianella_brevicaulis Dianella brevicaulis] || ''Dianella brevicaulis'' || Short-stem Flax-lily ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Disphyma_crassifolium_subsp._clavellatum Disphyma crassifolium subsp. clavellatum] || ''Disphyma crassifolium'' ssp. ''clavellatum'' || Round-leaf Pigface ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Distichlis_distichophylla Distichlis distichophylla] || ''Distichlis distichophylla'' || Emu Grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Dodonaea_viscosa Dodonaea viscosa] || ''Dodonaea viscosa'' || Sticky Hop-bush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Dodonaea_viscosa Dodonaea viscosa] || ''Dodonaea viscosa'' ssp. ''spatulata'' || Sticky Hop-bush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Enchylaena_tomentosa Enchylaena tomentosa] || ''Enchylaena tomentosa'' var. ''tomentosa'' || Ruby Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Enneapogon_nigricans Enneapogon nigricans] || ''Enneapogon nigricans'' || Black-head Grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Eucalyptus_leucoxylon Eucalyptus leucoxylon] || ''Eucalyptus leucoxylon'' ssp. ''leucoxylon'' (planted) || South Australian Blue Gum ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Frankenia_pauciflora Frankenia pauciflora] || ''Frankenia pauciflora'' || Southern Sea-heath ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Gahnia_filum Gahnia filum] || ''Gahnia filum'' || Thatching Grass ||  ||  || R
+|-
+| [https://en.wikipedia.org/wiki/Hemichroa_pentandra Hemichroa pentandra] || ''Hemichroa pentandra'' || Trailing Hemichroa ||  ||  || R
+|-
+| [https://en.wikipedia.org/wiki/Ficinia_nodosa Ficinia nodosa] || ''Ficinia nodosa'' || Knobby Club-rush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Kennedia_prostrata Kennedia prostrata] || ''Kennedia prostrata'' || Scarlet Runner ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Lawrencia Lawrencia] || ''Lawrencia squamata'' || Thorny Lawrencia ||  ||  || K
+|-
+| [https://en.wikipedia.org/wiki/Lepilaena Lepilaena] || ''Lepilaena cylindrocarpa'' || Long-fruit Water-mat ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Lotus_australis Lotus australis] || ''Lotus australis'' || Austral Trefoil ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Maireana Maireana] || ''Maireana oppositifolia'' || Salt Bluebush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Melaleuca_halmaturorum Melaleuca halmaturorum] || ''Melaleuca halmaturorum'' || [[Swamp Paperbark|Swamp Paper-bark]] ||  ||  || V
+|-
+| [https://en.wikipedia.org/wiki/Muehlenbeckia Muehlenbeckia] || ''Muehlenbeckia gunnii'' || Coastal Climbing Lignum ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Myoporum_insulare Myoporum insulare] || ''Myoporum insulare'' || Common Boobialla ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Nitraria_billardierei Nitraria billardierei] || ''Nitraria billardierei'' || Nitre-bush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Olearia_axillaris Olearia axillaris] || ''Olearia axillaris'' || Coast Daisy-bush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Pelargonium_australe Pelargonium australe] || ''Pelargonium australe'' || Australian Pelargonium ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Brassicaceae x] || ''Phlegmatospermum eremaeum'' || Spreading Cress ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Puccinellia x] || ''Puccinellia stricta'' var. ''stricta'' || Australian Saltmarsh-grass ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Chenopodium_candolleanum Chenopodium candolleanum] || ''Rhagodia candolleana'' ssp. ''candolleana'' || Sea-berry Saltbush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Samolus_repens Samolus repens] || ''Samolus repens'' || Creeping Brookweed ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Sarcocornia_quinqueflora Sarcocornia quinqueflora] || ''Sarcocornia quinqueflora'' || Beaded Samphire ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Sarcocornia Sarcocornia]  || ''Sarcocornia'' sp. ||  ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Senecio_glossanthus Senecio glossanthus] || ''Senecio glossanthus'' || Annual Groundsel ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/List_of_Senecio_species Senecio]  || ''Senecio spanomerus'' || Groundsel ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Sonchus Sonchus]  || ''Sonchus hydrophilus'' || Native Sow-thistle ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Spergularia Spergularia] || ''Spergularia marina'' || Salt Sand-spurrey ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Spinifex_sericeus Spinifex sericeus] || ''Spinifex hirsutus'' || Rolling Spinifex ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Sporobolus_virginicus Sporobolus virginicus] || ''Sporobolus virginicus'' || Salt Couch ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Suaeda_australis Suaeda australis] || ''Suaeda australis'' || Austral Seablite ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Tecticornia_arbuscula Tecticornia arbuscula] || ''Tecticornia arbuscula'' || Shrubby Samphire ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Tecticornia Tecticornia] || ''Tecticornia flabelliformis'' || Bead Samphire || V || V || 
+|-
+| [https://en.wikipedia.org/wiki/Tecticornia Tecticornia] || ''Tecticornia indica'' ssp.''bidens'' || Brown-head Samphire ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Tecticornia Tecticornia] || ''Tecticornia indica'' ssp. ''leiostachya'' || Brown-head Samphire ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Tecticornia_pergranulata Tecticornia pergranulata] || ''Tecticornia pergranulata'' ssp.''pergranulata'' || Black-head Samphire ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Tecticornia Tecticornia] || ''Tecticornia'' sp. || Samphire ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Threlkeldia_diffusa Threlkeldia diffusa] || ''Threlkeldia diffusa'' || Coast Bonefruit ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Typha_domingensis Typha domingensis] || ''Typha domingensis'' || Narrow-leaf Bulrush ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Vittadinia Vittadinia] || ''Vittadinia cuneata'' || Fuzzy New Holland Daisy ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Vittadinia Vittadinia] || ''Vittadinia'' sp. || New Holland Daisy ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Wahlenbergia Wahlenbergia] || ''Wahlenbergia communis'' || Tufted Bluebell ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Wahlenbergia Wahlenbergia] || ''Wahlenbergia littoricola'' || Coast Bluebell ||  ||  || R
+|-
+| [https://en.wikipedia.org/wiki/Wahlenbergia Wahlenbergia] || ''Wahlenbergia multicaulis'' || Tadgell’s Bluebell ||  ||  || 
+|-
+| [https://en.wikipedia.org/wiki/Wilsonia_humilis Wilsonia humilis] || ''Wilsonia humilis'' var. ''humilis'' || Silky Wilsonia ||  ||  || U
+|-
+| [https://en.wikipedia.org/wiki/Wilsonia_%28plant%29 Wilsonia] || ''Wilsonia rotundifolia'' || Round-leaf Wilsonia ||  ||  || V
+|-
+|}
+
+==Introduced species==
+
+{| class="wikitable sortable"
+! WP article || Species Name|| Common Name || 
+|-
+| [https://en.wikipedia.org/wiki/Ammophila_arenaria Ammophila arenaria] || ''Ammophila arenaria'' || Marram Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Arctotheca_calendula Arctotheca calendula] || ''Arctotheca calendula'' || Cape Weed ||  
+|-
+| [https://en.wikipedia.org/wiki/Asparagus_asparagoides Asparagus asparagoides] || ''Asparagus asparagoides'' || Bridal Creeper ||  
+|-
+| [https://en.wikipedia.org/wiki/Asphodelus_fistulosus Asphodelus fistulosus] || ''Asphodelus fistulosus'' || Onion Weed ||  
+|-
+| [https://en.wikipedia.org/wiki/Symphyotrichum_subulatum Symphyotrichum subulatum] || ''Aster subulatus'' || Aster-weed ||  
+|-
+| [https://en.wikipedia.org/wiki/Avena_barbata Avena barbata] || ''Avena barbata'' || Bearded Oat ||  
+|-
+| [https://en.wikipedia.org/wiki/Oat Avena sativa] || ''Avena sativa'' || Cultivated Oat ||  
+|-
+| [https://en.wikipedia.org/wiki/Brassica_tournefortii Brassica tournefortii] || ''Brassica tournefortii'' || Wild Turnip ||  
+|-
+| [https://en.wikipedia.org/wiki/Bromus_catharticus Bromus catharticus] || ''Bromus catharticus'' || Prairie Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Bromus_diandrus Bromus diandrus] || ''Bromus diandrus'' || Great Brome ||  
+|-
+| [https://en.wikipedia.org/wiki/Bromus_hordeaceus Bromus hordeaceus] || ''Bromus hordeaceus'' || Soft Brome ||  
+|-
+| [https://en.wikipedia.org/wiki/Bromus_madritensis Bromus madritensis] || ''Bromus madritensis'' || Compact Brome ||  
+|-
+| [https://en.wikipedia.org/wiki/Bromus_madritensis Bromus madritensis ssp rubens] || ''Bromus rubens'' || Red Brome ||  
+|-
+| [https://en.wikipedia.org/wiki/Cakile_maritima Cakile maritima] || ''Cakile maritima'' ssp. ''maritima'' || Two-horned Sea Rocket ||  
+|-
+| [https://en.wikipedia.org/wiki/Carpobrotus_chilensis Carpobrotus chilensis] || ''Carpobrotus chilensis'' || Angled Pigface ||  
+|-
+| [https://en.wikipedia.org/wiki/Carpobrotus_edulis Carpobrotus edulis] || ''Carpobrotus edulis'' || Hottentot Fig ||  
+|-
+| [https://en.wikipedia.org/wiki/Cerastium_glomeratum Cerastium glomeratum] || ''Cerastium glomeratum'' || Common Mouse-ear Chickweed ||  
+|-
+| [https://en.wikipedia.org/wiki/Chondrilla_juncea Chondrilla juncea] || ''Chondrilla juncea''  || Skeleton Weed ||  
+|-
+| [https://en.wikipedia.org/wiki/Erigeron_bonariensis Erigeron bonariensis] || ''Conyza bonariensis'' || Flax-leaf Fleabane ||  
+|-
+| [https://en.wikipedia.org/wiki/Cucumis_myriocarpus Cucumis myriocarpus] || ''Cucumis myriocarpus''  || Paddy Melon ||  
+|-
+| [https://en.wikipedia.org/wiki/Cynodon_dactylon Cynodon dactylon] || ''Cynodon dactylon'' || Couch ||  
+|-
+| [https://en.wikipedia.org/wiki/Digitaria_sanguinalis Digitaria sanguinalis] || ''Digitaria sanguinalis'' || Crab Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Dittrichia_graveolens Dittrichia graveolens] || ''Dittrichia graveolens'' || Stinkweed ||  
+|-
+| [https://en.wikipedia.org/wiki/Ecballium_elaterium Ecballium elaterium] || ''Ecballium elaterium'' || Squirting Cucumber ||  
+|-
+| [https://en.wikipedia.org/wiki/Ehrharta Ehrharta] || ''Ehrharta longiflora'' || Annual Veldt Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Ehrharta Ehrharta] || ''Ehrharta villosa'' var. ''maxima'' || Pyp Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Euphorbia_paralias Euphorbia paralias] || ''Euphorbia paralias'' || Sea Spurge ||  
+|-
+| [https://en.wikipedia.org/wiki/Euphorbia Euphorbia] || ''Euphorbia terracina'' || False Caper ||  
+|-
+| [https://en.wikipedia.org/wiki/Galenia_pubescens Galenia pubescens] || ''Galenia pubescens'' var. ''pubescens'' || Coastal Galenia ||  
+|-
+| [https://en.wikipedia.org/wiki/Galenia_secunda Galenia secunda] || ''Galenia secunda'' || Galenia ||  
+|-
+| [https://en.wikipedia.org/wiki/Gomphocarpus Gomphocarpus] || ''Gomphocarpus cancellatus'' || Broad-leaf Cotton-bush ||  
+|-
+| [https://en.wikipedia.org/wiki/Hypochaeris_glabra Hypochaeris glabra] || ''Hypochaeris glabra'' || Smooth Cat's Ear ||  
+|-
+| [https://en.wikipedia.org/wiki/Hypochaeris_radicata Hypochaeris radicata] || ''Hypochaeris radicata'' || Rough Cat's Ear ||  
+|-
+| [https://en.wikipedia.org/wiki/Ficinia Ficinia] || ''Ficinia marginata'' || Little Club-rush ||  
+|-
+| [https://en.wikipedia.org/wiki/Lagurus_ovatus Lagurus ovatus] || ''Lagurus ovatus'' || Hare's Tail Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Lamarckia Lamarckia aurea] || ''Lamarckia aurea'' || Toothbrush Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Leptospermum_laevigatum Leptospermum laevigatum] || ''Leptospermum laevigatum'' || Coast Tea-tree ||  
+|-
+| [https://en.wikipedia.org/wiki/Limonium Limonium] || ''Limonium companyonis'' || Sea-lavender ||  
+|-
+| [https://en.wikipedia.org/wiki/Lolium Lolium] || ''Lolium'' sp. || Ryegrass ||  
+|-
+| [https://en.wikipedia.org/wiki/Lycium_ferocissimum Lycium ferocissimum] || ''Lycium ferocissimum'' || African Boxthorn ||  
+|-
+| [https://en.wikipedia.org/wiki/Medicago Medicago] || ''Medicago'' sp. || Medic ||  
+|-
+| [https://en.wikipedia.org/wiki/Medicago_truncatula Medicago truncatula] || ''Medicago truncatula'' || Barrel Medic ||  
+|-
+| [https://en.wikipedia.org/wiki/Mesembryanthemum_crystallinum Mesembryanthemum crystallinum] || ''Mesembryanthemum crystallinum'' || Common Iceplant ||  
+|-
+| [https://en.wikipedia.org/wiki/Mesembryanthemum_nodiflorum Mesembryanthemum nodiflorum] || ''Mesembryanthemum nodiflorum'' || Slender Iceplant ||  
+|-
+| [https://en.wikipedia.org/wiki/Moenchia_erecta Moenchia erecta] || ''Moenchia erecta'' || Erect Chickweed ||  
+|-
+| [https://en.wikipedia.org/wiki/Moraea Moraea] || ''Moraea setifolia'' || Thread Iris ||  
+|-
+| [https://en.wikipedia.org/wiki/Nicotiana_glauca Nicotiana glauca] || ''Nicotiana glauca'' || Tree Tobacco ||  
+|-
+| [https://en.wikipedia.org/wiki/Oenothera Oenothera] || ''Oenothera stricta'' ssp. ''stricta'' || Common Evening Primrose ||  
+|-
+| [https://en.wikipedia.org/wiki/Opuntia_stricta Opuntia stricta] || ''Opuntia stricta'' || Erect Prickly Pear ||  
+|-
+| [https://en.wikipedia.org/wiki/Oxalis_pes-caprae Oxalis pes-caprae] || ''Oxalis pes-caprae'' || Soursob ||  
+|-
+| [https://en.wikipedia.org/wiki/Parapholis_incurva Parapholis incurva] || ''Parapholis incurva'' || Curly Ryegrass ||  
+|-
+| [https://en.wikipedia.org/wiki/Plantago_coronopus Plantago coronopus] || ''Plantago coronopus'' ssp. ''coronopus'' || Bucks-horn Plantain ||  
+|-
+| [https://en.wikipedia.org/wiki/Poa_annua Poa annua] || ''Poa annua'' || Winter Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Polypogon_maritimus Polypogon maritimus] || ''Polypogon maritimus'' || Coast Beard-grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Polypogon_monspeliensis Polypogon monspeliensis] || ''Polypogon monspeliensis'' || Annual Beard-grass ||  
+|-
+| [https://en.wikipedia.org/wiki/Reichardia Reichardia] || ''Reichardia tingitana'' || False Sowthistle ||  
+|-
+| [https://en.wikipedia.org/wiki/Rostraria_cristata Rostraria cristata] || ''Rostraria cristata'' || Annual Cat's-tail ||  
+|-
+| [https://en.wikipedia.org/wiki/Schinus_molle Schinus molle] || ''Schinus molle'' || Pepper-tree ||  
+|-
+| [https://en.wikipedia.org/wiki/Schismus_barbatus Schismus barbatus] || ''Schismus barbatus'' || Arabian Grass ||  
+|-
+| [https://en.wikipedia.org/wiki/List_of_Senecio_species Senecio] || ''Senecio pterophorus'' || African Daisy ||  
+|-
+| [https://en.wikipedia.org/wiki/Sonchus_asper Sonchus asper] || ''Sonchus asper'' || Rough Sow-thistle ||  
+|-
+| [https://en.wikipedia.org/wiki/Sonchus_oleraceus Sonchus oleraceus] || ''Sonchus oleraceus'' || Common Sow-thistle ||  
+|-
+| [https://en.wikipedia.org/wiki/Taraxacum_officinale Taraxacum officinale] || ''Taraxacum officinale'' || Dandelion ||  
+|-
+| [https://en.wikipedia.org/wiki/Trifolium_angustifolium Trifolium angustifolium] || ''Trifolium angustifolium'' || Narrow-leaf Clover ||  
+|-
+| [https://en.wikipedia.org/wiki/Trifolium_glomeratum Trifolium glomeratum] || ''Trifolium glomeratum'' || Cluster Clover ||  
+|-
+| [https://en.wikipedia.org/wiki/Clover Trifolium] || ''Trifolium suffocatum'' || Suffocated Clover ||  
+|-
+| [https://en.wikipedia.org/wiki/Urtica_urens Urtica urens] || ''Urtica urens'' || Small Nettle ||  
+|-
+| [https://en.wikipedia.org/wiki/Vulpia_bromoides Vulpia bromoides] || ''Vulpia bromoides'' || Squirrel-tail Fescue ||  
+|-
+| [https://en.wikipedia.org/wiki/Vulpia Vulpia] || ''Vulpia fasciculata'' || Sand Fescue ||  
+|-
+| [https://en.wikipedia.org/wiki/Vulpia_myuros Vulpia myuros] || ''Vulpia myuros'' f. myuros || Rat's-tail Fescue ||  
+|-
+|}
+
+==References==
+{{reflist}}

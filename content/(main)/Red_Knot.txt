@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Red knot
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22693363 |title=''Calidris canutus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Calidris canutus (summer).jpg
+| image_width = 240px
+| image_caption = ''Calidris canutus rufa'', breeding plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Calidrid Calidris]''
+| species = '''''C. canutus'''''
+| binomial = ''Calidris canutus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+| range_map = RedKnotMigration.svg
+| range_map_caption = Distribution and migration routes of the six subspecies of the red knot
+| synonyms =''Tringa canutus''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Calidris+(Calidris)+canutus ''Atlas of Living Australia'': Red Knot]
+* [http://birdlife.org.au/bird-profile/red-knot ''Birdlife Australia'': Red Knot]
+* [https://en.wikipedia.org/wiki/Red_knot ''Wikipedia'': Red knot]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

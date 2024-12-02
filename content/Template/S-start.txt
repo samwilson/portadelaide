@@ -1,0 +1,7 @@
+{| class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;{{#if:{{{noclear|}}}||clear:both;}}"<noinclude>
+|''Start of centred table''
+|}
+{{documentation}}
+{{/TemplateData}}
+<!--NB Add metadata to the /doc page linked above, not here; thanks!-->
+</noinclude>

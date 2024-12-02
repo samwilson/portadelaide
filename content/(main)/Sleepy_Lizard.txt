@@ -1,0 +1,41 @@
+{{Taxobox
+| name = Sleepy Lizard
+| image = Shingleback-sa.jpg
+| image_caption = Sleepy Lizard
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Sauria Sauria]
+| familia = [https://en.wikipedia.org/wiki/Scincidae Scincidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tiliqua Tiliqua]''
+| species = '''''T. rugosa'''''
+| binomial = ''Tiliqua rugosa''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Edward_Gray Gray], 1825)<ref>Gray, J.E. 1825. ''A synopsis of the genera of reptiles and Amphibia, with a description of some new species''. [https://en.wikipedia.org/wiki/Annals_of_Philosophy Annals of Philosophy], 10:193—217</ref>
+| synonyms = ''Trachydosaurus rugosus''
+<!--- | subdivision_ranks = [[Subspecies]]
+| subdivision = 4, see [[Subspecies|text]] --->
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Tiliqua+rugosa ''Atlas of Living Australia'': ''Tiliqua rugosa'']
+* [https://en.wikipedia.org/wiki/Tiliqua_rugosa ''Wikipedia'': ''Tiliqua rugosa]''
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

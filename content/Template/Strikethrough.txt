@@ -1,0 +1,4 @@
+<includeonly><s>{{{1}}}</s></includeonly><noinclude>
+<!-- Add categories to the /doc subpage; interwikis go to Wikidata. -->
+{{Documentation}}
+</noinclude>

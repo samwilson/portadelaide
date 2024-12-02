@@ -1,0 +1,6 @@
+<includeonly>{{#switch:{{PROTECTIONLEVEL:edit}}
+|autoconfirmed={{pp-meta|type=semi|small=yes|categories=no|icon-text=This soft redirect is semi protected.}} [[Category:Protected soft redirects]]
+|sysop={{pp-meta|type=full|small=yes|categories=no|icon-text=This soft redirect is fully protected.}} [[Category:Protected soft redirects]]
+}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

@@ -1,0 +1,64 @@
+{{Taxobox
+| name = Black-shouldered Kite
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22695033 |title=''Elanus axillaris'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = 17A1667-08-27 - B-sK, male, cropped.jpg
+| image_width = 240px
+| image_caption =Male, at the Torrens Island Quarantine Station, 2017
+| image2 = 17A1687-08-27 - B-sK, female, cropped.jpg
+| image2_width = 240px
+| image2_caption =Female, at the Torrens Island Quarantine Station, 2017
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Accipitriformes Accipitriformes]
+| familia = [https://en.wikipedia.org/wiki/Accipitridae Accipitridae]
+| genus = ''[https://en.wikipedia.org/wiki/Elanus Elanus]''
+| species = '''''E. axillaris'''''
+| binomial = ''Elanus axillaris''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+| range_map = Elanus_axillaris_distribution.svg
+| range_map_caption = Range of ''E. axillaris''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+*[[Bird species list for Patawalonga Creek|Patawalonga Creek]]
+*[[Bird species list for Torrens Island|Torrens Island]]
+
+[[File:Black-shouldered kites 2001-04-22.jpg|thumb|left|Patawalonga Creek, 2001]]
+[[File:Black-shouldered kites 2017-08-28.jpg|thumb|left|Female (perched) and male (feeding, presumably on a rat), Torrens Island, 2017]]
+
+
+<br clear=all />
+==Galleries==
+{{Gallery
+| title = Hovering at Patawalonga Creek
+| lines = 4
+|File:Black-shouldered Kite - Iome-1.JPG|alt1=|
+|File:Black-shouldered Kite - Iome-2.JPG|alt2=|
+|File:Black-shouldered Kite - Iome-3.JPG|alt3=|
+|File:Black-shouldered Kite - Iome-4.JPG|alt4=|
+}}
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Elanus+axillaris ''Atlas of Living Australia'': Black-shouldered Kite]
+* [http://birdlife.org.au/bird-profile/black-shouldered-kite ''Birdlife Australia'': Black-shouldered Kite]
+* [https://en.wikipedia.org/wiki/Black-shouldered_kite ''Wikipedia'': Black-shouldered kite]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

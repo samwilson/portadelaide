@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Common blackbird
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22708775 |title=''Turdus merula'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Common Blackbird.jpg
+| image_width = 240px
+| image_caption = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Thrush_(bird) Turdidae]
+| genus = ''[https://en.wikipedia.org/wiki/True thrush Turdus]''
+| species = '''''T. merula'''''
+| binomial = ''Turdus merula''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/10th_edition_of_Systema_Naturae 1758]
+| range_map = BlackBirdDistrib.svg
+| range_map_width = 
+| range_map_caption =
+}}
+An introduced species
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/urn%3Alsid%3Abiodiversity.org.au%3Aafd.taxon%3A826dfb92-f4d3-483e-a49f-c577434163dd ''Atlas of Living Australia'': Common Blackbird]
+* [http://birdlife.org.au/bird-profile/common-blackbird ''Birdlife Australia'': Common Blackbird]
+* [https://en.wikipedia.org/wiki/Common_blackbird ''Wikipedia'': Common blackbird]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Brown Quail
+| image = Coturnix ypsilophora - granite island 2.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22678965 |title=''Coturnix ypsilophora'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Galliformes Galliformes]
+| familia = [https://en.wikipedia.org/wiki/Phasianidae Phasianidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Perdicinae Perdicinae]
+| genus = ''[https://en.wikipedia.org/wiki/Coturnix Coturnix]''
+| species = '''''C. ypsilophora'''''
+| binomial = ''Coturnix ypsilophora''
+| binomial_authority = [https://en.wikipedia.org/wiki/Louis_Augustin_Guillaume_Bosc Bosc], 1792
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Coturnix+(Synoicus)+ypsilophora ''Atlas of Living Australia'': Brown Quail]
+* [http://birdlife.org.au/bird-profile/brown-quail ''Birdlife Australia'': Brown Quail]
+* [https://en.wikipedia.org/wiki/Brown_quail ''Wikipedia'': Brown quail]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

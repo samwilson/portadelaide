@@ -1,0 +1,67 @@
+{{DEFAULTSORT:Hurn, George }}
+
+{{Infobox military person AIF
+| honorific_prefix  = 
+| name              = George Sylvester Hurn	
+| honorific_suffix  = 
+| image         = Australian Army Rising Sun Badge 1904.png
+| image_size    = 
+| alt           = 
+| caption       = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name    = 
+| other_name    =
+| prior_occupation   = Striker<ref>A blacksmith's assistant who wields the sledgehammer.</ref>
+| birth_date    = 
+| birth_place   = Broken Hill, NSW
+| enlistment_date = 11 January 1915, <br /> aged 25 years, 2 months 
+| death_date    = 5 July 1918
+| death_place   = 
+| cause_of_death = Died of wounds
+| placeofburial_label = 
+| placeofburial = Longuenesse (St. Omer) Souvenir Cemetery (Plot V, Row C, No. 50)
+| placeofburial_coordinates = <!-- {{Coord|LAT|LONG|display=inline,title}} -->
+| religion      = Methodist
+| branch        = 
+| servicelength  = 3 years, 5 months, 26 days
+| rank          = Private
+| servicenumber = 1960
+| unit          = [https://en.wikipedia.org/wiki/10th_Battalion_(Australia) 10th Battalion],<br />[https://aif.adfa.edu.au/showUnit?unitCode=INF10REIN5 5th Reinforcement]
+| commands      = 
+| battles_label = 
+| battles       = 
+| awards        = Mention in Despatches
+| memorials     = {{Plainlist|* Australian War Memorial Roll of Honour, Panel number 59 
+* [[List of names on the Workers' Memorial, Port Adelaide|Workers' Memorial]]  }}
+| spouse        = 
+| next_of_kin   = Mrs M. Hurn (mother),<br />Sandhill Street, Peterhead, SA
+| relations     = 
+| laterwork     = 
+| signature     = 
+| signature_size =
+| signature_alt =
+| websites       = [https://www.awm.gov.au/people/rolls/R1630876/ AWM - Roll of Honour] <br />[https://aif.adfa.edu.au/showPerson?pid=147832 ADFA - The AIF Project] <br />[http://discoveringanzacs.naa.gov.au/browse/person/185696 NAA - Discovering Anzacs]
+| module        = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+
+==External links==
+
+===Contemporary press clippings:===
+'''Family Notices'''
+
+:<blockquote></blockquote>
+
+==References==
+
+{{reflist}}
+
+{{Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

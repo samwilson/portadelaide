@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Purple-gaped Honeyeater
+| image = Lichenostomus cratitius.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704079 |title=''Lichenostomus cratitius'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Lichenostomus Lichenostomus]''
+| species = '''''L. cratitius'''''
+| binomial = ''Lichenostomus cratitius''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1841)
+| synonyms = 
+| range_map = Purple-gaped Honeyeater.png
+| range_map_caption = Distribution of the Purple-gaped Honeyeater
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Lichenostomus+cratitius+occidentalis ''Atlas of Living Australia'': Purple-gaped Honeyeater]
+* ''Birdlife Australia'': Purple-gaped Honeyeater
+* [https://en.wikipedia.org/wiki/Purple-gaped_honeyeater ''Wikipedia'': Purple-gaped honeyeater]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

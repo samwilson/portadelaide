@@ -1,0 +1,43 @@
+{{Taxobox
+| name = White-plumed Honeyeater
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704097 |title=''Lichenostomus penicillatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = White-plumed honeyeater sundown08.jpg
+| image_width = 240px
+| image_caption=At Sundown National Park, Queensland, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Lichenostomus Lichenostomus]''
+| species = '''''L. penicillatus'''''
+| binomial = ''Lichenostomus penicillatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1837)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ptilotula+penicillatus ''Atlas of Living Australia'': White-plumed Honeyeater]
+* [http://birdlife.org.au/bird-profile/white-plumed-honeyeater ''Birdlife Australia'': White-plumed Honeyeater]
+* [https://en.wikipedia.org/wiki/White-plumed_honeyeater ''Wikipedia'': White-plumed honeyeater]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

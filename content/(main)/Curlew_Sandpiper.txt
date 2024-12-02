@@ -1,0 +1,46 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693431 |title=''Calidris ferruginea'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image    = Limicola_falcinelluas_-_Pak_Thale.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia  = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus    = ''[https://en.wikipedia.org/wiki/Calidris Calidris]''
+| species  = '''''C. ferruginea'''''
+| binomial = ''Calidris ferruginea''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Erik_Pontoppidan Pontoppidan], 1763)
+| synonyms =
+''Erolia ferruginea'' {{Taxobox_authority | author = [https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot] | date = 1816}}
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Calidris+(Erolia)+ferruginea ''Atlas of Living Australia'': Curlew Sandpiper]
+* [http://birdlife.org.au/bird-profile/curlew-sandpiper ''Birdlife Australia'': Curlew Sandpiper]
+* [https://en.wikipedia.org/wiki/Curlew_sandpiper ''Wikipedia'': Curlew sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

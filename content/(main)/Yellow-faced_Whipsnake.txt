@@ -1,0 +1,39 @@
+{{Taxobox
+| name = Yellow-faced Whip-Snake
+| image = Yellow-faced Whip-Snake kobble08.jpg
+| status = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| familia = [https://en.wikipedia.org/wiki/Elapidae Elapidae]
+| genus = ''[https://en.wikipedia.org/wiki/Demansia Demansia]''
+| species = '''''D. psammophis'''''
+| binomial = ''Demansia psammophis''
+| binomial_authority = 
+| synonyms = }}
+
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Demansia+psammophis ''Atlas of Living Australia'': ''Demansia psammophis'']
+* [https://en.wikipedia.org/wiki/Demansia_psammophis ''Wikipedia'': ''Demansia psammophis'']
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

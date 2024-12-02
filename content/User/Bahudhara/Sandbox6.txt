@@ -1,0 +1,22 @@
+{{Infobox company
+|name   = Penrice Soda Holdings
+|logo   = 
+|type   = [https://en.wikipedia.org/wiki/Public_company Public]
+|traded_as      = {{ASX|PSH}}
+|slogan = 
+|predecessor    = 
+|foundation     = 1935 
+|ceased     = 2014
+|location       = [https://en.wikipedia.org/wiki/Adelaide Adelaide]
+|key_people     = David Trebeck (Chairman)<br>Guy Roberts (Managing Director)
+|area_served    = [https://en.wikipedia.org/wiki/South_Australia South Australia]
+|locations      = [[Osborne, South Australia|Osborne]]<br>[https://en.wikipedia.org/wiki/Penrice,_South_Australia Penrice]
+|industry       = Mining
+|products       =  
+|revenue        = $137.2 million (June 2013)
+|net_income     = {{loss}} $21.4 million <br />(June 2013)
+|title = 
+|assets         = 
+|num_employees  = 174 (June 2013)
+| defunct       = {{end date|2014|07|31}}
+|homepage       = [http://web.archive.org/web/20140806094754/http://www.penrice.com.au/ www.penrice.com.au]}}

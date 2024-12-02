@@ -1,0 +1,49 @@
+{{Taxobox
+| image = Seidenreiher Little egret.jpg
+| image_width = 240px
+| image_caption = ''E. g. nigripes'' in breeding plumage, Taipei
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=62774969 |title=''Egretta garzetta'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2014.3 |year=2014 |accessdate=28 December 2014}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = ''[https://en.wikipedia.org/wiki/Egretta Egretta]''
+| species = '''''E. garzetta'''''
+| binomial = ''Egretta garzetta''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1766)
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision =
+''E. g. garzetta''<br />
+''E. g. immaculata''<br />
+''E. g. nigripes''
+| range_map = Egretta_garzetta_map.svg
+| range_map_caption = Range of ''E. garzetta'' {{leftlegend|#FFFF00|Breeding range|outline=gray}}{{leftlegend|#008000|Year-round range|outline=gray}}{{leftlegend|#0000FF|Wintering range|outline=gray}}
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Egretta+garzetta+nigripes ''Atlas of Living Australia'': Little Egret]
+* [http://birdlife.org.au/bird-profile/little-egret ''Birdlife Australia'': Little Egret]
+* [https://en.wikipedia.org/wiki/Little_egret ''Wikipedia'': Little egret]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

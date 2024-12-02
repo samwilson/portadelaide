@@ -1,0 +1,19 @@
+<noinclude>{{hatnote|This rcat template is automatically added to all new redirects that result from page moves; it must be added manually to older redirects when appropriate.}}{{This is a redirect/rcat}}
+</noinclude>{{#ifeq:{{{embed}}}|yes
+ |{{Redirect template
+  |name=From a page move
+  |from=a page that has been moved (renamed)
+  |info=This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.
+  |all category=Redirects from moves
+ }}
+ |{{Redirect template
+  |from=a page that has been '''[[:Category:Redirects from moves|moved (renamed)]]'''
+  |info=This page was kept as a redirect to avoid breaking links, both internal and external, that may have been made to the old page name.  For more information follow the category link.
+<includeonly>
+  |all category=Redirects from moves</includeonly>
+ }}
+}}<includeonly>{{#ifeq:{{FULLPAGENAME}}|MediaWiki:Move-redirect-text||[[Category:Redirects from moves]]}}</includeonly><noinclude>
+<!-- Categories are to be placed on the /doc subpage; interwikis go to Wikidata. -->
+{{Documentation}}
+<!-- This is template "R from move". -->
+</noinclude>

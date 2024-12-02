@@ -1,0 +1,41 @@
+{{Taxobox
+| name = White-browed Babbler
+| image = Pomatostomus superciliosus - Chiltern.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22704986 |title=''Pomatostomus superciliosus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pomatostomidae Pomatostomidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pomatostomus Pomatostomus]''
+| species = '''''P. superciliosus'''''
+| binomial = ''Pomatostomus superciliosus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] & Horsfield, 1827)
+| synonyms = }}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Pomatostomus+(Morganornis)+superciliosus ''Atlas of Living Australia'': White-browed Babbler]
+* [http://birdlife.org.au/bird-profile/white-browed-babbler ''Birdlife Australia'': White-browed Babbler]
+* [https://en.wikipedia.org/wiki/White-browed babbler ''Wikipedia'': White-browed babbler]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

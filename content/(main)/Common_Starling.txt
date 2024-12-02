@@ -1,0 +1,49 @@
+{{Taxobox
+| name = Common starling
+| image = Toulouse - Sturnus vulgaris - 2012-02-26 - 3.jpg
+| image_width = 240px
+| image_caption = 
+| image_alt = Common starling
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22710886 |title=''Sturnus vulgaris'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Sturnidae Sturnidae]
+| genus = ''[https://en.wikipedia.org/wiki/Sturnus Sturnus]''
+| species = '''''S. vulgaris'''''
+| binomial = ''Sturnus vulgaris''
+| binomial_authority = [https://en.wikipedia.org/wiki/Carl_Linnaeus Linnaeus], [https://en.wikipedia.org/wiki/Systema_Naturae 1758]
+| range_map = Sturnus vulgaris map.png
+| range_map_caption =
+'''Native:''' {{leftlegend|#FFF008| Summer visitor|outline=gray}} {{leftlegend|#008000| Resident |outline=gray}} {{leftlegend|#0080FF| Winter visitor|outline=gray}}'''Introduced:''' {{leftlegend|#FFFF80| Summer visitor|outline=gray}} {{leftlegend|#80FF80| Resident |outline=gray}}
+}}
+
+An introduced species
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Sturnus+(Sturnus)+vulgaris ''Atlas of Living Australia'': Common Starling]
+* [http://birdlife.org.au/bird-profile/common-starling ''Birdlife Australia'': Common Starling]
+* [https://en.wikipedia.org/wiki/Common_starling ''Wikipedia'': Common starling]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

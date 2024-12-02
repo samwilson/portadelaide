@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Golden-headed Cisticola
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22713544 |title=''Cisticola exilis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Cisticola_exilis.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Cisticolidae Cisticolidae]
+| genus = ''[https://en.wikipedia.org/wiki/Cisticola Cisticola]''
+| species = '''''C. exilis'''''
+| binomial = ''Cisticola exilis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] & [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cisticola+(Cisticola)+exilis ''Atlas of Living Australia'': Golden-headed Cisticola]
+* [http://birdlife.org.au/bird-profile/golden-headed-cisticola ''Birdlife Australia'': Golden-headed Cisticola]
+* [https://en.wikipedia.org/wiki/Golden-headed_cisticola ''Wikipedia'': Golden-headed cisticola]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

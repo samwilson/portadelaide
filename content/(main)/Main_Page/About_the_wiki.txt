@@ -1,0 +1,20 @@
+==MediaWiki versions==
+===Initial startup of the wiki===
+The wiki was created on a MediaWiki 1.23 platform on 17 May 2015, and later in 2015 upgraded to MediaWiki 1.23.11.
+
+===Upgrades===
+* MediaWiki 1.26.2 - 29 December 2016.
+
+==Hosting==
+The wiki was originally hosted on a commercial webserver in the U.S.A., but this proved to be too expensive.
+
+In July 2017 the wiki was migrated to a local, Adelaide-based server, hosted by the Australian Public Access Network Association Inc., ([http://adelaide.apana.org.au/ APANA]), a not-for-profit community group.
+
+==General information==
+Consult the [//meta.wikimedia.org/wiki/Help:Contents User's Guide] for information on using the wiki software.
+
+===Getting started===
+* [//www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]
+* [//www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
+* [//www.mediawiki.org/wiki/Localisation#Translation_resources Localise MediaWiki for your language]

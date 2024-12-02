@@ -1,0 +1,46 @@
+{{DEFAULTSORT:Tapping, Harold}}
+{{Infobox person
+| honorific_prefix   = 
+| name          = Harold L. Tapping
+| honorific_suffix   = MP
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 14 May 1901
+| birth_place   = 
+| death_date    = 6 September 1964 
+| death_place   = 
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+*  [http://www2.parliament.sa.gov.au/formermembers/Detail.aspx?pid=3991 ''SA Parliament'': Harold Tapping]
+* [https://en.wikipedia.org/wiki/Harold_Tapping ''Wikipedia'': Harold Tapping]
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

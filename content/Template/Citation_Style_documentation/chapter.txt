@@ -1,0 +1,13 @@
+* '''{{#switch:{{{title_title}}}
+| booktitle = booktitle
+| #default = chapter}}''': The chapter heading of the source. May be wikilinked or may use '''chapter-url''', but not both. {{#switch:{{BASEPAGENAME}}
+|Cite journal
+|Cite web
+|Cite news
+|Cite press release
+|Cite conference
+|Cite podcast = Not displayed even if set
+|#default = Displays in quotes}}.
+** '''trans-chapter''': English translation of the chapter heading, if the source cited is in a foreign language. Displays in square brackets after the '''{{#switch:{{{title_title}}}
+| booktitle = booktitle
+| #default = chapter}}''' field; if '''chapter-url''' is defined, then '''trans-chapter''' is included in the link. Use of the '''language''' parameter is recommended.

@@ -1,0 +1,48 @@
+{{Taxobox
+| image = Neophema elegans qtl1.jpg
+| image_width = 240px
+| image_caption=At Walsrode Bird Park, Germany
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22685197 |title=''Neophema elegans'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Psittaculinae Psittaculinae]
+| tribus = [https://en.wikipedia.org/wiki/Pezoporini Pezoporini]
+| genus = ''[https://en.wikipedia.org/wiki/Neophema Neophema]''
+| species = '''''N. elegans'''''
+| binomial = ''Neophema elegans''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1837)
+| synonyms = 
+| range_map = Elegant Parrot.png
+| range_map_caption = Distribution of the Elegant Parrot
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species//Neophema+(Neonanodes)+elegans ''Atlas of Living Australia'': Elegant Parrot]
+* [http://birdlife.org.au/bird-profile/elegant-parrot ''Birdlife Australia'': Elegant Parrot]
+* [https://en.wikipedia.org/wiki/Elegant_parrot ''Wikipedia'': Elegant parrot]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,20 @@
+{{ {{{|safesubst:}}}#invoke:Unsubst||$N=Expand section |date=__DATE__ |$B=
+<!--{{Expand section}} begin-->{{Ambox
+| name  = Expand section
+| subst = <includeonly>{{subst:substcheck}}</includeonly>
+| type  = content
+| small = {{{small|left}}}
+| image = [[File:Wiki letter w cropped.svg|20px|alt=&#91;icon&#93;]]
+| sect  = section
+| issue = requires [{{fullurl:{{FULLPAGENAME}}|action=edit}} expansion]{{#if:{{{with|{{{for|{{{1|}}}}}}}}}
+ | &#32;with: {{{with|{{{for|{{{1}}}}}}}}}
+}}.
+| talk  = {{{talk|{{{discuss|{{{talksection|}}}}}}}}}
+| all   = All articles to be expanded
+| cat   = Articles to be expanded
+| date  = {{{date|}}}
+}}<!--{{Expand section}} end-->
+}}<noinclude>
+{{Documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

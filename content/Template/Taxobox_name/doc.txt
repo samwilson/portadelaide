@@ -1,0 +1,46 @@
+{{documentation subpage}}
+<!-- EDIT TEMPLATE DOCUMENTATION BELOW THIS LINE -->
+Generates the "name" parameter for {{tl|Taxobox}}es, if unspecified.
+
+Pass the following parameters: <code><nowiki>{{Taxobox name|genus|species|binomial}}</nowiki></code>
+
+;Rationale: If any of the "genus", "species", or "binomial" parameters specified in the template EXACTLY MATCH the name of the page (with any bracketed appendices removed), AND the "name" parameter is unspecified, the page's name ''in italicised form'' will be adopted as the name for the taxobox and set as the displayed page title.
+
+==TemplateData==
+{{TemplateDataHeader}}
+<templatedata>
+{
+    "description": "Generates the 'name' parameter for Taxoboxes. Styles the page title in italics if one of the parameters match the pagename.",
+    "params": {
+        "1": {
+            "label": "genus",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "2": {
+            "label": "species",
+            "description": "",
+            "type": "string",
+            "required": true
+        },
+        "3": {
+            "label": "3",
+            "description": "binomial",
+            "type": "string",
+            "required": true
+        },
+        "4": {
+            "label": "4",
+            "description": "",
+            "type": "string",
+            "required": false
+        }
+    }
+}
+</templatedata>
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Taxobox templates]]
+}}</includeonly>

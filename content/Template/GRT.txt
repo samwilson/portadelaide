@@ -1,0 +1,14 @@
+<includeonly>{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}{{#if:{{{disp|}}}
+  |{{#switch:{{lc:{{{disp}}}}}
+     <!-- |short=&nbsp;[[Gross register tonnage|GRT]] -->
+     |long=&nbsp;{{#ifeq:{{{link|}}}|off|gross register tons&nbsp;(GRT)|[[Gross register tonnage{{!}}gross register tons&nbsp;(GRT)]]}}
+     |adj=-{{#ifeq:{{{link|}}}|off|gross register ton&nbsp;(GRT)|[[Gross register tonnage{{!}}gross register ton&nbsp;(GRT)]]}}
+     |#default=&nbsp;{{#ifeq:{{{link|}}}|off|GRT|[[Gross register tonnage{{!}}GRT]]}} {{red|1=&#32;<code>&#124;disp={{{disp}}}}}</code>
+     }}
+|&nbsp;{{#if:{{{first|}}}<!-- Deprecated parameter retained for legacy compatibility -->
+  |{{#switch:{{lc:{{{first|}}}}}
+     |short=[[Gross register tonnage|GRT]]
+     |off=gross register tons
+     |#default= [[Gross register tonnage|gross register tons&nbsp;(GRT)]]
+     }}
+|{{#ifeq:{{{link|}}}|off|GRT|[[Gross register tonnage{{!}}GRT]]}} }} }}</includeonly><noinclude>{{template doc}}</noinclude>

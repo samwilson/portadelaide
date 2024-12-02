@@ -1,0 +1,79 @@
+{{About|the island in South Australia|the associated locality|Torrens Island, South Australia}}
+{{Infobox islands
+| name = Torrens Island
+| native name      = <!-- or |local name= -->
+| native name link = Kaurna language
+| native_name_lang = Kaurna
+| image name       = 
+| image size       = 
+| image caption    = 
+| image alt        = 
+| map = Australia Greater Adelaide
+| map_caption = 
+| coordinates = {{coord|34|47.5|S|138|32|E|display=inline,title|region:AU_type:isle_source:GNS-enwiki}}
+| location         = [[Adelaide]]
+| country          = [[Australia]]
+| country admin divisions = [[South Australia]]
+| area km2         = <!-- or |area m2= or |area ha= -->
+| area footnotes   = 
+| length km        = <!-- or |length m=  -->
+| length footnotes = 
+| width km         = <!-- or |width m=  -->
+| width footnotes  =
+| coastline km     = <!-- or |coastline m=  -->
+| coastline footnotes = 
+| elevation m      = 
+| elevation footnotes = 
+| population       = 
+| population as of = 
+| population footnotes = 
+}}
+
+'''Torrens Island''' is an [[island]] in the Australian state of [[South Australia]] located in the [[Port River]] Estuary between the [[Port River]] and [[Barker Inlet]], about {{convert|15|km}} northwest of the state capital of [[Adelaide city centre|Adelaide]]. Since European settlement of [[Adelaide]] in 1836, it has been used for a number of purposes.
+
+== Quarantine Station ==
+{{main|Torrens Island Quarantine Station}}
+[[File:TIQS - Refshauge House, 2017-09-21.jpg|thumb|left|Refshauge House, built in 1916 and named for [[William Refshauge|Sir William Refshauge]], was the former administration building and dispensary at the Quarantine Station.]]
+Being uninhabited, an island, adjacent to [[Port Adelaide]], and near [[Outer Harbor, South Australia|Outer Harbor]], Torrens Island was initially used as the site of a Quarantine Station for new arrivals (by sea) to South Australia.<ref name="weekendnotes">D. Walsh:[http://www.weekendnotes.com/torrens-island-quarantine-station/ Torrens Island Quarantine Station] ''Weekendnotes'', 4 July 2013. Accessed 17 July 2013.</ref> One example of its use was during the so-called "[[Boonah crisis]]". 
+
+There were two quarantine stations on the site at different times; the surviving Torrens Island Quarantine Station is listed on the [[South Australian Heritage Register]].<ref>{{cite web | url=http://apps.planning.sa.gov.au/HeritageSearch/HeritageItem.aspx?p_heritageno=17297 | title=Torrens Island Quarantine Station (including Jetties, Cemetery, Mortuary & Complex) | publisher=Department of Environment, Water and Natural Resources | work=South Australian Heritage Register | accessdate=12 February 2016}}</ref>
+
+Tours of the heritage-listed Quarantine Station are conducted by the [[South Australian Maritime Museum]].<ref>[http://maritime.history.sa.gov.au/events/torrens-island-quarantine-station-tours-2018/ Torrens Island Quarantine Station tours] SA Maritime Museum. Retrieved 11 March 2018.</ref>
+
+==Internment Camp==
+{{main|Torrens Island Internment Camp}}
+
+The Torrens Island Internment Camp was a World War I detention camp which held up to 400 men of German or Austro-Hungarian background between 9 October 1914 and 16 August 1915.
+
+== Power Stations ==
+
+There are two power stations on Torrens Island: 
+*[[Torrens Island Power Station]], completed in 1967, and since 2007 operated by [[AGL Energy]]; capacity of 1,280 MW.<ref>[http://www.agl.com.au/Downloads/070703_AGL-takes-ownership-of-Torrens-Island-station_Investor-Relations_ASX-Release.pdf AGL takes ownership of Torrens Island power station] AGL press release to ASX, 3 July 2007. Accessed 17 July 2013.</ref>
+*[[Quarantine Power Station]], built and operated since 2002 by [[Origin Energy]]; original capacity 95 MW, expanded in 2009 to 216 MW.<ref>[http://www.originenergy.com.au/2074/Quarantine-Power-Station Origin Energy > Quarantine Power Station] Accessed 17 July 2013.</ref>
+
+==Protected areas==
+[[Protected areas]] associated with Torrens Island or the waters immediately adjoining its shores include the [[Torrens Island Conservation Park]], the [[Barker Inlet-St Kilda Aquatic Reserve]], the [[St Kilda – Chapman Creek Aquatic Reserve]], the [[Adelaide International Bird Sanctuary National Park—Winaityinaityi Pangkara|Adelaide International Bird Sanctuary National Park]], and the [[Adelaide Dolphin Sanctuary]].<ref>{{cite web|title=Press release: GREATER PROTECTION FOR TORRENS ISLAND|url=http://www.premier.sa.gov.au/images/news_releases/12_02Feb/Torrens_Island.pdf|publisher=Government of South Australia|accessdate=8 January 2014}}</ref>
+<ref>{{Citation | author1=Primary Industries and Regions South Australia (PIRSA)| title=Aquatic Reserve: Barker Inlet | publication-date=2007| publisher=Primary Industries and Regions South Australia| pages= |isbn=|url= http://www.pir.sa.gov.au/__data/assets/pdf_file/0005/65417/9._AqResWeb.pdf }}</ref><ref>{{Citation | author1=Primary Industries and Regions South Australia (PIRSA)| title=Aquatic Reserve: St Kilda – Chapman Creek | publication-date=2007| publisher=Primary Industries and Regions South Australia| pages= |isbn=|url= http://www.pir.sa.gov.au/__data/assets/pdf_file/0006/65418/St_Kilda-Chapman_Creek_Aquatic_Reserve.pdf}}</ref><ref>{{cite web|title=The Adelaide Dolphin Sanctuary|url=http://www.naturalresources.sa.gov.au/adelaidemtloftyranges/coast-and-marine/dolphin-sanctuary|publisher=Natural Resources Management  Adelaide and Mount Lofty Ranges|accessdate=5 October 2014}}</ref>
+
+==Gallery==
+<gallery class="center" widths="200px" heights="150px">
+Image:Torrens Island Power station from the river - portrait.jpg|The 1280MW [[Torrens Island Power Station]] from the [[Port River]], Adelaide, South Australia.
+Image:Quarantine Power Station Torrens island Adelaide.jpg|The 95MW Quarantine Power Station on Torrens Island, Adelaide, South Australia with the Port River in the foreground. This station lies between the old Quarantine Station and the larger Torrens Island Power Station.
+</gallery>
+
+==See also==
+*[[Torrens (disambiguation)]]
+*[[List of islands of Australia]]
+*[[List of power stations in South Australia]]
+
+==References==
+{{Commons category|Torrens Island}}
+{{Reflist}}
+
+{{Islands of South Australia |state=collapsed}}
+{{Port Adelaide landmarks}}
+
+{{DEFAULTSORT:Torrens Island}}
+[[Category:Islands of South Australia]]
+[[Category:Gulf St Vincent]]
+[[Category:History of Port Adelaide]]

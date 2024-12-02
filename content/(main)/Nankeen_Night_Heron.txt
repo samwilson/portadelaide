@@ -1,0 +1,52 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22697219 |title=''Nycticorax caledonicus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Nankeen_Night_Herons.jpg
+| image_width = 240px
+| image caption = Nankeen night heron visiting Melbourne Zoo
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = ''[https://en.wikipedia.org/wiki/Nycticorax Nycticorax]''
+| species = '''''N. caledonicus'''''
+| binomial = ''Nycticorax caledonicus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision = 
+* ''N. c. caledonicus'' {{Taxobox_authority | author = (Gmelin | date = 1789)}}<br/><small>New Caledonian nankeen night heron</small>
+* ''N. c. manillensis'' {{Taxobox_authority | author = [https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] | date = 1831}}<br/><small>Celebes sea nankeen night seron</small>
+* ''N. c. crassirostris'' {{Taxobox_authority | author = Vigors | date = 1839}}<br/><small>[https://en.wikipedia.org/wiki/Bonin_nankeen_night_heron Bonin nankeen night heron] ([https://en.wikipedia.org/wiki/extinct extinct])</small>
+* ''N. c. mandibularis'' {{Taxobox_authority | author = [https://en.wikipedia.org/wiki/William_Robert_Ogilvie-Grant Ogilvie-Grant] | date = 1888}}<br/><small>Solomon nankeen night heron</small>
+* ''N. c. hilli'' {{Taxobox_authority | author = [https://en.wikipedia.org/wiki/Gregory_Mathews Mathews] | date = 1912}}<br/><small>Common nankeen night heron</small>
+* ''N. c. pelewensis'' {{Taxobox_authority | author = Mathews | date = 1926}}<br/><small>Micronesian nankeen night heron</small>
+| synonyms =
+* ''Ardea caledonica''<br>{{Taxobox_authority | author = Gmelin | date = 1789}}
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Nycticorax+caledonicus ''Atlas of Living Australia'': Nankeen Night Heron]
+* [http://birdlife.org.au/bird-profile/nankeen-night-heron ''Birdlife Australia'': Nankeen Night Heron]
+* [https://en.wikipedia.org/wiki/Nankeen_night_heron ''Wikipedia'': Nankeen night heron]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

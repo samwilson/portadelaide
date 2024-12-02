@@ -1,0 +1,42 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693216 |title=''Tringa stagnatilis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Tringa stagnatilis 2 - Laem Pak Bia.jpg
+| image_width = 240px
+| image_caption = Winter plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tringa Tringa]''
+| species = '''''T. stagnatilis'''''
+| binomial = ''Tringa stagnatilis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Matthäus_Bechstein Bechstein], 1803)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Tringa+(Rhyacophilus)+stagnatilis ''Atlas of Living Australia'': Marsh Sandpiper]
+* [http://birdlife.org.au/bird-profile/marsh-sandpiper ''Birdlife Australia'': Marsh Sandpiper]
+* [https://en.wikipedia.org/wiki/Marsh_sandpiper ''Wikipedia'': Marsh sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

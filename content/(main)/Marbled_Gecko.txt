@@ -1,0 +1,38 @@
+{{Taxobox
+| name = Marbled Gecko
+| image = Christinus_marmoratus_(Marbled_Gecko).jpg
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| familia = [https://en.wikipedia.org/wiki/Gekkonidae Gekkonidae]
+| genus = ''[https://en.wikipedia.org/wiki/Christinus Christinus]''
+| species = '''''C. marmoratus'''''
+| binomial = ''Christinus marmoratus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Edward_Gray Gray], 1845)
+| synonyms = ''Phyllodactylus marmoratus''
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Christinus+marmoratus ''Atlas of Living Australia'': ''Christinus marmoratus'']
+* [https://en.wikipedia.org/wiki/Christinus_marmoratus ''Wikipedia'': ''Christinus marmoratus'']
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

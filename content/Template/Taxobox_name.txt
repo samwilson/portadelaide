@@ -1,0 +1,4 @@
+{{#switch:'''''{{PAGENAMEBASE}}'''''|{{{1}}}|'''{{1x|1={{{1}}} }}'''|{{{2}}}|'''{{1x|1={{{2}}} }}'''|{{{3}}}|'''{{1x|1={{{3}}} }}'''|'''{{{4}}}'''=''{{PAGENAMEBASE}}''{{italic title}}|{{#switch:'''''{{extinct}}{{PAGENAMEBASE}}'''''|{{{1}}}|'''{{1x|1={{{1}}} }}'''|{{{2}}}|'''{{1x|1={{{2}}} }}'''|{{{3}}}|'''{{1x|1={{{3}}} }}'''|'''{{{4}}}'''=''{{PAGENAMEBASE}}''{{italic title}}|{{#switch:'''''†{{PAGENAMEBASE}}'''''|{{{1}}}|'''{{1x|1={{{1}}} }}'''|{{{2}}}|'''{{1x|1={{{2}}} }}'''|{{{3}}}|'''{{1x|1={{{3}}} }}'''|'''{{{4}}}'''=''{{PAGENAMEBASE}}''{{italic title}}|{{PAGENAMEBASE}} }} }} }}<noinclude>
+{{Documentation}}
+<!--Please add this template's categories to the /doc subpage, not here - thanks!-->
+</noinclude>

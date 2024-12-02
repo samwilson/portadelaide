@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Black-tailed Native-hen
+| image = Tribonyx ventralis South Australia 1.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22692893 |title=''Gallinula ventralis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Gruiformes Gruiformes]
+| familia = [https://en.wikipedia.org/wiki/Rallidae Rallidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tribonyx Tribonyx]''
+| species = ''T. ventralis''
+| binomial = ''Tribonyx ventralis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1837)
+| range_map = Gallinula_ventralis_range.png
+| range_map_caption = Range in green
+| synonyms = ''Gallinula ventralis''
+| subdivision_ranks =
+| subdivision =
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Tribonyx+ventralis ''Atlas of Living Australia'': Black-tailed Native-hen]
+* [http://birdlife.org.au/bird-profile/black-tailed-native-hen ''Birdlife Australia'': Black-tailed Native-hen]
+* [https://en.wikipedia.org/wiki/Black-tailed_nativehen ''Wikipedia'': Black-tailed nativehen]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

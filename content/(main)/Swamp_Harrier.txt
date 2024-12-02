@@ -1,0 +1,45 @@
+{{Taxobox
+| name = Swamp Harrier
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22695363 |title=''Circus approximans'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Circus approximans -New Zealand -with dead hare-8 (2).jpg
+| image_width = 240px
+| image_caption = Adult female Swamp Harrier with a hare
+| image2 = 
+| image2_caption = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Accipitriformes Accipitriformes]
+| familia = [https://en.wikipedia.org/wiki/Accipitridae Accipitridae]
+| genus = ''[https://en.wikipedia.org/wiki/Circus_(genus) Circus]''
+| species = '''''C. approximans'''''
+| binomial = ''Circus approximans''
+| binomial_authority = [https://en.wikipedia.org/wiki/Titian_Peale Peale], 1848
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Circus+approximans ''Atlas of Living Australia'': Swamp Harrier]
+* [http://birdlife.org.au/bird-profile/swamp-harrier ''Birdlife Australia'': Swamp Harrier]
+* [https://en.wikipedia.org/wiki/Swamp_harrier ''Wikipedia'': Swamp harrier]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

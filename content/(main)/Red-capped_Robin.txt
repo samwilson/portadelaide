@@ -1,0 +1,49 @@
+{{Taxobox
+| name = Red-capped Robin
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704816 |title=''Petroica goodenovii'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Petroica goodenovii - Chiltern.jpg
+| image_width = 240px
+| image_caption = Adult male, Victoria
+| image_alt = A small bird with black head and upperparts and a red cap and breast perched on a stick against a sky background
+| regnum = [[Animal]]ia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Petroicidae Petroicidae]
+| genus = ''[https://en.wikipedia.org/wiki/Petroica Petroica]''
+| species = '''''P. goodenovii '''''
+| binomial = ''Petroica goodenovii ''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors]  & [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827)
+| range_map = Red capped robin rng gnangarra.png
+| range_map_width =
+| range_map_caption = Red-capped Robin range
+| range_map_alt = A map of Australia, showing the range of the Red-capped Robin – most of southern Australia except Tasmania is marked in red. 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Petroica+(Petroica)+goodenovii ''Atlas of Living Australia'': Red-capped Robin]
+* [http://birdlife.org.au/bird-profile/red-capped-robin ''Birdlife Australia'': Red-capped Robin]
+* [https://en.wikipedia.org/wiki/Red-capped_robin ''Wikipedia'': Red-capped robin]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

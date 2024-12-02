@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Whimbrel
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693178 |title=''Numenius phaeopus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Whimbrel Numenius phaeopus.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Curlew Numenius]''
+| species = '''''N. phaeopus'''''
+| binomial = ''Numenius phaeopus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Numenius+(Phaeopus)+phaeopus ''Atlas of Living Australia'': Whimbrel]
+* [http://birdlife.org.au/bird-profile/whimbrel ''Birdlife Australia'': Whimbrel]
+* [https://en.wikipedia.org/wiki/Whimbrel ''Wikipedia'': Whimbrel]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

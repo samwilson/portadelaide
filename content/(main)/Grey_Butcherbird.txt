@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Grey Butcherbird
+| image = Cracticus torquatus -Brisbane -garden fence-8.jpg
+| image_width = 240px
+| image_caption = Two perching on a garden fence in Brisbane, Australia
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22706273 |title=''Cracticus torquatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Artamidae Artamidae]
+| genus = ''[https://en.wikipedia.org/wiki/Cracticus Cracticus]''
+| species = '''''C. torquatus'''''
+| binomial = ''Cracticus torquatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cracticus+torquatus ''Atlas of Living Australia'': Grey Butcherbird]
+* [http://birdlife.org.au/bird-profile/grey-butcherbird ''Birdlife Australia'': Grey Butcherbird]
+* [https://en.wikipedia.org/wiki/Grey_butcherbird ''Wikipedia'': Grey butcherbird]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

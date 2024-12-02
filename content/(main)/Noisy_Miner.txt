@@ -1,0 +1,62 @@
+{{Taxobox
+| name = Noisy Miner
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22704433 |title=''Manorina melanocephala'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Manorina melanocephala AF.jpg
+| image_width = 240px
+| image_caption = subsp. ''leachi''
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Passeriformes Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Honeyeater Meliphagidae]
+| genus = ''[https://en.wikipedia.org/wiki/Manorina Manorina]''
+| species = '''''M. melanocephala'''''
+| binomial = ''Manorina melanocephala''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802
+| range_map=Manorinamelanocephalarge.png
+| range_map_width =
+| range_map_caption=Noisy Miner range<br>
+{{leftlegend|#B69E5C|ssp. ''titaniota''|outline=gray}}
+{{leftlegend|#98D674|ssp. ''lepidota''|outline=gray}}
+{{leftlegend|#5D75E2|ssp. ''melanocephala''|outline=gray}}
+{{leftlegend|#955BE4|ssp. ''leachi''|outline=gray}}
+{{leftlegend|#D2D675|intermediate zone|outline=gray}}
+{{leftlegend|#5FBBB2|intermediate zone|outline=gray}}
+| synonyms = 
+*''Gracula melanocephala'' <small>Latham, 1802</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==Gallery==
+{{Gallery
+|title=Noisy Miner harassing a White-faced Heron
+|align=center
+|File: Noisy Miner harassing a White-faced Heron, 2016.JPG |alt1= |
+|File: Noisy Miner harassing a White-faced Heron 2, 2016.JPG |alt2= |
+}}
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Manorina+(Myzantha)+melanocephala ''Atlas of Living Australia'': Noisy Miner]
+* [http://birdlife.org.au/bird-profile/noisy-miner ''Birdlife Australia'': Noisy Miner]
+* [https://en.wikipedia.org/wiki/Noisy_miner ''Wikipedia'': Noisy miner]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

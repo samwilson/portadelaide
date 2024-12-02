@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Bougainville's Skink
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Sauria Sauria]
+| infraordo = [https://en.wikipedia.org/wiki/Scincomorpha Scincomorpha]
+| familia = [https://en.wikipedia.org/wiki/Scincidae Scincidae]
+| genus = ''[https://en.wikipedia.org/wiki/Lerista Lerista]''
+| species = '''''L. bougainvillii'''''
+| binomial = ''Lerista bougainvillii''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Edward_Gray Gray], 1839)
+| synonyms = *''Riopa Brougainvillii'' [sic] <small>Gray, 1839</small>
+*''Lygosoma bougainvillii'' <small>— [https://en.wikipedia.org/wiki/André_Marie_Constant_Duméril A.M.C. Duméril] & [https://en.wikipedia.org/wiki/Gabriel_Bibron Bibron], 1839</small>
+*''Rhodona bougainvillii'' <br><small>— [https://en.wikipedia.org/wiki/Malcolm_Arthur_Smith M.A. Smith], 1937</small>
+*''Nodorha bougainvillii'' <br><small>— [https://en.wikipedia.org/wiki/Myron_Budd_Mittleman Mittleman], 1952</small>
+*''Lerista bougainvillii'' <br><small>— [https://fr.wikipedia.org/wiki/Allen_Eddy_Greer Greer], 1967</small><ref name="RDB">The Reptile Database. www.reptile-database.org.</ref>
+}}
+
+
+
+Bougainville’s Skink, also commonly called the South-eastern Slider
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Lerista+bougainvillii ''Atlas of Living Australia'': ''Lerista bougainvillii'']
+* [https://en.wikipedia.org/wiki/Bougainville's_skink ''Wikipedia'': Bougainville's skink]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

@@ -1,0 +1,46 @@
+{{Taxobox
+| image = Calidris ruficollis - Marion Bay.jpg
+| image_width = 240px
+| image_caption = Winter plumage
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693383 |title=''Calidris ruficollis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Calidris Calidris]''
+| species = '''''C. ruficollis'''''
+| binomial = ''Calidris ruficollis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Peter_Simon_Pallas Pallas], 1776)
+| synonyms =
+''Erolia ruficollis''
+| range_map = Red-necked Stint.jpg
+| range_map_caption = The Distribution of the Red-necked Stint <br /> Red Broken Lines = Estimated Range <br /> Green = Breeding Range <br /> Blue = Wintering Range
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Calidris+(Ereunetes)+ruficollis ''Atlas of Living Australia'': Red-necked Stint]
+* [http://birdlife.org.au/bird-profile/red-necked-stint ''Birdlife Australia'': Red-necked Stint]
+* [https://en.wikipedia.org/wiki/Red-necked_stint ''Wikipedia'': Red-necked stint]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

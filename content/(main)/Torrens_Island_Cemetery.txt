@@ -1,0 +1,47 @@
+
+
+==Burials in the cemetery==
+According to the TIQS Conservation Management Plan<ref>[https://www.dropbox.com/s/cau6ps5yzry1alq/150805%20TIQS_Volume_2_Final%20screen%2072dpi.pdf?dl=0 TIQS Conservation Management Plan, Vol. 2] Habitable Places, 2014. Pp.240-41. via Dropbox</ref>
+, this is the list of known burials in the cemetery:
+
+{| class="wikitable sortable"
+! Name & Age || Rank / Class || Ship / Hospital || Died/ Buried || Cause of death || Grave marker location || Grave location on Wilson’s cemetery plan || Register of Graves/ TIQS Visitors Book ||  Register of Deaths Geneology SA
+|-
+| Mr. Thomas Hunter <br />Age unknown || Third class passenger || ''[[Preussen]]'' || 9.1.1887 Isolation Hospital 9.1.1887 || Smallpox || – || Possibly ‘no record’ for Grave No.8 || No.1 has ‘no record’ in Register of Graves || Not recorded 
+|-
+| C.W. Wright <br />Age unknown || Possibly a child || Unknown || 8.5.1887 Burial not recorded || Unknown  || – || Grave No.7 || No.2 in Register || Not recorded
+|- 
+| Master David Noble <br />Aged 3 <br />Possible burial || Son of Allen Noble, Allensford, Victoria || Unknown || 19.12.1887 Burial not recorded || Measles and diphtheria || – || Not on the plan || Not recorded || Recorded – Port Adelaide / Torrens Island 
+|-
+| Rev. Alexander Still <br />Aged 27 || Church of England from India || British-India Steamer ''[[Warora]]'' || 30.5.1892 Isolation Hospital 30.5.1892 || Pulmonary TB following malaria || SAMM / Artlab || Grave No.1 Date of death on plan incorrectly shown as 30.05.1898 || No.5 in Register || Recorded – Port Adelaide / Torrens Island 
+|-
+| Mr. Frederick Charles Smith <br />Aged 47 || 3rd class passenger || SS ''[[SS Lusitania (1871)|Lusitania]]'' || 21.7.1895 Isolation Hospital 22.7.1895 || Smallpox  || SAMM || Grave No.9 Date of death on plan incorrectly shown as 21.07.1885 || No.3 in Register || Not recorded
+|-
+| Mr. Mohammed Abbas <br />Aged 45 || Lascar sailor || French mail steamer ''[[Caledonien]]'' || 12.2.1898 Isolation Hospital 12.2.1898 || Smallpox || – || Not on the plan || Not in Register or Visitors Book || Recorded – Port Adelaide / Torrens Island
+|-
+| Mr. William Eppstein [Appstein / Epperstean / Apperstein or Efferstean] <br />Aged 18 || German sailor deserted from ''[[Formosa]]'' two months before hospitalisation || Adelaide Hospital || 12.1.1900 13.1.1900 || Plague || – || Not on the plan || Not in Register No.1 in Visitors Book || Recorded – Adelaide with name Eppstein 
+|-
+| Mr. Joseph Rilstone Grubb <br />Age unknown || From Tasmania by ship then overland from Melbourne || Adelaide Hospital || 18.3.1900 18.3.1900 || Plague || – || Not on the plan ||  Not in Register No.2 in Visitors Book || Recorded – Adelaide
+|-     
+| Master George Payne <br />Aged 17 || Richmond, South Australia || Adelaide Hospital || 10.6.1900 10.6.1900 || Plague || – || Not on the plan  || Not in Register No.3 in Visitors Book || Recorded – Adelaide
+|-
+| Mr. John O’Sullivan <br />Aged 75 || Prospect, South Australia || Adelaide Hospital  || 12.6.1900 12.6.1900 || Plague || – || Not on the plan || Not in Register No.4 in Visitors Book || Recorded – Adelaide
+|-
+| Mr. David Berry Aged 47 || 2nd class passenger || ''[[Ormuz]]'' || 12.6.1901 12.6.1901 || Smallpox || – || Not on the plan || Not in Register No.5 in Visitors Book || Recorded – Port Adelaide. <br />Also recorded as David Bury
+|-
+| Mr. George Harold Mundy <br />Age unknown || Carpenter & Munitions worker || [[Wikipedia:SS City of Cairo|SS ''City of Cairo'']] ||  Died at sea 21.3.1919 || Spanish Influenza || NMA || Grave No.5 || No.9 in Register || Recorded – Port Adelaide
+|-
+| Mr. Robert Earnshaw <br />Age unknown || Second Engineer Officer || [[Wikipedia:HMS Manica|HMS ''Manica'']] || 7.4.1919 Burial not recorded || Heart failure following Spanish Influenza || NMA || Grave No.3 || No.7 in Register || Recorded – Port Adelaide
+|-
+| Mr. Albert E Carter <br />Aged 32 || First Cook || [[Wikipedia:SS Saros|SS ''Saros'']] || 8.6.1919 Burial not recorded || Spanish Influenza || SAMM || Grave No.2 || No.6 in Register || Recorded – Port Adelaide
+|-         
+| Mr. L.D. Dickenson <br />Aged 29 || Chief Steward || [[SS Coolcha|SS ''Coolcha'']] || 24.6.1919 Burial not recorded || Spanish Influenza || SAMM || Grave No.6 ||  No.4 in Register || Not recorded
+|-
+| Mr. John Lawrence Morrison <br />Aged 34 || Able Seaman || SS ''Coolcha'' || 26.6.1919 Burial not recorded || Spanish Influenza || NMA || Grave No.4 || No.8 in Register || Not recorded
+|-
+| Mr. Sadoo Meah <br />Aged 24 || Coal Trimmer || [[SS Nowsherd|SS ''Nowsherd'']] || 28.2.1932 Burial not recorded || Lepreseia (leprosy} || – || Not on the plan || No.10 in Register || Recorded – Port Adelaide / Torrens Island
+|-
+|}
+
+==References==
+{{reflist}}

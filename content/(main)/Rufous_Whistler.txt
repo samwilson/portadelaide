@@ -1,0 +1,43 @@
+{{Taxobox
+| name = 
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22705537 |title=''Pachycephala rufiventris'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Rufous whistler.jpg
+| image_width = 240px
+| image_caption = Male
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pachycephalidae Pachycephalidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pachycephala Pachycephala]''
+| species = ''P. rufiventris''
+| binomial = ''Pachycephala rufiventris''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Pachycephala+(Alisterornis)+rufiventris ''Atlas of Living Australia'': Rufous Whistler]
+* [http://birdlife.org.au/bird-profile/rufous-whistler ''Birdlife Australia'': Rufous Whistler]
+* [https://en.wikipedia.org/wiki/Rufous_whistler ''Wikipedia'': Rufous whistler]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

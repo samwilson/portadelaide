@@ -1,0 +1,46 @@
+{{Taxobox
+| image = Little_Eagle.jpg
+| image_width = 240px
+| image_caption = Little Eagle by the Murray River, South Australia
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22734332 |title=''Hieraaetus morphnoides'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2013 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Falconiformes Falconiformes]]<br>(or [https://en.wikipedia.org/wiki/Accipitriformes Accipitriformes], q.v.)
+| familia = [https://en.wikipedia.org/wiki/Accipitridae Accipitridae]
+| genus = ''[https://en.wikipedia.org/wiki/Hieraaetus Hieraaetus]''
+| species = '''''H. morphnoides'''''
+| binomial = ''Hieraaetus morphnoides''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1841)
+| synonyms=
+*''Aquila morphnoides''
+| range_map = Hieraaetus morphnoides distribution map.png
+| range_map_caption = Little Eagle range in red <br />([https://en.wikipedia.org/wiki/pygmy_eagle Pygmy Eagle] range in green)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Hieraaetus+(Hieraaetus)+morphnoides ''Atlas of Living Australia'': Little Eagle]
+* [http://birdlife.org.au/bird-profile/little-eagle ''Birdlife Australia'': Little Eagle]
+* [https://en.wikipedia.org/wiki/Little_eagle ''Wikipedia'': Little eagle]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

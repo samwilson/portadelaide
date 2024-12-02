@@ -1,0 +1,45 @@
+{{Taxobox
+| name               = Eastern Bearded Dragon
+| image              = Eastern-Bearded-Dragon-2.2,-Vic,-3.1.2008.jpg
+| image_caption      = The Eastern Bearded Dragon, ''Pogona barbata''
+| image_width        = 250px
+|status = LC
+|status_system = IUCN3.1
+|status_ref =<ref name=IUCN>Hutchinson, M. (2010). [http://www.iucnredlist.org/details/170419/0 ''Pogona barbata'']. The IUCN Red List of Threatened Species. Version 2014.2.</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo            = [https://en.wikipedia.org/wiki/Lizard Lacertilia]
+| familia            = [https://en.wikipedia.org/wiki/Agamidae Agamidae]
+| subfamilia         = [https://en.wikipedia.org/wiki/Agaminae Agaminae]
+| genus              = ''[https://en.wikipedia.org/wiki/Pogona Pogona]''
+| species            = '''''P. barbata'''''
+| binomial           = ''Pogona barbata''
+| binomial_authority = [https://en.wikipedia.org/wiki/Georges_Cuvier Cuvier], 1829
+| range_map          = Pogona barbata distribution.png
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Pogona+barbata ''Atlas of Living Australia'': ''Pogona barbata'']
+* [https://en.wikipedia.org/wiki/Eastern_bearded_dragon ''Wikipedia'': Eastern bearded dragon]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

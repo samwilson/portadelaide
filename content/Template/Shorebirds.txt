@@ -1,0 +1,53 @@
+
+{{Navbox
+|name       = Shorebirds
+|title      = Shorebirds of Gulf St Vincent
+|listclass  = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1     = Migratory shorebirds
+|list1      =
+* [[Bar-tailed Godwit]]
+* [[Black-tailed Godwit]]
+* [[Broad-billed Sandpiper]]
+* [[Common Greenshank]]
+* [[Common Sandpiper]]
+* [[Curlew Sandpiper]]
+* [[Double-banded Plover]]
+* [[Eastern Curlew]]
+* [[Great Knot]]
+* [[Greater Sand Plover]]
+* [[Grey Plover]]
+* [[Grey-tailed Tattler]]
+* [[Latham's Snipe]]
+* [[Lesser Sand Plover]]
+* [[Little Curlew]]
+* [[Long-toed Stint]]
+* [[Marsh Sandpiper]]
+* [[Pacific Golden Plover]]
+* [[Pectoral Sandpiper]]
+* [[Red Knot]]
+* [[Red-necked Stint]]
+* [[Ruddy Turnstone]]
+* [[Ruff]]
+* [[Sharp-tailed Sandpiper]]
+* [[Terek Sandpiper]]
+* [[Whimbrel]]
+* [[Wood Sandpiper]]
+
+|group2     = Resident and nomadic <br />shorebirds
+|list2      =
+* [[Australian Painted Snipe]]
+* [[Australian Pratincole]]
+* [[Banded Lapwing]]
+* [[Banded Stilt]]
+* [[Black-fronted Dotterel]]
+* [[Black-winged Stilt]]
+* [[Inland Dotterel]]
+* [[Masked Lapwing]]
+* [[Pied Oystercatcher]]
+* [[Red-capped Plover]]
+* [[Red-kneed Dotterel]]
+* [[Red-necked Avocet]]
+* [[Sooty Oystercatcher]]
+}}

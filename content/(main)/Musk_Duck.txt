@@ -1,0 +1,47 @@
+{{Taxobox
+| name               = Musk Duck
+| image              = Biziura lobata - Sandford.jpg
+| image_width        = 240px
+| image_caption      = Female
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22679830 |title=''Biziura lobata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia         = [https://en.wikipedia.org/wiki/Oxyurinae Oxyurinae] <small>(but see [https://en.wikipedia.org/wiki/Musk_duck#Systematics text])</small>
+| genus              = ''[https://en.wikipedia.org/wiki/Biziura Biziura]''
+| genus_authority    = [https://en.wikipedia.org/wiki/James_Francis_Stephens Stephens], 1824
+| species            = '''''B. lobata'''''
+| binomial           = ''Biziura lobata''
+| binomial_authority = ([https://en.wikipedia.org/wiki/George_Shaw Shaw], 1796)
+| range_map          = Musk Duck.png
+| range_map_caption  = Distribution of the Musk Duck
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Biziura+lobata ''Atlas of Living Australia'': Musk Duck]
+* [http://birdlife.org.au/bird-profile/musk-duck ''Birdlife Australia'': Musk Duck]
+* [https://en.wikipedia.org/wiki/Musk_duck ''Wikipedia'': Musk duck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

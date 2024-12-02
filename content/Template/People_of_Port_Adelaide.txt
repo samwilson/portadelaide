@@ -1,0 +1,20 @@
+{{Navbox
+|name       = People of Port Adelaide
+|title      = People of Port Adelaide
+|listclass  = hlist
+|above      = 
+
+|group1     = Lists of names
+|list1      = 
+* [[List of Mayors of Port Adelaide|Mayors of Port Adelaide]]
+* [[List of names on the Workers' Memorial, Port Adelaide|Workers' Memorial]]
+* [[List of names on the WWI Honour Roll, St Alban's, Largs Bay|WWI Memorial, St Alban's]]
+* [[List of names on the WWI Memorial, St Paul's|WWI Memorial, St Paul's]]
+
+|group2     = Individuals
+|list2      = 
+* 
+* 
+* 
+
+}}

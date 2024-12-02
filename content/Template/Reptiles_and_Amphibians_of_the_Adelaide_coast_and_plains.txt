@@ -1,0 +1,37 @@
+{{Navbox
+|name       = Reptiles and Amphibians of the Adelaide coast and plains
+|title      = Reptiles and Amphibians of the Adelaide coast and plains
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = Snakes
+|list1      = 
+* [[Eastern Brown Snake]]
+* [[]]
+* [[Yellow-faced Whipsnake]]
+
+|group2     = Lizards
+|list2      = 
+* [[Adelaide Snake-eye]]
+* [[Bougainville’s Skink]]
+* [[Common Dwarf Skink]]
+* [[Eastern Bearded Dragon]]
+* [[Eastern Bluetongue]]
+* [[Four-toed Earless Skink]]
+* [[Four-toed Slider]]
+* [[Jacky Lizard]]
+* [[Lined Worm-lizard]]
+* [[Marbled Gecko]]
+* [[Painted Dragon]]
+* [[Sleepy Lizard]]
+* [[Southern Grass Skink]]
+
+|group3     = Amphibians
+|list3      = 
+* [[Common Eastern Froglet]]
+* [[Eastern Banjo Frog]]
+* [[Painted Burrowing Frog]]
+* [[Spotted Grass Frog]]
+
+}}

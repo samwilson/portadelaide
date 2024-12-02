@@ -1,0 +1,39 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693414 |title=''Calidris acuminata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Calidris acuminata - Hexham Swamp.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Calidris Calidris]'' (but see text)
+| species = '''''C. acuminata'''''
+| binomial = ''Calidris acuminata''
+| binomial_authority = [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1821
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Calidris+(Erolia)+acuminata ''Atlas of Living Australia'': Sharp-tailed Sandpiper]
+* [http://birdlife.org.au/bird-profile/sharp-tailed-sandpiper ''Birdlife Australia'': Sharp-tailed Sandpiper]
+* [https://en.wikipedia.org/wiki/Sharp-tailed_sandpiper ''Wikipedia'': Sharp-tailed sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

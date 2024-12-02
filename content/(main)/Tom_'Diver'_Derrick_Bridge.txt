@@ -1,0 +1,50 @@
+
+{{Infobox bridge
+| name        = Tom 'Diver' Derrick Bridge
+| image       = TomDiverDerrickBridgeJuly08.jpg
+| image_size  = 300px
+| caption     = 'Diver' Derrick Bridge, viewed from the eouthwest
+| carries     = Motor vehicles, pedestrians, bicycles
+| crosses     = Gawler Reach, Port River
+| locale      = Port Adelaide
+| design      = Single-leaf bascule bridge
+| length      = {{Convert|57.8|m|ft|0|abbr=on}}
+| width       = 4 lanes
+| height      = {{Convert|10|m|ft|0|abbr=on}}
+| mainspan    = {{Convert|0|m|ft|0|abbr=on}}
+| below       = {{Convert|0|m|ft|0|abbr=on}} at mid-span
+| begin       = 
+| complete    = 
+| open        = 1 August 2008 - pedestrians<br/>3 August 2008 - road traffic
+| map_type   = Northwestern Adelaide
+| map_caption = Location in Port Adelaide
+| latd = 34 | latm = 50 | lats = 17.82 | latNS = S
+| longd= 138 | longm= 30 | longs= 24.5 | longEW= E
+| coordinates_region = AU-SA_type:landmark
+| coordinates_display = inline
+}}
+
+
+
+==History==
+
+<!-- 
+==Gallery==
+{{Gallery
+| title = 
+| lines = 4
+|File:Duyfken replica at Port Adelaide.JPG|alt1=Duyfken replica|''Duyfken'' replica at Port Adelaide
+|File:Birkenhead bridge 2007.jpg|alt2=Birkenhead bridge|Birkenhead Bridge, viewed from the east
+}} -->
+
+==References==
+{{reflist}}
+
+==External links== 
+* [https://en.wikipedia.org/wiki/Tom_%27Diver%27_Derrick_Bridge Wikipedia: Tom 'Diver' Derrick Bridge]
+
+====News articles====
+
+
+
+{{Bridges in Port Adelaide}}

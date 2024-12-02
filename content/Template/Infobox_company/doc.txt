@@ -1,0 +1,890 @@
+{{Documentation subpage}}
+{{High-use|55,000+}}
+{{Generic template demo
+ |_template={{BASEPAGENAME}}{{\sandbox}} |_display=italics
+ <!--|intl--> |name |logo={{{logo}}} <!--|logo_padding--> |logo_size={{{logo_size}}} |logo_alt={{{logo_alt}}} |logo_caption
+ |image={{{image}}} |image_size={{{image_size}}} |image_alt={{{image_alt}}} |image_caption
+ |trading_name |native_name |native_name_lang |romanized_name
+ |former_name=''former_name''&nbsp; {{smaller|or}}&nbsp;&nbsp;''former_names''
+ |type <!--|defunct--> |traded_as |ISIN |industry |genre |fate
+ |predecessor=''predecessor''&nbsp; {{smaller|or}}&nbsp;&nbsp;''predecessors''
+ |successor=''successor''<br />{{smaller|or}}&nbsp;&nbsp;''successors''
+ |founded=''founded''&nbsp; {{smaller|or}}&nbsp;&nbsp;''foundation''
+ |twitter=''twitter''&nbsp; {{smaller|or}}&nbsp;&nbsp;''Twitter Handle''
+ |founder=''founder''&nbsp; {{smaller|or}}&nbsp;&nbsp;''founders''
+ |hq_location |hq_location_city |hq_location_country |coordinates |num_locations|num_locations_year=''year''
+ |area_served=''area_served''&nbsp; {{smaller|or}}&nbsp;&nbsp;''areas_served'' |key_people |products |brands
+ |production|production_year=''year'' |services |revenue|revenue_year=''year'' |operating_income|income_year=''year''
+ |net_income=''net income''&nbsp; {{smaller|or}}&nbsp;&nbsp;''profit''|net_income_year=''year'' |aum
+ |assets|assets_year=''year'' |equity|equity_year=''year'' |owner=''owner''&nbsp; {{smaller|or}}&nbsp;&nbsp;''owners''
+ |members|members_year=''year'' |num_employees|num_employees_year=''year''
+ |parent |divisions |subsid |slogan=''slogan''&nbsp; {{smaller|or}}&nbsp;&nbsp;''slogans'' |module
+ |ratio=''Basel III ratio''
+ |rating= ''credit rating''
+ |website=''website''&nbsp; {{smaller|or}}&nbsp;&nbsp;''homepage'' |footnotes
+}}
+
+This template is used to create an infobox in an article about a company.
+
+== Usage ==
+
+To use this template in an article, copy the template below, then paste the template into an article.
+
+All parameters are optional&nbsp;– those you do not populate with data will not show up in the infobox when the article is saved.
+
+You must remove both the <code><nowiki><!--</nowiki></code> and <code><nowiki>--></nowiki></code> characters that surround certain entries in order for the data you enter to appear in the published article.
+
+=== Short version ===
+<pre style="overflow:auto;">
+{{Infobox company
+| name           = 
+| logo           = 
+| logo_size      = 
+| logo_alt       = 
+| logo_caption   = 
+| logo_padding   = 
+| image          = 
+| image_size     = 
+| image_alt      = 
+| image_caption  = 
+| native_name    = 
+| native_name_lang =  <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{lang|[code]|[name]}}. -->
+| former_name    = 
+| type           = 
+| industry       = 
+| founded        =             <!-- if known: {{start date|YYYY|MM|DD}} in [[city]], [[country]] -->
+| founder        =             <!-- or: | founders = -->
+| hq_location    = 
+| hq_location_city = 
+| hq_location_country = 
+| area_served    =         <!-- or: | areas_served = -->
+| key_people     = 
+| products       = 
+| brands         = 
+| services       = 
+| owner          =               <!-- or: | owners = -->
+| ratio          = <!-- for BANKS ONLY -->
+| rating         = <!-- for BANKS ONLY -->
+| website        =             <!-- or: | homepage = --><!-- {{URL|example.com}} -->
+}}
+</pre>
+
+=== Full version ===
+<pre style="overflow:auto;">
+{{Infobox company
+| name = 
+| logo = 
+| logo_size =
+| logo_alt =
+| logo_caption = 
+| logo_padding =
+| image = 
+| image_size =
+| image_alt =
+| image_caption = 
+| trading_name = 
+| native_name = 
+| native_name_lang =    <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{lang|[code]|[name]}}. -->
+| romanized_name = 
+| former_name = 
+| type = 
+| traded_as = 
+| ISIN =
+| industry = 
+| genre =               <!-- Only used with media and publishing companies -->
+| fate = 
+| predecessor =         <!-- or: | predecessors = -->
+| successor =           <!-- or: | successors = -->
+| founded =             <!-- if known: {{start date|YYYY|MM|DD}} in [[city]], [[country]] -->
+| founder =             <!-- or: | founders = -->
+| defunct =             <!-- {{end date|YYYY|MM|DD}} -->
+| hq_location = 
+| hq_location_city = 
+| hq_location_country = 
+| coordinates = 
+| num_locations = 
+| num_locations_year =   <!-- Year of num_locations data (when known) -->
+| area_served =         <!-- or: | areas_served = -->
+| key_people = 
+| products = 
+| brands = 
+| production = 
+| production_year =     <!-- Year of production data (when known) -->
+| services = 
+| revenue = 
+| revenue_year =        <!-- Year of revenue data (when known) -->
+| operating_income = 
+| income_year =         <!-- Year of operating_income data (when known) -->
+| net_income =          <!-- or: | profit = -->
+| net_income_year =     <!-- or: | profit_year = --><!-- Year of net_income/profit data (when known) -->
+| aum =                 <!-- Only for financial-service companies -->
+| assets = 
+| assets_year =         <!-- Year of assets data (when known) -->
+| equity = 
+| equity_year =         <!-- Year of equity data (when known) -->
+| owner =               <!-- or: | owners = -->
+| members = 
+| members_year =        <!-- Year of members data (when known) -->
+| num_employees = 
+| num_employees_year =  <!-- Year of num_employees data (when known) -->
+| parent = 
+| divisions = 
+| subsid = 
+| slogan =              <!-- or: | slogans = -->
+| module =              <!-- Used to embed other templates -->
+| ratio =               <!-- Basel III ratio, for BANKS ONLY -->
+| rating =              <!-- credit rating, for BANKS ONLY -->
+| footnotes = 
+| intl =                <!-- Set positively ("true"/"yes"/etc) if company is international, otherwise omit -->
+| website =             <!-- {{URL|example.com}} -->
+}}
+</pre>
+
+== Parameters ==
+Do not erase parameters that could logically apply now or in the future because you do not yet have data (such as financial results) or because the parameter does not apply today (such as defunct date), except the <code>genre</code> parameter, which pertains only to publishing companies, and the <code>aum</code> parameter, which applies only to financial services companies. You may erase a parameter if it can never logically be applicable. The <code>intl</code> parameter, for example, only applies to companies based outside the United States and can therefore be erased from articles about United States-based companies.
+
+Note that the examples below are for demonstration purposes only and do not necessarily reflect actual data.
+
+----
+; {{mono|name}} : The name of the company, correctly reproducing punctuation and abbreviations or lack thereof.
+----
+; {{mono|logo}} : The company's current, primary wordmark or logo. Use the logo of the legal entity that is the subject of the article; the logo used may be different from the logo used on consumer products, particularly if the article is about a parent company or holding company.<br /><!--
+    --> For companies that use both a wordmark and a logo, upload a file that shows the two in combination if the combined form serves as the company's primary identity mark.<br />For a wordmark example, see [[Google]]; for a logo example, see [[Apple Inc.]]; for a combined logo and wordmark example see [[Altria]].<br /><!--
+    --> Upload a wordmark/logo graphic using the [http://en.wikipedia.org/w/index.php?title=Special:Upload&uselang=en-nonfree-logo&wpUploadDescription={{logo%20fur%0A%3C!--%20REQUIRED%20--%3E%0A+|Article+++++++++++=+%0A+|Use+++++++++++++++=+Org%0A%3C!--%20HIGHLY%20RECOMMENDED%20--%3E%0A+|Source++++++++++++=+%0A%3C!--%20ADDITIONAL%20INFORMATION%20--%3E%0A+|Used%20for++++++++++=+%0A+|Owner+++++++++++++=+%0A+|Website+++++++++++=+%0A+|History+++++++++++=+%0A+|Commentary++++++++=+%0A%3C!--%20OVERRIDE%20FIELDS%20--%3E%0A+|Description+++++++=+%0A+|Portion+++++++++++=+%0A+|Low_resolution++++=+%0A+|Purpose+++++++++++=+%0A+|Replaceability++++=+%0A+|other_information+=+%0A}} organization logo upload form].<br /><!--
+    --> '''''Note: Uploading trademarked corporate logos by other means or uploading corporate logos to Wikimedia Commons is likely to result in deletion of the logo.'''''<br />Format: <nowiki>logo.png</nowiki>
+----
+; {{mono|logo_size}} : Optional display width of logo in pixels. If not specified, the size varies by [[Special:Preferences#mw-prefsection-rendering|user preferences]].
+----
+; {{mono|logo_alt}} : Optional verbal description of logo for text-only browsers and visually impaired users.
+----
+; {{mono|logo_caption}} : Descriptive information for the logo, if necessary. Rarely used.<br />Example:
+:: {{mono|Logo used from 1942 to 1966}}
+----
+; {{mono|trading_name}} : Trade name, doing business as, d/b/a or fictitious business name under which a company presents itself to the public. This parameter is used only when the company has a legally registered trade name that is different from the company's full, legal name.<br />Example:
+:: "Cellco Partnership" is the full, legal name of the company that trades as "[[Verizon Wireless]]". This template's {{mono|name}} parameter, therefore would be set as {{mono|Cellco Partnership}}, while its {{mono|trading_name}} parameter would be set as {{mono|Verizon Wireless}}.
+----
+; {{mono|native_name}} : The full, legal non-English name of the company as it appears in the company's home country language, reproducing any punctuation or abbreviations. For Chinese and Korean names' syntax, see [[#Embedding|the "Embedding" section below]].<br />Examples:
+:: {{ublist|style=font-family:monospace; |ETA SA Manufacture Horlogère Suisse |Нефтяна́я Компа́ния Ю́КОС}}
+----
+; {{mono|romanized_name}} : Native name in [[Latin script]]. Use ''only'' if the company is based in a non-English speaking country ''and'' it has no official rendering of its native name in Latin script. If such a rendering exists, assign it to {{mono|native_name}} and omit this parameter.
+----
+; {{mono|former_name}} : ''(or {{mono|former_names}})''&nbsp;&nbsp; 
+----
+; {{mono|type}} : [[:Category:Types of business entity|Type of company]], [[wikilink]]ed where possible. To list percentages owned of a private company, use the {{mono|ownership}} parameter (see below).<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>[[Public company|Public]]</nowiki> |<nowiki>[[Privately held company|Private]]</nowiki>}}
+----
+; {{mono|traded_as}} : If applicable, the stock exchange/exchanges where the company is traded, each followed by their stock ticker symbol/symbols for the company (use stock ticker templates where possible; see {{cl|Ticker symbol templates}}). Information about the company's status as a component of a major index can also be added. If more than one exchange or symbol is involved, use {{tl|ublist}} to format them.<br />Examples:
+:: {{ublist|style=font-family:monospace; |{{tlf|NYSE|DLB}} |<nowiki>{{ublist |{{NASDAQ|MSFT}} |{{SEHK|4338}} |[[Dow Jones Industrial Average]] component |[[NASDAQ-100]] component |[[S&P 500]] component}}</nowiki>}}
+----
+; {{mono|ISIN}} : 
+----
+; {{mono|industry}} : The primary industry or industries in which the company operates, listed alphabetically. If the company offers goods or services in more than one industry, format the list using {{tl|ublist}}.<br />Examples:
+:: {{ublist|style=font-family:monospace; |Appliance manufacturing |<nowiki>{{ublist |Electronics design |Electronics distribution |Entertainment}}</nowiki>}}
+----
+; {{mono|genre}} :<br />1. Used for media or publishing companies - [[Literary genre|Genre]]s of works published by the company, listed alphabetically and wikilinked where possible. If publishing is the company's primary activity, consider using {{tl|Infobox publisher}} rather than this template.<br />If more than one entry is required here, use {{tl|ublist}} to format the list.<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>[[Fiction]]</nowiki> |<nowiki>{{ublist |[[Biography|Biographies]] |[[Science fiction]] |[[Western fiction|Westerns]]}}</nowiki>}}
+:2. The field or subset of the industry the company occupies, e.g. Industry is ''restaurants'', the genre is ''fast food''
+----
+; {{mono|fate}}{{efn|name=defunct}} : '''''(For defunct/acquired/merged companies)'''''&nbsp;&nbsp; Reason/reasons the company became [[wikt:defunct|defunct]], or the type and full legal name of the entity that acquired or merged with it (reproducing any punctuation or abbreviations).<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>Acquired by [[Cisco Systems|Cisco Systems, Inc.]]</nowiki> |Bankrupted |Dissolved |Merged with <nowiki>[[Thompson Corporation]]</nowiki>}}
+----
+; {{mono|predecessor}} : ''(or {{mono|predecessors}})''&nbsp;&nbsp; The name/names of any predecessor/predecessors of the company (reproducing any punctuation or abbreviations). If the company exists as the result of the merger of two or more legal entities, list them alphabetically using {{tl|ublist}}.<br />Examples:
+:: {{ublist|style=font-family:monospace; |Apple Computer Inc. |<nowiki>{{ublist |[[C. L. Best|C. L. Best Tractor Company]] |[[Holt Manufacturing Company]]}}</nowiki>}}
+----
+; {{mono|successor}}{{efn|name=defunct|This parameter is used only for a defunct company.}} : ''(or {{mono|successors}})''&nbsp;&nbsp; The full, legal name/names of any successor/successors of the company (reproducing any punctuation or abbreviations). If the company has two or more successors, list them alphabetically using {{tl|ublist}}.<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>[[Apple, Inc.]]</nowiki> |<nowiki>{{ublist |[[The People's Corporation of Judea]] |[[Splitters, Inc.]]}}</nowiki>}}
+----
+; {{mono|founded}} : Location and date of the company's foundation{{\}}establishment. For the location, use a format such as {{!((}}<var>City, State or Province</var>{{))!}}, <var>Country</var> or {{!((}}<var>City</var>{{))!}}, <var>Country</var></code> (i.e. link only the location's most specific element, per [[WP:OVERLINK]]); use {{tl|start date}} for the date. Per [[WP:ICON]], {{em|do not include flag icons}}; a company's location, ownership and liability, for instance, may exist in or across more than one country/region/etc.<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>[[Teaneck, New Jersey]], United States ({{start date|1975|04|27}})</nowiki> |<nowiki>[[Malmö]], Sweden ({{start date|1925|12|02}})</nowiki>}}
+----
+; {{mono|founder}} : ''(or {{mono|founders}})''&nbsp;&nbsp; The founder/entrepreneur/s who founded the company, wikilinked [[WP:Notability|if notable]]. If more than one person, list alphabetically by surname using {{tl|ublist}}.List the founders alphabetically by surname. Use {{tlx|ubl}} to format the entries.<br />Examples:
+:: {{ublist|style=font-family:monospace; |Thomas Oliver |<nowiki>{{ublist |[[Paul Allen]] |[[Bill Gates]]}}</nowiki>}}
+----
+; {{mono|defunct}}{{efn|name=defunct}} : The year (or, more specifically, if known, the date) the company became defunct{{\}}[[Dissolution (law)|legally dissolved]]. Use {{tl|end date}}.<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{end date|2000}}</nowiki> |<nowiki>{{end date|1936|06|30}}</nowiki>}}
+----
+; {{mono|hq_location<br />hq_location_city<br />hq_location_country}} : Location of the company's headquarters. If using {{mono|hq_location_city}} or {{mono|hq_location_country}}, reserve {{mono|hq_location}} for e.g. a region or a city district; only include/link more specific elements such as road or street addresses if they as themselves are [[WP:Notability|notable]]. As with {{mono|founded}} above, also maintain [[WP:OVERLINK]] and [[WP:ICON]].<br />Examples:
+:: {{ublist |style=font-family:monospace;padding-bottom:0.2em;
+    | <nowiki>| hq_location_city = [[Redmond, Washington]]</nowiki><br /><nowiki>| hq_location_country = United States</nowiki>
+    | <nowiki>| hq_location_city = [[Nuremberg]]</nowiki><br /><nowiki>| hq_location_country = Germany</nowiki>
+   }}
+; {{mono|coordinates}} : [Use {{tl|coord}}?]
+----
+; {{mono|num_locations}} : Number of places at or in which the company has a [visible, public?] presence. Include the type of place (e.g. "store", "outlet") if the same for most/all instances.<br />Examples:
+:: {{ublist|style=font-family:monospace;padding-bottom:0.2em; |815 stores |<nowiki>{{ublist |456 outlets/concessions |8 depots}}</nowiki>}}
+; {{mono|num_locations_year}} : The year associated with the data presented by {{mono|num_location}}. Only appears (as a parenthesis appended to {{mono|num_locations}}) if/when {{mono|num_locations}} also supplied.
+----
+; {{mono|area_served}} : ''(or {{mono|areas_served}})''&nbsp;&nbsp; Geographic area or areas in which the company does business. Use the largest appropriate geographic area or areas (i.e. if, for instance, a company trades in nearly every province in Canada, use e.g. {{mono|{{nowrap|{{!}} area_served {{=}}}} Most of Canada}} rather than listing every province). As above, if more than one entry is required, use {{tl|ublist}} to present them alphabetically; and avoid wikilinking any area or location name already linked in previous parameters.<br />Examples:
+:: {{ublist|style=font-family:monospace; |Worldwide |North America |<nowiki>[[New York metropolitan area]] |<nowiki>{{ublist |[[Contiguous United States|United States (contiguous)]] |[[Puerto Rico]] |[[United States Virgin Islands]]}}</nowiki>}}
+----
+; {{mono|key_people}} : Up to four key individuals closely associated with the company. If there is more than one entry, use {{tlx|ubl}} to format the entries. List the figures in order of organizational role importance. Give job title(s) in parentheses (round brackets); these job titles are capitalized per [[WP:Manual of Style (capital letters)]] because they follow the name. If a founder is already listed in the <code>founder</code> parameter, do not list them again here as a founder; if the founder still holds an executive job with the company, you may however list them along with their job title (Chairman, President, etc.)<br />Generally list prominent, current executives within the company holding key positions such as chairman, chief executive officer, president, VP of design, etc., but do not list roles below chief officer level if they are not [[WP:N|notable]]. Do include top executives even not individually notable, but do not wikilink them.<br />Use popular names rather than formal names if the key figure has an existing Wikipedia article.<br />It may be appropriate to add, at the end, past executives who played an especially prominent role in the company's history.<br />For defunct companies, list the most prominent former executives.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist |[[Tim Cook]] ([[Chief executive officer|CEO]]) |[[Arthur D. Levinson]] ([[Chairman]]) |[[Jonathan Ive]] ([[Senior vice-president|SVP]] of [[Industrial Design]]) |[[Steve Jobs]] (Chairman, 1976-1985, 2011; CEO, 1997–2011)}}</nowiki>}}
+----
+; {{mono|products}} : A representative selection of the company's well known current or former [[Product (business)|product]]s, listed alphabetically. If there is more than one entry, use {{tlx|ubl}} to format the entries.<br />Examples:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist |[[Microsoft Windows]] |[[Microsoft Office]]}}</nowiki> |<nowiki>{{ublist |[[Bentley Continental Flying Spur|Continental Flying Spur]] |[[Bentley Continental GT|Continental GT]] |[[Bentley Mulsanne (2010)|Mulsanne]]}}</nowiki>}}
+----
+; {{mono|brands}} : Any significant brand names{{\}}imprints{{\}}etc. used by the company that differ from its name. If more than one, list using {{tl|hlist}}.<!--<br />Examples:
+:: {{ublist|style=font-family:monospace;padding-bottom:0.2em; |<nowiki>[[......]]</nowiki> |<nowiki>{{hlist |[[......]] |...... ......}}</nowiki>}} -->
+----
+; {{mono|production}} : The number of units produced in the most recent year and the year prior, stating the year in parentheses. Indicate what is being measured, such as vehicles, units or devices. You may include an indicator icon to indicate the change compared to the previous year; {{mono|to avoid confusion, place the indicator before the number. Please note that this is intended to depict the ''direction of change'' compared to the previous year, not the actual numerical change in value.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{increase}} 2,856 vehicles (2011) |2,177 vehicles (2010)}}</nowiki>}}
+; {{mono|production_year}} : The year associated with the data presented by {{mono|production}}. Only appears (as a parenthesis appended to {{mono|production}}'s label) if/when {{mono|production}} also supplied.
+----
+; {{mono|services}} : A representative selection of the company's well known current or former [[Service (economics)|services]] offered, listed alphabetically. If there is more than one entry, use {{tlx|ubl}} to format the entries.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist |[[Financial services|Financing]] |[[Insurance]] |[[Maintenance, repair and operations|Maintenance]] |[[Training]]}}</nowiki>}}
+----
+; {{mono|revenue}} : All income that the company receives from its normal business activities, usually from the sale of goods and services to customers in the most recent year and the year prior, indicating the years in parentheses. ([[Revenue]] is referred to as "turnover" in the United Kingdom.) Wikilink the currency unit and indicate country for common currency units like "dollar".<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{increase}} US$ 512,256,128,064 (2011) |US$ 412,552,687,117 (2010)}}</nowiki>}}
+; {{mono|revenue_year}} : The year associated with the data presented by {{mono|revenue}}. Only appears (as a parenthesis appended to {{mono|revenue}}'s label) if/when {{mono|revenue}} also supplied.
+----
+; {{mono|operating_income}} : Total [[earnings before interest and taxes]] recognized by the company in its most recent fiscal year and the year prior, with the applicable years in parentheses.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{decrease}} US$ 256,128,064,032 (2011) |US$ 382,456,778,010 (2010)}}</nowiki>}}
+; {{mono|income_year}} : As for {{mono|revenue_year}}{{\}}{{mono|revenue}} above.
+----
+; {{mono|net_income}} : ''(or {{mono|profit}})''&nbsp;&nbsp; [[Net income]] or profit (revenue minus costs) realized by the company in its most recent fiscal year and the year prior, with the applicable years in parentheses.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{steady}} US$ 128 million (2011) |US$ 128 million (2010)}}</nowiki>}}
+; {{mono|net_income_year}} : ''(or {{mono|profit_year}})''&nbsp;&nbsp; As for {{mono|revenue_year}}{{\}}{{mono|revenue}} above.
+----
+; {{mono|aum}} : The company's total [[assets under management]] (AUM) in its most recent fiscal year and the year prior, with the applicable years in parentheses.<br />'''''This entry is used for financial services companies only.''''' If the article subject is not a financial services company, delete this parameter from the article.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{increase}} US$ 213.5 million (2011) |US$ 175.8 million (2010)}}</nowiki>}}
+----
+; {{mono|assets}} : Total [[asset]]s controlled by the company in its most recent fiscal year and the year prior, with the applicable years in parentheses.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{decrease}} US$ 64,032,016 (2011) |US$ 82,456,375 (2010)}}</nowiki>}}
+; {{mono|assets_year}} : The year associated with the data presented by {{mono|assets}}. Only appears (as a parenthesis appended to {{mono|assets}}'s label) if/when {{mono|assets}} also supplied.
+----
+; {{mono|equity}} : Total [[Equity (finance)|equity]] or [[net worth]] held in the company; shareholder equity for public companies.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{increase}} US$ 32,016,008,004 (2011) |US$29,752,528,004 (2010)}}</nowiki>}}
+; {{mono|equity_year}} : As for {{mono|assets_year}}{{\}}{{mono|assets}} above.
+----
+; {{mono|owner}} : ''(or {{mono|owners}})''&nbsp;&nbsp; Use this parameter to list ownership percentages for private companies owned by a few key individuals or to list ownership percentages for joint ventures, if applicable. Do not use this field for publicly traded companies.  When listing a company as an owner, use the full legal name of the entity that holds the ownership stake in the article's subject company. List the owners alphabetically and use {{tlx|ubl}} to format the entries.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist |[[Richemont|Compagnie Financière Richemont S.A.]] (50%) |[[Polo Ralph Lauren|Polo Ralph Lauren Corporation]] (50%)}}</nowiki>}}
+----
+; {{mono|num_employees}} : Total number of people employed by the company in the most recent year and the year prior, with the applicable years in parentheses.  To separate thousands (e.g. 12,200; {{mono|5,200) please use a comma (,) instead of a full stop (.) per [[Wikipedia:Mosnum#Delimiting .28grouping of digits.29|WP:MOSNUM]].<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist|class=nowrap |{{steady}} 127 (2011) |127 (2010)}}</nowiki>}}
+; {{mono|num_employees_year}} : The year associated with the data presented by {{mono|num_employees}}. Only appears (as a parenthesis appended to {{mono|num_employees}}) if/when {{mono|num_employees}} also supplied.
+----
+; {{mono|parent}} : If the article's subject is a [[subsidiary]] of a [[holding company]] or [[parent company]], list the full, legal name of the parent company, correctly reproducing punctuation and abbreviations or lack thereof.<br />Example (for [[Solar Turbines|Solar Turbines Incorporated]]):
+:: {{mono|<nowiki>[[Caterpillar Inc.]]</nowiki>}}
+----
+; {{mono|divisions}} : The primary functional or operational [[Division (business)|business division]]s of a company, listed alphabetically. These divisions align with the internal organizational structure of the company and may or may not align with the company's legally incorporated subsidiaries. If there is more than one entry, use {{tlx|ubl}} to format the entries. If there are more than five divisions and the article body lists them or discusses them, consider linking to that part of the article rather than listing them in the infobox.<br />Example (fictional telecom corporation):
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist |Business sales |Consumer sales |Information technologies |Network |Regulatory |Finance}}</nowiki>}}
+----
+; {{mono|subsid}} : The primary legally incorporated [[Subsidiary|subsidiaries]] owned by the company, listed alphabetically. Use the full, legal name of each subsidiary, correctly reproducing punctuation and abbreviations or lack thereof. Wikilink each subsidiary that has its own unique article. For publicly traded companies, a list of subsidiaries is disclosed in the company's annual report. If there is more than one entry, use {{tlx|ubl}} to format the entries. If there are more than five subsidiaries and the article body lists them or discusses them, consider linking to that part of the article rather than listing them in the infobox.<br />Example (for [[Caterpillar Inc.]]):
+:: {{ublist|style=font-family:monospace; |<nowiki>{{ublist |Caterpillar Financial Services Corporation |Caterpillar Marine Power Systems |[[Perkins Engines Co. Limited]] |[[Progress Rail Services Corporation]]}}</nowiki>}}
+----
+; {{mono|slogan}} : ''(or {{mono|slogans}})''&nbsp;&nbsp; The company's official slogan or slogans.
+----
+; {{mono|module}} : For embedding other templates (see [[Wikipedia:WikiProject Infoboxes/embed]]).
+----
+; {{mono|ratio}} : [[Basel III]] ratio, for BANKS ONLY
+----
+; {{mono|rating}} : credit rating from one or more of [[Moody's Investors Service|Moody's]], [[Fitch Ratings|Fitch]], or [[Standard & Poor's|S&P]], for BANKS ONLY
+----
+; {{mono|website}} : Top-level URL of the company's website, using the {{tl|URL}} template. Do not include the leading www. unless the URL will not resolve without it.<br />Example:
+:: {{ublist|style=font-family:monospace; |<nowiki>{{URL|caterpillar.com}}</nowiki>}}
+----
+; {{mono|footnotes}} : Use to list citations that validate the data in the infobox or to note information about the terms, names and figures used.
+----
+; {{mono|intl}} : Set {{tlbare|If affirmed|positively}} ({{mono|true}}, {{mono|on}}, etc.) to switch applicable labels from American to international terminology, otherwise omit this parameter.
+----
+
+===Financial results parameters===
+The <code>revenue</code>, <code>operating_income</code>, <code>net_income</code>, <code>aum</code>, <code>assets</code> and <code>equity</code> are used to record a company's financial information.
+
+Wikilink the first occurrence of the currency unit. This is usually in the {{para|revenue}} parameter.
+
+Each parameter entry should include three elements: an indicator icon, the results of the most recent fiscal year and the results of the previous fiscal year.
+
+:<br />Example: <code><nowiki>{{ubl|{{increase}} US$128,064,032 (2011)|US$111,586,447 (2010)}}</nowiki></code>
+
+===Indicator icons===
+You may include an indicator icon to indicate the change compared to the previous fiscal year; to avoid confusion, place the indicator before the number. Please note that this is intended to depict the ''direction'' of change compared to the previous year, not the actual numerical change in value.
+
+: {{increase}} {{tl|increase}}, {{steady}} {{tl|steady}}, or {{decrease}} {{tl|decrease}}
+
+:<br />Examples:
+::<code><nowiki>{{ubl|{{increase}} US$128,064,032 (2011)|US$111,586,447 (2010)}}</nowiki></code>
+::<code><nowiki>{{ubl|{{steady}} US$128,000,000 (2011)|US$128,000,000 (2010)}}</nowiki></code>
+::<code><nowiki>{{ubl|{{decrease}} US$111,586,447 (2011)|US$128,064,032 (2010)}}</nowiki></code>
+
+: Which display as:
+::{{unbulleted list|{{increase}} US$128,064,032 (2011)|US$111,586,447 (2010)}}
+::{{unbulleted list|{{steady}} US$128,000,000 (2011)|US$128,000,000 (2010)}}
+::{{unbulleted list|{{decrease}} US$111,586,447 (2011)|US$128,064,032 (2010)}}
+
+===Consistent notation===
+There are different ways to record financial results that are in the millions or [[1,000,000,000|billion]]s of dollars. Pick one and use it consistently in all parameters. If using billions, always wikilink the first occurrence as <code><nowiki>[[1,000,000,000|billion]]s</nowiki></code>, since [[Long-scale number|"billion" has more than one meaning]].  Use <code>&amp;nbsp;</code> to prevent wrapping between elements of the numbers, per [[WP:Manual of Style (dates and numbers)]].
+
+Do not express results as a decimal such as <code><nowiki>{{increase}} US$.963&amp;nbsp;billion (2010)</nowiki></code>. Instead choose a notation that will allow you to express all results for the period in whole numbers.
+
+In this example use <code><nowiki>{{increase}} US$963&amp;nbsp;million (2010)</nowiki></code> or <code><nowiki>{{increase}} US$963,000,000 (2010)</nowiki></code> and apply your choice to all the financial results consistently.
+
+;Examples:
+
+Exact dollars
+<pre style="overflow:auto">
+| revenue          = {{ubl|{{increase}} US$42,588,363,000 (2011)|US$31,127,556,602 (2010)}}
+| operating_income = {{ubl|{{increase}} US$3,963,082,345 (2011)|US$3,144,535,447 (2010)}}
+| net_income       = {{ubl|{{increase}} US$2,700,376,442 (2011)|US$2,223,224,071 (2010)}}
+| assets           = {{ubl|{{increase}} US$64,020,364,188 (2011)US$59,883,175,007 (2010)}}
+| equity           = {{ubl|{{increase}} US$10,863,945,862 (2011)US$10,802,835,119 (2010)}}
+</pre>
+
+{{strong|or}}
+
+Rounded billions
+<pre style="overflow:auto">
+| revenue          = {{ubl|{{increase}} [[United States dollar|US$]]42.588&amp;nbsp;billion (2011)|US$41.754&amp;nbsp;billion (2010)}}
+| operating_income = {{ubl|{{increase}} US$3.963&amp;nbsp;billion (2011)|US$3.258&amp;nbsp;billion (2010)}}
+| net_income       = {{ubl|{{increase}} US$2.700&amp;nbsp;billion (2011)|US$2.615&amp;nbsp;billion (2010)}}
+| assets           = {{ubl|{{increase}} US$64.020&amp;nbsp;billion (2011)|US$59.878&amp;nbsp;billion (2010)}}
+| equity           = {{ubl|{{increase}} US$10.864&amp;nbsp;billion (2011)|US$10.111&amp;nbsp;billion (2010)}}
+</pre>
+
+{{strong|or}}
+
+Rounded millions
+<pre style="overflow:auto">
+| revenue          = {{ubl|{{increase}} US$42,588&amp;nbsp;million (2011)|US$41,754&amp;nbsp;million (2010)}}
+| operating_income = {{ubl|{{increase}} US$3,963&amp;nbsp;million (2011)|US$3,258&amp;nbsp;million (2010)}}
+| net_income       = {{ubl|{{increase}} US$2,700&amp;nbsp;million (2011|US$2,615&amp;nbsp;million (2010)}}
+| assets           = {{ubl|{{increase}} US$64,020&amp;nbsp;million (2011)|US$59,878&amp;nbsp;million (2010)}}
+| equity           = {{ubl|{{increase}} US$10,864&amp;nbsp;million (2011)|US$10,111&amp;nbsp;million (2010)}}
+</pre>
+
+{{strong|but not}}
+
+Do not use an inconsistent mix of the three styles depicted in the examples above. Below is an example of undesirable, inconsistent notation.
+<pre style="overflow:auto">
+| revenue          = {{ubl|{{increase}} US$42,588&amp;nbsp;million (2011)|US$$41,754&amp;nbsp;million (2010)}}
+| operating_income = {{ubl|{{increase}} US$.963&amp;nbsp;billion (2011)|US$3.258&amp;nbsp;billion (2010)}}
+| net_income       = {{ubl|{{increase}} US$2,700,376,442 (2011)|US$2,223,224,071 (2010)}}
+| assets           = {{ubl|{{increase}} US$64,020&amp;nbsp;million (2011)|US$59,878&amp;nbsp;million (2010)}}
+| equity           = {{ubl|{{increase}} US$10,864,445,862&amp;nbsp;billion (2011)|US$10,802,835,119 (2010)}}
+</pre>
+
+=== Embedding ===
+Many different templates can be embedding within this template.  For example, to add a Korean name, use {{tl|Infobox name module}} as follows
+{{Infobox company
+| name             = The Corporation Company
+| native_name      = {{Infobox name module
+| hangul = Hangul
+| hanja = Hanja
+| rr = Revised Romanization
+| mr = McCune–Reischauer
+}}
+| logo             = 
+| caption          = 
+| type             = [[Public company|Public]]
+| ...
+}}
+<pre style="overflow:auto">
+{{Infobox company
+| name             = The Corporation Company
+| native_name      = {{Infobox name module
+| hangul = Hangul
+| hanja = Hanja
+| rr = Revised Romanization
+| mr = McCune–Reischauer
+}}
+| logo             = 
+| caption          = 
+| type             = [[Public company|Public]]
+| ...
+}}</pre>
+
+==Examples==
+{{Infobox company
+| name             = The Corporation Company
+| logo             = [[File:Example.png|160px]]
+| caption          = 
+| type             = [[Public company|Public]]
+| traded_as        = {{unbulleted list|{{NYSE2|TCC1}}|{{TYO2|TCC1}}}}
+| genre            = Corporate histories
+| fate             = 
+| predecessor      = 
+| successor        = 
+| founded          = New York City, United States ({{Start date|1900|05|25}})
+| founder          = {{unbulleted list|Wikiped Wikiad|William Williamson}}
+| defunct          = 
+| location_city    = [[Seattle]]
+| location_country = United States
+| locations        = 300 stores (2011)
+| area_served      = North America
+| key_people       = {{unbulleted list|Wikiped Wikiad ([[Chairman]])|Waldo Wikiad ([[Chief executive officer|CEO]])}}
+| industry         = [[Publishing]]
+| products         = {{unbulleted list|Books|Magazines}}
+| production       = {{unbulleted list|{{increase}} 57 histories (2011)|43 histories (2010)}}
+| services         = {{unbulleted list|Literary archiving|Literary restoration}}
+| revenue          = {{unbulleted list|{{increase}} US$500&nbsp;million (2011)|US$432&nbsp;million (2010)}}
+| operating_income = {{unbulleted list|{{steady}} US$350&nbsp;million (2011)|US$350&nbsp;million (2010)}}
+| net_income       = {{unbulleted list|{{decrease}} US$50&nbsp;million (2011)|US$61&nbsp;million (2010)}}
+| assets           = {{unbulleted list|{{decrease}} US$1,500&nbsp;million (2011)|US$1,757&nbsp;million (2010)}}
+| equity           = {{unbulleted list|{{increase}} US$950&nbsp;million (2011)|US$858&nbsp;million (2010)}}
+| owner            = 
+| num_employees    = {{unbulleted list|{{increase}}1,500 (2011)|1,256 (2010)}}
+| parent           = Mega Corporation Inc.
+| divisions        = {{unbulleted list|TCC Company Histories|TCC Magazine Services}}
+| subsid           = {{unbulleted list|Restored Book Corporation|Super Archives, Ltd.}}
+| homepage         = {{URL|example.com}}
+| footnotes        = {{Sfn|Johnson|2010|p=35}} {{Sfn|Hancock|2008|p=58}}
+}}
+
+<pre style="overflow:auto;">
+{{Infobox company
+| name             = The Corporation Company
+| logo             = [[File:Example.png|160px]]
+| caption          = 
+| type             = [[Public company|Public]]
+| traded_as        = {{ubl|{{NYSE2|TCC1}}|{{TYO2|TCC1}}}}
+| genre            = Corporate histories
+| fate             = 
+| predecessor      = 
+| successor        = 
+| founded          = New York City, United States ({{Start date|1900|05|25}})
+| founder          = {{ubl|Wikiped Wikiad|William Williamson}}
+| defunct          = 
+| location_city    = [[Seattle]]
+| location_country = United States
+| locations        = 300 stores (2011)
+| area_served      = North America
+| key_people       = {{ubl|Wikiped Wikiad ([[Chairman]])|Waldo Wikiad ([[Chief executive officer|CEO]])}}
+| industry         = [[Publishing]]
+| products         = {{ubl|Books|Magazines}}
+| production       = {{ubl|{{increase}} 57 histories (2011)|43 histories (2010)}}
+| services         = {{ubl|Literary archiving|Literary restoration}}
+| revenue          = {{ubl|{{increase}} US$500&nbsp;million (2011)|US$432&nbsp;million (2010)}}
+| operating_income = {{ubl|{{steady}} US$350&nbsp;million (2011)|US$350&nbsp;million (2010)}}
+| net_income       = {{ubl|{{decrease}} US$50&nbsp;million (2011)|US$61&nbsp;million (2010)}}
+| assets           = {{ubl|{{decrease}} US$1,500&nbsp;million (2011)|US$1,757&nbsp;million (2010)}}
+| equity           = {{ubl|{{increase}} US$950&nbsp;million (2011)|US$858&nbsp;million (2010)}}
+| owner            = 
+| num_employees    = {{ubl|{{increase}}1,500 (2011)|1,256 (2010)}}
+| parent           = Mega Corporation Inc.
+| divisions        = {{ubl|TCC Company Histories|TCC Magazine Services}}
+| subsid           = {{ubl|Restored Book Corporation|Super Archives, Ltd.}}
+| homepage         = {{URL|example.com}}
+| footnotes        = {{Sfn|Johnson|2010|p=35}} {{Sfn|Hancock|2008|p=58}}
+}}
+</pre>
+{{reflist|close=0}}
+{{Clear}}
+
+{{Infobox company
+| name             = Wikiand Financial, Inc.
+| logo             = [[File:Example.png|160px]]
+| caption          = 
+| type             = [[Private company|Private]]
+| traded_as        = 
+| ISIN             = US0378331005
+| fate             = [[Takeover|Acquired]] (January 19, 2010)
+| predecessor      = Wilson Wikiana & Company Ltd.
+| successor        = Wikianian & Wikianian Finances Unlimited
+| founded          = [[Edinburgh]], Scotland ({{Start date|1930|06|22}})
+| founder          = William Wikiand
+| defunct          = {{End date|2010|10|19}}
+| location_city    = London
+| location_country = United Kingdom
+| locations        = 350 branch banks (2009)
+| area_served      = {{unbulleted list|England|Scotland}}
+| key_people       = {{unbulleted list|William Wikiand ([[Chairman]])|Robert Wikiand ([[Chief executive officer|CEO]])}}
+| industry         = [[Investment|Investment services]]
+| products         = {{unbulleted list|24/7 Auto Loan|Life Plus life insurance|Money Market Premier account}}
+| production       = 
+| services         = {{unbulleted list|[[Banking]]|[[Financing]]|[[Insurance]]}}
+| revenue          = {{unbulleted list|{{increase}} [[Euro|€]]326,810,243 (2011)|€297,858,401 (2010)}}
+| operating_income = {{unbulleted list|{{decrease}} €185,967,452 (2011)|€189,110,282 (2010)}}
+| net_income       = {{unbulleted list|{{decrease}} €47,698,713 (2011)|€57,119,020 (2010)}}
+| aum              = {{unbulleted list|{{increase}} €1,127,284,951 (2011)|€1,001,882,176 (2010)}}
+| assets           = {{unbulleted list|{{decrease}} €981,357,912 (2011)|€1,070,557,019 (2010)}}
+| equity           = {{unbulleted list|{{increase}} €924,801,752 (2011)|€772,543,189 (2010)}}
+| owner            = {{unbulleted list|Doha Partners Limited (51.5%)|Wikiad Trust Ltd.|(20.5%)|Zede Unlimited (28%)}}
+| num_employees    = {{unbulleted list|{{steady}}1,520 (2011)|1,520 (2010)}}
+| parent           = 
+| divisions        = 
+| subsid           = {{unbulleted list|Wikiand Loans Unlimited|Wikiand Mortgages Limited|Wikiand Real Property Ltd.}}
+| homepage         = {{URL|example.com}}
+| footnotes        = {{Sfn|Lincoln|2008|p=378}} {{Sfn|Adams|2009|pp=27-29}}
+}}
+
+<pre style="overflow:auto;"><nowiki>
+{{Infobox company
+| name             = Wikiand Financial, Inc.
+| logo             = [[File:Example.png|160px]]
+| caption          = 
+| type             = [[Private company|Private]]
+| traded_as        = 
+| ISIN             = US0378331005
+| fate             = [[Takeover|Acquired]] (January 19, 2010)
+| predecessor      = Wilson Wikiana & Company Ltd.
+| successor        = Wikianian & Wikianian Finances Unlimited
+| founded          = [[Edinburgh]], Scotland ({{Start date|1930|06|22}})
+| founder          = William Wikiand
+| defunct          = {{End date|2010|10|19}}
+| location_city    = London
+| location_country = United Kingdom
+| locations        = 350 branch banks (2009)
+| area_served      = {{ubl|England|Scotland}}
+| key_people       = {{ubl|William Wikiand ([[Chairman]])|Robert Wikiand ([[Chief executive officer|CEO]])}}
+| industry         = [[Investment|Investment services]]
+| products         = {{ubl|24/7 Auto Loan|Life Plus life insurance|Money Market Premier account}}
+| production       = 
+| services         = {{ubl|[[Banking]]|[[Financing]]|[[Insurance]]}}
+| revenue          = {{ubl|{{increase}} [[Euro|€]]326,810,243 (2011)|€297,858,401 (2010)}}
+| operating_income = {{ubl|{{increase}} €185,967,452 (2011)|€189,110,282 (2010)}}
+| net_income       = {{ubl|{{decrease}} €47,698,713 (2011)|€57,119,020 (2010)}}
+| aum              = {{ubl|{{increase}} €1,127,284,951 (2011)|€1,001,882,176 (2010)}}
+| assets           = {{ubl|{{decrease}} €981,357,912 (2011)|€1,070,557,019 (2010)}}
+| equity           = {{ubl|{{increase}} €924,801,752 (2011)|€772,543,189 (2010)}}
+| owner            = {{ubl|Doha Partners Limited (51.5%)|Wikiad Trust Ltd.|(20.5%)|Zede Unlimited (28%)}}
+| num_employees    = {{ubl|{{steady}}1,520 (2011)|1,520 (2010)}}
+| parent           = 
+| divisions        = 
+| subsid           = {{ubl|Wikiand Loans Unlimited|Wikiand Mortgages Limited|Wikiand Real Property Ltd.}}
+| homepage         = {{URL|example.com}}
+| footnotes        = {{Sfn|Lincoln|2008|p=378}} {{Sfn|Adams|2009|pp=27-29}}
+| intl             = yes
+}}
+</nowiki></pre>
+{{reflist|close=0}}
+
+==Resources==
+;Company and financial info:
+* [https://www.intelligentinvestor.com.au/shares Intelligent Investor]—Provides information on Australian companies that includes descriptions, announcements, financial data research and share price. To find a particular company, search the name of the company by clicking on the magnifying glass icon on the right side of the site. Company data is only available by signing up on the site for free.
+* [http://www.datamonitor.com/companies/ Datamonitor]—Provides free company profiles including descriptions, headquarter address, website address, employees, revenue and other financial data, industry categorization, and more. Additional data is available from purchasable company profiles.
+* [http://finance.yahoo.com/ Yahoo! Finance]—Provides ''revenue'' [Revenue (ttm)], ''operating_income'' [Operating Cash Flow (ttm)] and ''net_income'' [Net Income Avl to Common (ttm)] data, plus various other information. Enter the ticker symbol or find company name, then click on the "Key Statistics" link in the left column. Yahoo! also operates websites in many locations worldwide, links to which are located at the bottom of the web page.
+* [http://www.hoovers.com/ Hoover's]—Provides ''revenue'' and ''net_income'' data. Also provides ''num_employees'' figures.
+* Many companies also provide annual financial reports as downloadable PDF files in the "investor relations" section of their website.  Financial figures are typically found in the last half of an annual report.
+
+;Stock info:
+A list of available stock ticker symbol templates is available at [[:Category:Ticker symbol templates|Category:Ticker symbol templates]].
+
+Stock ticker symbols for publicly traded companies can be looked-up on the website of the exchange on which the companies stock is traded.
+
+In the United States:
+* [http://www.nasdaq.com/ NASDAQ Stock Market] stock ticker template: {{tlx|NASDAQ|<var>SYMBOL<var>}} or {{tlx|NASDAQ2|<var>SYMBOL</var>}}
+* [http://www.nyseeuronext.com/ NYSE Euronext] stock ticker template: {{tlx|NYSE|<var>SYMBOL<var>}}
+
+In Germany:
+* [http://www.boerse-frankfurt.de/EN/ Börse Frankfurt] stock ticker templates: {{tlx|FWB|<var>SYMBOL<var>}} 
+
+In Japan:
+* [http://www.tse.jp/ Tokyo Stock Exchange] stock ticker template: {{tlx|TYO|<var>SYMBOL<var>}}
+
+In the United Kingdom:
+* [http://www.lse.co.uk/ LSE] stock ticker template: {{tlx|LSE|<var>SYMBOL<var>}}
+
+==Microformat==
+{{UF-hcard-org}}
+
+==TemplateData==
+{{TemplateDataHeader}}
+<templatedata>
+{
+    "description": "An infobox for companies",
+    "params": {
+        "name": {
+            "label": "name",
+            "description": "The full, legal name of the company, correctly reproducing punctuation and abbreviations or lack thereof. The full legal name of the company may be different from the common name used for the article title.",
+            "type": "string",
+            "default": "(PAGENAME)",
+            "aliases": ["company_name"],
+            "required": false
+        },
+        "native_name": {
+            "label": "native_name",
+            "description": "The full, legal non-English name of the company as it appears in the company's home country language, correctly reproducing punctuation and abbreviations or lack thereof.",
+            "type": "string",
+            "required": false
+        },
+        "native_name_lang": {
+            "label": "native_name_lang",
+            "description": "Sets the lang attribute for the native name, use  two letter ISO 639‑1 codes like 'fr'.",
+            "type": "string",
+            "required": false
+        },
+        "romanized_name": {
+            "label": "romanized_name",
+            "description": "Native name in Latin script. Use only if the company is based in a non-English speaking country and it has no official rendering of native name in Latin script. If the official rendering of native name in Latin script exists, use the 'native_name' parameter instead and omit this non-Latin names entirely.",
+            "type": "string",
+            "required": false
+        },
+        "trading_name": {
+            "label": "trading_name",
+            "description": "Trade name, doing business as, d/b/a or fictitious business name under which a company presents itself to the public. This parameter is used only when the company has a legally registered trade name that is different from the company's full, legal name.",
+            "type": "string",
+            "required": false
+        },
+        "logo": {
+            "label": "logo",
+            "description": "The company's current, primary wordmark or logo. e.g. 'logo.png'. Use the logo of the legal entity that is the subject of the article; the logo used may be different from the logo used on consumer products, particularly if the article is about a parent company or holding company. Upload a wordmark/logo graphic using the organization logo upload form. Note: uploading trademarked corporate logos by other means or uploading corporate logos to Wikimedia Commons is likely to result in deletion of the logo.",
+            "type": "string",
+            "aliases": ["company logo"],
+            "required": false
+        },
+        "logo_size": {
+            "label": "logo_size",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "alt": {
+            "label": "alt",
+            "description": "Alt text for the logo.",
+            "type": "string",
+            "required": false
+        },
+        "caption": {
+            "label": "caption",
+            "description": "Descriptive information for the logo, if necessary. Rarely used.<br />Example: 'Logo used from 1942 to 1966'",
+            "type": "string",
+            "required": false
+        },
+        "type": {
+            "label": "type",
+            "description": "Type of company, wikilinked. Use the ownership parameter to list ownership percentages for private companies and joint ventures, if applicable.<br />Examples: [[Public company|Public]] OR [[Privately held company|Private]]",
+            "type": "string/wiki-page-name",
+            "aliases": ["company_type"],
+            "required": false
+        },
+        "traded_as": {
+            "label": "traded_as",
+            "description": "The stock exchange and stock ticker symbols of publicly traded companies, using stock ticker templates. Information about the company's status as a component of a major index can also be added. If there is more than one entry, use {{unbulleted list}} to format the entries. A list of available stock ticker symbol templates is available at [[Category:Ticker symbol templates]].<br />Examples: {{NYSE|DLB}} OR {{unbulleted list|{{NASDAQ|MSFT}}|{{SEHK|4338}}|[[Dow Jones Industrial Average]] component|[[NASDAQ-100]] component|[[S&P 500]] component}}",
+            "type": "string",
+            "required": false
+        },
+        "ISIN": {
+            "label": "ISIN",
+            "description": "International Securities Identification Number",
+            "type": "string",
+            "required": false
+        },
+        "predecessor": {
+            "label": "predecessor",
+            "description": "The full, legal names of any predecessors of the company, correctly reproducing punctuation and abbreviations or lack thereof. If the article subject exists as the result of the merger of two or more legal entities, list the predecessors alphabetically, using {{unbulleted list}} to format the entries.<br />Examples: Apple Computer Inc. OR {{unbulleted list|[[C. L. Best|C. L. Best Tractor Company]]|[[Holt Manufacturing Company]]}}",
+            "type": "string",
+            "aliases": ["predecessors", "Predecessor"],
+            "required": false
+        },
+        "successor": {
+            "label": "successor",
+            "description": "The full, legal name(s) of any successor(s) of the company, correctly reproducing punctuation and abbreviations or lack thereof. If the article subject has two or more successors, list the successors alphabetically, using {{unbulleted list}} to format the entries.<br />Examples: [[Apple, Inc.]] OR {{unbulleted list|[[The People's Corporation of Judea]]|[[Splitters, Inc.]]}}",
+            "type": "string",
+            "aliases": ["successors"],
+            "required": false
+        },
+        "founded": {
+            "label": "founded",
+            "description": "Location and date of the company's founding (establishment). Use {{Start date}} for the date. Location may be in the format of [[City, State or Province]], Country, or simply [[City]], Country if a subnational unit is not conventionally given. Use the most-recognizable names in English; link only the lowest-level independent component of the location. Per WP:OVERLINK, do not wikilink the country. Per WP:Manual of Style (icons), do not use flag icons; flag icons place an unnecessary emphasis on nationality and can be misleading.<br />Examples: [[Teaneck, New Jersey]], United States ({{Start date|1975|04|27}}); [[Malmö]], Sweden ({{Start date|1925|12|02}})",
+            "type": "string",
+            "required": false
+        },
+        "founder": {
+            "label": "founder",
+            "description": "Entrepreneur(s) who founded the company. List the founders alphabetically by surname. Use {{unbulleted list}} to format the entries. Wikilink the names of founders who are notable as defined by Wikipedia.<br />Example: Thomas Oliver OR {{unbulleted list|[[Paul Allen]]|[[Bill Gates]]}}",
+            "type": "string",
+            "aliases": ["founders"],
+            "required": false
+        },
+        "defunct": {
+            "label": "defunct",
+            "description": "Date (at least year, more specific if known) that the company became defunct (legally dissolved). Use {{End date}} for the date.<br />Examples: {{End date|2000}} or {{End date|2000|06|30}}",
+            "type": "string",
+            "required": false
+        },
+        "fate": {
+            "label": "fate",
+            "description": "The reason a company became defunct or the change type and the full legal name of the acquiring or merging entity, correctly reproducing punctuation and abbreviations or lack thereof.<br />Examples: Acquired by Cisco Systems, Inc. OR Bankrupted OR Dissolved OR Merged with Thompson Corporation",
+            "type": "string",
+            "required": false
+        },
+        "location": {
+            "label": "location",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "location_city": {
+            "label": "location_city",
+            "description": "Current city, or city and state/province, of the company's headquarters. Use the location's most-recognizable name in English; link only the lowest-level independent component of the location (if not already wikilinked in the foundation parameter). May be in the format of [[City, State or Province]], or simply [[City]] if a subnational unit is not conventionally given. If this parameter is used, also populate location_country. Do not provide a street address, except in the rare case that the location, for example the corporate campus, is independently notable.<br />Examples: [[Redmond, Washington]] OR [[Nuremberg]]",
+            "type": "string",
+            "required": false
+        },
+        "location_country": {
+            "label": "location_country",
+            "description": "Current country of the company's headquarters. Use its most-recognizable name in English, but do not wikilink the country per WP:OVERLINK. Do not use flag icons, per WP:Manual of Style (icons). If this parameter is used, also populate location_city.<br />Example: Germany.",
+            "type": "string",
+            "required": false
+        },
+        "locations": {
+            "label": "locations",
+            "description": "Number of locations the company has physical properties, expressed as a number, followed by the property type, then the applicable year in parentheses.<br />Example: 815 stores (2011)",
+            "type": "string",
+            "required": false
+        },
+        "area_served": {
+            "label": "area_served",
+            "description": "Geographic area(s) in which the company does business. Use the largest geographic area(s) that apply. If, for example, a company does business in every province in Canada, list Canada, do not list each province. Do not wikilink if it would be redundant with the linking in a previous parameter, such as foundation or location_country. If there is more than one entry, list them alphabetically and use {{unbulleted list}} to format the entries.<br />Examples: Worldwide OR North America OR [[New York metropolitan area]] OR {{unbulleted list|[[Contiguous United States]]|[[Puerto Rico]]|[[United States Virgin Islands]]}}",
+            "type": "string",
+            "required": false
+        },
+        "key_people": {
+            "label": "key_people",
+            "description": "Up to four key individuals closely associated with the company. If there is more than one entry, use {{unbulleted list}} to format the entries. List the figures in order of organizational role importance. Give job title(s) in parentheses (round brackets); these job titles are capitalized per WP:Manual of Style (capital letters) because they follow the name. If a founder is already listed in the founder parameter, do not list them again here as a founder; you may however list them along with their job title (Chairman, President, etc.) Generally list prominent, current executives within the company holding key positions such as chairman, chief executive officer, president, VP of design, etc., but do not list roles below chief officer level if they are not notable. Do include top executives even not individually notable, but do not wikilink them. Use popular names rather than formal names if the key figure has an existing Wikipedia article. It may be appropriate add, at the end, past executives who played an especially prominent role in the company's history. For defunct companies, list the most prominent former executives.<br />Example: {{unbulleted list|[[Tim Cook]] ([[Chief executive officer|CEO]])|[[Arthur D. Levinson]] ([[Chairman]])|[[Jonathan Ive]] ([[Senior vice-president|SVP]] of [[Industrial Design]])|[[Steve Jobs]] (Chairman, 1976-1985, 2011; CEO, 1997–2011)}}",
+            "type": "string",
+            "required": false
+        },
+        "industry": {
+            "label": "industry",
+            "description": "Primary industry(s) in which the company operates, listed alphabetically. If the company offers goods or services in more than one industry, use {{unbulleted list}} to format the entries.<br />Example: Appliance manufacturing OR {{unbulleted list|Electronics design|Electronics distribution|Entertainment}}",
+            "type": "string",
+            "required": false
+        },
+        "genre": {
+            "label": "genre",
+            "description": "Genres of works published by the company, listed alphabetically and wikilinked. This parameter is used for publishing and media companies only. If this parameter is filled, consider using {{Infobox publisher}} instead, unless the company is notable for more than publishing. If the article subject is not a publishing or media company, delete this parameter from the article. If there is more than one entry, use {{unbulleted list}} to format the entries.<br />Example: [[Fiction]] OR {{unbulleted list|[[Biography|Biographies]]|[[Science fiction]]|[[Western fiction|Westerns]]}}",
+            "type": "string",
+            "required": false
+        },
+        "products": {
+            "label": "products",
+            "description": "A representative selection of the company's well known current or former products, listed alphabetically. If there is more than one entry, use {{unbulleted list}} to format the entries.<br />Examples: {{unbulleted list|[[Microsoft Office]]|[[Microsoft Windows]]}} OR {{unbulleted list|[[Bentley Continental Flying Spur|Continental Flying Spur]]|[[Bentley Continental GT|Continental GT]]|[[Bentley Mulsanne (2010)|Mulsanne]]}}",
+            "type": "string",
+            "required": false
+        },
+        "production": {
+            "label": "production",
+            "description": "The number of units produced in the most recent year and the year prior, stating the year in parentheses. Indicate what is being measured, such as vehicles, units or devices. You may include an indicator icon to indicate the change compared to the previous year; to avoid confusion, place the indicator before the number. Please note that this is intended to depict the direction of change compared to the previous year, not the actual numerical change in value.<br />Example: {{unbulleted list|{{increase}} 2,856 vehicles (2011)|2,177 vehicles (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "services": {
+            "label": "services",
+            "description": "A representative selection of the company's well known current or former services offered, listed alphabetically. If there is more than one entry, use {{unbulleted list}} to format the entries.<br />Example: {{unbulleted list|[[Financial services|Financing]]|[[Insurance]]|[[Maintenance, repair and operations|Maintenance]]|[[Training]]}}",
+            "type": "string",
+            "required": false
+        },
+        "revenue": {
+            "label": "revenue",
+            "description": "All income that the company receives from its normal business activities, usually from the sale of goods and services to customers in the most recent year and the year prior, indicating the years in parentheses. (Revenue is referred to as 'turnover' in the United Kingdom.) Wikilink the currency unit and indicate country for common currency units like dollar.<br />Example: {{unbulleted list|{{increase}}US$512,256,128,064 (2011)|US$412,552,687,117 (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "operating_income": {
+            "label": "operating_income",
+            "description": "Total earnings before interest and taxes recognized by the company in its most recent fiscal year and the year prior, with the applicable years in parentheses.<br />Example: {{unbulleted list|{{decrease}}US$256,128,064,032 (2011)|US$382,456,778,010 (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "net_income": {
+            "label": "net_income",
+            "description": "Net income or profit (revenue minus costs) realized by the company in its most recent fiscal year and the year prior, with the applicable years in parentheses.<br />Example: {{unbulleted list|{{steady}}US$128 million (2011)|US$128 million (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "aum": {
+            "label": "aum",
+            "description": "The company's total assets under management (AUM) in its most recent fiscal year and the year prior, with the applicable years in parentheses. This entry is used for financial services companies only. If the article subject is not a financial services company, delete this parameter from the article.<br />Example: {{unbulleted list|{{increase}}US$213.5 million (2011)|US$175.8 million (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "assets": {
+            "label": "assets",
+            "description": "Total assets controlled by the company in its most recent fiscal year and the year prior, with the applicable year s in parentheses.<br />Example: {{unbulleted list|{{decrease}}US$64,032,016 (2011)|US$82,456,375 (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "equity": {
+            "label": "equity",
+            "description": "Total equity or net worth held in the company; shareholder equity for public companies.<br />Example: {{unbulleted list|{{increase}}US$32,016,008,004 (2011)|US$29,752,528,004 (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "owner": {
+            "label": "owner",
+            "description": "Use this parameter to list ownership percentages for private companies owned by a few key individuals or to list ownership percentages for joint ventures, if applicable. Do not use this field for publicly traded companies.  When listing a company as an owner, use the full legal name of the entity that holds the ownership stake in the article's subject company. List the owners alphabetically and use {{unbulleted list}} to format the entries.<br />Example: {{unbulleted list|[[Richemont|Compagnie Financière Richemont S.A.]] (50%)|[[Polo Ralph Lauren|Polo Ralph Lauren Corporation]] (50%)}}",
+            "type": "string",
+            "aliases": ["owners"],
+            "required": false
+        },
+        "num_employees": {
+            "label": "num_employees",
+            "description": "Total number of people employed by the company in the most recent year and the year prior, with the applicable years in parentheses. To separate thousands (e.g. 12,200; 5,200) please use a comma (,) instead of a full stop (.) per WP:MOSNUM.<br />Example: {{unbulleted list|{{steady}}127 (2011)|127 (2010)}}",
+            "type": "string",
+            "required": false
+        },
+        "parent": {
+            "label": "parent",
+            "description": "If the article's subject is a subsidiary of a holding company or parent company, list the full, legal name of the parent company, correctly reproducing punctuation and abbreviations or lack thereof.<br />Example, in the case of Solar Turbines Incorporated: [[Caterpillar Inc.]]",
+            "type": "string",
+            "required": false
+        },
+        "divisions": {
+            "label": "divisions",
+            "description": "The primary functional or operational business divisions of a company, listed alphabetically. These divisions align with the internal organizational structure of the company and may or may not align with the company's legally incorporated subsidiaries. If there is more than one entry, use {{unbulleted list}} to format the entries. If there are more than five divisions and the article body lists them or discusses them, consider linking to that part of the article rather than listing them in the infobox.<br />Example, for a fictional telecom corporation:{{unbulleted list|Business sales|Consumer sales|Information technologies|Network|Regulatory|Finance}}",
+            "type": "string",
+            "required": false
+        },
+        "subsid": {
+            "label": "subsid",
+            "description": "The primary legally incorporated subsidiaries owned by the company, listed alphabetically. Use the full, legal name of each subsidiary, correctly reproducing punctuation and abbreviations or lack thereof. Wikilink each subsidiary that has its own unique article. For publicly traded companies, a list of subsidiaries is disclosed in the company's annual report. If there is more than one entry, use {{unbulleted list}} to format the entries. If there are more than five subsidiaries and the article body lists them or discusses them, consider linking to that part of the article rather than listing them in the infobox.<br />Example, for Caterpillar Inc.: {{unbulleted list|Caterpillar Financial Services Corporation|Caterpillar Marine Power Systems|[[Perkins Engines Co. Limited]]|[[Progress Rail Services Corporation]]}}",
+            "type": "string",
+            "required": false
+        },
+        "homepage": {
+            "label": "slogan",
+            "description": "Slogan",
+            "type": "string",
+            "required": false
+        },
+        "homepage": {
+            "label": "module",
+            "description": "Allows other templates to be embedded.",
+            "type": "string",
+            "required": false
+        },
+        "homepage": {
+            "label": "homepage",
+            "description": "Top level URL of the company's website, using the {{URL}} template. Do not include the leading www. unless the URL will not resolve without it.<br />Examples: {{URL|caterpillar.com}}",
+            "type": "string",
+            "aliases": ["website"],
+            "required": false
+        },
+        "footnotes": {
+            "label": "footnotes",
+            "description": "Use to list citations that validate the data in the infobox or to note information about the terms, names and figures used in the infobox.",
+            "type": "string",
+            "required": false
+        },
+        "intl": {
+            "label": "intl",
+            "description": "Enter 'yes' in the data area to change some labels from U.S. terminology to international terminology. If the company is based in the United States, remove this parameter.",
+            "type": "string",
+            "required": false
+        },
+        "bodystyle": {
+            "label": "bodystyle",
+            "description": "See {{Infobox/doc}}.<br />Example: can be used to set width of Infobox to 28 em with: bodystyle = width:28em;",
+            "type": "string",
+            "required": false
+        }
+    }
+}
+</templatedata>
+
+== See also ==
+* [[:Category:Pages using infobox company with bodystyle]] (hidden tracking/maintenance category)
+
+==Notes==
+{{notelist}}
+
+{{Organization infoboxes}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+{{DEFAULTSORT:Company}}
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Business infobox templates]]
+[[Category:Company infobox templates]]
+[[Category:Organization infobox templates]]
+[[Category:Templates that add a tracking category|{{PAGENAME}}]]
+}}</includeonly>

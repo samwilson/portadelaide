@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Yellow-billed Spoonbill
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22697571 |title=''Platalea flavipes'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Yellow-billed Spoonbill at Perth Zoo.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes] 
+| familia = [https://en.wikipedia.org/wiki/Threskiornithidae Threskiornithidae]
+| genus = ''[https://en.wikipedia.org/wiki/Platalea Platalea]''
+| species = '''''P. flavipes'''''
+| binomial = ''Platalea flavipes''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Gould Gould], 1838
+|synonyms = ''Platibis flavipes'' 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Platalea+(Platibis)+flavipes ''Atlas of Living Australia'': Yellow-billed Spoonbill]
+* [http://birdlife.org.au/bird-profile/yellow-billed-spoonbill ''Birdlife Australia'': Yellow-billed Spoonbill]
+* [https://en.wikipedia.org/wiki/Yellow-billed_spoonbill ''Wikipedia'': Yellow-billed spoonbill]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

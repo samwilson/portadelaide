@@ -1,0 +1,40 @@
+{{Taxobox | name = Painted Burrowing Frog
+| status = LC | status_system = IUCN3.1
+| trend = stable
+| image = 
+| image_width = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Amphibian Amphibia]
+| ordo = [https://en.wikipedia.org/wiki/Frog Anura]
+| familia = [https://en.wikipedia.org/wiki/Myobatrachidae Myobatrachidae]
+| genus = ''[https://en.wikipedia.org/wiki/Neobatrachus Neobatrachus]''
+| species = '''''N. pictus'''''
+| binomial = ''Neobatrachus pictus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Wilhelm_Peters Peters], 1863
+| range_map = Neobatrachus pictus distrib.png
+| range_map_caption = Range of the Painted Burrowing Frog
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://http://bie.ala.org.au/species/Neobatrachus+pictus ''Atlas of Living Australia'': ''Neobatrachus pictus'']
+* [https://en.wikipedia.org/wiki/Painted_burrowing_frog ''Wikipedia'': Painted burrowing frog]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

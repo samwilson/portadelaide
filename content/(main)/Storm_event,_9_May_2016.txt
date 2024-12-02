@@ -1,0 +1,240 @@
+{{Infobox storm
+| name               = Storm event, 9 May 2016
+| image              = WestLakesBch@MiraniCourt DGP 2016-05-09 16.49.56.jpg
+| alt                = 
+| caption            = Waves at Mirani Court, West Lakes Shore, <br />50 minutes before the spring tide peak 
+| type               = 
+| formed             = {{Start date|2016|05|09|df=y}}
+| active             = 
+| dissipated         = <!-- {{End date|YYYY|MM|DD|df=y}} -->
+| lowest pressure    = <!-- in mb/hPa, gets automatically converted to inHg -->
+| lowest temperature = 
+| beaufort scale     =
+| highest winds      = 102 km/h at Murray Bridge
+| gusts              = 
+| maximum rain       = 66 mm at Lobethal
+| power outages      = 
+| casualties         = 
+| damages            = 
+| areas affected     = South Australian coast, Outback flooding
+| enhanced           = 
+| notes              = 
+}}
+
+On the evening of Monday 9 May 2016, a storm event caused by an intense low pressure system in the Southern Ocean resulted in extensive damage, especially along the coastline of Metropolitan Adelaide, and at other localities in South Australia.
+
+
+==Preparation==
+On Friday, 6 May 2016, the Bureau of Meteorology issued a severe weather warning for the coming weekend, for  widespread heavy rain up to 80mm in some areas  north of Maree,<ref>[http://www.adelaidenow.com.au/news/south-australia/bureau-of-meteorology-issues-flood-warning-for-far-north-of-south-australia-ahead-of-forecast-heavy-rain/news-story/2b7432f16e2de2fb600007abe8a4820a Bureau of Meteorology issues flood warning for Far North of South Australia ahead of forecast heavy rain] ''The Advertiser'', 6 May 2016.</ref> and damaging winds with gusts of up to 100km/h, in 10 districts including Adelaide, Mt Lofty Ranges, Yorke Peninsula and Eyre Peninsula.<ref name=Adv2016-05-06>[http://www.abc.net.au/news/2016-05-06/heavy-rain-and-possible-flooding-forecast-for-sa/7392190 South Australia faces heavy rain, possible flooding over weekend, weather bureau predicts] ''The Advertiser'', 6 May 2016.</ref>
+
+As a precaution, the Gorge Road between the Playford Bridge and Torrens Hill Road was closed due to the predicted rain and the associated flooding risk from the River Torrens.<ref name=Adv2016-05-06 />
+
+Residents of 50 houses in the Mallala area at high risk of flooding were evacuated to an emergency relief centre at Two Wells, and ferry services between Kangaroo Island and Cape Jervis were cancelled due to rough seas.<ref name=ABC2016-05-09>[http://www.abc.net.au/news/2016-05-09/wild-wind-brings-down-trees-across-adelaide/7394922?section=sa Wild weather lashes South Australia; flooding roads, bringing down trees and cancelling ferries] ''ABC News'', 9 May 2016.</ref>
+
+As sea water flooding was expected in low-lying areas along the Lefevre Peninsula from Outer Harbor to Port Adelaide,<ref>[http://www.adelaidenow.com.au/news/south-australia/severe-weather-warning-for-adelaide-as-outback-roads-become-rivers/news-story/918ddee6960e2f1334d3cea3dc37e325 SA, get ready for the wind and rain] ''The Advertiser'', 9 May 2016.</ref> sandbags were made available for collection from the Port Adelaide Enfield council depot on Victoria Road at Largs North, as well as the Holdfast Bay council's Macfarlane Street depot at Glenelg North.<ref name=ABC2016-05-09 />
+
+==The storm==
+The Metro area was buffeted by strong wind gusts, of up to 87km/h at Adelaide Airport,<ref>[http://www.bom.gov.au/climate/dwo/201605/html/IDCJDW5001.201605.shtml BoM > Adelaide Airport, South Australia May 2016 Daily Weather Observations]</ref> and gusts of around 100km/h were reported from Murray Bridge, and Cape Willoughby on Kangaroo Island.<ref name=ABC2016-05-09 />
+
+Rainfall in the Metro area was relatively low with 16 mm recorded in Adelaide,<ref>[http://www.bom.gov.au/climate/dwo/201605/html/IDCJDW5002.201605.shtml BoM > Adelaide, South Australia May 2016 Daily Weather Observations]</ref> and Lobethal receiving the highest rainfall with 66 mm. Falls in Outback SA of between 40 and 60 mm were recorded in some areas, and sections of the Oodnadatta, Birdsville and Strzelecki tracks were closed to all vehicles.<ref name=ABC2016-05-10a>[http://www.abc.net.au/news/2016-05-09/damaging-winds-predicted-across-sa/7399470?section=sa Damaging wind gusts predicted across South Australia after day of flooding, traffic disruptions] ''ABC News'', 10 May 2016.</ref>
+
+As the storm coincided with a spring tide, with the predicted astronomical tide expected to peak at 2.73 m. at 5:39 pm. The strong northwesterly winds created a storm surge which peaked at about 1.2 metres above normal, at 3.8 metres at Outer Harbor, the highest level since 2007.<ref name=ABC2016-05-10b>[http://www.abc.net.au/news/2016-05-10/storm-conditions-ease-after-wild-night-across-sa/7399716?section=sa SA weather: Storm conditions ease as authorities restore power after wild night] ''ABC News'', 10 May 2016.</ref>
+
+The dunes at Tennyson and West Beach were heavily eroded.
+
+{{Gallery
+|title=Storm waves at the Torrens Outlet, 16:30, 9 May 2016
+|align=center
+|File: HenleySth_TorrensOutlet_DGP_2016-05-09_16.31.53.jpg |alt1= |
+|File: HenleySth_TorrensOutlet_DGP_2016-05-09_16.32.19.jpg |alt2= |
+|File: HenleySth_TorrensOutlet_DGP_2016-05-09_16.32.26.jpg |alt3= |
+|File: HenleySth_TorrensOutlet_DGP_2016-05-09_16.32.38.jpg |alt4= |
+}}
+
+==Port River flooding==
+
+===Birkenhead===
+As the amount of rainfall was limited, the flooding which occurred was caused by seawater from the Port River overflowing through stormwater drains. The Birkenhead Tavern's car park and 17 homes in Birkenhead and Semaphore were flooded, and the Birkenhead Bridge was closed due to flooding across the road.
+
+
+{{Gallery
+|title=Birkenhead king tide, 9 May 2016
+|align=center
+|File: Birkenhead street flooding 1, 2016.jpg |alt1= |Seawater flooding Hughes St, viewed towards Fletcher Rd, at 17:34
+|File: Birkenhead king tide 1, 2016.jpg |alt2= |King tide at Fletcher's Slip, <br />at 17:33
+}}
+
+
+===Mutton Cove===
+
+The seawall at the [[Mutton Cove|Mutton Cove Conservation Reserve]] had previously been badly eroded  in several places on its river-facing side.  The king tide of 9 May finally breached the seawall at the southernmost erosion hotspot, and within the reserve the E-W walking track was also breached. Around 90% of the reserve was flooded at the time, and subsequent tidal flows are unrestricted, causing continuing erosion of the seawall and deepening of the tidal channel.
+
+
+{{Gallery
+|title=King tide at Mutton Cove overtopping the seawall and flooding the reserve, 9 May 2016
+|align=center
+|File: MuttonCove_LeveeBank_JAT_9May16_02.JPG |alt1= |
+|File: MuttonCoveCP_Levee_DGP_2016-05-09_17.40.27.jpg |alt2= |
+|File: MuttonCoveCP_Levee_DGP_2016-05-09_17.41.29.jpg |alt3= |
+|File: MuttonCoveCP_South_DGP_2016-05-09_17.15.56.jpg |alt4= |
+|File: MuttonCoveCP_South_DGP_2016-05-09_17.12.59.jpg |alt5= |
+}}
+
+{{Gallery
+|title=Aftermath of the Mutton Cove seawall breach and flooding
+|align=center
+|File:Mutton Cove 1, 2016.JPG |alt1=Breach in the Mutton Cove seawall |Breach in the Mutton Cove seawall, at low tide, <br />13 May 2016
+|File:Mutton Cove 2, 2016.JPG |alt2=View through the breach in the seawall |View through the breach in the seawall, across the Port River at low tide<br />13 May 2016
+|File:Mutton Cove 3, 2016.JPG |alt3=View west across the breach in the E-W levee |View west across the breach in the E-W levee and walkway through the Mutton Cove Conservation Reserve<br />15 May 2016
+|File: Mutton Cove 4, 2016.JPG |alt4= |As the seawall was breached, the force of the water ripped large prisms of clay sediments from the channel floor. 15 May 2016
+|File: Mutton Cove 5, 2016.JPG |alt5= |Incoming tide at the breach in the Mutton Cove seawall, 30 minutes before high water at 2.73m, 22 May 2016<br />
+|File: Mutton Cove 6, 2016.JPG |alt6= |Incoming tide at the breach in the E-W walking track, 15 minutes before high water at 2.73m, 22 May 2016<br />
+|File: Mutton Cove 7, 2016.JPG |alt7= |Ebbing tide at the breach in the E-W walking track, <br />25 May 2016<br />
+
+}}
+
+===Torrens Island===
+
+{{Gallery
+|title=Damage to the heritage-listed Quarantine Station jetty
+|align=center
+|File:TIQS jetty 9 May 2016 storm damage 1.jpg |alt1= |Seagrass wrack on the jetty<br />
+|File:TIQS jetty 9 May 2016 storm damage 2.jpg |alt2= |Missing plank<br />
+|File:TIQS jetty 9 May 2016 storm damage 3.jpg |alt3= |Displaced planks at the end of the jetty
+|File:TIQS jetty 9 May 2016 storm damage 4.jpg |alt4= |Damage to the jetty deck <br />
+|File:TIQS jetty 9 May 2016 storm damage 5.jpg |alt5= |Seagrass wrack deposited at the seawall beside the jetty
+|File:TIQS jetty 9 May 2016 storm damage 6.jpg |alt6= |Undamaged dunes just north of the TIQS seawall
+|File:TIQS jetty 9 May 2016 storm damage 7.jpg |alt7= |Northern end of the seawall, and remains of the long-demolished boat ramp
+|File:TIQS jetty 9 May 2016 storm damage 8.jpg |alt8= |Debris washed onto the Grand Trunkway, south of TIQS
+
+}}
+
+
+==Metro coast damage==
+
+
+===Semaphore===
+
+{{Gallery
+|title=Semaphore Jetty
+|align=center
+|File:Semaphore Jetty waves, 2016.JPG |alt1= |Storm waves surging through the Semaphore Jetty deck, 17:32, 9 May 2016  
+|File:Semaphore Jetty 1 2016.jpg |alt2= |Semaphore Jetty was closed during the storm, but reopened the next day 
+|File:Semaphore Jetty 2 2016.jpg |alt3= |Dune erosion adjacent to the Semaphore Jetty
+|File:Semaphore Jetty 3 2016.jpg |alt4= |Dunes north of the Semaphore Jetty
+|File:Semaphore Jetty 4 2016.jpg |alt5= |The storm's king tide reached the seawall adjacent to the Semaphore Jetty 
+}}
+
+===Semaphore South===
+
+{{Gallery
+|title=Dune erosion north of the off-shore breakwater
+|align=center
+|File:Semaphore South 6, 2016.jpg |alt1= |Erosion scarp of remnant dune
+|File:Semaphore South 7, 2016.jpg |alt2= |Remnant dune north of the offshore breakwater
+|File:Semaphore South 8, 2016.jpg |alt2= |View south along the remnant dune 
+|File:Semaphore South 9, 2016.jpg |alt4= |Wind erosion of remnant dune - sand blown onto council reserve
+}}
+
+{{Gallery
+|title=Semaphore South off-shore breakwater
+|align=center
+|File:Semaphore South 1, 2016.jpg |alt1= |Seagrass wrack deposited prior to the storm, protected by the breakwater 
+|File:Semaphore South 2, 2016.jpg |alt2= |Storm-eroded hummocks of seagrass wrack, south of the breakwater 
+|File:Semaphore South 3, 2016.jpg |alt2= |Prograding shore-attached sandbars south of the breakwater 
+|File:Semaphore South 4, 2016.jpg |alt4= |Ripples and current-formed sandwaves indicate direction of longshore current in lee of breakwater
+|File:Semaphore South 5, 2016.jpg |alt5= |Prograding shore-attached sandbars in lee of breakwater
+}}
+
+
+===Tennyson===
+
+{{Gallery
+|title=Erosion of the Tennyson Dunes
+|align=center
+|File:Tennyson erosion 1, 2016.jpg |alt1= |Dune erosion and beach lowering, north of Bournemouth Avenue 
+|File:Tennyson erosion 2, 2016.jpg |alt2= |Dune erosion south of Bournemouth Avenue<br />
+|File:Tennyson erosion 3, 2016.jpg |alt3= |Remains of sand-drift fencing exposed by erosion<br />
+|File:Tennyson erosion 4, 2016.jpg |alt4= |Council workmen removing remains of sand-drift fencing<br />
+|File:Tennyson erosion 5, 2016.jpg |alt4= |Council workmen removing remains of sand-drift fencing<br />
+|File:Tennyson erosion 6, 2016.jpg |alt4= |Spinifex roots providing some protection against erosion of low dune
+}}
+
+
+===Henley Beach===
+
+{{Gallery
+|title=Henley Beach Jetty
+|align=center
+|File:Henley Jetty closure 1, 2016.jpg |alt1= |Henley Jetty was closed for a week due to storm damage
+
+}}
+
+
+===West Beach===
+
+{{Gallery
+|title=Erosion of the West Beach dunes south of the Torrens Outlet
+|align=center
+|File:West Beach 10, 2016.jpg |alt1=Eroded dune scarps |Eroded dune scarps at the Henley Sailing Club
+|File:West Beach 11, 2016.jpg |alt2=Eroded dune scarps |Eroded dune scarps immediately south of the Torrens Outlet
+|File:West Beach 13, 2016.jpg |alt3=Heaps of pushed sand protecting sand pumping station |Sand pushed up at the West Beach sand slurry pumping station
+|File:West Beach 14, 2016.jpg |alt4=Machinery compound behind heaps of pushed sand | The West Beach sand slurry pumping station 
+|File:West Beach 12, 2016.jpg |alt5=Eroded dune scarps |Eroded dune scarps south of the Torrens Outlet, and remains of walkway
+}}
+
+{{Gallery
+|title=Foreshore damage at the West Beach SLSC
+|align=center
+|File:West Beach 5, 2016.jpg |alt1=Closed walkway with sign |Walkway between the Adelaide Shores caravan park and the West Beach SLSC closed due to storm damage
+|File:West Beach 6, 2016.jpg |alt2=Closed ramp with sign, dislodged bitumen |Storm damage to the boat ramp at the West Beach SLSC
+|File:West Beach 7, 2016.jpg |alt3=Pipeline in trench exposed by damage to concrete capping |Sand transfer pipeline exposed by storm erosion
+|File:West Beach 8, 2016.jpg |alt4=Sandbagged door with wave-strewn rocks |Sandbagged door of the West Beach SLSC
+|File:West Beach 9, 2016.jpg |alt5=Row of beach drift fenceposts exposed by erosion |Erosion of the dune north of the rockwall at the West Beach SLSC
+}}
+
+{{Gallery
+|title=Damage to the West Beach Coastal Path
+|align=center
+|File:West Beach 15, 2016.jpg |alt1= |Coastal Path south of the West Beach SLSC closed due to storm damage
+|File:West Beach 16, 2016.jpg |alt2= |Undermined section of the Coastal Path, view to south
+|File:West Beach 17, 2016.jpg |alt3= |Storm debris scattered on the Coastal Path
+|File:West Beach 18, 2016.jpg |alt5= |Undermined section of the Coastal Path, view to north
+}}
+
+
+{{Gallery
+|title=Erosion of the West Beach dunes adjacent to Adelaide Shores
+|align=center
+|File:West Beach 1, 2016.jpg |alt1=Removal of overhanging walkway |Workers cutting away the overhanging walkway from the Adelaide Shores Caravan Park
+|File:West Beach 2, 2016.jpg |alt2=Undermuned walkway |Walkway just north of the West Beach Boat Harbour, undermined by the storm 
+|File:West Beach 3, 2016.jpg |alt3=Debris at foot of dune scarp |A further section of the Hamra Ave viewing platform, undermined by the storm
+|File:West Beach 4, 2016.jpg |alt4=Abrupt end to short section of walkway at top of dune |Remaining section of the landward end of the Hamra Ave viewing platform 
+}}
+
+
+==Remedial works==
+===West Beach===
+
+{{Gallery
+|title=Rebuilding the sand buffer in front of the West Beach dunes adjacent to Adelaide Shores, June 2016
+|align=center
+|File:West Beach 19, 2016.jpg |alt1= | Sand carted from Semaphore, being dumped beside an excavator
+|File:West Beach 20, 2016.jpg |alt2= | The excavator loading sand into a dump truck
+|File:West Beach 21, 2016.jpg |alt3= | Dump truck placing sand at foot of dune erosion scarp
+|File:West Beach 22, 2016.jpg |alt4= | Sand placed at foot of dune erosion scarp
+|File:West Beach 23, 2016.jpg |alt4= | Dredge removing storm sand accumulation from the West Beach Boat Harbour
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+
+===Additional reporting and photos:===
+[http://News:%20Port%20River%20breaks%20bank%20and%20Mutton%20Cove%20flooded News: Port River breaks bank and Mutton Cove flooded] Friends of Mutton Cove, 10 May 2016.
+
+
+{{Template:Storms and floods}}
+
+[[Category:Storms]]

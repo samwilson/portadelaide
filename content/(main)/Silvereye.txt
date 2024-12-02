@@ -1,0 +1,42 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22714212 |title=''Zosterops lateralis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Silvereye_Jan_2010.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/White-eye Zosteropidae]
+| genus = ''[https://en.wikipedia.org/wiki/Zosterops Zosterops]''
+| species = '''''Z. lateralis'''''
+| binomial = ''Zosterops lateralis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+}}
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Zosterops+lateralis ''Atlas of Living Australia'': Silvereye]
+* [http://birdlife.org.au/bird-profile/silvereye ''Birdlife Australia'': Silvereye]
+* [https://en.wikipedia.org/wiki/Silvereye ''Wikipedia'': Silvereye]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

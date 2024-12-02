@@ -1,0 +1,49 @@
+{{Taxobox
+| name = Australian Shelduck
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22680011 |title=''Tadorna tadornoides'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International]] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image =Tadorna_tadornoides_female_1_-_Perth.jpg
+| image_width = 240px
+| image_caption = Female
+| image2 =Tadorna_tadornoides_male_1_-_Perth.jpg
+| image2_width = 240px
+| image2_caption = Male
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Tadorninae Tadorninae]
+| genus = ''[https://en.wikipedia.org/wiki/Shelduck Tadorna]''
+| species = '''''T. tadornoides'''''
+| binomial = ''Tadorna tadornoides''
+| binomial_authority = ([https://en.wikipedia.org/wiki/William_Jardine_(naturalist) Jardine] & [https://en.wikipedia.org/wiki/Prideaux_John_Selby Selby], 1828)
+| range_map =
+| range_map_caption = Distribution
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Tadorna+(Casarca)+tadornoides ''Atlas of Living Australia'': Australian Shelduck]
+* [http://birdlife.org.au/bird-profile/australian-shelduck ''Birdlife Australia'': Australian Shelduck]
+* [https://en.wikipedia.org/wiki/Australian_shelduck ''Wikipedia'': Australian shelduck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

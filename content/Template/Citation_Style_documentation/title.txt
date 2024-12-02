@@ -1,0 +1,31 @@
+* '''{{#switch:{{{title_title}}}
+|encyclopedia=encyclopedia
+|#default = title}}''': Title of source. {{#switch:{{{link}}}|no=|Can be wikilinked to an existing Wikipedia article or '''url''' may be used to add an external link, but not both.}} {{#switch:{{BASEPAGENAME}}
+|Cite arXiv = Displays in quotes
+|Cite book = Displays in italics
+|Cite conference = Displays in quotes
+|Cite journal = Displays in quotes
+|Cite news = Displays in quotes
+|Cite web = Displays in quotes
+|Cite press release = Displays in quotes
+|Cite podcast = Displays in quotes
+|Cite report = Displays unformatted, without italics or quotes
+|#default = Displays in italics}}. If '''script-title''' is defined, '''title''' holds romanized transliteration of title in '''script-title'''.
+** '''script-title''': Original title for languages that do not use a Latin-based alphabet (Arabic, Chinese, Hebrew, Japanese, etc); not italicized, follows italicized transliteration defined in '''title'''. May be prefixed with an [[List of ISO 639-1 codes|ISO 639-1]] two-character code to help browsers properly display the script:
+**:<code><nowiki>... |title=Tōkyō tawā |script-title=ja:東京タワー |trans-title=Tokyo Tower ...</nowiki></code>
+** '''trans-title''': English translation of the title if the source cited is in a foreign language. Displays in square brackets after '''{{#switch:{{{title_title}}}
+|encyclopedia=encyclopedia
+|#default = title}}'''; if '''url''' is defined, then '''trans-title''' is included in the link. Use of the '''language''' parameter is recommended.
+:Titles containing certain characters will display and link incorrectly unless those characters are encoded.
+{| class="wikitable" style="margin-left: 5em"
+! newline !! [ !! ] !! &#124;
+|-
+| space || style="text-align: center;" | &amp;#91; || style="text-align: center;" | &amp;#93; || style="text-align: center;" | &amp;#124;
+|-
+|
+| colspan="2" style="text-align: center;" | [[Template:Bracket|<nowiki>{{bracket|text}}</nowiki>]] || [[Template:Pipe|<nowiki>{{pipe}}</nowiki>]] – see also: [[Help:Table#Rendering_pipe_itself|rendering vertical bars in tables]]
+|}
+{{#ifeq:{{{title_format|}}}|quotes|
+*When the title you are citing contains quotations marks or apostrophes at the beginning, end or both, you can use <code>&amp;thinsp;</code> to place a separation between that punctuation and the quotation marks this template automatically provides around the title, to avoid a non-ideal display such as <nowiki>'''</nowiki>. 
+:*For example instead of {{xt|<nowiki>title='name'</nowiki>}} which will display on many browsers with the quotation marks surrounding it as {{!xt|<nowiki>'''name'''</nowiki>}}, use {{xt|<nowiki>|title=</nowiki>}}{{!xt|&amp;thinsp;}}'name'{{!xt|&amp;thinsp;}}, which will display as "&thinsp;'name'&thinsp;".}}
+:* '''title-link''': Title of existing Wikipedia article about the source named in '''title''' – do not use a web address; do not wikilink. Alias: '''titlelink'''.

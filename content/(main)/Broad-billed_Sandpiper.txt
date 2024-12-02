@@ -1,0 +1,42 @@
+{{Taxobox
+| image = File:Broad billed sandpiper by Sreedev Puthur.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693464 |title=''Limicola falcinellus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = '''''Limicola''''' (disputed)
+| genus_authority = [https://en.wikipedia.org/wiki/Carl_Ludwig_Koch Koch], 1816
+| species = '''''L. falcinellus'''''
+| binomial = ''Limicola falcinellus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Erik_Pontoppidan Pontoppidan], 1763)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Limicola+falcinellus ''Atlas of Living Australia'': Broad-billed Sandpiper]
+* [http://birdlife.org.au/bird-profile/broad-billed-sandpiper ''Birdlife Australia'': Broad-billed Sandpiper]
+* [https://en.wikipedia.org/wiki/Broad-billed_sandpiper ''Wikipedia'': Broad-billed sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

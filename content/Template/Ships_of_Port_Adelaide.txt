@@ -1,0 +1,19 @@
+{{Navbox
+|name       = Ships of Port Adelaide
+|title      = Ships of Port Adelaide
+|listclass  = hlist
+|above      = 
+
+|group1     = Ketches
+|list1      = 
+* [[Falie|''Falie'']]
+* [[Nelcebee|''Nelcebee'']]
+* [[One and All|''One and All'']]
+
+|group2     = Tugboats
+|list2      = 
+* [[Fearless (tugboat)|''Fearless'']]
+* [[Yatala (tugboat)|''Yatala'']]
+* [[Yelta (tugboat)|''Yelta'']]
+
+}}

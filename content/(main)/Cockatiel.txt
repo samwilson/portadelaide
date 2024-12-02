@@ -1,0 +1,55 @@
+{{Taxobox
+| name = Cockatiel
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22684828 |title=''Nymphicus hollandicus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Cockatielmale.jpg
+| image_width = 240px
+| image_caption = Male
+| image2 = Cockatielfemale.jpg
+| image2_width = 240px
+| image2_caption = Female
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Cacatuoidea Cacatuoidea]
+| familia = [https://en.wikipedia.org/wiki/Cacatuidae Cacatuidae]
+| subfamilia = '''Nymphicinae'''
+| genus = '''''Nymphicus'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Johann_Georg_Wagler Wagler], 1832
+| species = '''''N. hollandicus'''''
+| binomial = ''Nymphicus hollandicus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Robert_Kerr_(writer) Kerr], 1792)
+| range_map = Bird range cockatiel.png
+| range_map_caption = Cockatiel range (in red; all-year resident)
+| synonyms =
+''Psittacus hollandicus'' {{Taxobox authority | author = Kerr |date= 1792}}<br />
+''Leptolophus hollandicus''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Nymphicus+hollandicus ''Atlas of Living Australia'': Cockatiel]
+* [http://birdlife.org.au/bird-profile/cockatiel ''Birdlife Australia'': Cockatiel]
+* [https://en.wikipedia.org/wiki/Cockatiel ''Wikipedia'': Cockatiel]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

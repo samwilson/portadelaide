@@ -1,0 +1,924 @@
+{{Documentation subpage|override=shared doc|a group of templates}}{{#ifeq:{{BASEPAGENAME}}|Infobox ship begin|{{lua|Module:WPSHIPS utilities}}
+:''NB. {{tl|Infobox ship begin}} contains code that can automatically style a variety of ship and ship-class article titles.  For details see: the infobox usage guide §[[Template:Infobox_ship_begin/Usage_guide#Title_styling|Title styling]].}}
+
+This ship infobox supports a very large number of fields, including some specialty fields that will rarely be used.  Some fields simply don't make sense in some cases.  Some different sets of code have been prepared using only the most common fields.  Select the most appropriate set below and copy and paste the entire code to the top of a ship article, then fill in as many fields as possible.  Empty fields should generally be kept so that a future editor can fill them in unless they make no sense for the ship in question.
+
+The "Full" code contains every field the template supports.  If you want, you can copy one of the simplified sets of code and add a few fields from the "Full" code.
+
+If you have ideas for improvements or would like to add brand new fields to these templates, please post on [[Template talk:Infobox ship begin]] to discuss the changes and how they should be implemented.
+
+=== Usage ===
+
+==== Code for individual ships ====
+
+For infoboxes of individual ships, please copy the appropriate example for the type of ship:
+{{collapse top |bg=#d0e5f5 |title=Warships (except submarines). {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- warships except submarines -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+}}
+{{Infobox ship image
+|Ship image= 
+|Ship image size= 
+|Ship caption= 
+}}
+{{Infobox ship career
+|Hide header= 
+|Ship country= 
+|Ship flag= 
+|Ship name=
+|Ship owner= 
+|Ship namesake= 
+|Ship ordered= 
+|Ship builder= 
+|Ship laid down= 
+|Ship launched= 
+|Ship acquired= 
+|Ship commissioned= 
+|Ship decommissioned= 
+|Ship in service= 
+|Ship out of service= 
+|Ship struck= 
+|Ship reinstated= 
+|Ship honours=
+|Ship honors=
+|Ship fate=
+|Ship status= 
+|Ship notes= 
+}}
+{{Infobox ship characteristics
+|Hide header= 
+|Header caption= 
+|Ship class= 
+|Ship displacement= 
+|Ship length= 
+|Ship beam= 
+|Ship draught= 
+|Ship draft= 
+|Ship propulsion= 
+|Ship speed= 
+|Ship range= 
+|Ship complement= 
+|Ship sensors= 
+|Ship EW= 
+|Ship armament= 
+|Ship armour= 
+|Ship armor= 
+|Ship aircraft= 
+|Ship aircraft facilities=
+|Ship notes= 
+}}
+|}
+</nowiki></poem></code>
+{{collapse bottom}}<!-- end of warships except submarines -->
+{{collapse top |bg=#d0e5f5 |title=Submarines. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- submarines -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+}}
+{{Infobox ship image
+|Ship image= 
+|Ship image size= 
+|Ship caption= 
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag=
+|Ship name=
+|Ship namesake=
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=
+|Ship acquired=
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship struck=
+|Ship reinstated=
+|Ship fate=
+|Ship status=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship draught=
+|Ship draft=
+|Ship propulsion=
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of submarines -->
+{{collapse top |bg=#d0e5f5 |title=Age of sail. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- age of sail -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+}} 
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag=
+|Ship name=
+|Ship owner=
+|Ship ordered=
+|Ship builder=
+|Ship original cost=
+|Ship laid down=
+|Ship launched=
+|Ship acquired=
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship struck=
+|Ship reinstated=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship tons burthen=
+|Ship length=
+|Ship beam=
+|Ship draught=
+|Ship draft=
+|Ship hold depth=
+|Ship propulsion=
+|Ship sail plan=
+|Ship complement=
+|Ship armament=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of Age of Sail -->
+{{collapse top |bg=#d0e5f5 |title=Commercial vessels. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- commercial vessels -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship name=
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship builder=
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship completed=
+|Ship christened=
+|Ship acquired=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship identification=
+|Ship fate=
+|Ship status=
+|Ship notes=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship tonnage=
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=
+|Ship speed=
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of commercial vessels -->
+<br />
+If none of the above fit, you may use this full setup:
+{{collapse top |bg=#d0e5f5 |title=Full code for individual ships. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- full code -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship career
+|Hide header=
+|Ship country=
+|Ship flag=
+|Ship name=
+|Ship namesake=
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship awarded=
+|Ship builder=
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship sponsor=
+|Ship christened=
+|Ship completed=
+|Ship acquired=
+|Ship commissioned=
+|Ship recommissioned=
+|Ship decommissioned=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=
+|Ship reclassified=
+|Ship refit=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship identification=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship honors=
+|Ship captured=
+|Ship fate=
+|Ship status=
+|Ship notes=
+|Ship badge=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship tonnage=
+|Ship displacement=
+|Ship tons burthen=
+|Ship length=
+|Ship beam=
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=
+|Ship sail plan=
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of all options setup -->
+
+==== Code for ship classes ====
+For infoboxes of ship classes, please copy the appropriate example for the type of ship class:
+
+{{collapse top |bg=#CCCCFF |title=Warship classes (except submarines). {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- warship classes -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+|sclass= <!-- keyword: 2 -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=
+|Class before=
+|Class after=
+|Subclasses=
+|Built range=
+|In commission range=
+|Total ships building=
+|Total ships planned=
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up= 
+|Total ships lost=
+|Total ships retired=
+|Total ships scrapped=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship draught=
+|Ship draft=
+|Ship propulsion=
+|Ship speed=
+|Ship range=
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour=
+|Ship armor= 
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of warships classes -->
+{{collapse top |bg=#CCCCFF |title=Submarine classes. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- submarine classes -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+|sclass= <!-- keyword: 2 -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=
+|Class before=
+|Class after=
+|Subclasses=
+|Built range=
+|In commission range=
+|Total ships building=
+|Total ships planned=
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships scrapped=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship draught=
+|Ship draft=
+|Ship propulsion=
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship complement=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of submarine classes -->
+{{collapse top |bg=#CCCCFF |title=Age of sail classes. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- age of sail classes -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+|sclass= <!-- keyword: 2 -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=
+|Class before=
+|Class after=
+|Subclasses=
+|Built range=
+|In commission range=
+|Total ships building=
+|Total ships planned=
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships scrapped=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=
+|Ship tons burthen=
+|Ship length=
+|Ship beam=
+|Ship draught=
+|Ship draft=
+|Ship hold depth=
+|Ship propulsion=
+|Ship sail plan=
+|Ship complement=
+|Ship armament=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of age of sail classes -->
+{{collapse top |bg=#CCCCFF |title=Commercial vessel classes. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- commercial vessel classes -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+|sclass= <!-- keyword: 2 -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship class overview
+|Builders=
+|Operators=
+|Class before=
+|Class after=
+|Subclasses=
+|Built range=
+|In service range=
+|Total ships building=
+|Total ships planned=
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships scrapped=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship type=
+|Ship tonnage=
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=
+|Ship speed=
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of commercial vessel classes -->
+
+<br>
+If none of the above fit, you may use this full setup:
+{{collapse top |bg=#CCCCFF |title=Full code for ship classes. {{nobold|{{small|Select show to expand.}}}}}}
+<code><poem><nowiki>{|{{Infobox ship begin <!-- full code -->
+|infobox caption= <!-- keywords: yes, nodab; or caption text -->
+|display title= <!-- keywords: none, ital; or article title with markup -->
+|sclass= <!-- keyword: 2 -->
+}}
+{{Infobox ship image
+|Ship image=
+|Ship image size= 
+|Ship caption=
+}}
+{{Infobox ship class overview
+|Name=
+|Builders=
+|Operators=
+|Class before=
+|Class after=
+|Subclasses=
+|Cost=
+|Built range=
+|In service range=
+|In commission range=
+|Total ships building=
+|Total ships planned=
+|Total ships completed=
+|Total ships cancelled=
+|Total ships active=
+|Total ships laid up=
+|Total ships lost=
+|Total ships retired=
+|Total ships scrapped=
+|Total ships preserved=
+}}
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class=
+|Ship type=
+|Ship tonnage=
+|Ship displacement=
+|Ship tons burthen=
+|Ship length=
+|Ship beam=
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth=
+|Ship hold depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship power=
+|Ship propulsion=
+|Ship sail plan=
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship troops=
+|Ship complement=
+|Ship crew=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship aircraft facilities=
+|Ship notes=
+}}
+|}</nowiki></poem></code>
+{{collapse bottom}}<!-- end of full code -->
+
+=== Parameters ===
+{{Further information|Template:Infobox ship begin/Usage guide}}
+Most fields are self-explanatory, but here are some tips (see the [[Template:Infobox ship begin/Usage guide|usage guide]] for a complete explanation of all parameter fields):
+#'''Ship image''' If your article does not have an image in this field, the ship will automatically be listed at the hidden category [[:Category:Ship infoboxes without an image]].  Editors can use the category to easily see a list of infoboxes where no image is attached and work to find pictures.
+#'''Ship caption''', the caption for the ship's picture, should be left blank if no extra information about the picture is available; don't just fill in the ship's name.
+#'''Ship country''' is necessary when a ship served under multiple countries, but not really necessary otherwise.
+#'''Ship class''' should include both the class and the type of ship.  For example, [[Balao class submarine|''Balao''-class]] [[diesel-electric]] [[submarine]] provides complete information.  It can be replaced with '''Ship type''', which displays as "Type:", for ships that aren't members of a class.
+#'''Ship name''' is necessary when a ship served under multiple names, but not really necessary otherwise.
+#'''Ship fate''' and '''Ship status''' generally shouldn't both be filled in.  Whichever one sounds most appropriate for the situation should be filled in.  Use Ship fate when the ship sank or was scrapped, and use Ship status when the ship is active, kept in reserve, or currently a museum.
+#'''Ship displacement''' and '''Ship tonnage''' are not the same thing.  [[Displacement (fluid)|Displacement]] is the mass of a ship in a particular condition, like when it's fully loaded for battle.  It is generally used for military vessels.  [[Tonnage]] is a measurement of the cargo capacity of a vessel and isn't exactly correlated with weight: a ship of a particular tonnage will have a different mass depending on whether it's full of grain or iron. Entries in either parameter need to specifically identify the units in which they are being measured, such as long tons, metric tons or tonnes (unacceptable in articles using American English, use metric tons) or gross register tons or whatever. If possible, use templates such as {{Template|GT}}, {{Template|NetT}} and {{Template|DWT}}.
+
+==== Alternate spellings ====
+
+Some fields provide alternate spellings and should never both be filled in:
+
+# "Ship honors" and "Ship honours"
+# "Ship draft" and "Ship draught"
+# "Ship armor" and "Ship armour"
+
+==== Parameter value import from Wikidata ====
+Infobox ship can import parameter values from [[:d:Wikidata:Main_Page|Wikidata]] (WD).  A Wikidata property is roughly equivalent to an infobox parameter. When there is a page at Wikidata that matches the page at Wikipedia, and the Wikidata page has a property that matches the infobox parameter, then the infobox parameter can take its value from the Wikidata property.
+
+These parameters, if left empty or omitted from the template, may be filled from Wikidata:
+* '''Ship class''', supplied by WD property [[:d:Property:P289|d:ship class]]
+
+When the infobox is rendered in an article, those parameters that use Wikidata property values will display an icon ([[File:Wikidata-favicon.png|16px|alt=Imported from Wikidata|link={{fullurl:d:Wikidata:Main_Page}}]]) linked to the Wikidata source page.  Articles using Wikidata properties are listed in {{cl|Ship infoboxes importing Wikidata}}.
+
+If an imported value is inappropriate or wrong, the corresponding Wikidata item should be corrected.  The template code will only display a parameter's label and value if the parameter has an assigned value, whether provided locally or provided by Wikidata.  If display of a Wikidata property value is not appropriate or desired, use the reserved value <code>none</code> as the parameter value to block Wikdata import. Articles blocking Wikdata property import are listed in {{cl|Ship infoboxes blocking Wikidata import}}.
+
+===Removing extra fields===
+It's generally a good idea not to remove fields, because another editor might be able to provide the information later.  However, in the case of mutually exclusive fields, like "Ship armor" and "Ship armour", the unused field can be removed if desired.  Also, if a section is repeated (to show multiple periods in commission, for example), fields that are inappropriate to duplicate can be removed if desired. Keep in mind that a ship from the Age of Sail would not need the fields for aircraft or electronic warfare instruments and in opposite an aircraft carrier would not need the fields for a sail plan. A surface ship would not require fields for submarines etc.
+
+=== Special capabilities ===
+
+==== Repeating sections ====
+
+This infobox allows you to repeat sections.  To repeat, just make a copy of the section to be repeated.  You can repeat the Image, Career, or Characteristics sections.  Here is an example, with extra fields removed for clarity:
+{|{{Infobox ship begin |infobox caption=USS ''Bang'' (SS-385)}}
+{{Infobox ship image
+| Ship image=Uss bang.jpg
+| Ship image size=300px
+| Ship caption=
+}}
+{{Infobox ship career
+| Ship country=U.S.
+| Ship flag={{USN flag|1972}}
+| Ship name=USS ''Bang'' (SS-385)
+| Ship laid down=30 April 1943
+| Ship launched=30 August 1943
+| Ship commissioned=4 December 1943
+| Ship decommissioned=1 October 1972
+| Ship struck=18 November 1974
+| Ship fate=Transferred to Spain, 1 October 1972
+}}
+{{Infobox ship career
+| Ship country=Spain
+| Ship flag={{shipboxflag|Spain}}
+| Ship name=SPS ''Cosme Garcia'' (S34)
+| Ship acquired=1 October 1972
+| Ship fate=scrapped 1983
+}}
+{{Infobox ship characteristics
+| Header caption=
+| Ship displacement=*1,526&nbsp;tons surfaced
+*2,391&nbsp;tons
+| Ship length={{convert|311|ft|8|in|m|2|abbr=on}}
+| Ship beam={{convert|27|ft|3|in|m|2|abbr=on}}
+| Ship complement=66
+}}
+|}
+<pre style="overflow:auto">
+{|{{Infobox ship begin |infobox caption=}}
+{{Infobox ship image
+| Ship image=Uss bang.jpg
+| Ship image size=300px
+| Ship caption=
+}}
+{{Infobox ship career
+| Ship country=US
+| Ship flag={{USN flag|1972}}
+| Ship name=USS ''Bang'' (SS-385)
+| Ship laid down=30 April 1943
+| Ship launched=30 August 1943
+| Ship commissioned=4 December 1943
+| Ship decommissioned=1 October 1972
+| Ship struck=18 November 1974
+| Ship fate=Transferred to Spain, 1 October 1972
+}}
+{{Infobox ship career
+| Ship country=Spain
+| Ship flag={{shipboxflag|Spain}}
+| Ship name=SPS ''Cosme Garcia'' (S34)
+| Ship acquired=1 October 1972
+| Ship fate=scrapped 1983
+}}
+{{Infobox ship characteristics
+| Header caption=
+| Ship displacement=*1,526&nbsp;tons surfaced
+*2,391&nbsp;tons
+| Ship length=311&nbsp;ft 8&nbsp;in (95&nbsp;m)
+| Ship beam=27&nbsp;ft 3&nbsp;in (8.3&nbsp;m)
+| Ship complement=66
+}}
+|}</pre>
+{{-}}
+
+==== Hiding section headers ====
+
+It is possible to hide the headers for the Career and General Characteristics sections, in order to repeat fields.  For example, a ship might have been commissioned, decommissioned, recommissioned, and decommissioned again.  To have the second commission and decommission dates, use additional a second Infobox ship career template with its header hidden, like this:
+{|{{Infobox ship begin |infobox caption=}}
+{{Infobox ship image
+| Ship image=Uss wisconsin bb.jpg
+| Ship image size=300px
+| Ship caption=USS ''Wisconsin'' at sea, circa 1990
+}}
+{{Infobox ship career
+| Hide header=
+| Ship caption=US
+| Ship flag={{USN flag|1992}}
+| Ship laid down=25 January 1941
+| Ship launched=7 December 1943
+| Ship commissioned=16 April 1944
+| Ship decommissioned=1 July 1948
+}}
+{{Infobox ship career
+| Hide header=yes
+| Ship recommissioned=3 March 1951
+| Ship decommissioned=8 March 1958
+}}
+{{Infobox ship career
+| Hide header=yes
+| Ship recommissioned=1 August 1986
+| Ship decommissioned=30 September 1991
+| Ship struck=17 March 2006
+| Ship fate=[[Museum ship]]
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Header caption=(1943)
+| Ship displacement=45,000&nbsp;tons
+| Ship length=887.2&nbsp;ft (270&nbsp;m)
+| Ship beam=108.2&nbsp;ft (33&nbsp;m)
+| Ship draft=28.9&nbsp;ft (8.8&nbsp;m)
+| Ship speed=33&nbsp;knots (61&nbsp;km/h)
+| Ship complement=1,921 officers and men
+| Ship armament=big guns
+}}
+|}
+<pre style="overflow:auto">
+{|{{Infobox ship begin |infobox caption=}}
+{{Infobox ship image
+| Ship image=Uss wisconsin bb.jpg
+| Ship image size=300px
+| Ship caption=USS ''Wisconsin'' at sea, circa 1990
+}}
+{{Infobox ship career
+| Hide header=
+| Ship caption=(US)
+| Ship flag={{USN flag|1992}}
+| Ship laid down=25 January 1941
+| Ship launched=7 December 1943
+| Ship commissioned=16 April 1944
+| Ship decommissioned=1 July 1948
+}}
+{{Infobox ship career
+| Hide header=yes
+| Ship recommissioned=3 March 1951
+| Ship decommissioned=8 March 1958
+}}
+{{Infobox ship career
+| Hide header=yes
+| Ship recommissioned=1 August 1986
+| Ship decommissioned=30 September 1991
+| Ship struck=17 March 2006
+| Ship fate=[[Museum ship]]
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Header caption=(1943)
+| Ship displacement=45,000&nbsp;tons
+| Ship length=887.2&nbsp;ft (270&nbsp;m)
+| Ship beam=108.2&nbsp;ft (33&nbsp;m)
+| Ship draft=28.9&nbsp;ft (8.8&nbsp;m)
+| Ship speed=33&nbsp;knots (61&nbsp;km/h)
+| Ship complement=1,921 officers and men
+| Ship armament=big guns
+}}
+|}</pre>
+{{clear}}
+
+==== Header captions ====
+
+The General Characteristics section can be given a caption using the '''Header caption''' field.  See the USS Wisconsin example above, which has a header caption of (1943) to indicate that the characteristics provided are as of 1943.
+
+{{-}}
+
+=== Custom fields ===
+{|{{Infobox ship begin |infobox caption=}}
+{{Infobox ship image
+|Ship image=Uss west virginia bb.jpg
+|Ship image size=300px
+|Ship caption=''West Virginia'' in San Francisco Bay, circa 1934.
+}}
+{{Infobox ship career
+| Hide header=
+| Ship caption=US
+| Ship flag={{USN flag|1947}}
+| Ship ordered=5 December 1916
+| Ship laid down=12 April 1920
+| Ship launched=17 November 1921
+| Ship commissioned=1 December 1923
+}}
+|-
+| Sunk:
+|7 December 1941
+|-
+|Raised:
+|17 May 1942
+{{Infobox ship career
+| Hide header=yes
+| Ship decommissioned=9 January 1947
+| Ship fate=sold for scrap
+| Ship struck=1 March 1959
+| Ship nickname="Wee Vee"
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Ship displacement=33,590&nbsp;tons
+| Ship length=624&nbsp;ft (190&nbsp;m)
+| Ship beam=97.3&nbsp;ft (29.6&nbsp;m)
+| Ship draft=30.5&nbsp;ft (9.3&nbsp;m)
+| Ship speed=21.0&nbsp;knots (39&nbsp;km/h)
+| Ship complement=1,407 officers and men
+| Ship armament=big guns
+}}
+|}
+It is possible to add custom fields to the infobox using standard [[Help:Table|Wiki table syntax]].  This is not encouraged, because infoboxes are intended to standardize the appearance of ship articles, but it can be done if needed.  See the below example, where "Sunk:" and "Raised:" fields are added to the ship's career:
+<pre style="overflow:auto">
+{|{{Infobox ship begin |infobox caption=}}
+{{Infobox ship image
+|Ship image=Uss west virginia bb.jpg
+|Ship image size=300px
+|Ship caption=''West Virginia'' in San Francisco Bay, circa 1934.
+}}
+{{Infobox ship career
+| Hide header=
+| Ship caption=US
+| Ship flag={{USN flag|1947}}
+| Ship ordered=5 December 1916
+| Ship laid down=12 April 1920
+| Ship launched=17 November 1921
+| Ship commissioned=1 December 1923
+}}
+|-
+| Sunk:
+|7 December 1941
+|-
+|Raised:
+|17 May 1942
+{{Infobox ship career
+| Hide header=yes
+| Ship decommissioned=9 January 1947
+| Ship fate=sold for scrap
+| Ship struck=1 March 1959
+| Ship nickname="Wee Vee"
+}}
+{{Infobox ship characteristics
+| Hide header=
+| Ship displacement=33,590&nbsp;tons
+| Ship length=624&nbsp;ft (190&nbsp;m)
+| Ship beam=97.3&nbsp;ft (29.6&nbsp;m)
+| Ship draft=30.5&nbsp;ft (9.3&nbsp;m)
+| Ship speed=21.0&nbsp;knots (39&nbsp;km/h)
+| Ship complement=1,407 officers and men
+| Ship armament=big guns
+}}
+|}</pre><!--
+
+--><includeonly>
+{{#ifeq:{{SUBPAGENAME}}|sandbox||
+{{#ifeq:{{SUBPAGENAME}}|doc||
+{{#ifeq:{{NAMESPACE}}|{{NS:10}}|
+<!-- ADD CATEGORIES BELOW THIS LINE -->
+[[Category:Water transport infobox templates|Ship table]]
+[[Category:Military ship infobox templates|Ship table]]
+[[Category:Ship templates|Ship table]]
+}}
+}}
+}}</includeonly>

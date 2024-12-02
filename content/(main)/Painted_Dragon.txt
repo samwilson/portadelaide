@@ -1,0 +1,41 @@
+ 
+{{Taxobox
+| name = Painted Dragon
+| image = Ctenophorus pictus.JPG
+| image_width = 250px
+| image_caption = Painted Dragon at [[Tennyson Dunes]]
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Lacertilia Lacertilia]
+| familia = [https://en.wikipedia.org/wiki/Agamidae Agamidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Amphibolurinae Amphibolurinae]
+| genus = ''[https://en.wikipedia.org/wiki/Ctenophorus Ctenophorus]'' 
+| species = '''''C. pictus'''''
+| binomial = ''Ctenophorus pictus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Wilhelm_Peters W. Peters], 1866)
+| synonyms = *''Amphibolurus pictus'' <small>W. Peters, 1866</small>
+*''Ctenophorus pictus'' <small>— [https://en.wikipedia.org/wiki/Harold_Cogger Cogger], 2000</small><ref>The Reptile Database. www.reptile-database.org.</ref>
+}}
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Ctenophorus+pictus ''Atlas of Living Australia'': ''Ctenophorus pictus'']
+* [https://en.wikipedia.org/wiki/Ctenophorus_pictus ''Wikipedia'': ''Ctenophorus pictus'']
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

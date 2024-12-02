@@ -1,0 +1,3 @@
+{{OS coord|{{{1}}}_region:GB_scale:25000|{{{2}}}}}<noinclude>
+{{documentation|Template:Gbmapping/doc}}
+</noinclude>

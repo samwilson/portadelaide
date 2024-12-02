@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Horsfield's Bronze-cuckoo
+| image = Horsfield's Bronze-Cuckoo Newhaven.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22683982 |title=''Chrysococcyx basalis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Cuculiformes Cuculiformes]
+| familia = [https://en.wikipedia.org/wiki/Cuculidae Cuculidae]
+| genus = ''[https://en.wikipedia.org/wiki/Chrysococcyx Chrysococcyx]''
+| species = '''''C. basalis'''''
+| binomial = ''Chrysococcyx basalis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1821)
+| synonyms = }}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Chrysococcyx+basalis ''Atlas of Living Australia'': Horsfield's Bronze-cuckoo]
+* [http://birdlife.org.au/bird-profile/horsfields-bronze-cuckoo ''Birdlife Australia'': Horsfield's Bronze-cuckoo]
+* [https://en.wikipedia.org/wiki/Horsfield's_bronze_cuckoo ''Wikipedia'': Horsfield's bronze cuckoo]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

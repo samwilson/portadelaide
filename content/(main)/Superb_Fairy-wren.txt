@@ -1,0 +1,55 @@
+{{Taxobox
+| name = Superb Fairywren
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22703736 |title=''Malurus cyaneus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Malurus cyaneus PM.jpg
+| image_width = 240px
+| image_caption = Male in breeding plumage<br>subspecies ''cyaneus''
+|image_alt=a small long-tailed vivid pale blue and black bird perched among some grasslike vegetation
+| image2 = Female superb fairy wren-edit1.jpg
+| image2_width = 240px
+| image2_caption = Female – Victorian High Country
+|image2_alt=a small pale brown bird with a gaping orange beak, on twig-like foliage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Maluridae Maluridae]
+| genus = ''[https://en.wikipedia.org/wiki/Malurus Malurus]''
+| species = '''''M. cyaneus'''''
+| binomial = ''Malurus cyaneus''
+| binomial_authority = Ellis, 1782
+| range_map=Dist blue wren.png
+| range_map_width=
+| range_map_caption= Superb Fairywren range<div>{{Legend2|#2BA7D7|''M. c. cyanochlamys''|border=1px solid #aaa}}; {{Legend2|#130882|''M. c. cyaneus''|border=1px solid #aaa}}</div>
+| subdivision_ranks=[https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision=
+* ''M. c. cyaneus''
+* ''M. c. cyanochlamys'' <small>Sharpe, 1881</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Malurus+(Malurus)+cyaneus ''Atlas of Living Australia'': Superb Fairy-wren]
+* [http://birdlife.org.au/bird-profile/superb-fairy-wren ''Birdlife Australia'': Superb Fairy-wren]
+* [https://en.wikipedia.org/wiki/Superb_fairywren ''Wikipedia'': Superb fairywren]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

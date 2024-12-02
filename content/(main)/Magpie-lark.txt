@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Magpie-lark
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22707425 |title=''Grallina cyanoleuca'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image =Grallina cyanoleuca Female.jpg
+| image_width = 240px
+| image_caption = Female
+| image2 = Male magpie lark in suburban garden.jpg
+| image2_width = 240px
+| image2_caption = Male
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Monarchidae Monarchidae]<ref name=CB08>{{cite book |title=Systematics and Taxonomy of Australian Birds|author=Christidis L, Boles WE |year=2008 |publisher=CSIRO Publishing |location=Canberra |isbn=978-0-643-06511-6 |page=174}} As cited [https://en.wikipedia.org/wiki/Monarchidae#Systematics here], the same authors had earlier treated the monarch flycatchers as a subfamily of the [https://en.wikipedia.org/wiki/Dicruridae Dicruridae], as still does  [http://collections.museumvictoria.com.au/object.php?irn=817537 Museum Victoria].</ref>
+| genus = ''[https://en.wikipedia.org/wiki/Grallina Grallina]''
+| species = '''''G. cyanoleuca'''''
+| binomial = ''Grallina cyanoleuca''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Grallina+cyanoleuca ''Atlas of Living Australia'': Magpie-lark]
+* [http://birdlife.org.au/bird-profile/magpie-lark ''Birdlife Australia'': Magpie-lark]
+* [https://en.wikipedia.org/wiki/Magpie-lark ''Wikipedia'': Magpie-lark]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

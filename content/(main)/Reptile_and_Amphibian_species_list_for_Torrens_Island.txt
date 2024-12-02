@@ -1,0 +1,71 @@
+'''Source:''' ''Torrens Island Biodiversity Action Plan.'' Table 6: Reptile and Amphibian species list. <ref>EAC – Ecological Evaluation Pty Ltd: ''Torrens Island Biodiversity Action Plan'', Adelaide & Mt Lofty Ranges Natural Resources Management Board, September 2013.</ref>
+The list reproduced below was compiled from several sources, including the ''Metropolitan Adelaide and Northern Coastal Action Plan'' and the [http://www.ala.org.au/ Australian Living Atlas].
+
+:'''4.4.2 Reptiles and Amphibians'''
+:Seventeen reptiles have been recorded from the Torrens Island area (Table 6). Two of these are Sea Turtles, which do not nest on the island and would at most be misplaced vagrants in the waters surrounding the Island. Most of the remaining fifteen species could possibly be present on Torrens Island, with seven species having been recorded on the Island in the past. Most of the reptile species require structure for shelter at the ground level, such as fallen timber, leaf litter, open shrub, grass and groundcover understorey. Management actions need to ensure that these microhabitats are retained or improved.
+
+==Reptiles==
+'''Rating codes:''' '''R''' = Rare; '''V''' = Vulnerable; '''E''' = Endangered; '''EX''' = Extinct
+
+{| class="wikitable sortable"
+! Family 1 !! Family 2 !! Species Name !! Common Name !! MANCAP !! ALA !! AUS !! SA !! Notes
+|-
+| Cheloniidae || Sea Turtles || ''Chelonia mydas'' || [[Green Turtle]] ||  || Y || '''V''' || '''V''' || Sea Turtle which comes ashore to lay eggs. This species nests in tropical and subtropical areas.
+|-
+| Cheloniidae || Sea Turtles || ''Lepidochelys olivacea'' || [[Olive Ridley Turtle]] ||  || Y || '''E''' ||  || One record only, from June 2012 when a dead specimen was collected in Gulf St Vincent. This species generally confined to northern Australia.
+|-
+| Agamidae || Dragon Lizards || ''Amphibolurus muricatus'' || [[Jacky Lizard]] ||  || Y ||  || '''R''' || Likely to be spurious record: actual location of record maps in Gulf St Vincent. This species only other South Australian records are in the South East of the state.
+|-
+| Agamidae || Dragon Lizards || ''Ctenophorus pictus'' || [[Painted Dragon]] || Y ||  ||  ||  || This species is still found in sand dunes along the Adelaide coastline, but has not been recorded on Torrens Island.
+|-
+| Agamidae || Dragon Lizards || ''Pogona barbata'' || [[Eastern Bearded Dragon]] ||  || Y ||  ||  || Semi-arboreal species. Has been observed on Torrens Island
+|-
+| Gekkonidae || Typical Geckos || ''Christinus marmoratus'' || [[Marbled Gecko]] || Y || Y ||  ||  || Nocturnal gecko. Has been recorded from Torrens Island.
+|-
+| Pygopodidae || Legless Lizards || ''Aprasia striolata'' || [[Lined Worm-lizard]] ||  || Y ||  ||  || Legless lizard, usually found sheltering under rocks, logs and other ground debris. May be present on Torrens Island.
+|-
+| Scincidae || Skinks || ''Hemiergis peronii'' || [[Four-toed Earless Skink]] || Y || Y ||  ||  || Requires rocks, logs and natural ground debris for shelter. Has been recorded on Torrens Island.
+|-
+| Scincidae || Skinks || ''Lerista bougainvillii'' || [[Bougainville’s Skink]] || Y || Y ||  ||  || Requires rocks, logs and natural ground debris for shelter. Has been recorded on Torrens Island.
+|-
+| Scincidae || Skinks || ''Lerista dorsalis'' || [[Four-toed Slider]] || Y || Y ||  ||  || Requires rocks, logs and natural ground debris for shelter. Has been recorded on Torrens Island.
+|-
+| Scincidae || Skinks || ''Menetia greyii'' || [[Dwarf Skink]] || Y || Y ||  ||  || Small, active diurnal skink. Widespread across Australia. Has been recorded on Torrens Island.
+|-
+| Scincidae || Skinks || ''Morethia adelaidensis'' || [[Adelaide Snake-eye]] ||  || Y ||  ||  || Active diurnal skink, requiring ground litter and fallen timber. May be present on Torrens Island.
+|-
+| Scincidae || Skinks || ''Pseudemoia entrecasteauxii'' || [[Southern Grass Skink]] ||  || Y ||  ||  || Active diurnal skink, found “in a variety of forest and grassland habitats throughout its range; usually seen on or around fallen timber, or foraging in leaf litter.”
+|-
+| Scincidae || Skinks || ''Tiliqua rugosa'' || [[Sleepy Lizard]] ||  || Y ||  ||  || Widely distributed large skink. Shelters under “fallen timber, leaf litter, spinifex and other grasses”. Has been observed on Torrens Island.
+|-
+| Scincidae || Skinks || ''Tiliqua scincoides'' || [[Eastern Bluetongue]] ||  || Y ||  ||  || Widely distributed large skink. “Shelters at night in hollow logs, ground debris etc.” Has been observed on Torrens Island.
+|-
+| Elapidae || Elapid Snakes || ''Demansia psammophis'' || [[Yellow-faced Whipsnake]] ||  || Y ||  ||  || Not recorded from Torrens Island. Last nearby records are from the 1970s. Unlikely to be present on Torrens Island.
+|-
+| Elapidae || Elapid Snakes || ''Pseudonaja textilis'' || [[Eastern Brown Snake]] || Y || Y ||  ||  || Common diurnal snake. It has been recorded on Torrens Island.
+|-
+|}
+
+==Amphibians==
+
+:There are no records of amphibians from Torrens Island, but four species have been recorded within a 5km radius of the extent of the Island. Given the close proximity of the sea to the site, and the lack of freshwater pooling to allow eggs and tadpoles to mature, it is considered unlikely that any frogs are present on Torrens Island. The two species that might possibly be present are the burrowing species ''Neobatrachus pictus'' and ''Limnodynastes dumerilii''.
+
+'''Rating codes:''' '''R''' = Rare; '''V''' = Vulnerable; '''E''' = Endangered; '''EX''' = Extinct
+
+{| class="wikitable sortable"
+! Family 1 !! Family 2 !! Species Name !! Common Name !! MANCAP !! ALA !! AUS !! SA !! Notes
+|-
+| Myobatrachidae || Southern Frogs || ''Crinia signifera'' || [[Common Froglet]] ||  || Y ||  ||  || Small frog, found in close proximity to fresh water.
+|-
+| Myobatrachidae || Southern Frogs || ''Limnodynastes dumerilii'' || [[Banjo Frog]] ||  || Y ||  ||  || Burrowing frog, often found well away from freshwater bodies, but requires standing water to breed.
+|-
+| Myobatrachidae || Southern Frogs || ''Limnodynastes tasmaniensis'' || [[Spotted Marsh Frog]] ||  || Y ||  ||  || Medium sized frog, found in close proximity to fresh water.
+|-
+| Myobatrachidae || Southern Frogs || ''Neobatrachus pictus'' || [[Burrowing Frog]] ||  || Y ||  ||  || Burrowing frog, often found well away from freshwater bodies, but requires standing water to breed.
+|-
+|}
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+
+==References==
+{{reflist}}

@@ -1,0 +1,58 @@
+<!-- Note:
+
+The following is a list of links to Infobox templates that apply to all areas of the world, so it can be transcluded in other documentation such as Location map Africa, Location map Bolivia, etc.
+
+Infobox templates for specific areas (Infobox UK feature, Infobox UK place, Infobox London station, Infobox motorway services, etc.) have been added directly to the See also section of the Location map documentation ([[Template:Location map/doc]]).
+
+-->{{hidden|style=border:#aaa 1px solid| headerstyle = text-align:left; padding-left:0.5em; background:#EEE; 
+|1=List
+|2=
+* [[Template:Infobox airport]] — alternative map support: <tt>relief</tt> (via <tt>pushpin_relief</tt>) and <tt>AlternativeMap</tt> (via <tt>pushpin_image</tt>)
+* [[Template:Infobox ancient site]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox artwork]]
+* [[Template:Infobox building]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox casino]]
+* [[Template:Infobox castrum]] — alternative map support: <tt>relief</tt> (via <tt>map_relief</tt>)
+* [[Template:Infobox cave]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox cemetery]]
+* [[Template:Infobox civil conflict]]
+* [[Template:Infobox climbing route]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox church]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox concentration camp]]
+* [[Template:Infobox dam]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox dava]]
+* [[Template:Infobox forest]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox glacier]] (via Infobox map) — alternative map support: <tt>relief</tt> (displays relief image unless <tt>map_relief=0</tt>)
+* [[Template:Infobox golf facility]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox historic site]] — alternative map support: <tt>relief</tt> (via <tt>map_relief</tt>)
+* [[Template:Infobox hospital]] — alternative map support: <tt>relief</tt>
+
+* [[Template:Infobox hut]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox lighthouse]] — alternative map support: <tt>relief</tt>
+* ''[[Template:Infobox map]] (used by other infoboxes)'' — alternative map support: <tt>relief</tt>
+* [[Template:Infobox military conflict]] — alternative map support: <tt>relief</tt> (via <tt>map_relief</tt>)
+* [[Template:Infobox military installation]] — alternative map support: <tt>relief</tt> (via <tt>map_relief</tt>)
+* [[Template:Infobox monastery]]
+* [[Template:Infobox mountain]] (via Infobox map) — alternative map support: <tt>relief</tt> (displays relief image unless <tt>map_relief=0</tt>)
+* [[Template:Infobox mountain pass]] (via Infobox map) — alternative map support: <tt>relief</tt> (displays relief image unless <tt>map_relief=0</tt>)
+* [[Template:Infobox mountain range]] (via Infobox map) — alternative map support: <tt>relief</tt> (displays relief image unless <tt>map_relief=0</tt>)
+* [[Template:Infobox museum]] — alternative map support: <tt>relief</tt> (via <tt>map_relief</tt>)
+* [[Template:Infobox oil field]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox oil refinery]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox operational plan]]
+* [[Template:Infobox park]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox power station]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox protected area]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox reactor]]
+* [[Template:Infobox religious building]] — alternative map support: <tt>relief</tt>
+* [[Template:Infobox restaurant]]
+* [[Template:Infobox settlement]] — alternative map support: <tt>relief</tt> (via <tt>pushpin_relief</tt>) and <tt>AlternativeMap</tt> (via <tt>pushpin_image</tt>)
+* [[Template:Infobox spring]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox temple]]
+* [[Template:Infobox terrestrial impact site]]
+* [[Template:Infobox valley]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox waterfall]] (via Infobox map) — alternative map support: <tt>relief</tt>
+* [[Template:Infobox World Heritage Site]] — alternative map support: <tt>relief</tt>
+}}<noinclude>
+[[Category:Documentation see also templates]]
+</noinclude>

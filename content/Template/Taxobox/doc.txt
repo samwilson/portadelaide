@@ -1,0 +1,1905 @@
+{{redirect|WP:TX|the WikiProject on the American state of Texas|Wikipedia:WikiProject Texas}}
+{{documentation subpage}}
+{{style-guideline|WP:TX|WP:TAXO|WP:TAXOBOX}}
+{{esoteric}}
+
+This template sets up a {{tl|taxobox}}, a table setting out the [[Biological classification]] ([[taxonomy (biology)|taxonomy]]) for a group of living things with a choice of over 160 parameters.  Although the implementation is complicated, it is relatively simple to use.  For an example in practice, look at the edit page of "[[Killer whale]]"&nbsp;– [{{fullurl:Killer whale|action=edit}}].  Most parameters are optional, so if a particular entry is not relevant for your case, just leave it out. See "[[#All parameters|All parameters]]" for a complete list.
+
+This guide has come out of [[Wikipedia:WikiProject Tree of life|WikiProject Tree of life]].
+
+=== Usage ===
+'''''Note that parameters in this template are case-sensitive.'''''
+<pre style="overflow:auto">
+{{Taxobox
+| name               = 
+| image              = 
+| image_width        = 
+| image_alt          = 
+| image_caption      = 
+| image2             = 
+| image2_width       = 
+| image2_alt         = 
+| image2_caption     = 
+| regnum             = [[Plant]]ae (or...)
+| divisio            = 
+| classis            = 
+| ordo               = 
+| familia            = 
+| genus              = 
+| species            = 
+| binomial           = 
+| binomial_authority = 
+| range_map          = <!--optional map - also range_map2, 3 or 4 -->
+| range_map_width    = 
+| range_map_alt      = 
+| range_map_caption  = 
+| <!--or 115 other parameters-->
+}}
+</pre>
+Colors are automatically assigned based on the table below.
+
+{{Taxobox colour scheme}}
+
+=== Quick start and examples ===
+
+==== Animals ====
+
+===== Animal species =====
+{{Taxobox
+| name               = Asian Golden Cat
+| image              = Catopuma temminckii.jpg
+| image_alt          = Orange cat sitting with head up and eyes almost closed.
+| image_size         = 250px
+| regnum             = [[Animal]]ia
+| phylum             = [[Chordate|Chordata]]
+| classis            = [[Mammal]]ia
+| ordo               = [[Carnivora]]
+| familia            = [[Felidae]]
+| genus              = ''[[Catopuma]]''
+| species            = '''''C. temminckii'''''
+| binomial           = ''Catopuma temminckii''
+| binomial_authority = ([[Nicholas Aylward Vigors|Vigors]] & [[Thomas Horsfield|Horsfield]], 1827)
+}}
+
+<pre style="overflow:auto">
+{{Taxobox 
+| name               = 
+| image              = 
+| image_alt          = 
+| image_caption      = 
+| regnum             = [[Animal]]ia
+| phylum             = 
+| classis            = 
+| ordo               = 
+| familia            = 
+| genus              = 
+| species            = 
+| binomial           = 
+| binomial_authority = 
+}}
+</pre>
+{{clear}}
+
+===== Animal higher taxon =====
+{{Taxobox
+| name              = Rorquals
+| image             = Humpback_Whale_underwater_shot.jpg
+| image_alt         = Underwater humpback whale diving, with front flipper extended.
+| image_caption     = [[Humpback Whale]], ''Megaptera novaeangliae''
+| regnum            = [[Animal]]ia
+| phylum            = [[Chordate|Chordata]]
+| classis           = [[Mammal]]ia
+| ordo              = [[Cetacea]]
+| subordo           = [[Mysticeti]]
+| familia           = '''Balaenopteridae'''
+| familia_authority = [[John Edward Gray|Gray]], 1864
+| subdivision_ranks = Genera
+| subdivision       = 
+''[[Balaenoptera]]''<br />
+''[[Megaptera]]''
+}}
+
+<pre style="overflow:auto">
+{{Taxobox 
+| regnum            = [[Animal]]ia
+| phylum            = 
+| classis           = 
+| ordo              = 
+| familia           = 
+| genus             = 
+| genus_authority   = 
+| subdivision_ranks = 
+| subdivision       = 
+}}
+</pre>
+{{clear}}
+
+==== Plants ====
+The majority of plants are angiosperms ("flowering plants").  [[Wikipedia:Wikiproject Plants]] consensus is to use the Angiosperm Phylogeny Group's [[APG III]] classification system for angiosperms. The APG III system does not have formally named divisions or classes, but includes several hierarchically nested, informally named clades.  The hierarchy of informally named clades is presented by using parameters such as {{para|unranked_divisio}} in place of formal rank parameters.  Articles on non-flowering plants (e.g. [[conifer]]s, [[fern]]s) should continue to use formal divisions and classes in the Taxobox.
+
+===== Flowering plant species =====
+{{Taxobox
+| name               = ''Magnolia virginiana''
+| image              = Sweetbay1082.jpg
+| image_alt          = White flower surrounded by long green leaves.
+| image_caption      = ''Magnolia virginiana''
+| regnum             = [[Plant]]ae
+| unranked_divisio   = [[Angiosperm]]s
+| unranked_classis   = [[Magnoliid]]s
+| ordo               = [[Magnoliales]]
+| familia            = [[Magnoliaceae]]
+| genus              = ''[[Magnolia]]''
+| species            = '''''M. virginiana'''''
+| binomial           = ''Magnolia virginiana''
+| binomial_authority = [[Carl Linnaeus|L.]]
+}}
+
+<pre style="overflow:auto">
+{{Taxobox 
+| name               = 
+| image              = 
+| image_alt          = 
+| image_caption      = 
+| regnum             = [[Plant]]ae
+| unranked_divisio   = [[Angiosperms]]
+| unranked_classis   =
+| unranked_ordo      =
+| ordo               = 
+| familia            = 
+| genus              = 
+| species            = 
+| binomial           = 
+| binomial_authority = 
+}}
+</pre>
+{{clear}}
+
+===== Flowering plant higher taxon =====
+{{Taxobox
+| name              = Oaks
+| image             = Quercus robur.jpg
+| image_alt         = Cluster of oak leaves and acorns.
+| image_caption     = Foliage and acorns of the [[Pedunculate Oak]], ''Quercus robur''
+| regnum            = [[Plant]]ae
+| unranked_divisio  = [[Angiosperms]]
+| unranked_classis  = [[Eudicots]]
+| unranked_ordo     = [[Rosids]]
+| ordo              = [[Fagales]]
+| familia           = [[Fagaceae]]
+| genus             = '''''Quercus'''''
+| genus_authority   = [[Carl Linnaeus|L.]]
+| subdivision_ranks = [[Species]]
+| subdivision       = 
+See [[List of Quercus species|List of ''Quercus'' species]].
+}}
+
+<pre style="overflow:auto">
+{{Taxobox 
+| image             = 
+| image_alt         = 
+| image_caption     = 
+| regnum            = [[Plant]]ae
+| unranked_divisio  = [[Angiosperms]]
+| unranked_classis  =
+| unranked_ordo     =
+| ordo              = 
+| familia           = 
+| genus             = 
+| genus_authority   = 
+| subdivision_ranks = 
+| subdivision       = 
+}}
+</pre>
+{{clear}}
+
+=== Parameters ===
+
+==== Name ====
+{{See also|Wikipedia:Manual of Style#Animals, plants, and other organisms|Wikipedia:Naming conventions (flora)|Wikipedia:Naming conventions (fauna)}}
+
+Provided under this parameter should be the single most common [[vernacular name]] when one is in widespread use, or a single current scientific name otherwise.
+* Common names of higher taxa are always given in [[sentence case]] (rather than title case)  and in the plural (e.g. [[marine hatchetfish]]es).
+* Common names of species and subspecies are also to be given in sentence case but in the singular (e.g. [[black crowned crane]], [[Colorado potato beetle]]).
+
+The ''name'' parameter should not be used to incorporate more than one name. It is only a header and not meant to be an inclusive "name'''s'''" field. One will suffice.  Please assess the relevant literature in deciding which.
+
+==== Color ====
+The ''color'' is automatically assigned based on the entry for {{para|regnum}}, {{para|virus_group}}. {{para|unranked_phylum}} or {{para|phylum}}, in that order; there is no need to specify it manually. If you do, be sure to use rgb or hsl format; see examples below.
+
+{{Taxobox colour scheme}}
+
+The [[eukaryote]] box uses the color "rgb(224, 208, 176)", but since it is split completely into kingdoms other eukaryote groups should not.
+
+==== Classification ====
+As noted above, the classification section includes some or all of the following:
+
+<pre style="overflow:auto">
+| regnum  = 
+| phylum  = 
+| classis = 
+| ordo    = 
+| familia = 
+| genus   = 
+| species = 
+</pre>
+
+Each entry corresponds to a containing group, except for the last, which should be the group under consideration. Note the entries use the ''Latin'' names for the ranks, to make porting between Wikipedias easier. Thus the above correspond to the kingdom, phylum, class, order, family, genus, and species.
+
+{{Taxobox
+| name               = Red wood ant
+| regnum             = [[Animal]]ia
+| phylum             = [[Arthropod]]a
+| classis            = [[Insect]]a
+| ordo               = [[Hymenoptera]]
+| familia            = [[Formicidae]]
+| subfamilia         = [[Formicinae]]
+| tribus             = [[Formicini]]
+| genus              = ''[[Formica]]''
+| species            = '''''F. rufa'''''
+| binomial           = ''Formica rufa''
+| binomial_authority = [[Carl Linnaeus|Linnaeus]], 1761
+}}
+
+Taxoboxes should include all major ranks above the taxon described in the article, plus minor ranks that are important to understanding the classification of the taxon described in the article, or which are discussed in the article. Other minor ranks should be omitted.
+
+For example, in the taxobox for the genus ''[[Formica]]'', it's appropriate to include entries for tribe and subfamily, since those are an aid to understanding how ''Formica'' relates to other genera in the family [[Formicidae]]. But it wouldn't be appropriate to include the superorder [[Endopterygota]], since all genera of ants are in that superorder; it isn't particularly interesting at this level.
+
+Another example is the subfamily [[Bambusoideae]], the bamboos. This subfamily probably should be mentioned in the taxobox of every bamboo species, since it is a major grouping in this context, despite its minor rank.
+
+Minor ranks are included in the same way as major ranks, for example:
+
+<pre style="overflow:auto">
+| classis    = ...
+| subclassis = ...
+| superordo  = ...
+| ordo       = ...
+</pre>
+
+Note that species and subspecies should be given using the abbreviated forms of their name — e.g. ''H. sapiens'', ''H. s. sapiens''.  The epithets should not be given by themselves. The full form of the species or subspecies name is given in the binomial or trinomial section.
+
+See [[#All parameters]] for a complete list.
+
+===== Classification status =====
+With the {{para|classification_status}} parameter, it is possible to introduce extra text within parentheses after "Scientific classification". For example, <pre>|classification_status=disputed</pre> will produce "[[Biological classification|Scientific classification]] (disputed)". See ''[[Veratalpa]]'' for a current example where this parameter is used. This parameter should only be used when the "Scientific classification" text would be misleading without it.
+
+===== Divisions and sections =====
+These ranks have different meanings in zoology and botany. 
+
+In botany:
+* Use '''divisio''' for division (a rank above class and below kingdom)
+* Use '''sectio''' for section (a rank above species and below genus)
+
+Note: Certain very large genera, e.g. Rhododendron include subsections
+
+In zoology:
+* Use '''zoodivisio''' for division (a rank above family and below order)
+* Use '''zoosectio''' for section (a rank above family and below order)
+
+===== Unranked taxa =====
+For each major taxon from family to phylum, you can add an unranked entry to the taxobox. The entry <tt>unranked_X</tt> appears above rank X, for example <tt>unranked_superfamilia</tt> appears above family and superfamily and below order, suborder, infraorder, etc.:
+
+<pre style="overflow:auto">
+| ordo                  = 
+| unranked_superfamilia = 
+| familia               = 
+</pre>
+
+For animals and non-flowering plants, use unranked taxa sparingly. The need to include unranked taxa generally indicates that you are following [[phylogenetic nomenclature]]. It is usually better to abbreviate the classification to the major ranks and then discuss the classification in more detail in the article.
+
+====== Unranked taxa of flowering plants ======
+[[Flowering plant]]s (angiosperms) make frequent use of unranked taxa. The [[APG III system]] of classification used for flowering plants on Wikipedia does not have formally named ranks above order - e.g. divisions, classes, subclasses - but includes several hierarchically nested, informally named and unranked clades. For flowering plants the taxobox should include {{para|unranked_divisio|[[Angiosperms]]}} in place of {{para|divisio}}, {{para|unranked_classis}} in place of {{para|classis}}, and possibly also {{para|unranked_subclassis}} in place of {{para|subclassis}}. Flowering plant taxoboxes may often include three to four informal hierarchical groups above the rank of order, making the use of {{para|unranked_ordo}} necessary, which sorts itself just above {{para|ordo}} where a formally named order is displayed. The unranked parameters only include ranks in their parameter names, such as "unranked_'''divisio'''" to allow the editor to place content hierarchically; no approximation of rank is intended by the use of these parameter names. For flowering plant articles using the APG III system of classification, the regular parameters including {{para|divisio}}, {{para|classis}}, and {{para|subclassis}} should not be used or it will display between these unranked APG III clades.
+
+To comply with [[#Classification]] above and its advice on the inclusion of major ranks, the following are considered major ranks in APG III and currently included in the appropriate flowering plant taxoboxes:
+*[[Angiosperms]]
+**[[Magnoliids]]
+**[[Monocots]]
+***[[Commelinids]]
+**[[Eudicots]]
+***[[Core eudicots]] (displayed as a major rank when the plant is not included further nested in rosids or asterids)
+****[[Rosids]]
+****[[Asterids]]
+
+Note: The rosids contain two clades, the [[fabids]] (also known as [[eurosids I]]) and [[malvids]] (also known as [[eurosids II]]), and the asterids contain two further clades, the [[lamiids]] ([[euasterids I]]) and [[campanulids]] ([[euasterids II]]). These are considered to be minor ranks and are only to be displayed on the articles on orders or families they immediately contain.
+
+A taxobox for a flowering plant will thus generally include the following parameters:
+<pre style="overflow:auto">
+| regnum             = [[Plant]]ae
+| unranked_divisio   = [[Angiosperms]]
+| unranked_classis   =
+| unranked_ordo      =
+| ordo               = 
+</pre>
+
+===== Viruses =====
+Viruses follow a slightly different system.  They are not placed in taxa above the rank of order, and instead are treated in seven groups based on the type of nucleic acid they contain, referred to by the Roman numerals I to VII.  These can be included in the taxobox using the ''virus_group'' argument.  This also changes the link from [[Biological classification|scientific]] to [[virus classification]], so it should not appear on boxes for non-viruses, even if it is left blank.
+
+<pre style="overflow:auto">
+| virus_group = IV
+</pre>
+
+==== Bold/italic markup ====
+Italicization must be done manually in all parameters.  If the entry for genus or species (with manually added italics) matches the page title,<ref group=note>If the page is called, for example, "Homo (genus)", then the taxobox will display "''Homo''" and the page title "''Homo'' (genus)".</ref> then the name of the taxobox ''and'' the title of the page will be italicized.  Note that if the {{para|name}} parameter is used the page title will not be automatically italicized. The taxobox's name will be set to exactly what is specified in {{para|name}}&nbsp;&ndash; italics must be specified manually in this case.
+
+Genus, species, and subspecies should be italicized whenever used, as is the biological standard.  For instance, we talk about the genus ''Homo'', the species ''Homo sapiens'', and the subspecies ''Homo sapiens sapiens''.
+* In botany, it is important to include the rank for taxa below species.  The rank is not italicized, e.g. ''Genus species'' subsp. ''subspecies'' var. ''variety''.
+* Some bacteria that have been characterized but not formally named are given ''[[Candidatus]]'' names.  These should be written in the form ''[[Candidatus]]'' Genus species, rather than italicized normally.
+Higher taxa like families may or may not be italicized in different publications.  The prevalent standard for Wikipedia is not to italicize them, except in the case of [[virus]]es and other infectious particles.
+
+Bolding is used to indicate the subject of the article.  The ''name'', ''binomial'', and ''trinomial'' arguments bold automatically.  In the placement section&nbsp;– ''regnum'' through ''species''&nbsp;– the final taxon should be bolded, as well as any higher groups that only include the final taxon.  See [[green sulfur bacteria]] for an example.
+
+==== Subdivisions ====
+{{Taxobox
+| name              = Nettle
+| regnum            = [[Plant]]ae
+| unranked_divisio  = [[Angiosperm]]s
+| unranked_classis  = [[Eudicots]]
+| unranked_ordo     = [[Rosids]]
+| ordo              = [[Rosales]]
+| familia           = [[Urticaceae]]
+| genus             = '''''Urtica'''''
+| genus_authority   = [[Carolus Linnaeus|L.]]
+| subdivision_ranks = Species
+| subdivision       = {{columns-list|2|
+* ''U. angustifolia''
+* ''U. ardens''
+* ''U. atrichocaulis''
+* ''U. atrovirens''
+* ''U. cannabina''
+* ''U.&nbsp;chamaedryoides''
+* ''[[Urtica dioica|U. dioica]]''
+* ''U. dubia''
+* ''[[Urtica ferox|U. ferox]]''
+* ''U. fissa''
+* ''[[Urtica dioica galeopsifolia|U. galeopsifolia]]''
+* ''U. gracilenta''
+* ''U. hyperborea''
+* ''[[Urtica incisa|U. incisa]]'' 
+* ''U. kioviensis''
+* ''U. laetivirens'' 
+* ''U. linearifolia''
+* ''U. mairei''
+* ''U.&nbsp;membranacea''
+* ''U. morifolia''
+* ''U. parviflora''
+* ''U. pilulifera'' 
+* ''U. platyphylla''
+* ''U. pubescens''
+* ''U. rupestris''
+* ''U. sondenii''
+* ''U. taiwaniana''
+* ''[[Urtica thunbergiana|U. thunbergiana]]''
+* ''U. triangularisa''
+* ''[[Urtica urens|U. urens]]''
+}}
+}}
+Groups above the rank of species (and even species if there are several notable subspecies) should usually include a list of subgroups.  Use the ''subdivision'' argument for the list, separating elements by &lt;br&gt; tags, and the ''subdivision_ranks'' argument to say what rank the subgroups have.  For instance, for families in an order:
+
+<pre style="overflow:auto">
+| subdivision_ranks = Families
+| subdivision       =
+[[Family1]]<br />
+[[Family2]]<br />
+[[Family3]]
+</pre>
+
+The templates [[Template:Species list]] and [[Template:Taxon list]] (and their variants) can help to generate these lists.
+
+For lists with more than a few subgroups, the list can be bracketed with {{tl|div col}} and {{tl|div col end}}, which will split the list into two columns (''see '''Nettle''' example at right'').  In cases where a list would make the taxobox too long, or where the classification is too variable to allow a brief summary, the list should be replaced with a comment like "See text" or the subdivision section should be omitted. As a [[rule of thumb]], when there are more than 100 subgroups the list should be in a separate article.
+
+In cases where the classification is variable, a description like "Typical orders" or "Notable orders" may be used.
+
+In cases where the ranks are uncertain, a description like "Subgroups" or "Taxa" may be preferable.
+Sometimes it is convenient to represent more than one level of classification in the list.  In that case the lower level groups are moved over to the right by prefixing them with &amp;nbsp; characters&nbsp;– usually three for the first level of indentation, and then one to three more for each subsequent level.  Major grades may also be represented by bolded headers, as on [[plant]] and [[heterokont]].  Remember, though, these should mainly be done when the intermediate rank subgroups are not worthy of separate articles; taxoboxes are too small to include too much duplicate information.
+
+==== Conservation status ====
+{{Main|Wikipedia:Conservation status}}
+
+[[Conservation status]] may optionally be included; you can search the [[International Union for Conservation of Nature|IUCN]]'s [http://www.iucnredlist.org/ database of threatened species] to find the conservation status of many organisms.  It is included via the ''status'' argument, which takes a code or template. It is not appropriate for prehistoric organisms&nbsp;– the <code>fossil_range</code> parameter may be a more sensible option.
+
+<pre style="overflow:auto;">
+|status = code
+|status_system = classification system (see below)) – required
+|status_ref = <ref>...</ref> – optional
+|extinct = year of extinction – optional (only use if |status=EX and year of extinction is known)
+</pre>
+
+Use the above syntax, choosing one of the status codes from the code list below.  The ''code'' may be all upper or lower case, but the cases used in the table are preferred.
+
+[[File:Status iucn3.1.svg|thumb|[[IUCN Red List]], ver. 3.1 (2001)]]
+[[File:Status iucn2.3.svg|thumb|[[IUCN Red List]], ver. 2.3 (1994)]]
+[[File:Status TNC.svg|thumb|[[NatureServe status]]]]
+[[File:Status ESA.svg|thumb|U.S. [[Endangered Species Act]] (ESA)]]
+[[File:Status COSEWIC.svg|thumb|Canada's [[COSEWIC]] [[Species at Risk Act]] (SARA)]]
+[[File:Status EPBC.svg|thumb|Australia's [[EPBC Act]]]]
+[[File:Status NZTCS.svg|thumb|New Zealand Threat Classification System]]
+[[File:Status DECF.svg|thumb|Western Australia's [[Declared Rare and Priority Flora List]]]]
+
+The following status codes are available (the third column shows the category that is automatically added to the article):
+
+:{| class="wikitable"
+! Status (as shown in taxobox) || Code || Category assigned
+|-
+| Secure || secure<ref name="invalid" group="IUCN" /> ||
+|-
+| Domesticated || DOM<ref name="invalid" group="IUCN" /> || Domesticated animals
+|-
+| Least Concern (LC) || LC ||
+|-
+| Least Concern (LR/lc) || LR/lc ||
+|-
+| [[Near Threatened]] (NT) || NT ||
+|-
+| [[Near Threatened]] (LC/nt) || LR/nt ||
+|-
+| [[Conservation Dependent]] (LR/cd) || LR/cd ||
+|-
+| [[Vulnerable species|Vulnerable]] (VU) || VU ||
+|-
+| [[Endangered species|Endangered]] (EN) || EN || Endangered species
+|-
+| [[Critically Endangered]] || CR || Critically endangered species
+|-
+| [[Critically Endangered]] (CR), possibly extinct || PE || Critically endangered species
+|-
+| Extinct&nbsp;in&nbsp;the&nbsp;wild (EW) || EW || Species extinct in the wild
+|-
+| Extinct || EX ||
+|-
+| Data deficient (DD) || DD ||
+|-
+| ''Not evaluated'' (NE) || NE ||
+|-
+| Fossil || fossil<ref name="invalid" group="IUCN">This is not a valid IUCN Red List category</ref><ref name="fossil" group="IUCN">{{para|status|fossil}} is deprecated in favour of {{para|fossil_range}} {{tlx|fossil range}} (see the [[#Fossil range]] section below).</ref> ||
+|-
+| Prehistoric || pre<ref name="invalid" group="IUCN" /> ||
+|-
+| See text || See text<ref name="invalid" group="IUCN" /> ||
+|-
+| Lower Risk || <s>LR</s><ref name="invalid" group="IUCN" /><ref name="LR" group="IUCN">{{var|LR}} is deprecated; use {{var|LR/lc}} or {{var|LR/nt}} or {{var|LR/cd}} instead.</ref>
+|}
+
+;Notes:
+{{Reflist|group=IUCN|close}}
+
+===== System =====
+{{Main|Wikipedia:Conservation status}}
+The criteria used by the IUCN should also be specified: (case-sensitive)
+
+<pre style="overflow:auto">
+ | status_system = iucn3.1
+ or
+ | status_system = iucn2.3 <!-- deprecated for new boxes, although some taxoboxes still exist and are supported for this version -->
+</pre>
+
+This parameter is '''required''' in order to display the proper conservation status graphic. Failure to use this parameter will result in no graphic appearing.
+
+Other systems are listed at [[Wikipedia:Conservation status]].
+
+===== Referencing conservation status =====
+To add a reference for the status, use
+ {{para|status_ref|<nowiki><ref></nowiki>{{tlx|IUCN2012.2|2=...}}<nowiki></ref></nowiki>}}
+
+See {{tl|IUCN2012.2}} or {{tl|IUCN}} for the arguments you need to supply to that template. And don't forget that {{tag|ref}} requires a corresponding <tt><nowiki><references/></nowiki></tt> in the References section.
+
+==== Fossil range ====
+The stratigraphic range for groups known as fossils may also be included, using the ''fossil_range'' argument.  For instance, for a group known from the [[Cambrian]] to the [[Permian]]:
+
+<pre style="overflow:auto">
+ |fossil_range = [[Cambrian]]–[[Permian]]
+</pre>
+
+You may wish to add a diagrammatic representation of the fossil range (as shown below), which can be created using the {{tl|Fossil range}} template, for example:
+{{image frame|content={{fossil range|Cambrian|Permian}} }}
+
+<pre style="overflow:auto">
+  | fossil_range = {{fossil range|Cambrian|Permian}}
+</pre>
+
+or
+
+<pre style="overflow:auto">
+  | fossil_range = {{fossil range|542|250}} [[Cambrian]]–[[Permian]]
+</pre>
+
+For [[Extant taxon|extant]] taxa that continue into the present day, the ending period should be set to "Recent" or as "Holocene" for Late Quaternary extinctions such as the [[Moa]], and the current status should be indicated using the ''status'' argument. 
+
+For groups that only existed during a single period, simply list it without giving a range: e.g.:
+{{image frame|content={{fossil range | Silurian}} }}
+
+<pre style="overflow:auto">
+ | fossil_range = {{fossil range|Silurian}} 
+</pre>
+
+==== Images ====
+An image can be included using the argument ''image''. It is highly recommended that an image be provided if one is available. Do ''not'' include the "File:" part of the image file name!
+
+If an image is included, [[alt text]] should be provided using ''image_alt''. Alt text should not repeat the caption; instead, it should describe the image to someone who can't see it (see [[WP:ALT]]).
+
+A caption can be provided using ''image_caption''. A caption need not be provided if it would just repeat the title of the article. It should be provided if it can convey any additional information about the image, such as the sex or life stage of the individual, the location where the picture was taken, the artist (if an engraving or other illustration), or (for higher taxa) the particular species depicted.
+
+<pre style="overflow:auto">
+| image         = Sweetbay1082.jpg
+| image_alt     = White flower surrounded by long green leaves
+| image_caption = ''Magnolia virginiana''
+</pre>
+
+By default, the image width is determined by users' default thumb size preferences. In general, it is recommended that these preferences be honoured. In some cases, however, it may be desirable to overrule the default size; this can be achieved by use of the ''image_width'' parameter. Note that the [[Wikipedia:Manual of Style#Images|Manual of Style]] recommends that if the default thumb size of a lead image is to be overruled, it should be made at least 300px wide, so that users whose default thumb size is 300px do not end up with a lead image smaller than the other images in the article.
+
+<pre style="overflow:auto">
+| image         = Sweetbay1082.jpg
+| image_alt     = White flower surrounded by long green leaves
+| image_caption = ''Magnolia virginiana''
+| image_width   = 320px
+</pre>
+
+Long or complex image captions, which should rarely be necessary, look better left-aligned. This can be achieved using {{para|image_caption_align|left}}.
+
+A second image may be added by use of the ''image2'', ''image2_alt'', ''image2_caption'' and ''image2_width'' arguments. Use this sparingly, and only when the article is long enough, ''and'' when it makes sense to include the second image here and not later in the article. [[Camel]] is a good example (a genus with two well-known representatives). A second image may also be useful for species that display [[sexual dimorphism]] so that both a male and female representative could be shown, e.g. [[Northern Cardinal]].
+
+==== Authorities ====
+Generally, an authority should be given only for the taxa covered by the article. Higher groups which only include the article subject should also list authorities unless those are the same as for the taxa in question. In the case of species (or subspecies) the authority may be given in the ''binomial'' (or ''trinomial'') section.  Otherwise authorities may be listed in the placement section.  For instance, for an order:
+
+<pre style="overflow:auto">
+| ordo = 
+| ordo_authority = 
+</pre>
+
+The following examples illustrate the different conventions for names, dates, and punctuations in the different kingdoms.
+* Animalia
+** Original name valid: '''''Homo sapiens''''' <small>[[Carl Linnaeus|Linnaeus]], 1758</small>
+** Organism reclassified: '''''Panthera leo''''' <small>([[Carl Linnaeus|Linnaeus]], 1758)</small> (originally ''Felis leo'')
+* Plantae
+** Original name valid: '''''Magnolia virginiana''''' <small>[[Carl Linnaeus|L.]]</small>
+** Organism reclassified: '''''Anacamptis pyramidalis''''' <small>([[Carl Linnaeus|L.]]) [[Louis Claude Richard|Rich.]]</small> (originally ''Orchis pyramidalis'')
+* Bacteria
+** Original name valid: '''''Vibrio cholerae''''' <small>[[Robert Koch|R. Koch]] 1883</small>
+** Organism reclassified: '''''Streptococcus pneumoniae''''' <small>(Klein 1884) Chester 1901</small> (originally ''Micrococcus pneumoniae'')
+** Old name revived: '''''Salmonella enterica''''' <small>(ex Kauffmann & Edwards 1952) Le Minor & Popoff 1987</small>
+
+Authorities in scientific names are also abbreviated according to different standards for plants and animals.  To decipher standard abbreviations, see
+* [[List of botanists by author abbreviation]] or consult the [http://www.ipni.org/ International Plant Names Index].
+* [[List of zoologists by author abbreviation]]
+For more information refer to the article on [[binomial nomenclature]].
+
+==== Diversity ====
+In higher taxa, and taxa where the subdivision option does not indicate number of species, the ''diversity'' argument may be used.  This needs to be accompanied by ''diversity_link'' which links to an appropriate page, usually a ''List of ... species'' page.  See, for example, ''[[Banksia]]'': the subdivision lists only two subgenera, so the ''diversity'' option is used to specify the number of species.
+
+<pre style="overflow:auto">
+| diversity_link = List of Quercus species
+| diversity = c. 120 species
+</pre>
+
+It is ''not'' a good idea to be too precise about the number of species. New species are still being regularly described in many groups. Moreover, changing systematic treatment is liable to alter the species number even in well-known genera. Rounding off the species number and denoting this as approximate value will help decreasing maintenance.
+
+Use the ''diversity_ref'' argument to give references for the number of species, for example:
+ {{para|diversity_ref | <nowiki><ref></nowiki>Hershler and Longley, 1986, p.&nbsp;127<nowiki></ref></nowiki>}}
+
+==== Range maps ====
+A range map may be included at the end of the taxobox.  This uses the ''range_map'', ''range_map_width'', ''range_map_alt'', and ''range_map_caption'' arguments, in the same manner as an image.  See [[leopard]] (land animal), [[Northern Flicker]] (non-migratory bird), [[Lesser Spotted Eagle]] (migratory bird) and [[orca]] (water animal) for examples.
+
+<pre style="overflow:auto">
+| range_map         = Map.jpg
+| range_map_width   = 240px
+| range_map_alt     = Map showing ...
+| range_map_caption = Range of ...
+</pre>
+
+You can generate maps using an appropriate blank map such as [[:Image:BlankMap-World-noborders.png]]. Do not make the distribution map too large (a width of 300 to 400 should be sufficient, the purpose of the map being a rough global overview; more detailed maps can always go to the article body) and add the map to [[:Category:Habitat maps]], or, preferably, if you upload the map to Commons, to [[:commons:Category:Animal distribution maps]].
+
+==== Synonyms ====
+Where a species has synonyms, the ''synonyms'' argument may be used.  This should be a list of synonyms separated by &lt;br/&gt; tags.
+
+<pre style="overflow:auto">
+| synonyms = 
+''species1'' <small>Authority1</small><br/>
+''species2'' <small>Authority2</small>
+</pre>
+
+If the synonyms are too long to fit in a single line, you may also use a bulleted list:
+
+<pre style="overflow:auto">
+| synonyms = 
+*''species1''<br/><small>Authority1</small>
+*''species2''<br/><small>Authority2</small>
+</pre>
+
+The first format is preferred for clarity.
+
+: Please note: style element <nowiki><small></nowiki> is not recommended in [[Wikipedia:WikiProject Check Wikipedia#HTML text style element .3Csmall.3E]], see discussion [[Wikipedia talk:WikiProject Check Wikipedia#Small style element]].
+
+[http://uio.mbl.edu/NomenclatorZoologicus/ Nomenclator Zoologicus] has data for all but the most recently established animal [[genera]]. This may be hard to understand for non-specialists, but it is a comprehensive source for the authorship of genus names, both valid ones and junior synonyms. Sometimes one will note that a new name has been established because the older, original name was "preoccupied". This means it has already been established for another [[taxon]] of the same [[Linnaean taxonomy|rank]] in the same [[kingdom (biology)|kingdom]] before&nbsp;– even if that name is now a synonym too. Taxa that preoccupy a name can be linked in the Synonyms section, such as ''Stenorhynchus'' [[Trembler|here]].
+
+Use {{para|synonyms_ref}} to give references for the synonym list, for example:
+ {{para|synonyms_ref | <nowiki><ref></nowiki>Smith and Jones, 2009, p.&nbsp;5<nowiki></ref></nowiki>}}
+
+==== Type species ====
+When the [[type species]] of a genus (or larger grouping) is known, the {{para|type_species}} and {{para|type_species_authority}} can be used. For animal entries, the type species should be the original binomial name of the type species, but linked to its current article, and the authority should be plain (no parenthesis). See ''[[Giant mouse lemur|Mirza]]'' for a type species example.
+
+<pre style="overflow:auto">
+| type_species           = the original name of the species that was initially used to describe the genus, without regard to its present-day nomenclature
+| type_species_authority =
+</pre>
+
+This follows [[International Commission on Zoological Nomenclature|ICZN]] Recommendation 67B; be aware that this means the taxon used by the genus' original author&nbsp;– even if it is now invalid, e.g. a [[junior synonym]]. Ideally, it should only be used if the genus' original description can be verified first-hand. As per the following example given by the ICZN:
+
+<blockquote>''Astacus marinus'' Fabricius, 1775, one of the nominal species originally included in the decapod crustacean genus ''Homarus'' Weber, 1795, was subsequently designated by Fowler (1912) as the type species of ''Homarus''. The type species is, and should be cited as, ''Astacus marinus'' Fabricius, 1775. ''Astacus marinus'' Fabricius is currently synonymized with ''Cancer gammarus'' Linnaeus, 1758, but the latter is not the type species of ''Homarus'' and should not be cited as such. If mention of the type species is required it should be made in some such manner as "Type species ''Astacus marinus'' Fabricius, 1775, a junior synonym of ''Cancer gammarus'' Linnaeus, 1758"; or "Type species ''Astacus marinus'' Fabricius, 1775, now regarded as a synonym of ''Homarus gammarus'' (Linnaeus, 1758)".</blockquote>
+
+If you do not completely understand what this all means, please ''do not use this parameter''. Instead, if possible denote the type species in the species listing, for example with a
+
+<pre><small>([[type species]])</small></pre>
+
+after the species' (currently valid) name.
+
+=== Italic page titles ===
+If the value of {{para|genus}}, {{para|species}}, or {{para|binomial}} exactly matches the title of the page, '''and''' {{para|name}} is unspecified, the taxobox '''and''' page title will be italicized automatically.<ref group=note>See note 1; the title of the page will be italicized using the <nowiki>{{DISPLAYTITLE}}</nowiki> [[mw:Help:Magic words|magic word]]. When the page name contains the disambiguator "(alga)" or "(genus)", this disambiguator will not be italicized (e.g., [[Ia (genus)|''Ia'' (genus)]]).</ref>  If necessary, it is also possible to force the page title to display in italics using the {{tl|Italic title}} template.
+
+If the {{para|name}} parameter is present, then the taxobox will display whatever is in {{para|name}}; the page title will NOT be italicized unless {{tl|italic title}} is used.
+
+=== Complete blank template ===
+This section gives all parameters in the order that they will appear in the taxobox. No taxobox should use all of these. Keep it short!
+''Note that parameters in this template are case-sensitive.''
+
+{{Taxobox
+| color                           = {{Taxobox colour|[[Animal]]ia}}
+| name                            = name
+| status                          = EN
+| status_system                   = iucn3.1
+| status_ref                      = <ref>iucn reference goes here</ref>
+| fossil_range                    = {{fossil range|100|0}}fossil_range
+| image                           = Panthera tigris tigris.jpg
+| image_width                     = 200px
+| image_alt                       = image_alt
+| image_caption                   = image_caption
+| image2                          = Singapore Zoo Tigers.jpg 
+| image2_width                    = 200px
+| image2_alt                      = image2_alt
+| image2_caption                  = image2_caption
+| classification_status           = status of classification
+| virus_group                     = virus_group
+| superdomain                     = superdomain
+| unranked_superdomain            = unranked_superdomain
+| unranked_superdomain_authority  = unranked_superdomain_authority
+| domain                          = domain
+| domain_authority                = domain_authority
+| superregnum                     = superregnum
+| superregnum_authority           = superregnum_authority
+| regnum                          = regnum
+| regnum_authority                = regnum_authority
+| unranked_regnum                 = unranked_regnum
+| unranked_regnum_authority       = unranked_regnum_authority
+| subregnum                       = subregnum
+| subregnum_authority             = subregnum_authority
+| infraregnum                     = infraregnum
+| infraregnum authority           = infraregnum authority
+| unranked_phylum                 = unranked_phylum
+| unranked_phylum_authority       = unranked_phylum_authority
+| superdivisio                    = superdivisio
+| superdivisio_authority          = superdivisio_authority
+| superphylum                     = superphylum
+| superphylum_authority           = superphylum_authority
+| unranked_divisio                = unranked_divisio
+| unranked_divisio_authority      = unranked_divisio_authority
+| divisio                         = divisio
+| divisio_authority               = divisio_authority
+| phylum                          = phylum
+| phylum_authority                = phylum_authority
+| subdivisio                      = subdivisio
+| subdivisio_authority            = subdivisio_authority
+| subphylum                       = subphylum
+| subphylum_authority             = subphylum_authority
+| infraphylum                     = infraphylum
+| infraphylum_authority           = infraphylum_authority
+| microphylum                     = microphylum
+| microphylum_authority           = microphylum_authority
+| nanophylum                      = nanophylum
+| nanophylum_authority            = nanophylum_authority
+| unranked_classis                = unranked_classis
+| unranked_classis_authority      = unranked_classis_authority
+| superclassis                    = superclassis
+| superclassis_authority          = superclassis_authority
+| classis                         = classis
+| classis_authority               = classis_authority
+| unranked_subclassis             = unranked_subclassis
+| unranked_subclassis_authority   = unranked_subclassis_authority
+| subclassis                      = subclassis
+| subclassis_authority            = subclassis_authority
+| unranked_infraclassis           = unranked_infraclassis
+| unranked_infraclassis_authority = unranked_infraclassis_authority
+| infraclassis                    = infraclassis
+| infraclassis_authority          = infraclassis_authority
+| unranked_ordo                   = unranked_ordo
+| unranked_ordo_authority         = unranked_ordo_authority
+| magnordo                        = magnordo
+| magnordo_authority              = magnordo_authority
+| superordo                       = superordo
+| superordo_authority             = superordo_authority
+| ordo                            = ordo
+| ordo_authority                  = ordo_authority
+| subordo                         = subordo
+| subordo_authority               = subordo_authority
+| infraordo                       = infraordo
+| infraordo_authority             = infraordo_authority
+| parvordo                        = parvordo
+| parvordo_authority              = parvordo_authority
+| zoodivisio                      = zoodivisio
+| zoodivisio_authority            = zoodivisio_authority
+| zoosectio                       = zoosectio
+| zoosectio_authority             = zoosectio_authority
+| zoosubsectio                    = zoosubsectio
+| zoosubsectio_authority          = zoosubsectio_authority
+| unranked_superfamilia           = unranked_superfamilia
+| unranked_superfamilia_authority = unranked_superfamilia_authority
+| superfamilia                    = superfamilia
+| superfamilia_authority          = superfamilia_authority
+| familia                         = familia
+| familia_authority               = familia_authority
+| subfamilia                      = subfamilia
+| subfamilia_authority            = subfamilia_authority
+| unranked_tribus                 = unranked_tribus
+| unranked_tribus_authority       = unranked_tribus_authority
+| supertribus                     = supertribus
+| supertribus_authority           = supertribus_authority
+| tribus                          = tribus
+| tribus_authority                = tribus_authority
+| subtribus                       = subtribus
+| subtribus_authority             = subtribus_authority
+| alliance                        = alliance
+| alliance_authority              = alliance_authority
+| unranked_genus                  = unranked_genus
+| unranked_genus_authority        = genus_authority
+| genus                           = genus
+| genus_authority                 = genus_authority
+| subgenus                        = subgenus
+| subgenus_authority              = subgenus_authority
+| sectio                          = sectio
+| sectio_authority                = sectio_authority
+| subsectio                       = subsectio
+| subsectio_authority             = subsectio_authority
+| series                          = series
+| series_authority                = series_authority
+| subseries                       = subseries
+| subseries_authority             = subseries_authority
+| species_group                   = species_group
+| species_group_authority         = species_group_authority
+| species_subgroup                = species_subgroup
+| species_subgroup_authority      = species_subgroup_authority
+| species_complex                 = species_complex
+| species_complex_authority       = species_complex_authority
+| species                         = species
+| species_authority               = species_authority
+| subspecies                      = subspecies
+| subspecies_authority            = subspecies_authority
+| variety                         = variety
+| variety_authority               = variety_authority
+| forma                           = forma
+| forma_authority                 = forma_authority
+| type_strain                     = type strain
+| diversity_ref                   = <ref>diversity_ref</ref>
+| diversity                       = diversity
+| diversity_link                  = diversity_link
+| binomial                        = binomial
+| binomial_authority              = binomial_authority
+| trinomial                       = trinomial
+| trinomial_authority             = trinomial_authority
+| type_species                    = type_species
+| type_species_authority          = type_species_authority
+| subdivision                     = subdivision
+| subdivision_ranks               = subdivision_ranks
+| range_map                       = Pleurodeles walti dis.png
+| range_map_width                 = 200px
+| range_map_alt                   = range_map_alt
+| range_map_caption               = range_map_caption
+| binomial2                       = binomial2
+| binomial2_authority             = binomial2_authority
+| range_map2                      = Pleurodeles walti dis.png
+| range_map2_width                = 200px
+| range_map2_alt                  = range_map2_alt
+| range_map2_caption              = range_map2_caption
+| binomial3                       = binomial3
+| binomial3_authority             = binomial3_authority
+| range_map3                      = Pleurodeles walti dis.png
+| range_map3_width                = 200px
+| range_map3_alt                  = range_map3_alt
+| range_map3_caption              = range_map3_caption
+| binomial4                       = binomial4
+| binomial4_authority             = binomial4_authority
+| range_map4                      = Pleurodeles walti dis.png
+| range_map4_width                = 200px
+| range_map4_alt                  = range_map4_alt
+| range_map4_caption              = range_map4_caption
+| synonyms_ref                    = <ref>synonyms_ref</ref>
+| synonyms                        = synonyms
+}}
+
+<pre style="overflow:auto">
+{{Taxobox
+| color                           = 
+| name                            = 
+| status                          = 
+| status_system                   = 
+| status_ref                      = 
+| fossil_range                    = 
+| image                           = 
+| image_width                     = 
+| image_alt                       = 
+| image_caption                   = 
+| image_caption_align             =
+| image2                          = 
+| image2_width                    = 
+| image2_alt                      = 
+| image2_caption                  = 
+| classification_status           = 
+| virus_group                     = 
+| unranked_superdomain            = 
+| unranked_superdomain_authority  = 
+| superdomain                     = 
+| superdomain_authority           = 
+| domain                          = 
+| domain_authority                = 
+| superregnum                     = 
+| superregnum_authority           = 
+| unranked_regnum                 = 
+| unranked_regnum_authority       = 
+| regnum                          = 
+| regnum_authority                = 
+| subregnum                       = 
+| subregnum_authority             = 
+| superdivisio                    = 
+| superdivisio_authority          = 
+| superphylum                     = 
+| superphylum_authority           = 
+| unranked_divisio                = 
+| unranked_divisio_authority      =
+| divisio                         = 
+| divisio_authority               = 
+| unranked_phylum                 = 
+| unranked_phylum_authority       = 
+| phylum                          = 
+| phylum_authority                =
+| subdivisio                      = 
+| subdivisio_authority            = 
+| subphylum                       = 
+| subphylum_authority             = 
+| infraphylum                     = 
+| infraphylum_authority           = 
+| microphylum                     = 
+| microphylum_authority           = 
+| nanophylum                      = 
+| nanophylum_authority            = 
+| superclassis                    = 
+| superclassis_authority          = 
+| unranked_classis                = 
+| unranked_classis_authority      = 
+| classis                         = 
+| classis_authority               = 
+| unranked_subclassis             = 
+| unranked_subclassis_authority   = 
+| subclassis                      = 
+| subclassis_authority            = 
+| unranked_infraclassis           = 
+| unranked_infraclassis_authority = 
+| infraclassis                    = 
+| infraclassis_authority          = 
+| magnordo                        = 
+| magnordo_authority              = 
+| superordo                       = 
+| superordo_authority             = 
+| unranked_ordo                   = 
+| unranked_ordo_authority         = 
+| ordo                            = 
+| ordo_authority                  = 
+| subordo                         = 
+| subordo_authority               = 
+| infraordo                       = 
+| infraordo_authority             = 
+| parvordo                        = 
+| parvordo_authority              = 
+| zoodivisio                      = 
+| zoodivisio_authority            = 
+| zoosectio                       = 
+| zoosectio_authority             = 
+| zoosubsectio                    = 
+| zoosubsectio_authority          = 
+| unranked_superfamilia           = 
+| unranked_superfamilia_authority = 
+| superfamilia                    = 
+| superfamilia_authority          = 
+| familia                         = 
+| familia_authority               = 
+| subfamilia                      = 
+| subfamilia_authority            = 
+| supertribus                     = 
+| supertribus_authority           = 
+| unranked_tribus                 = 
+| unranked_tribus_authority       = 
+| tribus                          = 
+| tribus_authority                = 
+| subtribus                       = 
+| subtribus_authority             = 
+| alliance                        = 
+| alliance_authority              = 
+| unranked_genus                  = 
+| unranked_genus_authority        = 
+| genus                           = 
+| genus_authority                 = 
+| subgenus                        = 
+| subgenus_authority              = 
+| sectio                          = 
+| sectio_authority                = 
+| subsectio                       = 
+| subsectio_authority             = 
+| series                          = 
+| series_authority                = 
+| subseries                       = 
+| subseries_authority             = 
+| species_group                   = 
+| species_group_authority         = 
+| species_subgroup                = 
+| species_subgroup_authority      = 
+| species_complex                 = 
+| species_complex_authority       = 
+| species                         = 
+| species_authority               = 
+| subspecies                      = 
+| subspecies_authority            = 
+| variety                         = 
+| variety_authority               = 
+| forma                           = 
+| forma_authority                 = 
+| diversity_ref                   = 
+| diversity                       = 
+| diversity_link                  = 
+| binomial                        = 
+| binomial_authority              = 
+| trinomial                       = 
+| trinomial_authority             = 
+| type_species                    = 
+| type_species_authority          = 
+| subdivision                     = 
+| subdivision_ranks               = 
+| type_strain                     = 
+| range_map                       = 
+| range_map_width                 = 
+| range_map_alt                   = 
+| range_map_caption               = 
+| binomial2                       = 
+| binomial2_authority             = 
+| range_map2                      = 
+| range_map2_width                = 
+| range_map2_alt                  = 
+| range_map2_caption              = 
+| binomial3                       = 
+| binomial3_authority             = 
+| range_map3                      = 
+| range_map3_width                = 
+| range_map3_alt                  = 
+| range_map3_caption              = 
+| binomial4                       = 
+| binomial4_authority             = 
+| range_map4                      = 
+| range_map4_width                = 
+| range_map4_alt                  = 
+| range_map4_caption              = 
+| synonyms_ref                    = 
+| synonyms                        = 
+}}
+</pre>
+
+=== All parameters ===
+The full list of parameters is illustrated inside the infobox above, in the "[[#Complete blank template|Complete blank template]]".
+
+:{|  <!--this table uses end-of-line "<tr>" to split rows. -->
+|-
+| color -       || typical color code <tr>
+| name -        || name defaults to <nowiki>{{PAGENAME}}</nowiki><tr>
+| status -      || conservation status code <tr>
+| status_system - || status-system type    <tr>
+| status_ref -  || status reference <tr>
+| regnum  -     || (standard) kingdom name <tr>
+| phylum  -     || (standard) phylum name <tr>
+| classis -     || (standard) class name <tr>
+| ordo    -     || (standard) order name <tr>
+| familia -     || (standard) family name <tr>
+| genus   -     || (standard) genus name <tr>
+| species -     || (standard) species name <tr>
+| fossil_range - || (as shown at top of box) <tr> 
+| image            - || (as shown in box) <tr> 
+| image_width      - || (as shown in box) <tr> 
+| image_alt        - || (as shown in box) <tr> 
+| image_caption    - || (as shown in box) <tr> 
+| image2           - || (as shown in box) <tr> 
+| image2_width     - || (as shown in box) <tr> 
+| image2_alt       - || (as shown in box) <tr> 
+| image2_caption   - || (as shown in box) <tr> 
+| classification_status - || (as shown in box) <tr> 
+| virus_group      - || (as shown in box) <tr> 
+| superdomain      - || (as shown in box) <tr> 
+| superdomain_authority - || (as shown in box) <tr> 
+| unranked_superdomain  - || (as shown in box) <tr> 
+| unranked_superdomain_ authority - || (as shown in box) <tr> 
+| domain                 - || (as shown in box) <tr> 
+| domain_authority       - || (as shown in box) <tr> 
+| unranked_regnum        - || (as shown in box) <tr> 
+| unranked_regnum_ authority - || (as shown in box) <tr> 
+| superregnum            - || (as shown in box) <tr> 
+| superregnum_authority  - || (as shown in box) <tr> 
+| regnum_authority       - || (as shown in box) <tr> 
+| subregnum              - || (as shown in box) <tr> 
+| subregnum_authority    - || (as shown in box) <tr> 
+| unranked_phylum        - || (as shown in box) <tr> 
+| unranked_phylum_ authority - || (as shown in box) <tr> 
+| superdivisio           - || (as shown in box) <tr> 
+| superdivisio_authority - || (as shown in box) <tr> 
+| superphylum            - || (as shown in box) <tr> 
+| superphylum_authority  - || (as shown in box) <tr> 
+| divisio                - || (as shown in box) <tr> 
+| divisio_authority      - || (as shown in box) <tr> 
+| unranked_divisio       - || (as shown in box) <tr> 
+| unranked_divisio_ authority  - || (as shown in box) <tr>
+| phylum_authority       - || (as shown in box) <tr>
+| subdivisio             - || (as shown in box) <tr> 
+| subdivisio_authority   - || (as shown in box) <tr> 
+| subphylum              - || (as shown in box) <tr> 
+| subphylum_authority    - || (as shown in box) <tr> 
+| infraphylum            - || (as shown in box) <tr> 
+| infraphylum_authority  - || (as shown in box) <tr> 
+| microphylum            - || (as shown in box) <tr> 
+| microphylum_authority  - || (as shown in box) <tr> 
+| nanophylum             - || (as shown in box) <tr> 
+| nanophylum_authority   - || (as shown in box) <tr> 
+| unranked_classis       - || (as shown in box) <tr> 
+| unranked_classis_ authority - || (as shown in box) <tr> 
+| superclassis           - || (as shown in box) <tr> 
+| superclassis_authority - || (as shown in box) <tr> 
+| classis_authority      - || (as shown in box) <tr> 
+| unranked_subclassis    - || (as shown in box) <tr> 
+| unranked_subclassis_ authority    - || (as shown in box) <tr> 
+| subclassis             - || (as shown in box) <tr> 
+| subclassis_authority   - || (as shown in box) <tr> 
+| unranked_infraclassis  - || (as shown in box) <tr> 
+| unranked_infraclassis_ authority  - || (as shown in box) <tr> 
+| infraclassis           - || (as shown in box) <tr> 
+| infraclassis_authority - || (as shown in box) <tr> 
+| unranked_ordo          - || (as shown in box) <tr> 
+| unranked_ordo_authority - || (as shown in box) <tr> 
+| magnordo               - || (as shown in box) <tr> 
+| magnordo_authority     - || (as shown in box) <tr> 
+| superordo              - || (as shown in box) <tr> 
+| superordo_authority    - || (as shown in box) <tr> 
+| ordo_authority         - || (as shown in box) <tr> 
+| subordo                - || (as shown in box) <tr> 
+| subordo_authority      - || (as shown in box) <tr> 
+| infraordo              - || (as shown in box) <tr> 
+| infraordo_authority    - || (as shown in box) <tr> 
+| parvordo               - || (as shown in box) <tr> 
+| parvordo_authority     - || (as shown in box) <tr> 
+| zoodivisio             - || (as shown in box) <tr> 
+| zoodivisio_authority   - || (as shown in box) <tr> 
+| zoosectio              - || (as shown in box) <tr> 
+| zoosectio_authority    - || (as shown in box) <tr> 
+| zoosubsectio           - || (as shown in box) <tr> 
+| zoosubsectio_authority - || (as shown in box) <tr> 
+| unranked_superfamilia  - || (as shown in box) <tr> 
+| unranked_superfamilia_ authority  - || (as shown in box) <tr> 
+| superfamilia           - || (as shown in box) <tr> 
+| superfamilia_authority - || (as shown in box) <tr> 
+| familia_authority      - || (as shown in box) <tr> 
+| subfamilia             - || (as shown in box) <tr> 
+| subfamilia_authority   - || (as shown in box) <tr> 
+| unranked_tribus        - || (as shown in box) <tr> 
+| unranked_tribus_ authority - || (as shown in box) <tr> 
+| supertribus            - || (as shown in box) <tr> 
+| supertribus_authority  - || (as shown in box) <tr> 
+| tribus                 - || (as shown in box) <tr> 
+| tribus_authority       - || (as shown in box) <tr> 
+| subtribus              - || (as shown in box) <tr> 
+| subtribus_authority    - || (as shown in box) <tr> 
+| alliance               - || (as shown in box) <tr> 
+| alliance_authority     - || (as shown in box) <tr> 
+| unranked_genus         - || (as shown in box) <tr> 
+| unranked_genus_ authority - || (as shown in box) <tr> 
+| genus_authority        - || (as shown in box) <tr> 
+| subgenus               - || (as shown in box) <tr> 
+| subgenus_authority     - || (as shown in box) <tr> 
+| sectio                 - || (as shown in box) <tr> 
+| sectio_authority       - || (as shown in box) <tr> 
+| subsectio              - || (as shown in box) <tr> 
+| subsectio_authority    - || (as shown in box) <tr> 
+| series                 - || (as shown in box) <tr> 
+| series_authority       - || (as shown in box) <tr> 
+| subseries              - || (as shown in box) <tr> 
+| subseries_authority    - || (as shown in box) <tr> 
+| species_group          - || (as shown in box) <tr> 
+| species_group_authority - || (as shown in box) <tr> 
+| species_subgroup       - || (as shown in box) <tr> 
+| species_subgroup_ authority - || (as shown in box) <tr> 
+| species_complex        - || (as shown in box) <tr> 
+| species_complex_ authority - || (as shown in box) <tr> 
+| species_authority      - || (as shown in box) <tr> 
+| subspecies             - || (as shown in box) <tr> 
+| subspecies_authority   - || (as shown in box) <tr> 
+| variety                - || (as shown in box) <tr> 
+| variety_authority      - || (as shown in box) <tr> 
+| forma                  - || (as shown in box) <tr> 
+| forma_authority        - || (as shown in box) <tr> 
+| diversity_ref          - || (as shown in box) <tr> 
+| diversity              - || (as shown in box) <tr> 
+| diversity_link         - || (as shown in box) <tr> 
+| binomial               - || (as shown in box) <tr> 
+| binomial_authority     - || (as shown in box) <tr> 
+| trinomial              - || (as shown in box) <tr> 
+| trinomial_authority    - || (as shown in box) <tr> 
+| type_species           - || (as shown in box) <tr> 
+| type_species_authority - || (as shown in box) <tr> 
+| subdivision            - || (as shown in box) <tr> 
+| subdivision_ranks      - || (as shown in box) <tr> 
+| type_strain            - || (as shown in box) <tr> 
+| range_map           - || 1st map, bottom of box <tr> 
+| range_map_width     - || 1st map width as 200px <tr> 
+| range_map_alt       - || 1st map ALT= text<tr> 
+| range_map_caption   - || 1st caption, under picture<tr> 
+| binomial2           - || (as shown in box) <tr> 
+| binomial2_authority - || (as shown in box) <tr> 
+| range_map2          - || 2nd map in box <tr> 
+| range_map2_width    - || 2nd map width as 200px<tr> 
+| range_map2_alt      - || 2nd map ALT= text <tr> 
+| range_map2_caption  - || 2nd map caption <tr> 
+| binomial3           - || (as shown in box) <tr> 
+| binomial3_authority - || (as shown in box) <tr> 
+| range_map3          - || 3rd map in box <tr> 
+| range_map3_width    - || 3rd map width as 200px <tr> 
+| range_map3_alt      - || 3rd map ALT= text <tr> 
+| range_map3_caption  - || 3rd maq caption <tr> 
+| binomial4           - || (as shown in box) <tr> 
+| binomial4_authority - || (as shown in box) <tr> 
+| range_map4          - || 4th map in box <tr> 
+| range_map4_width    - || 4th map width as 200px <tr> 
+| range_map4_alt      - || 4th map ALT= text <tr> 
+| range_map4_caption  - || 4th map caption <tr> 
+| synonyms_ref - || reference for synonyms <tr> 
+| synonyms     - || (as at bottom of box)
+|}
+
+=== Articles lacking taxoboxes ===
+For articles lacking taxoboxes, add '''[[Template:Missing-taxobox]]''' to the ''talk'' page. This may be done by typing '''<nowiki>{{Missing-taxobox}}</nowiki>''' or '''<nowiki>{{needtaxobox}}</nowiki>''' at the top of the ''talk'' page.
+
+=== Microformat ===
+{{UF-species}}
+
+===Template Data===
+{{TemplateDataHeader}}
+<templatedata>{
+"description": "An infobox for plants, animals and other biological taxa",
+"params": {
+  "name": {
+    "label": "Name",
+    "description": "For plants, see [[Wikipedia:Naming conventions (flora)]]. For all other living things, the name should be the most common vernacular name, when one is in widespread use, and a scientific name otherwise.",
+    "type": "string",
+    "required": true
+  },
+  "image": {
+    "label": "Image",
+    "description": "An image to use, do not include the 'File:' part of the image file name.",
+    "type": "string",
+    "required": false
+  },
+  "image_width": {
+    "label": "Image Width",
+    "description": "Width to display the image at. Should not normally be set. e.g. 320px",
+    "type": "string",
+    "aliases": [ "image width" ],
+    "required": false
+  },
+  "image_alt": {
+    "label": "Image alt text",
+    "description": "Alt text which describes the image to someone who can't see it",
+    "type": "string",
+    "aliases": [ "image alt" ],
+    "required": false
+  },
+  "image_caption": {
+    "label": "Image caption",
+    "description": "Caption displayed under the image",
+    "type": "string",
+    "aliases": [ "image caption" ],
+    "required": true
+  },
+  "image_caption_align": {
+    "label": "Image caption alignment",
+    "description": "Alignment of the caption displayed under the image, e.g. left. Should not normally be set.",
+    "type": "string",
+    "aliases": [ "image caption alignment" ],
+    "required": false
+  },
+
+  "regnum": {
+    "label": "Kingdom",
+    "description": "Kingdom: [[Animal]]ia, [[Plant]]ae, [[Fungi]], other taxa may want to use domain or other ranks instead",
+    "type": "string",
+    "required": false
+  },
+  "divisio": {
+    "label": "Division",
+    "description": "Division in botany, e.g. [[Bryophyta]]. Not for flowering plants using the APG III system",
+    "type": "string",
+    "required": false
+  },
+  "phylum": {
+    "label": "Phylum",
+    "description": "Phylum in zoology, eg [[Chordata]] for vertebrates",
+    "type": "string",
+    "required": false
+  },
+  "classis": {
+    "label": "Class",
+    "description": "Class/classis taxonomic rank",
+    "type": "string",
+    "required": false
+  },
+  "ordo": {
+    "label": "Order",
+    "description": "Order/ordo taxonomic rank",
+    "type": "string",
+    "required": false
+  },
+  "familia": {
+    "label": "Family",
+    "description": "Family/familia taxonomic rank",
+    "type": "string",
+    "required": false
+  },
+  "genus": {
+    "label": "Genus",
+    "description": "Genus taxonomic rank, in italics, e.g. ''[[Homo]]''",
+    "type": "string",
+    "required": false
+  },
+  "species": {
+    "label": "Species",
+    "description": "Species taxonomic rank. Should be given in abbreviated forms and in italics, e.g. ''H. sapiens''.",
+    "type": "string",
+    "required": false
+  },
+  "binomial": {
+    "label": "Binomial",
+    "description": "Full binomial name of taxa, In full form with italics, e.g. ''Salix alba'' var. ''caerulea''",
+    "type": "string",
+    "required": false
+  },
+  "binomial_authority": {
+    "label": "Binomial authority",
+    "description": "Binomial authority using appropriate conventions, eg [[Carl Linnaeus|L.]] (for plants), [[Carl Linnaeus|Linnaeus]], 1761 (for animals)",
+    "type": "string",
+    "aliases": [ "binomial authority" ],
+    "required": false
+  },
+  "range_map": {
+    "label": "Range map",
+    "description": "Map of range",
+    "type": "string",
+    "aliases": [ "range map" ],
+    "required": false
+  },
+  "range_map_width": {
+    "label": "Range map width",
+    "description": "Width to display range map. Should not normally be set. e.g. 320px",
+    "type": "string",
+    "aliases": [ "range map width" ],
+    "required": false
+  },
+  "range_map_alt": {
+    "label": "Range map alt text",
+    "description": "Alt text describing the range in words",
+    "type": "string",
+    "aliases": [ "range map alt" ],
+    "required": false
+  },
+  "range_map_caption": {
+    "label": "Range map caption",
+    "description": "Caption/key for the range map",
+    "type": "string",
+    "aliases": [ "range map caption" ],
+    "required": false
+  },
+  "status": {
+    "label": "Conservation status",
+    "description": "The conservation status code: 'secure', domesticated 'DOM', Least Concern 'LC', Lower Risk—Least Concern 'LR/lc', Near Threatened 'NT', Lower Risk—Near Threatened 'LR/nt', Lower Risk—Conservation Dependent 'LR/cd', Vulnerable 'VU', Endangered 'EN', Critically Endangered 'CR', Possibly Extinct 'PE', Extinct in the wild 'EW', Extinct 'EX', Data deficient 'DD', Not evaluated 'NE',Fossil 'fossil', Prehistoric 'pre', 'See text', Lower Risk 'LR'",
+    "type": "string",
+    "required": false
+  },
+  "status_system": {
+    "label": "Conservation status system",
+    "description": "System used for Conservation status: 'iucn3.1', 'iucn2.3', 'EPBC' etc. Required if status given.",
+    "type": "string",
+    "aliases": [ "status system" ],
+    "required": false
+  },
+  "status_ref": {
+    "label": "Status reference",
+    "description": "Reference for status <ref>{{IUCN2012.2|...}}</ref>",
+    "type": "string",
+    "aliases": [ "status ref" ],
+    "required": false
+  },
+  "extinct": {
+    "label": "Year of extinction",
+    "description": "Year of extinction, if known",
+    "type": "string",
+    "required": false
+  },
+  "fossil_range": {
+    "label": "Fossil range",
+    "description": "The stratigraphic range for groups known as fossils. E.g. [[Cambrian]]–[[Permian]] or {{fossil range|Cambrian|Permian}} to give a chart. Use 'Recent' for extant taxa and 'Holocene' for for Late Quaternary extinctions.",
+    "type": "string",
+    "aliases": [ "fossil range" ],
+    "required": false
+  },
+
+  "virus_group": {
+    "label": "virus group",
+    "description": "Viruses not placed in taxa above the rank of order, instead a virus group is used, given by a Roman numeral from I to VII",
+    "type": "string",
+    "aliases": [ "virus group" ],
+    "required": false
+  },
+
+  "unranked_superdomain": {
+    "label": "Unranked superdomain",
+    "description": "For each major taxon you can add an unranked entry to the taxobox. The entry unranked_X appears above rank X",
+    "type": "string",
+    "aliases": [ "unranked superdomain" ],
+    "required": false
+  },
+  "superdomain": {
+    "label": "Superdomain",
+    "description": "This and other minor ranks should only be used when they are important to understanding the classification of the taxon described in the article",
+    "type": "string",
+    "required": false
+  },
+  "superdomain_authority": {
+    "label": "Superdomain Authority",
+    "description": "The authority used for this rank. Every rank has a rank_authority field which are not currently listed",
+    "type": "string",
+    "aliases": [ "superdomain authority" ],
+    "required": false
+  },
+  "domain": {
+    "label": "Domain",
+    "description": "Domain for Archaea, Bacteria and Eukarya",
+    "type": "string",
+    "required": false
+  },
+  "superregnum": {
+    "label": "Superkingdom",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "unranked_regnum": {
+    "label": "unranked kingdom",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked regnum" ],
+    "required": false
+  },
+
+  "subregnum": {
+    "label": "Subkingdom",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "superdivisio": {
+    "label": "Superdivision",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "superphylum": {
+    "label": "Superphylum",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+
+  "unranked_divisio": {
+    "label": "Unranked division",
+    "description": "For flowering plants using the APG III system this should be set to [[Angiosperms]] rather than using division/divisio",
+    "type": "string",
+    "aliases": [ "unranked divisio" ],
+    "required": false
+  },
+  "unranked_phylum": {
+    "label": "Unranked phylum",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked phylum" ],
+    "required": false
+  },
+
+  "subphylum": {
+    "label": "subphylum",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "infraphylum": {
+    "label": "Infraphylum",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "microphylum": {
+    "label": "microphylum",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "nanophylum": {
+    "label": "nanophylum",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "superclassis": {
+    "label": "superclassis",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "unranked_classis": {
+    "label": "Unranked class",
+    "description": "For flowering plants using the APG III system this should be used rather than class/classis",
+    "type": "string",
+    "aliases": [ "unranked classis" ],
+    "required": false
+  },
+  "unranked_subclassis": {
+    "label": "unranked subclassis",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked subclassis" ],
+    "required": false
+  },
+  "subclassis": {
+    "label": "subclassis",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "unranked_infraclassis": {
+    "label": "unranked infraclassis",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked infraclassis" ],
+    "required": false
+  },
+  "infraclassis": {
+    "label": "infraclassis",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "magnordo": {
+    "label": "magnordo",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "superordo": {
+    "label": "superordo",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "unranked_ordo": {
+    "label": "Unranked order",
+    "description": "Generally used for flowering plants using the APG III system",
+    "type": "string",
+    "aliases": [ "unranked ordo" ],
+    "required": false
+  },
+
+  "subordo": {
+    "label": "subordo",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "infraordo": {
+    "label": "infraordo",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "parvordo": {
+    "label": "parvordo",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "zoodivisio": {
+    "label": "zoodivision",
+    "description": "Used in zoology, a different rank to the division used in botany.",
+    "type": "string",
+    "required": false
+  },
+  "zoosectio": {
+    "label": "zoosection",
+    "description": "Used in zoology, a different rank to the section used in botany.",
+    "type": "string",
+    "required": false
+  },
+  "zoosubsectio": {
+    "label": "zoosubsection",
+    "description": "Used in zoology,  a different rank to the subsection used in botany.",
+    "type": "string",
+    "required": false
+  },
+  "unranked_superfamilia": {
+    "label": "Unranked Superfamily",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked superfamilia" ],
+    "required": false
+  },
+  "superfamilia": {
+    "label": "Superfamily",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+
+  "subfamilia": {
+    "label": "Subfamily",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "supertribus": {
+    "label": "supertribus",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "unranked_tribus": {
+    "label": "unranked tribe",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked tribus" ],
+    "required": false
+  },
+  "tribus": {
+    "label": "tribe",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "subtribus": {
+    "label": "subtribe",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "alliance": {
+    "label": "alliance",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "unranked_genus": {
+    "label": "Unranked genus",
+    "description": "",
+    "type": "string",
+    "aliases": [ "unranked genus" ],
+    "required": false
+  },
+
+  "subgenus": {
+    "label": "Subgenus",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "sectio": {
+    "label": "Section",
+    "description": "Used in botany, use zoosectio in zoology",
+    "type": "string",
+    "required": false
+  },
+  "subsectio": {
+    "label": "Subsection",
+    "description": "Used in botany, use zoosubsectio in zoology",
+    "type": "string",
+    "required": false
+  },
+  "series": {
+    "label": "Series",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "subseries": {
+    "label": "Subseries",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+  "species_group": {
+    "label": "Species group",
+    "description": "",
+    "type": "string",
+    "aliases": [ "species group" ],
+    "required": false
+  },
+  "species_subgroup": {
+    "label": "species subgroup",
+    "description": "",
+    "type": "string",
+    "aliases": [ "species subgroup" ],
+    "required": false
+  },
+  "species_complex": {
+    "label": "species complex",
+    "description": "",
+    "type": "string",
+    "aliases": [ "species complex" ],
+    "required": false
+  },
+
+ "subspecies": {
+    "label": "subspecies",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+ "variety": {
+    "label": "variety",
+    "description": "",
+    "type": "string",
+    "required": false
+  },
+ "forma": {
+    "label": "form",
+    "description": "Used in botany, not in zoology",
+    "type": "string",
+    "required": false
+  },
+ "trinomial": {
+    "label": "trinomial",
+    "description": "The full trinomial name for subspecies, it should generally be in italics.",
+    "type": "string",
+    "required": false
+  },
+ "trinomial_authority": {
+    "label": "trinomial authority",
+    "description": "The authority for a trinomial.",
+    "type": "string",
+    "aliases": [ "trinomial authority" ],
+    "required": false
+  },
+ "synonyms": {
+    "label": "Synonyms",
+    "description": "A list of synonyms for a species, e.g. ''species1'' <small>Authority1</small><br/> ''species2'' <small>Authority2</small>",
+    "type": "string",
+    "required": false
+  },
+ "synonyms_ref": {
+    "label": "Synonyms ref",
+    "description": "References for the synonym lists, e.g.<ref>Smith and Jones, 2009, p. 5</ref>",
+    "type": "string",
+    "aliases": [ "synonyms ref" ],
+    "required": false
+  },
+
+"type_species": {
+    "label": "Type species",
+    "description": "The original name of the species that was initially used to describe the genus, without regard to its present-day nomenclature.",
+    "type": "string",
+    "aliases": [ "type species" ],
+    "required": false
+  },
+ "type_species_authority": {
+    "label": "Type species authority",
+    "description": "Authority for the type species, don't use parenthesis.",
+    "type": "string",
+    "aliases": [ "type species authority" ],
+    "required": false
+  },
+ "classification_status": {
+    "label": "Classification status",
+    "description": "Status of the scientific classification, e.g. disputed. Only use when the scientific classification text would be misleading without it.",
+    "type": "string",
+    "aliases": [ "classification status" ],
+    "required": false
+  },
+  "subdivision_ranks": {
+    "label": "Subdivision ranks",
+    "description": "Rank used for sub-divisions of this taxa, e.g. 'Families'",
+    "type": "string",
+    "aliases": [ "subdivision ranks" ],
+    "required": false
+  },
+  "subdivision": {
+    "label": "Subdivision",
+    "description": "List of sub divisions of this taxa, e.g. [[Family1]]<br/> [[Family2]]<br/> [[Family3]]",
+    "type": "string",
+    "required": false
+  },
+
+  "image2": {
+    "label": "Image 2",
+    "description": "A second image, only use in rare circumstances.",
+    "type": "string",
+    "required": false
+  },
+  "image2_width": {
+    "label": "Image 2 Width",
+    "description": "Width of the second image",
+    "type": "number",
+    "aliases": [ "image2 width" ],
+    "required": false
+  },
+  "image2_alt": {
+    "label": "Image 2 alt text",
+    "description": "Alt text which describes the second image to someone who can't see it",
+    "type": "string",
+    "aliases": [ "image2 alt" ],
+    "required": false
+  },
+  "image2_caption": {
+    "label": "Image 2 caption",
+    "description": "Caption to display under the second image",
+    "type": "string",
+    "aliases": [ "image2 caption" ],
+    "required": false
+  },
+
+  "binomial2": {
+    "label": "Binomial2",
+    "description": "Second binomial name of taxa, only used in rare circumstances",
+    "type": "string",
+    "required": false
+  },
+  "binomial2_authority": {
+    "label": "Binomial authority 2",
+    "description": "Authority of second binomial",
+    "type": "string",
+    "aliases": [ "binomial2 authority" ],
+    "required": false
+  },
+  "binomial3": {
+    "label": "Binomial3",
+    "description": "Third binomial name of taxa, only used in rare circumstances",
+    "type": "string",
+    "required": false
+  },
+  "binomial3_authority": {
+    "label": "Binomial authority 3",
+    "description": "Authority of third binomial",
+    "type": "string",
+    "aliases": [ "binomial3 authority" ],
+    "required": false
+  },
+  "binomial4": {
+    "label": "Binomial4",
+    "description": "Forth binomial name of taxa, only used in rare circumstances",
+    "type": "string",
+    "required": false
+  },
+  "binomial4_authority": {
+    "label": "Binomial authority 4",
+    "description": "Authority of forth binomial",
+    "type": "string",
+    "aliases": [ "binomial4 authority" ],
+    "required": false
+  },
+  "range_map2": {
+    "label": "Range map 2",
+    "description": "Second map of range",
+    "type": "string",
+    "aliases": [ "range map2" ],
+    "required": false  
+  },
+  "range_map2_width": {
+    "label": "Range map 2 width",
+    "description": "Width of second range map",
+    "type": "string",
+    "aliases": [ "range map2 width" ],
+    "required": false  
+  },
+  "range_map2_alt": {
+    "label": "Range map 2 alt text",
+    "description": "Alt text describing the second range map",
+    "type": "string",
+    "aliases": [ "range map2 alt" ],
+    "required": false
+  },
+  "range_map2_caption": {
+    "label": "Range map 2 caption",
+    "description": "Caption/key for the second range map",
+    "type": "string",
+    "aliases": [ "range map2 caption" ],
+    "required": false
+  },
+  "range_map3": {
+    "label": "Range map 3",
+    "description": "Third map of range",
+    "type": "string",
+    "aliases": [ "range map3" ],
+    "required": false
+  },
+  "range_map3_width": {
+    "label": "Range map 3 width",
+    "description": "Width of third range map",
+    "type": "string",
+    "aliases": [ "range map3 width" ],
+    "required": false
+  },
+  "range_map3_alt": {
+    "label": "Range map 3 alt text",
+    "description": "Alt text describing the third range map",
+    "type": "string",
+    "aliases": [ "range map3 alt" ],
+    "required": false
+  },
+  "range_map3_caption": {
+    "label": "Range map 3 caption",
+    "description": "Caption/key for the third range map",
+    "type": "string",
+    "aliases": [ "range map3 caption" ],
+    "required": false
+  },
+  "range_map4": {
+    "label": "Range map 4",
+    "description": "Forth map of range",
+    "type": "string",
+    "aliases": [ "range map4" ],
+    "required": false
+  },
+  "range_map4_width": {
+    "label": "Range map 4 width",
+    "description": "Width of forth range map",
+    "type": "string",
+    "aliases": [ "range map4 width" ],
+    "required": false
+  },
+  "range_map4_alt": {
+    "label": "Range map 4 alt text",
+    "description": "Alt text describing the forth range map",
+    "type": "string",
+    "aliases": [ "range map4 alt" ],
+    "required": false
+  },
+  "range_map4_caption": {
+    "label": "Range map 4 caption",
+    "description": "Caption/key for the forth range map",
+    "type": "string",
+    "aliases": [ "range map4 caption" ],
+    "required": false
+  },
+  "color": {
+    "label": "color",
+    "description": "Generally not used as it is automatically assigned based on the entry for regnum, virus_group, unranked_phylum, phylum.",
+    "type": "string",
+    "required": false
+  }
+}}</templatedata>
+
+== See also ==
+* [[Wikipedia:How to read a taxobox]]
+* [[Wikipedia:Manual of Style/Infoboxes]]
+
+<div style="display: none">{{reflist}}</div>
+
+== Notes ==
+{{reflist|group=note}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Biology infobox templates]]
+[[Category:Taxobox templates| ]]
+[[Category:Wikipedia how-to|Taxobox usage]]
+}}</includeonly><noinclude>
+[[Category:Wikipedia Manual of Style (science)]]
+</noinclude>

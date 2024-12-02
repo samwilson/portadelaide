@@ -1,0 +1,48 @@
+
+{{Infobox bridge
+| name        = Jervois Bridge
+| image       = 
+| caption     = 
+| carries     = Motor vehicles, pedestrians; bicycle lane since 2014
+| crosses     = Inner harbour
+| locale      = Hart Street - St Vincent Street, Port Adelaide
+| design      = Road bridge
+| length      = {{Convert|0|m|ft|0|abbr=on}}
+| width       = {{Convert|0|m|ft|0|abbr=on}}
+| height      = {{Convert|0|m|ft|0|abbr=on}}
+| mainspan    = {{Convert|0|m|ft|0|abbr=on}}
+| below       = {{Convert|0|m|ft|0|abbr=on}} at mid-span
+| begin       = 
+| complete    = 
+| open        = {{Start-date|1969}}
+| map_type   = portadelaide-inner
+| map_caption = Location in Port Adelaide
+| latd = 34 | latm = 50 | lats = 46.33 | latNS = S
+| longd= 138 | longm= 29 | longs= 49.32 | longEW= E
+| coordinates_region = AU-SA_type:landmark
+| coordinates_display = inline
+}}
+
+
+==History==
+
+<!-- 
+==Gallery==
+{{Gallery
+| title = 
+| lines = 4
+|File:Duyfken replica at Port Adelaide.JPG|alt1=Duyfken replica|''Duyfken'' replica at Port Adelaide
+|File:Birkenhead bridge 2007.jpg|alt2=Birkenhead bridge|Birkenhead Bridge, viewed from the east
+}}
+ -->
+
+==References==
+{{reflist}}
+
+==External links== 
+
+====News articles====
+* Eugene Boisvert: [http://www.adelaidenow.com.au/messenger/west-beaches/lanes-halved-on-birkenhead-and-hart-st-bridges-at-port-adelaide-to-make-way-for-cycle-paths/story-fni9llx9-1226814650657 Lanes halved on Birkenhead and Hart St bridges at Port Adelaide to make way for cycle paths] ''Portside Messenger'', 31 January 2014. Accessed 23 September 2015.
+
+
+{{Bridges in Port Adelaide}}

@@ -1,0 +1,48 @@
+{{Taxobox
+| image = Vanellus tricolor - Gretna.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693967 |title=''Vanellus tricolor'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Charadriidae Charadriidae]
+| genus = ''[https://en.wikipedia.org/wiki/Vanellus Vanellus]''
+| species = '''''V. tricolor'''''
+| binomial = ''Vanellus tricolor''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1818)
+| synonyms = 
+''Charadrius tricolor'' <small>Vieillot, 1818</small><br />
+''Hoplopterus tricolor'' <small>(Vieillot, 1818)</small><br />
+''Lobivanellus tricolor'' <small>(Vieillot, 1818)</small>
+| range_map = Banded Lapwing.png
+| range_map_caption = Distribution of the Banded Lapwing
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Vanellus+(Lobivanellus)+tricolor ''Atlas of Living Australia'': Banded Lapwing]
+* [http://birdlife.org.au/bird-profile/banded-lapwing ''Birdlife Australia'': Banded Lapwing]
+* [https://en.wikipedia.org/wiki/Banded_lapwing ''Wikipedia'': Banded lapwing]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,45 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22685194 |title=''Neophema chrysostoma'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Neophema chrysostoma mortimer 2.jpg
+| image_width = 240px
+| image_caption = Blue-winged Parrot, Tasmania
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Psittaculinae Psittaculinae]
+| tribus = [https://en.wikipedia.org/wiki/Pezoporini Pezoporini]
+| genus = ''[https://en.wikipedia.org/wiki/Neophema Neophema]''
+| species = '''''N. chrysostoma'''''
+| binomial = ''Neophema chrysostoma''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Heinrich_Kuhl Kuhl], 1820)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Neophema+(Neonanodes)+chrysostoma ''Atlas of Living Australia'': Blue-winged Parrot]
+* [http://birdlife.org.au/bird-profile/Blue-winged-Parrot ''Birdlife Australia'': Blue-winged Parrot]
+* [https://en.wikipedia.org/wiki/Blue-winged_parrot ''Wikipedia'': Blue-winged parrot]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Brush Bronzewing
+| image = Bronze wing444.jpg
+| image_width = 240px
+| image_caption = A Brush Bronzewing
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22690670 |title=''Phaps elegans'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Columbiformes Columbiformes]
+| familia = [https://en.wikipedia.org/wiki/Columbidae Columbidae]
+| genus = ''[https://en.wikipedia.org/wiki/Phaps Phaps]''
+| species = '''''P. elegans'''''
+| binomial = ''Phaps elegans''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Coenraad_Jacob_Temminck Temminck], 1809)
+| synonyms = 
+| range_map = Brush Bronzewing.png
+| range_map_caption = Distribution of the Brush Bronzewing
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Phaps+(Phaps)+elegans ''Atlas of Living Australia'': Brush Bronzewing]
+* [http://birdlife.org.au/bird-profile/brush-bronzewing ''Birdlife Australia'': Brush Bronzewing]
+* [https://en.wikipedia.org/wiki/Brush_bronzewing ''Wikipedia'': Brush bronzewing]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

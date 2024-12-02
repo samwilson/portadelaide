@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Caspian tern
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694524 |title=''Sterna caspia'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Sterna-caspia-010.jpg
+| image_width = 240px
+| image_caption = Adult in summer plumage
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = '''''Hydroprogne'''''
+| genus_authority = [https://en.wikipedia.org/wiki/Johann_Jakob_Kaup Kaup], 1829
+| species = '''''H. caspia'''''
+| binomial = ''Hydroprogne caspia''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Peter_Simon_Pallas Pallas], 1770)
+| synonyms=''Sterna caspia'' <br />
+''Hydroprogne tschegrava''<br />
+''Helopus caspius''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Hydroprogne+caspia ''Atlas of Living Australia'': Caspian Tern]
+* [http://birdlife.org.au/bird-profile/caspian-tern''Birdlife Australia'': Caspian Tern]
+* [https://en.wikipedia.org/wiki/Caspian_tern ''Wikipedia'': Caspian tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

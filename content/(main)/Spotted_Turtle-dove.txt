@@ -1,0 +1,53 @@
+{{Taxobox
+|name = Spotted Turtle-dove
+|status = LC
+|status_system = iucn3.1
+|status_ref =<ref name="iucn">{{IUCN|version=2012.2|assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |year=2012|id=106002503|title=Stigmatopelia chinensis|downloaded=3 June 2013}}</ref>
+|image = Streptopelia chinensis Tas Edit.jpg
+| image_width = 240px
+|image_caption = Individual with plumage pattern of ''S. c. tigrina'' (Austins Ferry, Tasmania)
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Columbiformes Columbiformes]
+| familia = [https://en.wikipedia.org/wiki/Columbidae Columbidae]
+|genus = ''[https://en.wikipedia.org/wiki/Spilopelia Spilopelia]''
+|species = '''''S. chinensis'''''
+|binomial = ''Spilopelia chinensis''
+|binomial_authority = ([https://en.wikipedia.org/wiki/Giovanni_Antonio_Scopoli Scopoli], 1768)
+|subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+|subdivision =
+*''chinensis'' <small>[https://en.wikipedia.org/wiki/Giovanni_Antonio_Scopoli Scopoli], 1768</small>
+*''ceylonensis'' <small>Reichenbach, 1862</small>
+*''hainana'' <small>Hartert, 1910</small>
+*''suratensis'' <small>JF Gmelin, 1789</small>
+*''tigrina'' <small>Temminck, 1811</small>
+|synonyms =
+*''Streptopelia chinensis''
+*''Stigmatopelia chinensis''
+}}
+An introduced species
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Adelaide Airport|Adelaide Airport]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Streptopelia+(Spilopelia)+chinensis ''Atlas of Living Australia'': Spotted Turtle-dove]
+* [http://birdlife.org.au/bird-profile/spotted-dove ''Birdlife Australia'': Spotted Dove]
+* [https://en.wikipedia.org/wiki/Spotted_dove ''Wikipedia'': Spotted dove]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]
+[[Category:Introduced bird species]]

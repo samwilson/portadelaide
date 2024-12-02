@@ -1,0 +1,1 @@
+{{icon|{{{1}}}|size={{{iconsize|{{{size|16x16px}}}}}}}}&nbsp;[[{{replace|{{replace|{{{2}}}|'''|}}|''|}}|{{if||{{{i|{{{italics|{{{italic|}}}}}}}}}|''{{{2}}}''|{{{3|{{{2}}}}}}}}]]<noinclude>{{Documentation}}</noinclude>

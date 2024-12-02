@@ -1,0 +1,41 @@
+{{Documentation subpage}}
+
+This template is transcluded by:
+*[[Template:Geobox]]
+
+It calls {{tl|coord}} to display coordinates.
+
+==Sections of Geobox calling this template ==
+
+Main fields:
+<pre>
+| lat_d = | lat_m = | lat_s = | lat_NS = 
+| long_d = | long_m = | long_s = | long_EW =
+</pre>
+Sometimes used:
+<pre>
+| coordinates_format =
+| coordinates_type =
+| coordinates_note =
+</pre>
+Other sets of fields with the following prefixes:
+* capital_
+* highest_
+* lowest_
+* mouth_
+* source_
+* source1_
+* source_confluence_
+* management_
+* government_
+etc.
+
+==See also==
+*[[Template:Geobox2 coor type]]
+*[[Template:Geobox coor]] (used by {{tl|Infobox settlement}})
+
+<includeonly>{{basepage subpage|
+| <!-- Categories below this line, please: -->
+[[Category:Geobox2 include|coo]]
+[[Category:Coordinates templates]]
+}}</includeonly>

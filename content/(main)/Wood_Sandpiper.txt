@@ -1,0 +1,48 @@
+{{Taxobox
+| image = Wood Sandpiper Photograph By Shantanu Kuveskar.jpg
+| image_width = 240px
+| image_caption = Wood sandpiper in Mangaon, Maharashtra, India
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693247 |title=''Tringa glareola'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| subclassis = [https://en.wikipedia.org/wiki/Neornithes Neornithes]
+|<!-- infraclassis = [https://en.wikipedia.org/wiki/Neognathae Neognathae]
+| superordo = [https://en.wikipedia.org/wiki/Neoaves Neoaves] [Enable when article is longer] -->
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+|<!-- subordo = Scolopaci [monotypic - don't link. Enable when article is longer] -->
+| familia = [https://en.wikipedia.org/wiki/Scolopacidae Scolopacidae]
+| genus = ''[https://en.wikipedia.org/wiki/Tringa Tringa]''
+| species = '''''T. glareola'''''
+| binomial = ''Tringa glareola''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Carolus_Linnaeus Linnaeus], 1758)
+| synonyms =
+''Rhyacophilus glareola'' <small>(Linnaeus, 1758)</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Tringa+(Rhyacophilus)+glareola ''Atlas of Living Australia'': Wood Sandpiper]
+* [http://birdlife.org.au/bird-profile/wood-sandpiper ''Birdlife Australia'': Wood Sandpiper]
+* [https://en.wikipedia.org/wiki/Wood_sandpiper ''Wikipedia'': Wood sandpiper]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

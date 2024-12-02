@@ -1,0 +1,45 @@
+{{DEFAULTSORT:Sheehy, Thomas}}
+{{Infobox person
+| honorific_prefix   = 
+| name          = Thomas N. Sheehy
+| honorific_suffix   = MHR
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 19 May 1899 
+| birth_place   = 
+| death_date    = 23 September 1984 
+| death_place   = 
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+[https://en.wikipedia.org/wiki/Thomas_Sheehy ''Wikipedia'': Thomas Sheehy]
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

@@ -1,0 +1,3 @@
+{{#invoke:geobox coor|coord}}<noinclude>
+{{documentation}}
+</noinclude>

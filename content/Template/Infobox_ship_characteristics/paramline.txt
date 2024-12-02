@@ -1,0 +1,14 @@
+<noinclude>
+For internal use by <tt><nowiki>{{Template:Infobox ship characteristics}}</nowiki></tt>:
+:First parameter: infobox line label
+:Second parameter: optional value for parameter
+:::::if absent and no WD parameter: line is not displayed
+:::::if absent and WD parameter: Wikidata is used to provide a value
+:::::if "none": line is not displayed
+:WD= optional Wikidata property (e.g. "ship class" or "P289")
+</noinclude>{{Infobox ship characteristics/paramlineP
+|lab={{{1|}}}
+|val={{{2|}}}
+|WDval={{#if:{{{WD|}}}|{{#property:{{{WD|}}}}}|}}
+|WDlnk={{#if:{{{WD|}}}|{{fullurl:d:Special:ItemByTitle/enwiki/{{PAGENAME}}}}|}}<!--  
+-->}}

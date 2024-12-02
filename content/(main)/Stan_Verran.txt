@@ -1,0 +1,46 @@
+{{DEFAULTSORT:Verran, Stan}}
+{{Infobox person
+| honorific_prefix   = 
+| name          = John S. (Stan) Verran
+| honorific_suffix   = 
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 24 December 1883 
+| birth_place   = 
+| death_date    = 30 August 1952
+| death_place   = 
+| death_cause   = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+* [http://www2.parliament.sa.gov.au/formermembers/Detail.aspx?pid=3971 ''SA Parliament'': John Verran]
+* [https://en.wikipedia.org/wiki/John_Stanley_Verran ''Wikipedia'': John Stanley Verran]
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

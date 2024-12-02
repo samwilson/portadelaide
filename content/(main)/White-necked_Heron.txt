@@ -1,0 +1,43 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22697004 |title=''Ardea pacifica'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Ardea pacifica -Edithvale Wetland, Melbourne, Australia-8.jpg
+| image_width = 240px
+| image_caption=In Edithvale Wetland, Melbourne, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = ''[https://en.wikipedia.org/wiki/Ardea_(genus) Ardea]''
+| species = '''''A. pacifica'''''
+| binomial = ''Ardea pacifica''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1801
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Ardea+(Ardea)+pacifica ''Atlas of Living Australia'': White-necked Heron]
+* [http://birdlife.org.au/bird-profile/white-necked-heron ''Birdlife Australia'': White-necked Heron]
+* [https://en.wikipedia.org/wiki/White-necked_heron ''Wikipedia'': White-necked heron]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

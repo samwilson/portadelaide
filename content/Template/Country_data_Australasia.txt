@@ -1,0 +1,14 @@
+{{ {{{1<noinclude>|country showdata</noinclude>}}}
+| alias = Australasia
+| flag alias = Flag of Australasian team for Olympic games.svg
+| link alias-tennis = Australia {{{mw}}} Cup team
+| size = {{{size|}}}
+| name = {{{name|}}}
+| altlink = {{{altlink|}}}
+| altvar = {{{altvar|}}}
+<noinclude>
+| related1 = Australia
+| related2 = New Zealand
+</noinclude>
+}}<noinclude>
+</noinclude>

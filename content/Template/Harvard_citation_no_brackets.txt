@@ -1,0 +1,3 @@
+<includeonly>{{#invoke:Footnotes|harvard_citation_no_bracket}}</includeonly><noinclude>
+{{documentation}}
+</noinclude>

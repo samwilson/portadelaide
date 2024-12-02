@@ -1,0 +1,17 @@
+{{#ifeq:{{NAMESPACE}}|Template talk||
+'''{{small|{{smallcaps|When used with the}} "This is a redirect" (Redr) {{smallcaps|template:}}}}'''}}
+{{Mbox
+| name  = This is a redirect/rcat
+| type  = move 
+| image = none
+| style = margin-top: 1.1em; border: solid 1px darkblue; border-left-width: 0.5em;
+| textstyle = padding-top: 0.9em; padding-bottom: 0.9em;
+| text  = [[File:Symbol redirect arrow with gradient.svg|25px|link=]] '''This page is a [[Wikipedia:Redirect|redirect]]:'''
+* <noinclude>(Text of rcat)</noinclude><includeonly>{{#ifeq:{{FULLPAGENAME}}|Template:R avoided double redirect|{{R avoided double redirect|(redirect page name)|demo=1|demo_cr=(target article)|demo_pr=(target article)|embed=yes}}|{{ {{#ifeq:{{PAGENAME}}|This is a redirect/rcat||{{#ifeq:{{PAGENAME}}|This is a redirect/rcat/sandbox||{{PAGENAME}}}}}}|embed=yes }}}}</includeonly>
+:'''''<small>For more information follow the bold category link(s).</small>'''''
+}}
+:''{{small|Template {{tl|This is a redirect}} may be used to add up to seven [[WP:RCAT|rcat]] templates, along with their parameters, to a redirect.  {{#ifeq:{{NAMESPACE}}|Template talk||For more information see the documentation page below.}}}}''{{#ifeq:{{NAMESPACE}}|Template talk||
+<br />
+'''{{small|{{smallcaps|When used by itself:}}}}'''}}<noinclude>
+{{Documentation}}
+</noinclude>

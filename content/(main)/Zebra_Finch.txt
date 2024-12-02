@@ -1,0 +1,43 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22719679 |title=''Taeniopygia guttata'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Taeniopygia guttata -Bird Kingdom, Niagara Falls, Ontario, Canada -pair-8a.jpg
+| image_caption=A pair at Bird Kingdom, Niagara Falls, Ontario, Canada
+| image_width = 240px
+| image2 = Taeniopygia guttata song - pone.0025506.s001.oga
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/ttps://en.wikipedia.org/wiki/Estrildidae Estrildidae]
+| genus = ''[https://en.wikipedia.org/wiki/Taeniopygia Taeniopygia]''
+| species = '''''T. guttata'''''
+| binomial = ''Taeniopygia guttata''
+| binomial_authority = [https://en.wikipedia.org/wiki/Heinrich_Gustav_Reichenbach Reichenbach], 1862
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Taeniopygia+guttata ''Atlas of Living Australia'': Zebra Finch]
+* [http://birdlife.org.au/bird-profile/zebra-finch ''Birdlife Australia'': Zebra Finch]
+* [https://en.wikipedia.org/wiki/Zebra_finch ''Wikipedia'': Zebra finch]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

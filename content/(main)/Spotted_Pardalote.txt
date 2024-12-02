@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Spotted Pardalote
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22704490 |title=''Pardalotus punctatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Pardalotus punctatus male with nesting material - Risdon Brook.jpg
+| image_width = 240px
+| image_caption = Male with nesting material, Tasmania
+| image2 = Pardalotus punctatus female with nesting material - Risdon Brook.jpg
+| image2_width = 240px
+| image2_caption = Female with nesting material, Tasmania
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pardalote Pardalotidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pardalotus Pardalotus]''
+| species = '''''P. punctatus'''''
+| binomial = ''Pardalotus punctatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/George_Shaw Shaw] & [https://en.wikipedia.org/wiki/Frederick_Polydore_Nodder Nodder], 1792)
+| range_map = Spotted Pardalote Range.jpg
+| range_map_caption = The approximate distribution of the Spotted Pardalote
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Pardalotus+(Pardalotus)+punctatus ''Atlas of Living Australia'': Spotted Pardalote]
+* [http://birdlife.org.au/bird-profile/spotted-pardalote ''Birdlife Australia'': Spotted Pardalote]
+* [https://en.wikipedia.org/wiki/Spotted_pardalote ''Wikipedia'': Spotted pardalote]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

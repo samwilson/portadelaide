@@ -1,0 +1,81 @@
+{{DEFAULTSORT:Dowd, Patrick}}
+
+{{Infobox military person AIF
+| honorific_prefix  = 
+| name              = Patrick Joseph Dowd
+| honorific_suffix  = 
+| image         = Australian Army Rising Sun Badge 1904.png
+| image_size    = 
+| alt           = 
+| caption       = 
+| native_name       = 
+| native_name_lang  = 
+| birth_name    = 
+| other_name    =
+| prior_occupation   = Horse shunter
+| birth_date    = 10 March 1881
+<!-- {{birth date and age|YYYY|MM|DD}} or {{birth date|YYYY|MM|DD}} if dead -->
+| birth_place   = Peterborough, SA
+| enlistment_date = 20 June 1916, <br /> aged 35 years, 3 months 
+| death_date    = 20 September 1917
+| death_place   = [https://en.wikipedia.org/wiki/Battle_of_the_Menin_Road_Ridge Polygon Wood], Ypres, Belgium
+| cause_of_death = 
+| placeofburial_label = 
+| placeofburial = 
+| placeofburial_coordinates = <!-- {{Coord|LAT|LONG|display=inline,title}} -->
+| religion      = Roman Catholic
+| branch        = 
+| servicelength  = 1 year, 3 months, 1 day
+| rank          = Private
+| servicenumber = 6239
+| unit          = [https://en.wikipedia.org/wiki/10th_Battalion_(Australia) 10th Battalion],<br />[https://aif.adfa.edu.au/showUnit?unitCode=INF10REIN22 20th Reinforcement]<br />[https://en.wikipedia.org/wiki/27th_Battalion_(Australia) 27th Bttn] from 1 January 1917
+| commands      = 
+| battles_label = 
+| battles       = 
+| awards        =
+| memorials     = {{Plainlist|*  [https://en.wikipedia.org/wiki/Menin_Gate Menin Gate Memorial]
+* Australian War Memorial Roll of Honour, Panel number 110 
+* [[List of names on the Workers' Memorial, Port Adelaide|Workers' Memorial]]}}
+| spouse        = Elizabeth Anne Dowd (wife)
+| next_of_kin   = 
+| relations     =  Andrew Dowd (father)<br />Rose Ann Dowd (moher)<br />Miss M. (daughter?)<br />D.A. Dowd, MM. 43rd Battn. (brother)
+| laterwork     = 
+| signature     = 
+| signature_size =
+| signature_alt =
+| websites       = [https://www.awm.gov.au/people/rolls/R1725520/ AWM - Roll of Honour] <br />[https://aif.adfa.edu.au/showPerson?pid=82547 ADFA - The AIF Project] <br />[http://discoveringanzacs.naa.gov.au/browse/person/151710 NAA - Discovering Anzacs]
+| module        = 
+}}
+
+
+==Life==
+
+Patrick Dowd was born on 10 March 1881 at Peterborough South Australia, to parents Andrew Dowd and Rose Ann Dowd (nee Brady).  He married Elizabeth Anne (nee Baynes).
+
+Dowd was a horse-shunter for Mallyons. He had a quiet unassuming disposition, was very popular with his work mates and respected and liked by all with whom he came in contact. He took a prominent part in the affairs of the Drivers Union having been a member of the executive committee.
+
+On 20 June 1916 he enlisted in the 1st AIF, leaving South Australia on 28 August on the SS A68 ''Anchises'' with the 20th Reinforcements, 10th Battalion, and arriving in Plymouth on 11 October.  On 18 December he sailed for France on the SS ''Golden Eagle'' to join the 27th Battalion.  He suffered a severe gun shot wound to the arm on 3 March 1917, was admitted on the ninth ambulance train and then transported on the HS ''Formosa'' to Reading War Hospital in England.
+
+Dowd was discharged from hospital on 5 May and sent back to France on 15 June where he rejoined the 27th Battalion.  
+
+In a letter dated 12 August written to the drivers, he stated he expected to return to the firing line shortly, having completely recovered from wounds he had received in a previous battle
+
+Private Patrick J Dowd (No 6239) was killed in Belgium on September 20 1917.
+
+His memorial is recorded on Ypres (Menin Gate) Memorial, Belgium, panel reference 7 - 17 - 23 - 25 - 27 - 29 - 31.
+
+==Legacy==
+Patrick Dowd was nominated for the Workers' Memorial by the [[Federated Carters and Drivers of Australia]] as one of the eight trade unionists who had been killed in World War I. 
+
+
+==External links==
+===Contemporary press clippings:===
+'''Family Notices'''
+
+:<blockquote></blockquote>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

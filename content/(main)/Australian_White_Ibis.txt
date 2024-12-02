@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Australian White Ibis
+| status = LC
+| status_system = IUCN3.1
+| status_ref=<ref name=IUCN>{{IUCN2013.2|assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |year= 2012|id= 22697519|title= Threskiornis molucca|downloaded=2014-05-05}}</ref>
+| image = Threskiornis molucca - Perth.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Ciconiiformes Ciconiiformes] <small>(disputed)</small>
+| familia = [https://en.wikipedia.org/wiki/Threskiornithidae Threskiornithidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Threskionithinae Threskionithinae]
+| genus = ''[https://en.wikipedia.org/wiki/Threskiornis Threskiornis]''
+| species = '''''T. moluccus'''''
+| binomial = ''Threskiornis moluccus''
+| binomial_authority = [https://en.wikipedia.org/wiki/Georges_Cuvier Cuvier], 1829
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision =
+* ''T. m. molucca'' <small>(Australasian White Ibis)</small>
+* ''T. m. pygmaeus'' <small>([https://en.wikipedia.org/wiki/Solomons_white_ibis Solomons White Ibis])</small>
+| synonyms = Threskiornis molucca
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Threskiornis+molucca ''Atlas of Living Australia'': Australian White Ibis]
+* [http://birdlife.org.au/bird-profile/australian-white-ibis ''Birdlife Australia'': Australian White Ibis]
+* [https://en.wikipedia.org/wiki/Australian_white_ibis ''Wikipedia'': Australian white ibis]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

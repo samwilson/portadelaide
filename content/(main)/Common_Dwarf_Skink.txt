@@ -1,0 +1,40 @@
+{{Taxobox
+| name = Common Dwarf Skink
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Reptilia Reptilia]	
+| ordo = [https://en.wikipedia.org/wiki/Squamata Squamata]
+| subordo = [https://en.wikipedia.org/wiki/Sauria Sauria]
+| infraordo = [https://en.wikipedia.org/wiki/Scincomorpha Scincomorpha]
+| familia = [https://en.wikipedia.org/wiki/Scincidae Scincidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Eugongylinae Eugongylinae]<ref>"''Menetia greyii'' ". The Reptile Database. www.reptile-database.org.</ref>
+| genus = ''[https://en.wikipedia.org/wiki/Menetia Menetia]''
+| species = ''M. greyii''
+| binomial = ''Menetia greyii''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Edward_Gray Gray], 1845
+}}
+
+
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/Menetia+greyii ''Atlas of Living Australia'': ''Menetia greyii'']
+* [https://en.wikipedia.org/wiki/Common_dwarf_skink ''Wikipedia'': Common dwarf skink]
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

@@ -1,0 +1,77 @@
+{{Italic title}}
+
+{|{{Infobox ship begin}} <!-- commercial vessels --><!-- caption: yes, nodab, or <caption text> -->
+{{Infobox ship image
+|Ship image= File:Yelta.JPG
+|Ship image size= 300
+|Ship caption= ''Yelta'' moored at the McLaren Wharf
+}}
+<table border=1>
+{{Infobox ship characteristics
+|Hide header=
+|Header caption=
+|Ship class= AAABBB
+|Ship type=
+|Ship tonnage=
+|Ship displacement=
+|Ship length=
+|Ship beam=
+|Ship height=
+|Ship draught=
+|Ship draft=
+|Ship depth=
+|Ship decks=
+|Ship deck clearance=
+|Ship ramps=
+|Ship ice class=
+|Ship sail plan=
+|Ship power=
+|Ship propulsion=
+|Ship speed=
+|Ship capacity=
+|Ship crew=
+|Ship notes=
+}}
+</table>
+<table border=1>
+{{Infobox ship career
+|Hide header=
+|Ship name= Yelta
+|Ship owner=
+|Ship operator=
+|Ship registry=
+|Ship route=
+|Ship ordered=
+|Ship builder=
+|Ship original cost=
+|Ship yard number=
+|Ship way number=
+|Ship laid down=
+|Ship launched=
+|Ship completed=
+|Ship christened=
+|Ship acquired=
+|Ship maiden voyage=
+|Ship in service=
+|Ship out of service=
+|Ship identification=
+|Ship fate= 
+|Ship status= Museum ship
+|Ship notes=
+}}
+</table>
+|}
+
+[[File:Yelta1.JPG|thumb|left|Engine order telegraph in ''Yelta'''s engineroom]]
+[[File:Yelta2.JPG|thumb|left|Engineroom controls]]
+
+Some problems with infobox formatting yet to be resolved
+
+
+
+
+
+
+
+
+{{Ships of Port Adelaide}}

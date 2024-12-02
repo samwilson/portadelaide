@@ -1,0 +1,4 @@
+in active service, {{as of|{{{1|{{CURRENTYEAR}}}}}|{{{2|}}}|{{{3|}}}|url={{{url|}}}|lc=on}}<noinclude>
+{{documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

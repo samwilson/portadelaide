@@ -1,0 +1,45 @@
+{{DEFAULTSORT:McAulay, Hector}}
+{{Infobox person
+| honorific_prefix   = 
+| name          = Hector McAulay
+| honorific_suffix   = 
+| image         = 
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date    = 
+| birth_place   = 
+| death_date    = 
+| death_place   =  WWI, France
+| death_cause   = 
+| resting_place = 
+| nationality   = 
+| other_names   = 
+| occupation    = 
+| organization  = 
+| party         = 
+| movement      = 
+| boards        = 
+| monuments   =  Listed, [[Workers' Memorial, Port Adelaide|Workers' Memorial]]<br />Panel 7 of Ypres (Menin Gate) Memorial 
+| years_active  =
+| known_for     = 
+| notable_works =
+| footnotes     = 
+}}
+
+
+==Life==
+
+==Legacy==
+
+==External links==
+
+==Sources==
+===Contemporary press clippings:===
+<br>
+
+
+
+{{Template:Names on the Workers' Memorial, Port Adelaide}}
+[[Category:Names on the Workers' Memorial]]
+[[Category:People of Port Adelaide]]

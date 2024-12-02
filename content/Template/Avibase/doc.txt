@@ -1,0 +1,30 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+==Purpose==
+
+The template is for making external links to the [http://avibase.bsc-eoc.org Avibase] ornithology taxonomy database.
+
+==Format==
+All parameters are '''required.'''
+
+ <nowiki>{{</nowiki>avibase|avibase id|free text<nowiki>}}</nowiki>
+
+The Avibase ID can be found in the search results for that species. (Note this is ''not'' the same as the Taxomic Serial Number).
+==Example of usage==
+
+ <nowiki>*{{</nowiki>avibase|1BB50DE8362A4963|Turdus merula<nowiki>}}</nowiki>
+
+will be displayed as
+
+*{{avibase|1BB50DE8362A4963|Turdus merula}}
+
+== See also==
+*{{tl|Field guide birds of the world}}
+*{{tl|BirdLife}}
+<includeonly>
+[[Category:Biology external link templates]]
+[[Category:External link templates]]
+
+[[de:Vorlage:Avibase]]
+</includeonly>

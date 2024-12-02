@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Blue Bonnet
+| image = Bluebonnet-front.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22685135 |title=''Northiella haematogaster'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Platycercinae Platycercinae]
+| tribus = [https://en.wikipedia.org/wiki/Platycercini Platycercini]
+| genus = ''''' Northiella '''''
+| genus_authority = [https://en.wikipedia.org/wiki/Gregory_Mathews Mathews], 1912
+| species = '''''N. haematogaster'''''
+| binomial = ''Northiella haematogaster''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1838)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Northiella+haematogaster ''Atlas of Living Australia'': Blue Bonnet]
+* ''Birdlife Australia'': Blue Bonnet
+* [https://en.wikipedia.org/wiki/Eastern_bluebonnet Wikipedia: Eastern bluebonnet]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

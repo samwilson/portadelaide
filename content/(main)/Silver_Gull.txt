@@ -1,0 +1,48 @@
+{{Taxobox
+| name = Silver Gull
+| image = Silver gull jan 09.jpg
+| image_width = 240px
+| image_caption = Adult
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22694400 |title=''Larus novaehollandiae'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Laridae Laridae]
+| genus = ''[https://en.wikipedia.org/wiki/Chroicocephalus Chroicocephalus]''
+| species = '''''C. novaehollandiae'''''
+| binomial = ''Chroicocephalus novaehollandiae''
+| binomial_authority = ([https://en.wikipedia.org/wiki/James_Francis_Stephens Stephens], 1826)
+| synonyms = ''Larus novaehollandiae''
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision= ''C. n. forsteri'' <small>([https://en.wikipedia.org/wiki/Gregory_Mathews Mathews], 1912)</small><br>
+''C. n. gunni'' <small>[https://en.wikipedia.org/wiki/Gregory_Mathews Mathews], 1912</small><br>
+''C. n. novaehollandiae'' <small>(Stephens, 1826)</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Chroicocephalus+novaehollandiae ''Atlas of Living Australia'': Silver Gull]
+* [http://birdlife.org.au/bird-profile/silver-gull ''Birdlife Australia'': Silver Gull]
+* [https://en.wikipedia.org/wiki/Silver_gull ''Wikipedia'': Silver gull]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

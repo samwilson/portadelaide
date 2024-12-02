@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Grey Shrike-thrush
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22705561 |title=''Colluricincla harmonica'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Colluricincla harmonica mortimer.jpg
+| image_width = 240px
+| image caption = ''Colluricincla harmonica harmonica''
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pachycephalidae Pachycephalidae]
+| genus = ''[https://en.wikipedia.org/wiki/Shrikethrush Colluricincla]''
+| species = '''''C. harmonica'''''
+| binomial = ''Colluricincla harmonica''
+| binomial_authority = [https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Colluricincla+(Colluricincla)+harmonica ''Atlas of Living Australia'': Grey Shrike-thrush]
+* [http://birdlife.org.au/bird-profile/grey-shrike-thrush ''Birdlife Australia'': Grey Shrike-thrush]
+* [https://en.wikipedia.org/wiki/Grey_shrikethrush ''Wikipedia'': Grey shrikethrush]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Australasian Bittern
+| status = EN
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22697353 |title=''Botaurus poiciloptilus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Hurepo.jpg
+| image_width = 240px
+| image_caption = By [https://en.wikipedia.org/wiki/J._G._Keulemans J. G. Keulemans] in [https://en.wikipedia.org/wiki/Walter_Lawry_Buller Buller's], ''A History of the Birds of New Zealand''
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Pelecaniformes Pelecaniformes]
+| familia = [https://en.wikipedia.org/wiki/heron Ardeidae]
+| genus = ''[https://en.wikipedia.org/wiki/Botaurus Botaurus]''
+| species = ''B. poiciloptilus''
+| binomial = ''Botaurus poiciloptilus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Georg_Wagler Wagler], 1827)
+}}
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Botaurus+poiciloptilus ''Atlas of Living Australia'': Australasian Bittern]
+* [http://birdlife.org.au/bird-profile/australasian-bittern ''Birdlife Australia'': Australasian Bittern]
+* [https://en.wikipedia.org/wiki/Australasian_bittern ''Wikipedia'': Australasian bittern]
+
+
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

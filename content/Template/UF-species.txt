@@ -1,0 +1,11 @@
+This template emits a "[[Wikipedia:WikiProject Microformats/Species|species]]" [[microformat]], according to the current [http://microformats.org/wiki/species-strawman-01 draft ("straw man") specification].
+
+Wikipedia editors are invited to comment on or contribute to the development of this microformat, via the above links.
+
+The microformat is created by the use of <code>class="biota"</code>, and classes for individual taxonomic ranks, such as <code>class="domain"</code> in a span around <nowiki>{{{domain}}}</nowiki> ([[Wikipedia:WikiProject_Microformats/classes#Species|full list]]). Please do not change or remove those classes other than as part of development of the microformat. For background information, see [[WP:UF|microformats on Wikipedia]].
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|doc | |{{#ifeq:{{SUBPAGENAME}}|sandbox | |[[Category:Templates generating 'species' microformats|{{PAGENAME}}]]}} }}</includeonly><noinclude>
+
+[[Category:Templates generating 'species' microformats]]
+[[Category:Microformat (uF) message templates]]
+</noinclude>

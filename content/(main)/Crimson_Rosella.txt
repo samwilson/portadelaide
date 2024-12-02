@@ -1,0 +1,49 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22733483 |title=''Platycercus elegans'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| name = Crimson Rosella
+| image = Platycercus elegans Wilsons Prom.jpg
+| image_caption = Adult in Wilsons Promontory, Victoria
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Platycercinae Platycercinae]
+| tribus = [https://en.wikipedia.org/wiki/Platycercini Platycercini]
+| genus = ''[https://en.wikipedia.org/wiki/Platycercus Platycercus]''
+| species = '''''P. elegans'''''
+| species_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1788
+| binomial = Platycercus elegans
+| range_map = Platycercus elegans range.png
+| range_map_caption = Crimson Rosella range (in red; all-year resident)
+| range_map_width = 240px
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Platycercus+(Platycercus)+elegans ''Atlas of Living Australia'': Crimson Rosella]
+* [http://birdlife.org.au/bird-profile/crimson-rosella ''Birdlife Australia'': Crimson Rosella]
+* [https://en.wikipedia.org/wiki/Crimson_rosella ''Wikipedia'': Crimson rosella]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

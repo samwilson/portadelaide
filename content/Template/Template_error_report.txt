@@ -1,0 +1,5 @@
+See the [https://tools.wmflabs.org/bambots/TemplateParam.php?wiki=enwiki&template={{Urlencode:{{PAGENAMEBASE}}}} monthly error report] for this template.<noinclude>
+
+{{documentation}}
+
+[[Category:External link templates]]</noinclude>

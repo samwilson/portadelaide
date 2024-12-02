@@ -1,0 +1,45 @@
+{{Taxobox
+|image             =Rock Parrot Cape Leeuwin 2 email.jpg
+|image_caption     =At Cape Leeuwin, Western Australia
+|image_width       =240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22685200 |title=''Neophema petrophila'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Psittaciformes Psittaciformes]
+| superfamilia = [https://en.wikipedia.org/wiki/Psittacoidea Psittacoidea]
+| familia = [https://en.wikipedia.org/wiki/Psittaculidae Psittaculidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Psittaculinae Psittaculinae]
+| tribus = [https://en.wikipedia.org/wiki/Pezoporini Pezoporini]
+|genus             ='' [https://en.wikipedia.org/wiki/Neophema Neophema] ''
+|species           ='''''N. petrophila'''''
+|binomial          =''Neophema petrophila''
+|binomial_authority=([https://en.wikipedia.org/wiki/John_Gould Gould], 1841)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Neophema+(Neonanodes)+petrophila ''Atlas of Living Australia'': Rock Parrot]
+* [http://birdlife.org.au/bird-profile/rock-parrot ''Birdlife Australia'': Rock Parrot]
+* [https://en.wikipedia.org/wiki/Rock_parrot ''Wikipedia'': Rock parrot]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

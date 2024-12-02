@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Australasian Pipit
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22718480 |title=''Anthus novaeseelandiae'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Anthus novaeseelandiae 4462.jpg
+| image_width = 240px
+| image_caption = 
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Motacillidae Motacillidae]
+| genus = ''[https://en.wikipedia.org/wiki/Anthus Anthus]''
+| species = '''''A. novaeseelandiae'''''
+| binomial = ''Anthus novaeseelandiae''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789)
+}}
+
+
+Australasian Pipits were once considered to be the Australasian representative of the widespread [https://en.wikipedia.org/wiki/Richard%27s_pipit Richard’s Pipit], but scientific analysis has indicated that the populations which occur in Australia and New Zealand comprise a separate species. 
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Anthus+(Anthus)+novaeseelandiae ''Atlas of Living Australia'': Australasian Pipit]
+* [http://birdlife.org.au/bird-profile/australasian-pipit ''Birdlife Australia'': Australasian Pipit]
+* [https://en.wikipedia.org/wiki/Australasian_pipit ''Wikipedia'': Australasian pipit]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

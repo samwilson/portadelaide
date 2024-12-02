@@ -1,0 +1,47 @@
+{{Taxobox
+| name = Yellow-rumped Thornbill
+| image = Acanthiza chrysorrhoa - Yellow-rumped Thornbill.jpg
+| image_width = 240px
+| image_caption=
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22704647 |title=''Acanthiza chrysorrhoa'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Acanthizidae Acanthizidae]
+| genus = ''[https://en.wikipedia.org/wiki/Acanthiza Acanthiza]''
+| species = '''''A. chrysorrhoa'''''
+| binomial = ''Acanthiza chrysorrhoa''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Jean_René_Constant_Quoy Quoy] & [https://en.wikipedia.org/wiki/Joseph_Paul_Gaimard Gaimard], 1830)
+| subdivision_ranks = Subspecies
+| subdivision = ''A. c. chrysorrhoa <br> A. c. leachi <br> A. c. leighi <br> A. c. normantoni''
+| range_map = Yellow-Rumped Thornbill.png
+| range_map_caption = Distribution of the Yellow-rumped Thornbill
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Acanthiza+(Geobasileus)+chrysorrhoa ''Atlas of Living Australia'': Yellow-rumped Thornbill]
+* [http://birdlife.org.au/bird-profile/yellow-rumped-thornbill ''Birdlife Australia'': Yellow-rumped Thornbill]
+* [https://en.wikipedia.org/wiki/Yellow-rumped_thornbill ''Wikipedia'': Yellow-rumped thornbill]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

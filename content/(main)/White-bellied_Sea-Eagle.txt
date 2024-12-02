@@ -1,0 +1,58 @@
+{{Taxobox
+| name = White-bellied Sea-Eagle
+| image = White-bellied Sea-Eagle, by Sharon Sharp.jpg
+| image_width = 240px
+| image_caption = at Barker Inlet, June 2017
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22695097/0 |title=''Haliaeetus leucogaster'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=3.1 |year=2016 |accessdate=21 March 2017}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Accipitriformes Accipitriformes]
+| familia = [https://en.wikipedia.org/wiki/Accipitridae Accipitridae]
+| genus = ''[https://en.wikipedia.org/wiki/Sea_eagle Haliaeetus]''
+| species = '''''H. leucogaster'''''
+| binomial = ''Haliaeetus leucogaster''
+| binomial_authority = [https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1788
+| range_map = Haliaeetus leucogaster distr.png
+| range_map_width =
+| range_map_caption = Range of both this species and [https://en.wikipedia.org/wiki/Sanford%27s_sea_eagle Sanford's sea eagle] shown in green, but the latter demarcated within a paler blue circle
+| synonyms = ''Ichthyaetus blagrus'' <small>Blyth, 1843</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+==Conservation status==
+Although listed as "Least Concern" globally and in some other Australian states, the White-bellied Sea-Eagle is listed as "Endangered" in South Australia.<ref>[http://www.adelaidenow.com.au/news/south-australia/white-bellied-sea-eagle-needs-buffer-zones-to-ensure-future/story-fni6uo1m-1227439146879 White-bellied sea eagle needs buffer zones to ensure future] ''The Advertiser'', 12 July 2015. Retrieved 21 March 2017.</ref>
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+==Gallery==
+{{Gallery
+| title = 
+| lines = 4
+|File:White-bellied Sea-Eagle.JPG|alt1=Sea-Eagle perching on a radio mast|Torrens Island, <br />20 March 2017
+|File:White-bellied Sea-Eagle, 2017-07-23.jpg|alt2=Sea-Eagle in flight|Torrens Island Quarantine Station, 23 July 2017
+
+}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:cdaae4b5-4a09-4986-8f7b-7cfdddbfc723 ''Atlas of Living Australia'': White-bellied Sea-Eagle]
+* [http://birdlife.org.au/bird-profile/white-bellied-sea-eagle ''Birdlife Australia'': White-bellied Sea-Eagle]
+* [[Wikipedia: White-bellied sea eagle]]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

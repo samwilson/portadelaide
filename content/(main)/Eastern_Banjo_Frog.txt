@@ -1,0 +1,59 @@
+{{Taxobox
+| name = Eastern Banjo Frog
+| status = LC | status_system = IUCN3.1
+| trend = stable
+| image = Eastern banjo frog white bg.jpg
+| image_caption = Eastern Banjo Frog <br />(''Limnodynastes dumerilii dumerilii'')
+| image_width = 250px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordata Chordata]
+| subphylum = [https://en.wikipedia.org/wiki/Vertebrate Vertebrata]
+| classis = [https://en.wikipedia.org/wiki/Amphibian Amphibia]
+| ordo = [https://en.wikipedia.org/wiki/Frog Anura]
+| subordo = [https://en.wikipedia.org/wiki/Neobatrachia Neobatrachia]
+| familia = [https://en.wikipedia.org/wiki/Myobatrachidae Myobatrachidae]
+| subfamilia = [https://en.wikipedia.org/wiki/Limnodynastinae Limnodynastinae]
+| genus = ''[https://en.wikipedia.org/wiki/Limnodynastes Limnodynastes]''
+| species = '''''L. dumerilii'''''
+| binomial = ''Limnodynastes dumerilii''
+| binomial_authority = [https://en.wikipedia.org/wiki/Wilhelm_Peters Peters], 1863
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision =
+'''''L. d. dumerilii'''''<br />
+<small>[https://en.wikipedia.org/wiki/Wilhelm_Peters Peters], 1863<br /></small>
+'''''L. d. fryi'''''<br />
+<small>Martin, 1972<br /></small>
+'''''L. d. grayi'''''<br />
+<small>[https://en.wikipedia.org/wiki/Franz_Steindachner Steindachner], 1867<br /></small>
+'''''L. d. insularis'''''<br />
+<small>[https://en.wikipedia.org/wiki/Hampton_Wildman_Parker Parker], 1940<br /></small>
+'''''L. d. variegata'''''<br />
+<small>Martin, 1972<br /></small>
+| range_map = Lim dumerilii distib.PNG
+| range_map_width = 240px
+| range_map_caption = '''Distribution of the Eastern Banjo Frog'''<br>''Limnodynastes dumerilii dumerilii'' in blue; ''Limnodynastes dumerilii grayi'' in red; ''Limnodynastes dumerilii insularis'' in green; ''Limnodynastes dumerilii fryi'' in pink and ''Limnodynastes dumerilii variegata'' in yellow. This is a general distribution map and it is possible for an overlap of about 5% of the range of sub-species adjacent to each other.
+}}
+
+
+
+Eastern or Southern Banjo Frog, and Bull Frog. The frog is also called the Pobblebonk.
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+* [[Reptile and Amphibian species list for Torrens Island|Torrens Island]]
+
+==References==
+{{reflist}}
+
+==See also==
+
+==External links==
+* [http://bie.ala.org.au/species/urn%3Alsid%3Abiodiversity.org.au%3Aafd.taxon%3Af1d3e14b-1f0c-4500-a77a-f95ad2f79b93 ''Atlas of Living Australia'': ''Limnodynastes dumerilii'']
+* [https://en.wikipedia.org/wiki/Limnodynastes_dumerilii ''Wikipedia'': ''Limnodynastes dumerilii'']
+
+{{Reptiles and Amphibians of the Adelaide coast and plains}}
+[[Category:Reptiles and Amphibians of the Adelaide coast and plains]]

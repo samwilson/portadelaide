@@ -1,0 +1,18 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+
+{{Taxobox colour scheme}}
+
+== Function ==
+This template generates the appropriate colour for a taxobox, as advised at [[WP:TX]].
+
+It should be supplied with the kingdom (regnum), appropriately wikilinked; in the case of regnum-less viruses, the virus group may be supplied instead.
+
+== Maintenance ==
+Edits to the taxonomic terms used in this template must be reflected by [[Template:Is reg()]].
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Taxobox templates]]
+[[Category:Template implementation details]]
+}}</includeonly>

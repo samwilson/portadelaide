@@ -1,0 +1,42 @@
+{{Taxobox
+| name = Buff-rumped Thornbill
+| image = Buff-rumped Thornbill.jpg
+| image_width = 240px
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22704638 |title=''Acanthiza reguloides'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pardalotidae Pardalotidae]
+| genus = ''[https://en.wikipedia.org/wiki/Acanthiza Acanthiza]''
+| species = '''''A. reguloides'''''
+| binomial = ''Acanthiza reguloides''| binomial_authority = [https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] & [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827 <ref name=IUCN/>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Acanthiza+(Geobasileus)+reguloides ''Atlas of Living Australia'': Buff-rumped Thornbill]
+* [http://birdlife.org.au/bird-profile/buff-rumped-thornbill ''Birdlife Australia'': Buff-rumped Thornbill]
+* [https://en.wikipedia.org/wiki/Buff-rumped_thornbill ''Wikipedia'': Buff-rumped thornbill]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

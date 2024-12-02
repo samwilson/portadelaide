@@ -1,0 +1,63 @@
+{{Navbox
+|name       = Waterbirds
+|title      = Waterbirds of Adelaide
+|listclass  = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1     = Ducks and Swans
+|list1      =
+* [[Australasian Shoveler]]
+* [[Australian Shelduck]]
+* [[Australian Wood Duck]]
+* [[Black Swan]]
+* [[Blue-billed Duck]]
+* [[Chestnut Teal]]
+* [[Grey Teal]]
+* [[Hardhead]]
+* [[Mallard]]
+* [[Muscovy Duck]]
+* [[Musk Duck]]
+* [[Pacific Black Duck]]
+* [[Pink-eared Duck]]
+
+|group2     = Grebes
+|list2      =
+* [[Australasian Grebe]]
+* [[Great Crested Grebe]]
+* [[Hoary-headed Grebe]]
+
+|group3     = Egrets and Herons
+|list3      =
+* [[Australasian Bittern]]
+* [[Cattle Egret]]
+* [[Eastern Great Egret]]
+* [[Eastern Reef Egret]]
+* [[Great Egret]]
+* [[Intermediate Egret]]
+* [[Little Egret]]
+* [[Nankeen Night Heron]]
+* [[White-faced Heron]]
+* [[White-necked Heron]] 
+
+
+|group4     = Rails
+|list4      =
+* [[Australian Spotted Crake]]
+* [[Baillon's Crake]]
+* [[Black-tailed Native-hen]]
+* [[Dusky Moorhen]]
+* [[Eurasian Coot]]
+* [[Lewin's Rail]]
+* [[Purple Swamphen]]
+* [[Spotless Crake]]
+
+|group5     = Large waders
+|list5      =
+* [[Australian Pelican]]
+* [[Australian White Ibis]]
+* [[Glossy Ibis]]
+* [[Royal Spoonbill]]
+* [[Straw-necked Ibis]]
+* [[Yellow-billed Spoonbill]] 
+
+}}

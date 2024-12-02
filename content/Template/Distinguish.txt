@@ -1,0 +1,18 @@
+{{#if:{{{1|}}}
+ |{{Hatnote|Not to be confused with [[:{{trim|{{{1}}}}}]]{{
+    #if: {{{3|}}}{{{4|}}}
+    | , [[:{{trim|{{{2}}}}}]], {{
+      #if: {{{4|}}}
+      | [[:{{trim|{{{3}}}}}]], or [[:{{trim|{{{4}}}}}]]
+      | or [[:{{trim|{{{3}}}}}]]
+      }}
+    | {{
+      #if: {{{2|}}}
+      | &nbsp;or [[:{{trim|{{{2}}}}}]]
+      }}
+    }}.
+  }}
+}}<noinclude><!-- splitting these lines causes {{Documentation}} template to terminate green shading when Distinguish is used in /doc pages. -->
+{{Documentation}}
+<!-- Add categories to the /doc subpage and interwikis to Wikidata, not here! -->
+</noinclude>

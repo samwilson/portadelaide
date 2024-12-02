@@ -1,0 +1,7 @@
+The following parameters are deprecated. Their use will place the page into [[:Category:Pages containing cite templates with deprecated parameters]]:
+
+* {{xtd|month}}: Use {{bxt|date}} to include the day, month and year.
+* {{xtd|coauthor · coauthors}}: Use {{bxt|last#}} / {{bxt|first#}} or {{bxt|author}} or {{bxt|authors}}
+* {{xtd|day{{#if:{{{date2|}}}| · date2 · month2 · year2}}}}: Use {{bxt|date}} to include the day, month and year.
+* {{xtd|dateformat · doilabel}}: These parameters are no longer supported.
+{{#if:{{{began|}}}|* {{xtd|began}} and {{xtd|ended}}: Use {{para|date}} with a date range.}}

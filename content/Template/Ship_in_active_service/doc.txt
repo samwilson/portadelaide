@@ -1,0 +1,52 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+This template is designed for use in the ship infobox of articles on ships that are in active service. The template uses [[Template:As of]], so any changes to that template may be reflected in this template even if this one has not been edited.
+
+=== Usage ===
+Add <code><nowiki>{{ship in active service}}</nowiki></code> to the field "Ship status"<ref>Despite the name of the template, it is better placed in the "Ship status" field rather than "Ship fate"; ''status'' implies an on-going condition, where ''fate'' implies a final, perhaps irreversible, condition.</ref> like this:
+:<code><nowiki>|Ship status={{ship in active service}}</nowiki></code>
+This will display as in the sample infobox at right:
+{{-}}
+{|{{Infobox Ship Begin}}
+{{Infobox Ship Career
+|Ship country={{nowrap|Country name}}
+|Ship flag={{shipboxflag}}
+|Ship status={{ship in active service}}
+}}
+|}
+{{-}}
+
+=== Parameters ===
+The template will default to using the current year, {{CURRENTYEAR}}, but for ships where the status is known only for an earlier year or date, optional parameters can display the earlier date.
+
+* <code><nowiki>{{</nowiki> ship in active service}}</code>
+* <code><nowiki>{{</nowiki> ship in active service | ''year'' | ''month'' | ''day'' | url = }}</code>
+
+For ships known to be active in the current year:
+:<code><nowiki>{{ ship in active service }}</nowiki></code> → <code>{{ship in active service}}</code>
+
+For ships known to be active in a previous year:
+:<code><nowiki>{{ ship in active service | 2008 }}</nowiki></code> → <code>{{ship in active service|2008}}</code>
+
+For ships known to be active at a more specific earlier date:
+:<code><nowiki>{{ ship in active service | 2005 | June }}</nowiki></code> → <code>{{ship in active service|2005|June}}</code>
+:<code><nowiki>{{ ship in active service | 2000 | March | 11 }}</nowiki></code> → <code>{{ship in active service|2000|March|11}}</code>
+
+To provide a link through which future editors might check to see if the ship's status has been changed, use the <code>url</code> field. For example, for {{USS|Enterprise|CVN-65}}, enter this:
+:<code><nowiki>{{ship in active service | url = http://www.nvr.navy.mil/nvrships/details/CVN65.htm }}</nowiki></code> → <code>{{ship in active service|url=http://www.nvr.navy.mil/nvrships/details/CVN65.htm}}</code>
+For editors who have these links enabled (see [[Wikipedia:As of]]), this would display as:
+:In active service, as of {{CURRENTYEAR}}<sup class="plainlinks">[http://www.nvr.navy.mil/nvrships/details/CVN65.htm &#91;ref&#93;]</sup>
+
+=== See also ===
+* [[:Template:Infobox Ship Begin]]
+* [[Wikipedia:As of]]
+* [[Wikipedia:Avoid statements that will date quickly]]
+
+=== Notes ===
+{{reflist}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Ship templates]]
+
+</includeonly>

@@ -1,0 +1,48 @@
+Photos uploaded to the wiki:
+
+=== Memorials in Port Adelaide ===
+{{Gallery
+|title= Workers' Memorial
+|align=center
+|File: Workers'Memorial, early morning.JPG |alt1= |The Memorial, from the south, early morning
+|File:Workers' Memorial, south face.JPG |alt2= |The Memorial, from the south<br />
+|File:Workers' Memorial, east face.JPG |alt3= |The Memorial, from the east<br />
+|File:Workers' Memorial, north face 2017.JPG |alt4=xt |Names on the north face<br />
+|File:Workers' Memorial, west face.JPG |alt5= |Names on  the west face
+}}
+
+{{Gallery
+|title=World War I Memorials
+|align=center
+|File:Honour Roll, St Alban's.jpg |alt1= |[[World War I Honour Roll, St Alban's, Largs Bay|St Alban's, Largs Bay]]
+|File:WWI Memorial, St Paul's.jpg |alt2= |[[World War I memorial, St Paul's, Port Adelaide|St Paul's, Port Adelaide]]
+}}
+
+=== Maps ===
+{{Gallery
+|title=Maps
+|align=center
+|File: Northernadelaidemap.png |alt1= |Northern Adelaide
+|File:Northwestern Adelaide.png |alt2= |Northwestern Adelaide
+|File:portadelaide-inner.png |alt3= |Port Adelaide
+}}
+
+{{Gallery
+|title=Torrens Island
+|align=center
+|File:2014 FoTI picnic at TIQS.JPG |alt1= |2014 FoTI picnic at TIQS
+|File:Friends of Torrens Island with new mower.JPG  |alt2= |Friends of Torrens Island with new mower 
+}}
+
+{{Gallery
+|title=Torrens Island - Birds
+|align=center
+|File:White-bellied Sea-Eagle.JPG |alt1= |White-bellied Sea-Eagle perching on mast
+|File:Black-shouldered_kites_2017-08-28.jpg |alt2= |Black-shouldered Kites perching on mast
+}}
+
+{{Gallery
+|title=Patawalonga Creek - Birds
+|align=center
+|File:Black-shouldered_kites_2001-04-22.jpg |alt1= |Black-shouldered Kites perching in tree
+}}

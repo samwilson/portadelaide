@@ -1,0 +1,13 @@
+<includeonly>{{#if: {{{first|}}}<!-- Deprecated parameter retained for legacy compatibility -->
+  |{{#switch:{{lc:{{{first}}}}}
+     |yes=[[gross tonnage]]&nbsp;(GT)&nbsp;of&nbsp;{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}
+     |caps=[[Gross tonnage]]&nbsp;(GT)&nbsp;of&nbsp;{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}
+     |short={{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}&nbsp;GT&nbsp;([[gross tonnage]])
+     |#default={{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}}}}&nbsp;GT {{red|1=&#32;<code>&#124;first={{{first}}}}}</code>
+     }}<!--
+-->|{{#if:{{{disp|}}}|{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}} }} }}{{#if:{{{disp|}}}
+  |{{#switch:{{lc:{{{disp}}} }}
+     |long=&nbsp;{{#ifeq:{{{link|}}}|off|gross tonnage&nbsp;(GT)|[[Gross tonnage{{!}}gross tonnage&nbsp;(GT)]]}}
+     |adj=-{{#ifeq:{{{link|}}}|off|gross tonnage&nbsp;(GT)|[[Gross tonnage{{!}}gross tonnage&nbsp;(GT)]]}}
+     |#default=&nbsp;{{#ifeq:{{{link|}}}|off|GT|[[Gross tonnage{{!}}GT]]}} {{red|1=&#32;<code>&#124;disp={{{disp}}}}}</code>
+     }}|{{formatnum:{{formatnum:{{{1|{{{amt}}}}}}|R}} }}&nbsp;{{#ifeq:{{{link|}}}|off|GT|[[Gross tonnage{{!}}GT]]}}}} }}</includeonly><noinclude>{{template doc}}</noinclude>

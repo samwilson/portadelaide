@@ -1,0 +1,17 @@
+<includeonly>{{#switch:{{lc:{{{1|{{get regnum()|{{{taxon}}} }} }}} }}<!-- Either pass a regnum (using 1=) or a taxon (using taxon=) whose regnum will be established automatically. -->
+|[https://en.wikipedia.org/wiki/animal animalia]|[https://en.wikipedia.org/wiki/animalia animalia]|[https://en.wikipedia.org/wiki/animal animalia]|animalia|animal = rgb(211,211,164)
+|[https://en.wikipedia.org/wiki/archaeplastida archaeplastida]|[https://en.wikipedia.org/wiki/plant plantae]|[https://en.wikipedia.org/wiki/plantae plantae]|[https://en.wikipedia.org/wiki/plant plantae]|[https://en.wikipedia.org/wiki/viridiplantae viridiplantae]|plantae|plant = rgb(144,238,144)
+|[https://en.wikipedia.org/wiki/fungus fungi]|[https://en.wikipedia.org/wiki/fungi fungi]|fungi = rgb(173,216,230)
+|[https://en.wikipedia.org/wiki/chromalveolata chromalveolata]|[https://en.wikipedia.org/wiki/chromalveolate chromalveolata]|chromalveolata = rgb(173,238,63)
+|[https://en.wikipedia.org/wiki/opisthokonta opisthokonta]|[https://en.wikipedia.org/wiki/choanozoa choanozoa]|choanozoa = rgb(224, 208, 176) <!--#e0d0b0 / khaki-->
+|[https://en.wikipedia.org/wiki/rhizaria rhizaria]|rhizaria = rgb(225,204,252)
+|[https://en.wikipedia.org/wiki/excavata excavata]|[https://en.wikipedia.org/wiki/excavates excavates]|[https://en.wikipedia.org/wiki/excavate excavata]|[https://en.wikipedia.org/wiki/excavates excavata]|[https://en.wikipedia.org/wiki/protista protista]|[https://en.wikipedia.org/wiki/protist protista] = rgb(240,230,140)
+|[https://en.wikipedia.org/wiki/amoebozoa amoebozoa] = rgb(255,200,160)
+|[https://en.wikipedia.org/wiki/bacteria bacteria]|[https://en.wikipedia.org/wiki/bacterium bacteria]|[https://en.wikipedia.org/wiki/firmicutes firmicutes]|firmicutes = rgb(211,211,211)
+|[https://en.wikipedia.org/wiki/nanoarchaeota nanoarchaeota]|[https://en.wikipedia.org/wiki/archaea archaea]|[https://en.wikipedia.org/wiki/euryarchaeota euryarchaeota]|[https://en.wikipedia.org/wiki/crenarchaeota crenarchaeota]|[https://en.wikipedia.org/wiki/thaumarchaeota thaumarchaeota]|[https://en.wikipedia.org/wiki/korarchaeota korarchaeota]|[https://en.wikipedia.org/wiki/nanarchaeota nanarchaeota]|nanoarchaeota|archaea|korarchaeota|nanarchaeota|thaumarchaeota|crenarchaeota|euryarchaeota = rgb(236,210,210)
+|[https://en.wikipedia.org/wiki/incertae_sedis incertae sedis]|''[https://en.wikipedia.org/wiki/incertae_sedis incertae sedis]'' = rgb(250,240,230)
+|[https://en.wikipedia.org/wiki/virus virus]|[https://en.wikipedia.org/wiki/viruses viruses]|[https://en.wikipedia.org/wiki/virus viruses]|i|ii|iii|iv|v|vi|vii|viii = rgb(238,130,238)
+|=transparent
+|#default = {{taxobox/Error colour}}<!--
+-->}}</includeonly><noinclude>
+{{template doc}}</noinclude>

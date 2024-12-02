@@ -1,0 +1,44 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref name="iucn">{{IUCN2006|assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |year=2004|id=52630|title=Cincloramphus cruralis | downloaded=1 June 2007}} .</ref>
+| image = Brown Songlark M- Barridine - May 04 230.JPG
+| image_width = 240px
+| image_caption = male,<br> near Baradine, New South Wales
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Locustellidae Locustellidae]
+| genus = ''[https://en.wikipedia.org/wiki/Megalurus Megalurus]''
+| species = '''''M. cruralis'''''
+| binomial = ''Megalurus cruralis''
+| binomial_authority = [https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] & [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827
+| synonyms = ''Cinclorhamphus cruralis''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Cincloramphus+(Cincloramphus)+cruralis ''Atlas of Living Australia'': Brown Songlark]
+* [http://birdlife.org.au/bird-profile/brown-songlark ''Birdlife Australia'': Brown Songlark]
+* [https://en.wikipedia.org/wiki/Brown_songlark ''Wikipedia'': Brown songlark]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

@@ -1,0 +1,164 @@
+{{Documentation subpage}}
+{{Lua|Module:Gallery}}
+{{For|the cleanup tag|Template:Cleanup-gallery}}
+
+This template provides advanced gallery building functionality (fine-tuned formatting control). For creating basic galleries, use the [[Wikipedia:Gallery tag|Gallery tag]].
+
+This template displays a gallery of images in an array, left-to-right in rows.  Global parameters {{para|width}} and {{para|height}} control the size of all images in the gallery unless overridden by an image's {{para|width''n''}} parameter. The number of images per row is based upon the image width parameters and the width of the screen. The number of images per row can change when the user resizes the window.
+
+For style guidelines about where galleries are appropriate, see §[[Wikipedia:Image use policy#Image galleries|Image galleries]] of Wikipedia's [[Wikipedia:Image use policy|Image use policy]].
+
+== Parameters ==
+
+=== For each image ===
+
+Specify a line of the following form for each image.
+: <code>|File:''Filename''</code> {{para|alt''n''|''Alt text''}} <code>|''Caption''</code>
+
+Where:
+: <code>|File:''Filename''</code> – the image's file name. Either <code>File:</code> or <code>Image:</code> prefix may be used
+: {{para|Alt''n''}} – [[alt attribute]]: {{para|alt1}} for the first image, {{para|alt2}} for the second image, etc
+:: <code>''Alt text''</code> – the [[Wikipedia:Alternative text for images|alternative text]] for the image, used by visually impaired or other readers who cannot see the image clearly. If omitted, the image's alt text will be blank.
+: <code>|''Caption''</code> – the caption under the image; see [[Wikipedia:Manual of Style/Captions]]
+
+=== Optional parameters ===
+
+These parameters apply to the gallery:
+
+: {{para|title}} – The gallery's title
+: {{para|align}} – The alignment of the gallery on the page, left (default), center, or right; ignored when {{para|state}} is set
+: {{para|footer}} – Small, right-aligned text below the images
+: {{para|style}} – [[Cascading Style Sheets|CSS]] style directives for the whole gallery (see [[Help:Cascading Style Sheets]])
+: {{para|state}} – Sets the default state of collapsible galleries; use {{para|state|expanded}} or {{para|state|collapsed}}; collapsible galleries occupy the full page width
+
+These parameters apply to all of the images in the gallery:
+
+: {{para|height}} – Maximum height of each image. If this parameter is not included, {{para|height}} defaults to 180 pixels.
+: {{para|width}} – Maximum width of each image, default is 180 pixels.
+: {{para|cellwidth}} – Width of each image cell or box, default is {{para|width}}). If specified, {{para|cellwidth}} overrides any value specified with {{para|width}}.
+: {{para|captionstyle}} – [[Cascading Style Sheets|CSS]] style directives for the captions (see [[Help:Cascading Style Sheets]])
+
+The image's original ratio of width to height cannot be modified by {{para|width}} or {{para|height}} – a rectangular image will not be made square if {{para|width}} and {{para|height}} are set to the same value.
+
+These parameters apply to each image, separately:
+
+: {{para|width''n''}} (where <code>''n''</code> is a number) – specifies the width of <code>image ''n''</code> when it needs to be different from the value specified by {{para|width}}
+
+Note that making an image wider with the {{para|width''n''}} parameter does not produce a wider caption, which will still be constrained by the {{para|width}} parameter.
+
+== Examples ==
+{{pre2|scroll|<nowiki>{{Gallery
+|title=Cultural depictions of George Washington
+|width=160 | height=170
+|align=center
+|footer=Example 1
+|File:Federal Hall NYC 27.JPG 
+ |alt1=Statue facing a city building with Greek columns and huge U.S. flag
+ |Statue of Washington outside [[Federal Hall]] in [[New York City]], looking on [[Wall Street]]
+|File:Mount Rushmore2.jpg 
+ |alt2=Profile of stone face on mountainside, with 3 workers.
+ |Construction of Washington portrait at [[Mount Rushmore]], c. 1932
+|File:2006 Quarter Proof.png 
+ |alt3=Shiny silver coin with profile of Washington bust. 
+ |Washington is commemorated on a [[Quarter (United States coin)|quarter]].
+|File:George Washington Presidential $1 Coin obverse.png 
+ |alt4=Gold coin with bust of Washington facing slightly left
+ |Washington on a [[dollar coin (United States)|dollar coin]]
+}}</nowiki>}}
+{{Gallery
+|title=Cultural depictions of George Washington
+|width=160 |height=170
+|align=center
+|footer=Example 1
+|File:Federal Hall NYC 27.JPG |
+ alt1=Statue facing a city building with Greek columns and huge U.S. flag
+ |Statue of Washington outside [[Federal Hall]] in [[New York City]], looking on [[Wall Street]]
+|File:Mount Rushmore2.jpg |
+ alt2=Profile of stone face on mountainside, with 3 workers.
+ |Construction of Washington portrait at [[Mount Rushmore]], c. 1932
+|File:2006 Quarter Proof.png |
+ alt3=Shiny silver coin with profile of Washington bust. 
+ |Washington is commemorated on a [[Quarter (United States coin)|quarter]].
+|File:George Washington Presidential $1 Coin obverse.png |
+ alt4=Gold coin with bust of Washington facing slightly left
+ |Washington on a [[dollar coin (United States)|dollar coin]]
+}}
+
+{{pre2|scroll|<nowiki>{{Gallery
+|title=Cultural depictions of George Washington
+|width=120 |height=100
+|align=center
+|footer=Example 2a
+|File:Federal Hall NYC 27.JPG
+ |alt1=Statue facing a city building with Greek columns
+ |Statue of Washington outside [[Federal Hall]] in [[New York City]], looking on [[Wall Street]]
+|File:Mount Rushmore2.jpg
+ |alt2=Profile of stone face on mountainside, with 3 workers.
+ |Work on Washington portrait at [[Mount Rushmore]], c. 1932
+|File:2006 Quarter Proof.png
+ |alt3=Shiny silver coin with profile of Washington bust. 
+ |Washington on a [[Quarter (United States coin)|quarter]]
+|File:United_States_one_dollar_bill,_obverse.jpg | width4=200 
+ |alt4=Front side of U.S. dollar bill, with Washington portrait in center.
+ |[[United States one-dollar bill|U.S. one-dollar bill]]
+|File:George Washington Presidential $1 Coin obverse.png
+ |alt5=Gold coin with bust of Washington facing left
+ |Washington on a [[dollar coin (United States)|dollar coin]]
+}}</nowiki>}}
+{{Gallery
+|title=Cultural depictions of George Washington
+|width=120 |height=100
+|align=center
+|footer=Example 2a
+|File:Federal Hall NYC 27.JPG |
+ alt1=Statue facing a city building with Greek columns
+ |Statue of Washington outside [[Federal Hall]] in [[New York City]], looking on [[Wall Street]]
+|File:Mount Rushmore2.jpg |
+ alt2=Profile of stone face on mountainside, with 3 workers.
+ |Work on Washington portrait at [[Mount Rushmore]], c. 1932
+|File:2006 Quarter Proof.png |
+ alt3=Shiny silver coin with profile of Washington bust. 
+ |Washington on a [[Quarter (United States coin)|quarter]]
+|File:United_States_one_dollar_bill,_obverse.jpg | width4=200 |
+ alt4=Front side of U.S. dollar bill, with Washington portrait in center.
+ |[[United States one-dollar bill|U.S. one-dollar bill]]
+|File:George Washington Presidential $1 Coin obverse.png |
+ alt5=Gold coin with bust of Washington facing left
+ |Washington on a [[dollar coin (United States)|dollar coin]]
+}}
+Note how in the above example, the parameter {{para|width4|200}} sets the width of image 4, to allow the dollar-bill image to be wider than the other images in the gallery. However, the width of the caption remains at 120px, as set by the {{para|width|120}} parameter.
+
+{{Gallery
+|title=Cultural depictions of George Washington
+|width=120 |height=100
+|align=center
+|footer=Example 2b
+|File:Federal Hall NYC 27.JPG |
+ alt1=Statue facing a city building with Greek columns
+ |Statue of Washington outside [[Federal Hall]] in [[New York City]], looking on [[Wall Street]]
+|File:Mount Rushmore2.jpg |
+ alt2=Profile of stone face on mountainside, with 3 workers.
+ |Work on Washington portrait at [[Mount Rushmore]], c. 1932
+|File:2006 Quarter Proof.png |
+ alt3=Shiny silver coin with profile of Washington bust. 
+ |Washington on a [[Quarter (United States coin)|quarter]]
+|File:United_States_one_dollar_bill,_obverse.jpg | width4=200 |
+ alt4=Front side of U.S. dollar bill, with Washington portrait in center 
+ |[[United States one-dollar bill|U.S. one-dollar bill]] – the caption here is still constrained by the width parameter.
+|File:George Washington Presidential $1 Coin obverse.png |
+ alt5=Gold coin with bust of Washington facing left
+ |Washington on a [[dollar coin (United States)|dollar coin]]
+}}
+
+== See also ==
+* [[Help:Gallery tag]]
+* {{tl|Cleanup-gallery}}, the template marking unencyclopedic image galleries.
+* {{tl|Multiple image}}
+* {{tl|Auto images}}
+* {{tl|Image array}}
+* {{tl|Photomontage}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | 
+| <!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Image formatting and function templates]]
+}}</includeonly>

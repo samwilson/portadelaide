@@ -1,0 +1,670 @@
+{{Documentation subpage}}
+This infobox is designed to put basic factual information, an image and optionally a map in an organized fashion for an 'urban feature',
+which is essentially anything from a public square to a public staircase, into an infobox. The infobox helps to give details to the reader in a straightforward standard manner.
+
+==Fields==
+{| class="wikitable"
+|-
+! Field !! Description
+|-
+! name 
+| Name of urban feature
+|-
+! other_names
+| Other names, including in other languages
+|-
+! former_names
+| Former names, including in other languages
+|-
+! nickname
+| Nickname of feature
+|-
+! image_place
+| Image of place to use as primary
+|-
+! image_caption
+| Caption below image
+|-
+! ind_name_lang
+| Indigenous name's language - a link to the language
+|-
+! ind_name
+| Indigenous name - the name of the feature in the language native to the area
+|-
+! place_type 
+| Type of urban feature
+|-
+! designer
+| Designer of urban feature
+|-
+! open 
+| Opening date
+|-
+! features
+| Features
+
+|-
+! construction
+| Construction period
+|-
+! cost
+| Cost of construction
+|-
+! owner
+| Owner of feature
+|-
+! manager
+| Manager of feature, for example a board of management
+|-
+! steps 
+| Number of steps (for staircases)
+|-
+! amenities
+| Amenities of facility
+|-
+! area
+| Area of feature (for example, public squares)
+|-
+! surface
+| Surface material, e.g. granite, concrete 
+|-
+! colspan="2" | Location and address
+|-
+! Location
+| local location
+|-
+! address1
+| First line of address. If used, adds box below description.
+|-
+! address2
+| Second line of address. If used without address1, is displayed as second line of location.
+|-
+! colspan="2" | Push Pin map parameters
+|-
+!pushpin_map
+|Name of pushpin map (without prefix or suffix)
+|-
+!pushpin_map_caption
+| Text to display below push pin map
+|-
+! colspan="2" | Dot map parameters
+|-
+! image_dot_map
+| Filename of dot map to use
+|-
+! dot_mapsize
+| Width of dot map
+|-
+! dot_map_caption
+| Caption below dot map
+|-
+!dot_x 
+| X-co-ordinate on dot map (pixels from the left edge)   
+|-
+! dot_y 
+| Y-co ordinate of dot over dot map (pixels from the top edge)
+
+|-
+! colspan="2" | Parameters for latitude and longitude of feature
+|-
+!coordinates_display
+| How to display coordinates within article - possible values are inline,title
+|-
+! latd 
+| Latitude degrees
+|-
+! latm
+| Latitude minutes
+|-
+! lats
+| Latitude seconds
+|-
+! latNS 
+| N or S - North or south of equator
+|-
+! longd 
+| Longitude degrees
+|-
+! longm
+| Longitude minutes
+|-
+! longs 
+| Longitude seconds
+|-
+! longEW 
+| E or W - East or west of meridian
+|}
+
+==Korean transcriptions==
+To add Korean name transcriptions, use {{tl|Infobox Korean name}} with {{para|child|yes}} (see, for example, [[#Example 3|Example 3]]).
+
+==Example articles==
+Example articles include [[Potemkin Stairs]], [[Nathan Phillips Square]], [[Yonge-Dundas Square]] and [[Baldwin Steps]].
+
+=== Example 1 ===
+{{Infobox urban feature
+|name=Nathan Phillips Square
+|image_place=Toronto - ON - Rathaus und Nathan Phillips Square.jpg
+|image_dot_map          = To-locator-map.png
+|dot_mapsize            = 275px
+|dot_map_caption        = Location of Nathan Phillips Square in Toronto
+|dot_x =112   |dot_y =91
+|coordinates_display= inline
+| latd = 43 | latm = 39 | lats = 9 | latNS = N
+| longd = 79 | longm = 23 | longs = 1 | longEW = W
+|location=Bay Street and Queen Street
+|address2=[[Toronto]], [[Ontario|ON]], [[Canada]]
+|place_type=City square
+|owner=City of Toronto
+|designer=[[Viljo Revell]]
+|open=1965
+}}
+<pre style="overflow:auto; white-space: pre-wrap;">
+{{Infobox urban feature
+|name=Nathan Phillips Square
+|image_place=Toronto - ON - Rathaus und Nathan Phillips Square.jpg
+|image_dot_map          = To-locator-map.png
+|dot_mapsize            = 275px
+|dot_map_caption        = Location of Nathan Phillips Square in Toronto
+|dot_x =112   |dot_y =91
+|coordinates_display= inline
+| latd = 43 | latm = 39 | lats = 9 | latNS = N
+| longd = 79 | longm = 23 | longs = 1 | longEW = W
+|location=Bay Street and Queen Street
+|address2=[[Toronto]], [[Ontario|ON]], [[Canada]]
+|place_type=City square
+|owner=City of Toronto
+|designer=[[Viljo Revell]]
+|open=1965
+}}
+</pre>
+{{clear right}}
+
+===Example 2===
+{{Infobox urban feature
+|country=UKR
+|name=Potemkin Steps
+|image_place=Potěmkinovy schody.jpg
+|image_caption=Potemkin Stairs in [[Odessa, Ukraine]]. The higher perspective allows a person to see both the stairs and landings.
+|other_names={{lang-uk|Потьомкінські східці}}
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =116   |dot_y =86
+|location=[[Odessa]], [[Ukraine]]
+|address2=
+|owner=
+|coordinates_display= inline
+| latd = 46 | latm = 29 | lats = 21 | latNS = N
+| longd = 30 | longm = 44 | longs = 36 | longEW = E
+|place_type=[[Stairs]]
+|construction=1837–1841
+|open=1841
+|height=
+|manager=
+|designer= F. Boffo, [[Avraam I. Melnikov]] and Pot'e
+|website=
+}}
+<pre style="overflow:auto; white-space: pre-wrap;">
+{{Infobox urban feature
+|country=UKR
+|name=Potemkin Steps
+|image_place=Potěmkinovy schody.jpg
+|image_caption=Potemkin Stairs in [[Odessa, Ukraine]]. The higher perspective allows a person to see both the stairs and landings.
+|other_names={{lang-uk|Потьомкінські східці}}
+|image_dot_map          =
+|dot_mapsize            =
+|dot_map_caption        =
+|dot_x =116   |dot_y =86
+|location=[[Odessa]], [[Ukraine]]
+|address2=
+|owner=
+|coordinates_display= inline
+| latd = 46 | latm = 29 | lats = 21 | latNS = N
+| longd = 30 | longm = 44 | longs = 36 | longEW = E
+|place_type=[[Stairs]]
+|construction=1837–1841
+|open=1841
+|height=
+|manager=
+|designer= F. Boffo, [[Avraam I. Melnikov]] and Pot'e
+|website=
+}}
+</pre>
+{{clear right}}
+
+===Example 3===
+{{Infobox urban feature
+|name=Seoul Plaza
+|image_place=Seoul Plaza 2010.jpg
+|image_caption=View of Seoul Plaza
+|place_type=[[Public square]]<!--
+-->{{Infobox Korean name|child=yes
+|koreanname = Korean transcriptions
+|hangul=서울광장
+|hanja=서울廣場
+|rr=Seoul gwangjang
+|mr=Sŏul kwangjang
+}}
+|features=[[fountain]], [[ice rink]]
+|surface = [[grass]] 
+|location=[[Taepyeongno]], [[Jung-gu, Seoul|Jung-gu]]
+|address2=[[Seoul]], [[South Korea]]
+|owner= [[Seoul Metropolitan Government]]
+|coordinates_region=KR
+|coordinates_display= inline
+| latd = 37 | latm = 33 | lats = 56 | latNS = N
+| longd = 126 | longm = 58 | longs = 41 | longEW = E
+|construction=
+|open=May 1, 2004
+|height=
+|maint= 
+|designer=
+|area={{convert|3995|pyeong|ha}}
+}}
+<pre style="overflow:auto; white-space: pre-wrap;">
+{{Infobox urban feature
+|name=Seoul Plaza
+|image_place=Seoul Plaza 2010.jpg
+|image_caption=View of Seoul Plaza
+|place_type=[[Public square]]<!--
+-->{{Infobox Korean name|child=yes
+|koreanname = Korean transcriptions
+|hangul=서울광장
+|hanja=서울廣場
+|rr=Seoul gwangjang
+|mr=Sŏul kwangjang
+}}
+|features=[[fountain]], [[ice rink]]
+|surface = [[grass]] 
+|location=[[Taepyeongno]], [[Jung-gu, Seoul|Jung-gu]]
+|address2=[[Seoul]], [[South Korea]]
+|owner= [[Seoul Metropolitan Government]]
+|coordinates_region=KR
+|coordinates_display= inline
+| latd = 37 | latm = 33 | lats = 56 | latNS = N
+| longd = 126 | longm = 58 | longs = 41 | longEW = E
+|construction=
+|open=May 1, 2004
+|height=
+|maint= 
+|designer=
+|area={{convert|3995|pyeong|ha}}
+}}
+</pre>{{clear right}}
+
+==TemplateData==
+{{TemplateDataHeader}}
+
+<templatedata>
+{
+    "description": "urban features (public squares, public fountains, stairs)",
+    "params": {
+        "name": {
+            "label": "name",
+            "description": "This is the usual name in English.  If it's not specified, the infobox will use the 'official_name' as a title unless this too is missing, in which case the page name will be used.",
+            "type": "string",
+            "required": false
+        },
+        "native_name": {
+            "label": "native_name",
+            "description": "This will display under the name/official name",
+            "type": "string",
+            "required": false
+        },
+        "native_name_lang": {
+            "label": "native_name_lang",
+            "description": "Use ISO 639-2 code, e.g. 'fr' for French. If there is more than one native name, in different languages, enter those names using {{lang}}, instead.",
+            "type": "string",
+            "required": false
+        },
+        "ind_name": {
+            "label": "ind_name",
+            "description": "Indigenous name - the name of the feature in the language native to the area",
+            "type": "string",
+            "required": false
+        },
+        "ind_name_lang": {
+            "label": "ind_name_lang",
+            "description": "Use ISO 639-2 code, e.g. 'fr' for French. If there is more than one indigenous name, in different languages, enter those names using {{lang}}, instead.",
+            "type": "string",
+            "required": false
+        },
+        "place_type": {
+            "label": "place_type",
+            "description": "Any type can be entered, such as Public Square, Stairs, etc.",
+            "type": "string",
+            "required": false
+        },
+        "image_place": {
+            "label": "image_place",
+            "description": "Despite the name it can be any image that an editor wishes.",
+            "type": "string",
+            "required": false
+        },
+        "imagesize": {
+            "label": "imagesize",
+            "description": "Can be used to tweak the size of the image_place up or down. This can be helpful if an editor want to make the infobox wider. If used, 'px' must be specified; default size is 250px.",
+            "type": "string",
+            "required": false
+        },
+        "image_alt": {
+            "label": "image_alt",
+            "description": "Alt text for the image, used by visually impaired readers who cannot see the image.",
+            "type": "string",
+            "required": false
+        },
+        "image_caption": {
+            "label": "image_caption",
+            "description": "Will place a caption under the image_place (if present)",
+            "type": "string",
+            "required": false
+        },
+        "nickname": {
+            "label": "nickname",
+            "description": "well-known nickname(s)",
+            "type": "string",
+            "required": false
+        },
+        "former_names": {
+            "label": "motto",
+            "description": "Former names",
+            "type": "string",
+            "required": false
+        },
+        "image_map": {
+            "label": "image_map",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "mapsize": {
+            "label": "mapsize",
+            "description": "If used, 'px' must be specified; default is 250px.",
+            "type": "string",
+            "required": false
+        },
+        "map_alt": {
+            "label": "map_alt",
+            "description": "Alt text for map.",
+            "type": "string",
+            "required": false
+        },
+        "map_caption": {
+            "label": "map_caption",
+            "type": "string",
+            "required": false
+        },
+        "image_dot_map": {
+            "label": "image_dot_map",
+            "description": "A field for 'manually' superimposing a dot over a blank map using an X-Y system. Blank maps, if available, can be found over at [http://commons.wikimedia.org/wiki/Main_Page Wikimedia Commons]. Example see: Rainbow Lake, Alberta",
+            "type": "string",
+            "required": false
+        },
+        "dot_mapsize": {
+            "label": "dot_mapsize",
+            "description": "To change the dot map size; default is 180px ('px' is optional).",
+            "type": "string",
+            "required": false
+        },
+        "dot_map_base_alt": {
+            "label": "dot_map_base_alt",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "dot_map_alt": {
+            "label": "dot_map_alt",
+            "description": "Alt text for the dot map.",
+            "type": "string",
+            "required": false
+        },
+        "dot_map_caption": {
+            "label": "dot_map_caption",
+            "description": "For placing a caption under the dot map.",
+            "type": "string",
+            "required": false
+        },
+        "dot_x": {
+            "label": "dot_x",
+            "description": "For manually superimposing the dot left/right on the map.",
+            "type": "string",
+            "required": false
+        },
+        "dot_y": {
+            "label": "dot_y",
+            "description": "For manually superimposing the dot up/down on the map.",
+            "type": "string",
+            "required": false
+        },
+        "pushpin_map": {
+            "label": "pushpin_map",
+            "description": "The name of a location map (e.g. 'Indonesia' or 'Russia'). The coordinate fields (e.g. 'latd' and 'longd') position a pushpin coordinate marker and label on the map 'automatically'. Example see: Padang, Indonesia",
+            "type": "string",
+            "required": false
+        },
+        "pushpin_label_position": {
+            "label": "pushpin_label_position",
+            "description": "The position of the label on the pushpin map relative to the pushpin coordinate marker. Valid options are {left, right, top, bottom, none}. If this field is not specified, the default value is ''right''.",
+            "type": "string",
+            "required": false
+        },
+        "pushpin_map_alt": {
+            "label": "pushpin_map_alt",
+            "description": "Alt text for pushpin map.",
+            "type": "string",
+            "required": false
+        },
+        "pushpin_mapsize": {
+            "label": "pushpin_mapsize",
+            "description": "Must be entered as only a number - do not use px. The default value is 250.",
+            "type": "number",
+            "required": false
+        },
+        "pushpin_map_caption": {
+            "label": "pushpin_map_caption",
+            "description": "Fill out if a different caption from ''map_caption'' is desired.",
+            "type": "string",
+            "required": false
+        },
+        "pushpin_relief": {
+            "label": "pushpin_relief",
+            "description": "Set this to 'y' or any non-blank value to use an alternative relief map provided by the selected location map (if a relief map is available).",
+            "type": "string",
+            "required": false
+        },
+        "latd": {
+            "label": "latd",
+            "description": "Latitude degrees. Can also be used for decimal degrees.",
+            "type": "string",
+            "required": false
+        },
+        "latm": {
+            "label": "latm",
+            "description": "Latitude minutes. Omit or leave blank if 'latd' has a decimal value.",
+            "type": "string",
+            "required": false
+        },
+        "lats": {
+            "label": "lats",
+            "description": "Latitude seconds. Omit or leave blank if 'latd' has a decimal value.",
+            "type": "string",
+            "required": false
+        },
+        "latNS": {
+            "label": "latNS",
+            "description": "Latitude North or South (enter 'N' or 'S'). Omit or leave blank if 'latd' has a decimal value.",
+            "type": "string",
+            "required": false
+        },
+        "longd": {
+            "label": "longd",
+            "description": "Longitude degrees. Can also be used for decimal degrees.",
+            "type": "string",
+            "required": false
+        },
+        "longm": {
+            "label": "longm",
+            "description": "Longitude minutes. Omit or leave blank if 'longd' has a decimal value.",
+            "type": "string",
+            "required": false
+        },
+        "longs": {
+            "label": "longs",
+            "description": "Longitude seconds. Omit or leave blank if 'longd' has a decimal value.",
+            "type": "string",
+            "required": false
+        },
+        "longEW": {
+            "label": "longEW",
+            "description": "Longitude East or West (enter 'E' or 'W'). Omit or leave blank if 'longd' has a decimal value.",
+            "type": "string",
+            "required": false
+        },
+        "coor_pinpoint": {
+            "label": "coor_pinpoint",
+            "description": "If needed, to specify more exactly where (or what) coordinates are given (e.g. 'Town Hall') or a specific place in a larger area (e.g. a city in a county). Example: Masovian Voivodeship",
+            "type": "string",
+            "required": false
+        },
+        "coordinates_type": {
+            "label": "coordinates_type",
+            "description": "Can be used to override the default coordinate parameters for the coordinates.  May include 'type:', 'scale:', 'dim:', 'region:', and/or 'source:', joined by underscores '_'.",
+            "type": "string",
+            "required": false
+        },
+        "coordinates_display": {
+            "label": "coordinates_display",
+            "description": "If the parameter is omitted, blank, or equal to 'inline', the coordinates will be displayed in the infobox only. Any value other than 'inline' will have the coordinates displayed in the article's title as well. Infobox settlement uses {{Geobox coor}} to call {{Coord}} with the parameter 'display=inline,title'.",
+            "type": "string",
+            "required": false
+        },
+        "coordinates_format": {
+            "label": "coordinates_format",
+            "description": "If the parameter is omitted or blank, the coordinates format will match the format in which the coordinates are specified. Set to 'dms' to force degrees/minutes/seconds or 'dec' to force decimal.",
+            "type": "string",
+            "required": false
+        },
+        "coordinates_footnotes": {
+            "label": "coordinates_footnotes",
+            "description": "Reference(s) for coordinates, placed within <ref> </ref> tags, possibly using the citing format at {{Cite web}}",
+            "type": "string",
+            "required": false
+        },
+        "designer": {
+            "label": "designer",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "construction": {
+            "label": "construction",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "complete": {
+            "label": "complete",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "open": {
+            "label": "open",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "cost": {
+            "label": "cost",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "steps": {
+            "label": "steps",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "height": {
+            "label": "height",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "amenities": {
+            "label": "amenities",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "area": {
+            "label": "area",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "surface": {
+            "label": "surface",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "dedicated_to": {
+            "label": "dedicated_to",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "owner": {
+            "label": "owner",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "manager": {
+            "label": "manager",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "location": {
+            "label": "location",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "address1": {
+            "label": "address1",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "address2": {
+            "label": "address2",
+            "description": "",
+            "type": "string",
+            "required": false
+        },
+        "website": {
+            "label": "website",
+            "description": "External link to official website, Use the {{URL}} template, thus: {{URL|example.com}}",
+            "type": "string",
+            "required": false
+        },
+        "footnotes": {
+            "label": "footnotes",
+            "description": "Text to be displayed at the bottom of the infobox.",
+            "type": "string",
+            "required": false
+        }
+    }
+}</templatedata>
+<includeonly>
+<!-- Add categories below-->
+[[Category:City infobox templates|Urban feature]]
+[[Category:Geography infobox templates|Urban feature]]
+
+<!-- Add interwikis to http://www.wikidata.org/wiki/Q5683132 -->
+</includeonly>

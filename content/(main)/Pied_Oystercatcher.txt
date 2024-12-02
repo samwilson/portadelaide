@@ -1,0 +1,41 @@
+{{Taxobox
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22693647 |title=''Haematopus longirostris'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Haematopus_longirostris_2.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Haematopodidae Haematopodidae]
+| genus = [https://en.wikipedia.org/wiki/Haematopus Haematopus]
+| species = '''''H. longirostris'''''
+| binomial = ''Haematopus longirostris''
+| binomial_authority = [https://en.wikipedia.org/wiki/Louis_Jean_Pierre_Vieillot Vieillot], 1817
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Haematopus+longirostris ''Atlas of Living Australia'': Pied Oystercatcher]
+* ''Birdlife Australia'': Pied Oystercatcher
+* [https://en.wikipedia.org/wiki/Pied_oystercatcher ''Wikipedia'': Pied oystercatcher]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

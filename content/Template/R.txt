@@ -1,0 +1,12 @@
+<includeonly>{{r/ref|{{{1}}}|{{{group|}}}|{{{page|{{{page1|}}}}}}}}<!--
+
+-->{{#if:{{{2|}}}|{{r/ref|{{{2}}}|{{{group|}}}|{{{page2|}}}}}<!--
+-->{{#if:{{{3|}}}|{{r/ref|{{{3}}}|{{{group|}}}|{{{page3|}}}}}<!--
+-->{{#if:{{{4|}}}|{{r/ref|{{{4}}}|{{{group|}}}|{{{page4|}}}}}<!--
+-->{{#if:{{{5|}}}|{{r/ref|{{{5}}}|{{{group|}}}|{{{page5|}}}}}<!--
+-->{{#if:{{{6|}}}|{{r/ref|{{{6}}}|{{{group|}}}|{{{page6|}}}}}<!--
+-->{{#if:{{{7|}}}|{{r/ref|{{{7}}}|{{{group|}}}|{{{page7|}}}}}<!--
+-->{{#if:{{{8|}}}|{{r/ref|{{{8}}}|{{{group|}}}|{{{page8|}}}}}<!--
+-->{{#if:{{{9|}}}|{{r/ref|{{{9}}}|{{{group|}}}|{{{page9|}}}}}<!--
+-->{{#if:{{{10|}}}|<sup class="error" style="font-size:0.9em; line-height:0;">The template only supports up to 9 references ([[Template:R|edit it]]!).</sup><!--
+-->}}}}}}}}}}}}}}}}}}</includeonly><noinclude>{{documentation}}</noinclude>

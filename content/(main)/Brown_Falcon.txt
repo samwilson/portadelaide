@@ -1,0 +1,46 @@
+{{Taxobox
+| name = Brown Falcon
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22696354 |title=''Falco berigora'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Falco berigora -Alice Springs, Northern Territory, Australia-8.jpg
+| image_width = 240px
+| image_caption= At Alice Springs, Northern Territory, Australia
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Falconiformes Falconiformes]
+| familia = [https://en.wikipedia.org/wiki/Falconidae Falconidae]
+| genus = ''[https://en.wikipedia.org/wiki/Falcon Falco]''
+| species = '''''F. berigora'''''
+| binomial = ''Falco berigora''
+| binomial_authority = [https://en.wikipedia.org/wiki/Nicholas_Aylward_Vigors Vigors] & [https://en.wikipedia.org/wiki/Thomas_Horsfield Horsfield], 1827
+| synonyms =
+''Asturaetus furcillatus'' <small>[https://en.wikipedia.org/wiki/Charles_Walter_De_Vis De Vis], 1906</small><br />
+''Plioaetus furcillatus'' <small>(De Vis, 1906)</small>
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Falco+(Ieracidea)+berigora+berigora ''Atlas of Living Australia'': Brown Falcon]
+* [http://birdlife.org.au/bird-profile/Brown-Falcon ''Birdlife Australia'': Brown Falcon]
+* [https://en.wikipedia.org/wiki/Brown_falcon ''Wikipedia'': Brown falcon]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

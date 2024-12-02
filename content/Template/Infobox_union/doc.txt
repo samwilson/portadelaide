@@ -1,0 +1,102 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+{{tlx|Infobox union}} is for use with [[trade union]]s: Local, head, national, and federation.
+
+== Usage ==
+<pre>
+{{Infobox union
+| name             = 
+| full_name        = 
+| native_name      = 
+| native_name_lang = 
+| motto            = 
+| mottoeng         = 
+| image            = <!-- Use full image link, e.g. [[File:Example.png|frameless]] -->
+| founded          = <!-- {{Start date|YYYY|MM|DD|df=y}} -->
+| predecessor      = 
+| successor        = 
+| current          = 
+| dissolved_date   = 
+| dissolved_state  = 
+| merged_into      = 
+| members          = 
+| country          = 
+| head             = 
+| affiliation      = 
+| people           = <!-- {{ubl}} if multiple -->
+| office           = 
+| website          = <!-- {{URL|example.com}} -->
+| footnotes        = 
+}}
+</pre>
+
+== Parameters ==
+All parameters are optional.
+
+; <code>name</code>: Common abbreviation, e.g. CAW or TUC
+; <code>full_name</code>: official name, in English
+; <code>native_name</code>: name in native language
+; <code>native_name_lang</code>: native language; use [[List of ISO 639-2 codes|ISO 639-2 code]], e.g. "fr" for French. If there is more than one native name, in different languages, enter those names using {{tl|ubl}}, and wrapping each in {{tl|lang}}, instead.
+; <code>motto</code>: motto, in Latin
+; <code>mottoeng</code>: motto, in English
+; <code>image</code>: full image link
+; <code>founded</code>: date of establishment/founding; use {{Tlx|Start date}}
+; <code>predecessor</code>: predecessor organizations
+; <code>successor</code>: successor organizations
+; <code>current</code>: date of current affiliation
+; <code>dissolved_date</code>: "date dissolved or "merged into": mutually exclusive of "Current affiliation date"
+; <code>dissolved_state</code>: "Incorporated into", "Merged into" (default)
+; <code>merged_into</code>: Article name of union merged into
+; <code>members</code>: number of members - include date, e.g. 85,000 (2006)
+; <code>head</code>: local union only - article name of head union
+; <code>affiliation</code>: name of next highest national or international affiliation. Or "Independent"
+; <code>people</code>: key people; if more than one, use {{Tlx|ubl}}
+; <code>office</code>: primary office location
+; <code>country</code>: name of country/countries of operation. Or "International"
+; <code>website</code>: website address; use {{Tlx|URL}}
+; <code>footnotes</code>: footnotes related to the data in the infobox
+
+== Example ==
+{{Infobox union
+| name        = Solidarity
+| members     = 1.185.000 (2006)
+| full_name   = Independent Self-governing Trade Union - Solidarity    
+| native_name = Niezależny Samorządny Związek Zawodowy "Solidarność"
+| native_name_lang =  pl
+| image       = [[File:Example.png|frameless]]    
+| founded     = {{Start date|1980|09}}
+| country     = [[Poland]]
+| affiliation = [[ICFTU]], [[World Confederation of Labour|WCL]], [[ETUC]], [[TUAC]]
+| website     = {{URL|www.solidarnosc.org.pl}}
+| footnotes   = [http://www.solidarnosc.org.pl/english/about/eng_about_04.htm 1]
+}}
+
+<pre style="overflow:auto;">
+{{Infobox union
+| name        = Solidarity
+| members     = 1.185.000 (2006)
+| full_name   = Independent Self-governing Trade Union - Solidarity    
+| native_name = Niezależny Samorządny Związek Zawodowy "Solidarność"
+| native_name_lang =  pl
+| image       = [[file:Example.png|frameless]]    
+| founded     = {{Start date|1980|09}}
+| country     = [[Poland]]
+| affiliation = [[ICFTU]], [[World Confederation of Labour|WCL]], [[ETUC]], [[TUAC]]
+| website     = {{URL|www.solidarnosc.org.pl}}
+| footnotes   = [http://www.solidarnosc.org.pl/english/about/eng_about_04.htm 1]
+}}
+</pre>
+
+== Microformats ==
+{{UF-hcard-org}}
+
+==See also==
+{{Organization infoboxes}}
+
+<includeonly>
+{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!--Categories below here, please; interwikis to Wikidata.-->
+[[Category:Business infobox templates|Union]]
+[[Category:Labor templates]]
+[[Category:Organization infobox templates|Union]]
+}}</includeonly>

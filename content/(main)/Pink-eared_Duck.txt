@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Pink-eared Duck
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22680336 |title=''Malacorhynchus membranaceus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = pink_eared_duck.jpg
+| image_width = 240px
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Anseriformes Anseriformes]
+| familia = [https://en.wikipedia.org/wiki/Anatidae Anatidae]
+| genus = ''[https://en.wikipedia.org/wiki/Malacorhynchus Malacorhynchus]''
+| species = '''''M. membranaceus'''''
+| binomial = ''Malacorhynchus membranaceus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Latham_(ornithologist) Latham], 1802)
+| range_map = Malacorhynchus membranaceus distribution map.png
+| range_map_caption = Distribution map of the Pink-eared Duck
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Malacorhynchus+membranaceus ''Atlas of Living Australia'': Pink-eared Duck]
+* [http://birdlife.org.au/bird-profile/pink-eared-duck ''Birdlife Australia'': Pink-eared Duck]
+* [https://en.wikipedia.org/wiki/Pink-eared_duck ''Wikipedia'': Pink-eared duck]
+
+{{Template:Waterbirds}}
+
+[[Category:Birds of the Adelaide region]]

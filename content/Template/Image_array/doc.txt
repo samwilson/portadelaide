@@ -1,0 +1,192 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page. -->
+{{lua|Module:Image array}}
+This template is used to generate a rectangular image array, typically for use within an infobox.
+
+== Basic usage ==
+A 4x4 image array
+<pre>
+{{image array|perrow = 4
+| image1 =   | caption1 =
+| image2 =   | caption2 =
+| image3 =   | caption3 =
+| image4 =   | caption4 =
+| image5 =   | caption5 =
+| image6 =   | caption6 =
+| image7 =   | caption7 =
+| image8 =   | caption8 =
+| image9 =   | caption9 =
+| image10 =  | caption10 =
+| image11 =  | caption11 =
+| image12 =  | caption12 =
+| image13 =  | caption13 =
+| image14 =  | caption14 =
+| image15 =  | caption15 =
+| image16 =  | caption16 =
+}}</pre>
+A 5x5 image array
+<pre>
+{{image array|perrow = 5
+| image1 =   | caption1 =
+| image2 =   | caption2 =
+| image3 =   | caption3 =
+| image4 =   | caption4 =
+| image5 =   | caption5 =
+| image6 =   | caption6 =
+| image7 =   | caption7 =
+| image8 =   | caption8 =
+| image9 =   | caption9 =
+| image10 =  | caption10 =
+| image11 =  | caption11 =
+| image12 =  | caption12 =
+| image13 =  | caption13 =
+| image14 =  | caption14 =
+| image15 =  | caption15 =
+| image16 =  | caption16 =
+| image17 =  | caption17 =
+| image18 =  | caption18 =
+| image19 =  | caption19 =
+| image20 =  | caption20 =
+| image21 =  | caption21 =
+| image22 =  | caption22 =
+| image23 =  | caption23 =
+| image24 =  | caption24 =
+| image25 =  | caption25 =
+}}</pre>
+A 5x6 image array
+<pre>
+{{image array|perrow = 5
+| image1 =   | caption1 =
+| image2 =   | caption2 =
+| image3 =   | caption3 =
+| image4 =   | caption4 =
+| image5 =   | caption5 =
+| image6 =   | caption6 =
+| image7 =   | caption7 =
+| image8 =   | caption8 =
+| image9 =   | caption9 =
+| image10 =  | caption10 =
+| image11 =  | caption11 =
+| image12 =  | caption12 =
+| image13 =  | caption13 =
+| image14 =  | caption14 =
+| image15 =  | caption15 =
+| image16 =  | caption16 =
+| image17 =  | caption17 =
+| image18 =  | caption18 =
+| image19 =  | caption19 =
+| image20 =  | caption20 =
+| image21 =  | caption21 =
+| image22 =  | caption22 =
+| image23 =  | caption23 =
+| image24 =  | caption24 =
+| image25 =  | caption25 =
+| image26 =  | caption26 =
+| image27 =  | caption27 =
+| image28 =  | caption28 =
+| image29 =  | caption29 =
+| image30 =  | caption30 =
+}}</pre>
+== Embedding ==
+To create a simple floating image array, use the template with {{tl|Image frame}}.
+<pre>
+{{Image frame
+| content = {{image array|perrow = 4
+| image1 =   | caption1 =
+| image2 =   | caption2 =
+| image3 =   | caption3 =
+| image4 =   | caption4 =
+| image5 =   | caption5 =
+| image6 =   | caption6 =
+| image7 =   | caption7 =
+| image8 =   | caption8 =
+| image9 =   | caption9 =
+| image10 =  | caption10 =
+| image11 =  | caption11 =
+| image12 =  | caption12 =
+| image13 =  | caption13 =
+| image14 =  | caption14 =
+| image15 =  | caption15 =
+| image16 =  | caption16 =
+}}
+}}
+</pre>
+
+== Additional parameters ==
+
+=== Default image size ===
+The default image size is 60px by 70px.  To override this default, use {{para|width|YY}} and {{para|height|ZZ}}, where YY and ZZ are raw numbers, without the px units.
+
+=== Image border ===
+To add a border around each image, use {{para|border-width|X}}, where <code>X</code> is the width in pixels.
+
+=== Adding alternative text ===
+To add alternative text for an image, use {{para|altX}}, where <code>X</code> is the image number.
+
+=== Adding hint text ===
+To add hint or [[tooltip]] text for an image, use {{para|textX}}, where <code>X</code> is the image number.  To use the captions for the hint or [[tooltip]] text for all images, use {{para|text|y}}.
+
+=== Adding link text ===
+By default, clicking on an image will direct the viewer to the file page, which contains licensing and attribution information for the image.  This is required for any non-public domain images.  To change the link to the image, use {{para|linkX}}, where <code>X</code> is the image number.  However, be careful to make sure that you only do this for public domain images that do not require attribution.
+
+== Examples.==
+
+=== Example 1: images only ===
+<pre style="overflow:auto">
+{{Image array
+| image1 = On The Streets of Vilnius (5984257911).jpg
+| image2 = Taiwanese Buddhist Nun Black Robes.jpeg
+| image3 = Louise Marie Therese.jpg
+| image4 = Pakistani Nun.JPG
+}}
+</pre>
+{{Image array
+| image1 = On The Streets of Vilnius (5984257911).jpg
+| image2 = Taiwanese Buddhist Nun Black Robes.jpeg
+| image3 = Louise Marie Therese.jpg
+| image4 = Pakistani Nun.JPG
+}}
+
+=== Example 2: optional parameters ===
+<pre style="overflow:auto">
+{{Image array
+| perrow = 2
+| width = 140
+| height = 140
+| border-width = 2
+| image1 = On The Streets of Vilnius (5984257911).jpg | caption1 = caption1
+| alt1 = alt1 | text1 = text1 | link1 = Vilnius
+| image2 = Taiwanese Buddhist Nun Black Robes.jpeg | caption2 = caption2
+| alt2 = alt2 | text2 = text2 | link2 = Bhikkhuni
+| image3 = Louise Marie Therese.jpg | caption3 = caption3
+| alt3 = alt3 | text3 = text3 | link3 = Louise Marie Therese
+| image4 = Pakistani Nun.JPG | caption4 = caption4
+| alt4 = alt4 | text4 = text4 | link4 = Rawalpindi
+}}
+</pre>
+{{Image array
+| perrow = 2
+| width = 140
+| height = 140
+| border-width = 2
+| image1 = On The Streets of Vilnius (5984257911).jpg | caption1 = caption1
+| alt1 = alt1 | text1 = text1 | link1 = Vilnius
+| image2 = Taiwanese Buddhist Nun Black Robes.jpeg | caption2 = caption2
+| alt2 = alt2 | text2 = text2 | link2 = Bhikkhuni
+| image3 = Louise Marie Therese.jpg | caption3 = caption3
+| alt3 = alt3 | text3 = text3 | link3 = Louise Marie Therese
+| image4 = Pakistani Nun.JPG | caption4 = caption4
+| alt4 = alt4 | text4 = text4 | link4 = Rawalpindi
+}}
+
+== See also ==
+* {{tl|Multiple image}}
+* {{tl|Auto images}}
+* {{tl|Photomontage}}
+* {{tl|Image frame}}
+* {{tl|Infobox image}}
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox | |
+<!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Graphics templates]]
+}}</includeonly>

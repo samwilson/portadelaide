@@ -1,0 +1,9 @@
+* <span id="csdoc_work" />'''work''': Name of the source periodical; may be wikilinked if relevant. Displays in italics. Aliases: '''journal''', '''newspaper''', '''magazine''', '''periodical'''.
+** <span id="csdoc_issue" />'''issue''': When the publication is one of a series that is published periodically. Alias: '''number'''. When the issue has a special title of its own, this may be given, in italics, along with the issue number, e.g. {{para|issue|2, <nowiki>''Modern Canadian Literature''</nowiki>}}. {{#if:{{{department|}}}|
+** <span id="csdoc_department" />'''department''': Title of a regular department, [[column (periodical)|column]], or section within the periodical or journal. Examples include "Communication", "Editorial", "Letter to the Editor", and "Review". Displays after '''title''' and is in plain text.}}
+:When set, '''work''' changes the formatting of other parameters:
+:: '''title''' is not italicized and is enclosed in quotes.
+:: '''chapter''' does not display in this citation template (and will produce an error message). 
+:: '''location''' and '''publisher''' are enclosed in parentheses.
+:: '''page''' and '''pages''' do not show p. or pp.
+:: '''edition''' does not display.

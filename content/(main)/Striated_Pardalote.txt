@@ -1,0 +1,43 @@
+{{Taxobox
+| name = Striated Pardalote
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22704499 |title=''Pardalotus striatus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| image = Pardalotus with nesting material.jpg
+| image_width = 240px
+| image_caption = ''Pardalotus striatus ornatus''
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/passerine Passeriformes]
+| familia = [https://en.wikipedia.org/wiki/Pardalotidae Pardalotidae]
+| genus = ''[https://en.wikipedia.org/wiki/Pardalote Pardalotus]''
+| species = '''''P. striatus'''''
+| binomial = ''Pardalotus striatus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1789)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Pardalotus+(Pardalotinus)+striatus ''Atlas of Living Australia'': Striated Pardalote]
+* [http://birdlife.org.au/bird-profile/striated-pardalote ''Birdlife Australia'': Striated Pardalote]
+* [https://en.wikipedia.org/wiki/Striated_pardalote ''Wikipedia'': Striated pardalote]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

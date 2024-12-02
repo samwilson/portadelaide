@@ -1,0 +1,47 @@
+{{Taxobox
+| image = Sterna nereis - Little Swanport.jpg
+| image_width = 240px
+| status = VU
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22694691 |title=''Sterna nereis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| familia = [https://en.wikipedia.org/wiki/Sternidae Sternidae]
+| genus = ''[https://en.wikipedia.org/wiki/Sternula Sternula]''
+| species = '''''S. nereis'''''
+| binomial = ''Sternula nereis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1843)
+| subdivision_ranks = [https://en.wikipedia.org/wiki/Subspecies Subspecies]
+| subdivision =
+''[https://en.wikipedia.org/wiki/Sternula_nereis_davisae Sternula nereis davisae]''<br />
+''Sternula nereis exsul''<br />
+''Sternula nereis nereis''
+| synonyms = ''Sterna nereis''
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Sterna+nereis ''Atlas of Living Australia'': Fairy Tern]
+* [http://birdlife.org.au/bird-profile/fairy-tern''Birdlife Australia'': Fairy Tern]
+* [https://en.wikipedia.org/wiki/Fairy_tern ''Wikipedia'': Fairy tern]
+
+{{Template:Seabirds}}
+
+[[Category:Birds of the Adelaide region]]

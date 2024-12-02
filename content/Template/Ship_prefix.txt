@@ -1,0 +1,13 @@
+{{#expr: 0 {{
+#switch:{{padleft:|3|{{{1|RMS TITANIC}}} }}
+  | SS|MF|MS|MV|PS|CS|SM|RV|TV = +2
+  | ARA|ARC|GTS|HMS|HMT|RMS|SMS|FGS|TCG|USS|RFA|INS|CSS|ORP|KDM|NRP = +3
+  | HMC = {{
+    #ifeq: {{padleft:|5|{{{1|xHMCS Cordova}}} }}|HMCS<!--
+    then-->|+4|<!--else-->+3}}
+}}{{#switch:{{padleft:|5|{{{1|xHMQS Cordova}}} }}
+  | USNS|RMAS|USAS|HMAS|USRC|CCGS|HMVS|HMQS|HDMS|CFAV|HTMS|RNLB|HMBS = +4
+  | USAFS|USCGC|HNLMS|HMNZS|HNoMS|HSwMS|NoCGV = +5
+}}}}<noinclude>
+{{documentation}}
+</noinclude>

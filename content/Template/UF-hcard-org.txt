@@ -1,0 +1,18 @@
+{{Microformat message
+| format = hCard
+| data = an organization's details
+
+| subtemplates =
+* Use {{tl|start date}} for the date on which an organisation was "established", "founded", "opened" or otherwise started, [[Wikipedia:WikiProject Microformats/dates|unless that date is before 1583&nbsp;CE]].
+* Use {{tl|URL}} for an organisation's URL.
+* Use {{tl|coord}} for [[Geographic coordinate system|coordinates]] associated with the organisation (e.g. the location of its headquarters). A [[Geo (microformat)|Geo microformat]] will then make these coordinates parsable, e.g. for use in online mapping, downloading to a [[Global Positioning System|GPS]] unit, etc.
+
+|adr |agent |category |country-name |extended-address |fn |geo |label |latitude |locality |longitude |nickname |note |org |region |street-address |url |vcard
+| nocollapse = on
+}}<includeonly>{{#ifeq:{{SUBPAGENAME}}|doc | |{{#ifeq:{{SUBPAGENAME}}|sandbox | |[[Category:Templates generating hCards]]}} }}</includeonly><noinclude>
+
+{{Documentation |content={{Microformat message templates}}}}
+
+[[Category:Microformat (uF) message templates]]
+[[Category:Templates generating hCards| ]]
+</noinclude>

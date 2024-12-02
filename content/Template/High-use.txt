@@ -1,0 +1,19 @@
+{{Ombox
+| type  = style
+| image = [[Image:Ambox warning yellow.svg|40px|alt=|link=]]
+| text  = 
+'''This {{#switch:{{NAMESPACE}}|Module=Lua module|#default=template}} is used on [//tools.wmflabs.org/templatecount/index.php?lang=en&namespace={{NAMESPACENUMBER:{{FULLPAGENAME}}}}&name={{urlencode:{{PAGENAME}}}} {{#if:{{{1|}}}|{{formatnum:{{{1}}}}}|many}} pages]''', so changes to it will be widely noticed. Please test any changes in the template's [[{{#switch: {{SUBPAGENAME}}
+    | doc | sandbox = {{SUBJECTSPACE}}:{{BASEPAGENAME}}
+    | #default =      {{SUBJECTPAGENAME}}
+   }}/sandbox|/sandbox]] or [[{{#switch: {{SUBPAGENAME}}
+    | doc | sandbox = {{SUBJECTSPACE}}:{{BASEPAGENAME}}
+    | #default =      {{SUBJECTPAGENAME}}
+   }}/testcases|/testcases]] subpages, or in a [[Wikipedia:Subpages#How to create user subpages|user subpage]], and consider discussing changes at {{#if:{{{2|}}}|[[{{{2}}}]]|the [[{{#switch: {{SUBPAGENAME}}
+    | doc | sandbox = {{TALKSPACE}}:{{BASEPAGENAME}}
+    | #default =      {{TALKPAGENAME}}
+   }}|talk page]]}} before implementing them.
+}}<noinclude>
+
+{{Documentation}}
+<!-- Add categories and interwikis to the /doc subpage, not here! -->
+</noinclude>

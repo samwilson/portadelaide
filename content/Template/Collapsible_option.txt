@@ -1,0 +1,20 @@
+'''How to manage this template's initial visibility'''<br />
+To manage this template's visibility when it first appears, [[Help:Template#Parameters|add the parameter]]:
+:{{para|state|collapsed}} to show the template in its collapsed state, i.e. hidden apart from its titlebar&nbsp;– e.g. <code><nowiki>{{</nowiki><includeonly>{{</includeonly>BASEPAGENAME<includeonly>}}</includeonly><nowiki> |state=collapsed}}</nowiki></code>
+:{{para|state|expanded}} to show the template in its expanded state, i.e. fully visible&nbsp;– e.g. <code><nowiki>{{</nowiki><includeonly>{{</includeonly>BASEPAGENAME<includeonly>}}</includeonly><nowiki> |state=expanded}}</nowiki></code>
+:{{para|state|autocollapse}} to show the template in its collapsed state ''but only if'' there is another template of the same type on the page&nbsp;– e.g. <code><nowiki>{{</nowiki><includeonly>{{</includeonly>BASEPAGENAME<includeonly>}}</includeonly><nowiki> |state=autocollapse}}</nowiki></code>
+
+Unless set otherwise (see the {{para|state}} parameter in the template's code), the template's default state is <code>{{#switch:{{{default|}}}|collapsed=collapsed|expanded=expanded|autocollapse|#default=autocollapse}}</code>.<!--
+-->{{#if:{{{align|}}}|
+:{{para|align|''value''}} is also available; where ''value'' can be either <code>right</code> or <code>left</code>. The default is <code>center</code>
+}}{{#if:{{{title-background|}}}|:{{para|title-background|''value''}} is also available; where ''value'' can be either <code>navbox</code> or a <code>color</code>. The default is <code>none</code> and <code>navbox</code> defaults to the default navbox color.
+}}{{#if:{{{width|}}}|
+:{{para|width|''value''}} is also available; where ''value'' can be either <code>N [em/%/px]</code> or <code>auto</code>. The default is <code>100%</code>
+}}<!--
+Add {{pp-template}} if template page where this template is transcluded is protected:
+-->{{template other
+    | {{#if:{{PROTECTIONLEVEL:edit}} |{{pp-template|docusage=yes}}
+       | {{#if:{{PROTECTIONLEVEL:move}} |{{pp-move|docusage=yes|small=yes}} }}
+   }} }}<noinclude>
+{{Documentation}}
+</noinclude>

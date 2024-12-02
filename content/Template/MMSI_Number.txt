@@ -1,0 +1,1 @@
+<includeonly>{{ns0|[[Category:MMSI Number|{{{1}}}]]}} [[Maritime Mobile Service Identity|MMSI number]]: {{#ifeq: {{{link|}}} | no | {{{1}}} | [http://www.marinetraffic.com/ais/shipdetails.aspx?mmsi={{{1}}} {{{1}}}]}}</includeonly><noinclude>{{documentation}}</noinclude>

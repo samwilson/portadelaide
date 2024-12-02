@@ -1,0 +1,37 @@
+<noinclude>{{infobox|data1=</noinclude>{{Infobox
+|child = yes
+
+|headerstyle  = background-color: #b0c4de;
+| labelstyle  = font-weight:normal;
+
+| header1 = {{{korean_header<includeonly>|</includeonly>}}}
+| label2  = {{#switch:{{{northkorea|}}}|yes=[[Hangul|Chosŏn'gŭl]]|#default=[[Hangul]]}}
+|  data2  = {{#if: {{{hangul<includeonly>|</includeonly>}}} | <span style="font-size:115%;">{{lang|ko-Hang|{{{hangul}}} }}</span> }}
+| label3  = {{#switch:{{{northkorea|}}}|yes=[[Hanja|Hancha]]|#default=[[Hanja]]}}
+|  data3  = {{#if: {{{hanja<includeonly>|</includeonly>}}} | <span style="font-size:115%;">{{lang|ko-Hani|{{{hanja}}} }}</span> }}
+| label4  = Literal meaning
+|  data4  = {{{lk<includeonly>|</includeonly>}}}
+|  data5  = {{#ifeq: {{{hide|}}} | no || {{#if:{{{mr|}}}{{{rr<includeonly>|</includeonly>}}} | {{Infobox
+  |subbox    = yes
+  |bodyclass = collapsible collapsed
+  |abovestyle = font-size: 100%; text-align: left; background-color: #f9ffbc;
+  |above     = Transcriptions
+  |labelstyle = font-weight:normal;
+  |headerstyle = background-color: #dcffc9;
+
+  | label1 = [[Revised Romanization of Korean|Revised Romanization]]
+  |  data1 = {{{rr<includeonly>|</includeonly>}}}
+  | label2 = [[McCune–Reischauer]]
+  |  data2 = {{{mr<includeonly>|</includeonly>}}}
+  | label3 = [[Help:IPA for Korean|IPA]]
+  |  data3 = {{{koreanipa<includeonly>|</includeonly>}}}
+  }} }} }}
+| label6 = [[Revised Romanization of Korean|Revised Romanization]]
+| data6 = {{#ifeq: {{{hide|}}} | no | {{{rr<includeonly>|</includeonly>}}} }}
+| label7 = [[McCune–Reischauer]]
+| data7 = {{#ifeq: {{{hide|}}} | no | {{{mr<includeonly>|</includeonly>}}} }}
+| label8 = [[Help:IPA for Korean|IPA]]
+| data8 = {{#ifeq: {{{hide|}}} | no | {{{koreanipa<includeonly>|</includeonly>}}} }}
+}}<noinclude>}}
+{{documentation}}
+</noinclude>

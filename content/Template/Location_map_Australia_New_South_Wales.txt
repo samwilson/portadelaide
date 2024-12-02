@@ -1,0 +1,15 @@
+{{#switch:{{{1}}}
+| name   = New South Wales
+| top    = -27.9
+| bottom = -37.8
+| left   = 140.6
+| right  = 153.9
+| image  = Australia New South Wales location map blank.svg
+| image1 = Australia New South Wales relief location map.png
+| image2 = Australia New South Wales location map.svg
+}}<noinclude><!--
+-- The above switch-statement branches by text in parameter #1,
+-- returning the associated value after each equals sign ("=").
+-->{{Location map/Info}}{{Documentation}}
+<!-- Categories in /doc, interwikis in Wikidata. -->
+</noinclude>

@@ -1,0 +1,2 @@
+<span style="white-space: nowrap">[http://tools.wmflabs.org/os/coor_g/?pagename={{FULLPAGENAMEE}}&params={{urlencode:{{{1}}}}} {{{2|{{{1}}}}}}]</span><includeonly>{{#ifeq:{{NAMESPACE}}||[[Category:Articles with OS grid coordinates]]}}</includeonly><noinclude>
+{{documentation}}<!-- Add cats and interwikis to the /doc subpage, not here! --></noinclude>

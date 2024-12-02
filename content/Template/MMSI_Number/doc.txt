@@ -1,0 +1,28 @@
+{{Documentation subpage}}
+<!-- Categories go at the bottom of this page and interwikis go in Wikidata. -->
+
+== Purpose ==
+Use the ship's [[Maritime Mobile Service Identity|MMSI number]] to create a link to [http://www.marinetraffic.com Marinetraffic.com] where the ship's movements can be tracked. This template also adds the article to [[:Category:MMSI Number]].
+
+This template is intended to be used in the {{para|Ship identification}} field in {{tl|Infobox ship career}}.
+
+== Usage ==
+
+The only parameter in the template is the ship's MMSI number:
+
+<tt><nowiki>
+{{MMSI Number|mmsi}}
+</nowiki></tt>
+
+Example: for the article on [[Black Watch (ship)|''Black Watch'']], <tt><nowiki>{{MMSI Number|311166000}}</nowiki></tt> results in {{MMSI Number|311166000}}.
+
+== See also ==
+
+{{Wikidata property|P587|MMSI ship IDs}}
+
+{{Psix name/related}}
+<includeonly>
+[[Category:Ship templates|{{PAGENAME}}]]
+[[Category:MMSI Number|*]]
+[[Category:External link templates|{{PAGENAME}}]]
+</includeonly>

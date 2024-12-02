@@ -1,0 +1,23 @@
+{{Navbox
+|name       = Churches in Port Adelaide
+|title      = Churches in Port Adelaide
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = Anglican
+|list1      = 
+* [[St Alban's, Largs Bay]]
+* [[St Paul's, Port Adelaide]]
+
+|group2     = Catholic
+|list2      = 
+* 
+* 
+
+|group3     = Other
+|list3      = 
+* 
+* 
+
+}}

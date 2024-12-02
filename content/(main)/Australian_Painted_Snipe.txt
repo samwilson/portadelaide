@@ -1,0 +1,43 @@
+{{Taxobox
+| image = Australian Painted-Snipe female Nov02.JPG
+| image_width = 240px
+| status = EN
+| status_system = IUCN3.1
+| status_ref = <ref name=IUCN>{{IUCN|id=22735692 |title=''Rostratula australis'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Charadriiformes Charadriiformes]
+| subordo = [https://en.wikipedia.org/wiki/Thinocori Thinocori]
+| familia = [https://en.wikipedia.org/wiki/Rostratulidae Rostratulidae]
+| genus = '' [https://en.wikipedia.org/wiki/Rostratula Rostratula] ''
+| species = '''''R. australis'''''
+| binomial = ''Rostratula australis''
+| binomial_authority = ([https://en.wikipedia.org/wiki/John_Gould Gould], 1838)
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+
+
+==See also==
+
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Rostratula+australis ''Atlas of Living Australia'': Australian Painted Snipe]
+* [http://birdlife.org.au/bird-profile/australian-painted-snipe ''Birdlife Australia'': Australian Painted Snipe]
+* [https://en.wikipedia.org/wiki/Australian_painted-snipe ''Wikipedia'': Australian painted-snipe]
+
+{{Template:Shorebirds}}
+
+[[Category:Birds of the Adelaide region]]

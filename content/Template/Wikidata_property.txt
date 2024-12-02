@@ -1,0 +1,6 @@
+{{Sister project
+| position = {{{position|}}}
+| project  = data
+| text     = [[Wikidata]] has a property, '''''[[d:Property:{{{1}}}|{{{1}}}]]''''', for {{{2|{{PAGENAME}}}}} (see [[d:Special:WhatLinksHere/Property:{{{1}}}|uses]])
+ 
+}}<noinclude>{{documentation}}<!-- Add categories and interwikis to the /doc sub-page --></noinclude>

@@ -1,0 +1,13 @@
+Map of northwestern Adelaide, from Bolivar in the northeast, to West Lakes in the southwest. 
+
+Coords - From original file download, to 7 decimal places: 
+Top = -34.7478189
+Bottom = -34.8677641
+Left = 138.4654999
+Right = 138.6021423
+
+:"You are free to copy, distribute, transmit and adapt our data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same licence. The full legal code explains your rights and responsibilities.
+
+:"The cartography in our map tiles, and our documentation, are licensed under the Creative Commons Attribution-ShareAlike 2.0 license (CC BY-SA)."
+
+© [https://www.openstreetmap.org/ OpenStreetMap] contributors.

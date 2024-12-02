@@ -1,0 +1,22 @@
+{{Navbox
+|name       = Community groups of Port Adelaide
+|title      = Community groups of Port Adelaide
+|state = {{{state|autocollapse}}}
+|listclass  = hlist
+|above      = 
+
+|group1     = Arts groups
+|list1      = 
+* [[Port Adelaide Artists Forum]]
+* 
+* 
+* 
+
+|group2     = Environment & Heritage
+|list2      = 
+* [[Friends of Torrens Island]]
+* [[Port Adelaide Historical Society]]
+* [[Port Adelaide Residents Environment Protection Group]]
+* [[Port of Adelaide National Trust Branch]]
+
+}}

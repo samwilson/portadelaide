@@ -1,0 +1,105 @@
+
+{| class="wikitable sortable"
+! Given Name || Family Name || Born || Died || In office
+|-
+| Edward || French ||  ||  || 1856-1858
+|-
+| Edwin || Harris ||  ||  || 1858-1859
+|-
+| Jacob William || Smith ||  ||  || 1859-1863, 1864-1866
+|-
+| Francis || Reynolds ||  ||  || 1863-1864
+|-
+| John Mitchell || Sinclair ||  ||  || 1866-1869, 1873-1876
+|-
+| John || Formby ||  ||  || 1869-1873
+|-
+| David || Bower ||  ||  || 1876-1878
+|-
+| Theodore || Hack ||  ||  || 1878-1880
+|-
+| Henry William || Thompson ||  ||  || 1880-1882
+|-
+| George || Bollen ||  ||  || 1882-1883
+|-
+| Thomas John || King ||  ||  || 1883-1885
+|-
+| Sidney || Malin ||  ||  || 1885-1887
+|-
+| John || Cleave ||  ||  || 1887-1889
+|-
+| John Wheatley Ogers || Kestel ||  ||  || 1889-1890
+|-
+| Charles || Tucker ||  ||  || 1890-1893
+|-
+| Bernard || Sigrist ||  ||  || 1893-1894
+|-
+| Charles Richard || Morris ||  ||  || 1894-1898
+|-
+| Thomas || Grosse (Grose) ||  ||  || 1898-1899
+|-
+| John William || Caire ||  ||  || 1899-1901, 1903-1905
+|-
+| John Carl George || Jurs ||  ||  || 1901-1903
+|-
+| John || Sweeney ||  ||  || 1905-1907, 1915-1917
+|-
+| Arthur William || Brown ||  ||  || 1907-1909
+|-
+| William Taylor || Rofe ||  ||  || 1909-1911
+|-
+| Joseph Hervey || Clouston ||  ||  || 1911-1915
+|-
+| Richard Hettle || [[Richard Smith|Smith]] ||  ||  || 1917-1920
+|-
+| Joseph || Anderson ||  ||  || 1920-1921
+|-
+| Henry || Slade ||  ||  || 1921-1924
+|-
+| Arthur Oscar Reynolds || Tapp ||  ||  || 1924-1927
+|-
+| Francis John || Brown ||  ||  || 1927-1929
+|-
+| Arthur Johnson William || Lewis ||  ||  || 1929-1932
+|-
+| John Gilbert || Gibb ||  ||  || 1932-1933
+|-
+| Joseph Murral || Lambert ||  ||  || 1933-1934
+|-
+| Harry William || Bray ||  ||  || 1934-1937
+|-
+| Ralph || Wright ||  ||  || 1937-1940
+|-
+| Alfred Lawrie || Good ||  ||  || 1940-1943
+|-
+| William Henry || [[William Gilbert|Gilbert]] ||  ||  || 1943-1946
+|-
+| George McBeth || Mackay ||  ||  || 1946-1949
+|-
+| Harold Joseph || Moore ||  ||  || 1949-1955
+|-
+| Percy William || Whicker ||  ||  || 1955-1964
+|-
+| Anna Moir || [[Anna Rennie|Rennie]] ||  ||  || 1964-1969
+|-
+| Harold Charles Roy || Marten ||  ||  || 1969-1987
+|-
+| Ronald Bruse || Hoskin ||  ||  || 1987-1989
+|-
+| Julie Barbara || Dearing ||  ||  || 1989-1991
+|-
+| Robert Arthur || Allen ||  ||  || 1991-1995
+|-
+| Johannes Gerardus || Pieters ||  ||  || 1995-1996
+|-
+| Michael || Stock ||  ||  || 1996-1997
+|-
+| Johanna Maria Hendrika || McLuskey ||  ||  || 1997-2003
+|-
+| Fiona || Barr ||  ||  || 2003-2006
+|-
+| Gary Robert || Johanson ||  ||  || 2006-
+|-
+|}
+
+'''Source:''' ''[http://images.portenf.sa.gov.au/book/elected/thosewhoserved/ Those Who Served, 1853-2014.]'' A list of the Elected Members who served on the Councils that comprise the present City of Port Adelaide Enfield.  City of Port Adelaide Enfield. Searchable web document. Accessed 20 June 2015.

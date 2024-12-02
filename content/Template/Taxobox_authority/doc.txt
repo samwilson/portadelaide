@@ -1,0 +1,13 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+
+=== Usage ===
+'''Note:''' Not to be used for plants because botanical taxa do not use dates in the abbreviated authority.
+
+== Microformat ==
+{{UF-hcard-person}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS BELOW THIS LINE PLEASE -->
+[[eu:Txantiloi:Taxotaula aditua]]
+</includeonly>

@@ -1,0 +1,43 @@
+{{Documentation subpage}}
+<!-- PLEASE ADD CATEGORIES AND INTERWIKIS AT THE BOTTOM OF THIS PAGE -->
+__NOTOC____NOEDITSECTION__
+==Purpose==
+
+This template is for making references to version 2013.2 of the IUCN Red List of Threatened Species. Further comments can be added after the template.
+
+Here are links to the IUCN [http://www.iucnredlist.org/apps/redlist/search species search engine], [http://www.iucnredlist.org/documents/redlist_website_users_guide.pdf user's guide] and [http://www.youtube.com/watch?v=k2LnoLD2ss0 help video].
+
+==Format==
+All parameters are '''required.'''
+
+ <nowiki>{{</nowiki>IUCN2013.2|assessors= |year= |id= |title= |downloaded= <nowiki>}}</nowiki>
+
+==Example of usage in taxobox==
+
+ <nowiki>| status_ref=<ref name=IUCN>{{</nowiki>IUCN2013.2|assessors=Wiles, G.|year=2008|id=14144|title=Myotis ater|downloaded=2013-11-21<nowiki>}}</ref></nowiki>
+
+will be displayed as
+
+1. <font color="#00f">^</font> {{IUCN2013.2|assessors=Wiles, G.|year=2008|id=14144|title=Myotis ater|downloaded=2013-11-21}}
+
+== Usage notes ==
+* Most parameter values are obtainable from the block labeled "Citation:" at the bottom of the targeted IUCN Red List page. The citation shown will provide, from left to right, the {{para|assessors}}, {{para|year}} and {{para|title}} (the binomial species name) parameters.
+* Note that {{para|year}} is ''not'' necessarily 2013, but is instead the "year published", i.e., the most recent year in which the species has been assessed.
+* The {{para|id}} parameter can be obtained from the url of the target page at {{URL|http://www.iucnredlist.org}}, where it is found between a pair of forward slashes ("/"); e.g., use {{para|id|14144}} from the url {{URL|http://www.iucnredlist.org/details/14144/0}}.
+* An optional {{para|ref}} parameter is supported but seldom used. It allows specification of reference names in [[Harvard references]], for use in the {{tl|citation}} template family (not to be confused with the {{tl|cite}} template family).  For example, use of {{para|ref|{{tl|harvid}}}} or {{para|ref|{{tl|sfnref}}}} templates enables subsequent use of short-format templates like {{tl|sfn}}.
+
+== See also==
+*{{tl|IUCN}}
+*{{tl|IUCN2006}}
+*{{tl|IUCN2007}}
+*{{tl|IUCN2008}}
+*{{tl|IUCN2009.1}}
+*{{tl|IUCN2010.4}}
+*{{tl|IUCN2012.2}}
+*{{tl|IUCNextlink}}
+
+<includeonly>
+<!-- CATEGORIES AND INTERWIKIS HERE, THANKS -->
+[[Category:Biology source templates]]
+[[Category:Flora external link templates]]
+</includeonly>

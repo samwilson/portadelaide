@@ -1,0 +1,522 @@
+{{Wikipedia:WikiProject Ships/sidebar}}
+
+'''Ship Infobox Usage guide''' is a comprehensive guide for both beginners and more experienced editors for the use of {{tl|Infobox ship}}. While not an official Wikipedia Guideline, it was put together by members of [[Wikipedia:WikiProject Ships|WikiProject Ships]] to make contributing easier for those not familiar with nautical terminology and to reduce misunderstandings, stylistic conflicts and the need of later [[copy editing]]. Although mainly based on Wikipedia's [[WP:MOS|Manual of Style]], existing good-rated ship articles, and factual definitions, the guide also contains stylistic hints by the authors that may not represent the consensus of other WP:SHIPS contributors.
+
+==Introduction==
+An article's infobox is equivalent to a [[Wikipedia:Manual of Style/Lead section|lead section]]. It is meant to give a brief overview, so excessive detail should be avoided when entering information into the fields. However, the information and details should not be "dumbed down" too much and obvious details should be avoided. Most infobox content should also appear in the body of the article, along with any elaboration, additional information, and citations. If the information is too complex to convey in the infobox, direct readers to the relevant section of the article using "(see [[foo]])", where ''Foo'' is the title of the section ''and'' a [[Help:Link#Section linking (anchors)|section link]].
+
+Citations do not need to be provided in the infobox if the information is repeated in the body of the article and cited there. If citations are used in the infobox, they should be placed next to the statements they are citing. Do not use the {{para|Ship notes}} field of any section of the infobox to place a general citation.
+
+Fields that are not relevant to a particular ship or class (for example, {{para|Ship test depth}} for non-submarines, or {{para|Ship aircraft}} for ships that never carried any) or are made redundant by other fields (such as the British/American spelling variations) should be removed from the article. Fields that you do not have information for, but are related to the ship/class, should be left in. If unsure, leave the field in the article. Do not use placeholders (e.g. "unknown") if some information is not available.
+
+When you don't have the time or resources to add an infobox to an article, please add {{para|needs-infobox|y}} to the {{tlx|WikiProject Ships}} banner on the article's talk page. This will add the article to [[:Category:Ship articles without infoboxes]] so that others can add an infobox.
+
+==General instructions==
+===Diverse stylistic issues===<!-- we could collect more here -->
+* Use {{tl|convert}} templates for measurements and related values where possible, and abbreviate units (use the {{para|abbr|<var>on</var>}} parameter). The only exceptions to this rule are for [[knot (unit)|knots]], [[long ton]]s, and [[short ton]]s; these should not be abbreviated. Long tons cannot be abbreviated in the template; and the abbreviation for knots saves all of three letters. Consider linking to less common units (i.e. nmi) by using the {{para|lk|<var>in/out/on</var>}} parameter. Avoid using other parameters. If you're not using the conversion template, for example when repeating the same number in another field, add non-breaking space {{tl|nbsp}}<!--avoid mixing html markup and wp markup--> between the number and the unit. Use the comma delimiter every three digits (see [[Wikipedia:Manual of Style/Dates and numbers#Delimiting_.28grouping_of_digits.29|MOS]]).
+* See [[Wikipedia:Manual of Style/Icons]] for the usage of flags and other symbols within infoboxes.
+* When listing multiple entries in a single infobox field, use {{tag|br|s}}, {{tl|unbulleted list}}<!--avoid mixing html markup and wp markup--> or, alternatively, {{tl|plainlist}} so that each entry is listed on a new line. Avoid bullet points, asterisks, or similar.
+* Use "&times;" (&amp;times;) instead of "x" where necessary. Place non-breaking space {{tl|nbsp}}<!--avoid mixing html markup and wp markup--> on both sides of the symbol.
+* When writing an entry, [[Capitalization|capitalize]] the first word. Do Not Capitalize Every Word.
+* Avoid repeating the name of the field in the entry, for example writing "crew" in {{para|Ship crew}}. A good way to avoid this is to try to read the infobox out loud and see if it sounds right, for example "''The ship has a <u>capacity</u> of <u>1,000 passengers</u> and a <u>crew</u> of <u>1,100 <s>crew</s></u>''".
+* Use parenthesis when explaining or disambiguating entries, for example "32,000 kW (combined)" or "<nowiki>{{ubl| 32 knots (maximum) | 18 knots (service) }}</nowiki>" instead of "Combined 32,000 kW" or "<nowiki>{{ubl|Maximum 32 knots | Service 18 knots }}</nowiki>".
+* When indicating year etc. ranges, use the [[En (typography)|en dash]] ("–"), which is the first of the two dashes available in the edit window. If the year range ends in present time, use the word "present" (e.g. "2010–present") or leave empty (e.g. "2010–").
+* Do not move fields from under one heading to another, i.e. from "Career" to "General characteristics" or vice versa.
+
+=== Custom fields ===
+If none of the existing fields are suitable, custom fields may be added to the infobox using the standard Wiki table syntax (see [[Template:Infobox ship begin#Custom fields|instructions]]). However, in general custom fields should be avoided as long as possible as the idea of the ship infobox is to provide a standardized template for general characteristics and career information. If the ship has unique features, consider omitting them from the infobox and explaining them in detail in the article body (hint: the header of the infobox is ''general'' characteristics). 
+
+If you find yourself using the same custom field for a large number of articles, consider proposing adding the field to the infobox template on the [[Template talk:Infobox ship begin|template talk page]].
+
+Note that if you simply add your own fields to the infobox without using the method described in the instructions, the field will not show in the table.
+
+==Infobox ship begin==
+Ship article infoboxes are tables that contain several infobox templates – {{tld|Infobox ship begin}}, {{tlx|Infobox ship image}}, {{tlx|Infobox ship career}}, {{tlx|Infobox ship characteristics}}.  This field is used for all articles and is required because it applies formatting to the table that contains the other infobox templates.
+
+===Title styling===
+Ship names are always italicized.  {{tld|infobox ship begin}} can properly style a variety of article titles when the title complies with the requirements set down in [[WP:Naming conventions (ships)]].  In many cases title styling happens without editor intervention. {{tld|Infobox ship begin}} can style article titles when the title is one of these formats:
+*ship article titles that include a [[ship prefix]] in the list at [[Module:WPSHIPS utilities]].  The list is primarily naval prefixes with a few of the most common commercial- or private-use prefixes (SS, MV, and the like):
+*:<prefix> <name> – {{HMS|Victory}}
+*:<prefix> <name> <(dab)> – {{USS|Arizona|BB-39}}
+*ship article titles for ships in navies that do not use ship prefixes but include nationality and ship type specified in the lists at Module:WPSHIPS utilities:
+*:<nationality> <ship type> <name> – {{ship|German cruiser|Admiral Graf Spee}}
+*:<nationality> <ship type> <name> <(dab)> – {{ship|French aircraft carrier|Charles de Gaulle|R91}}
+*::where:
+*:::<nationality> is one or two words in adjectival form with proper capitalization
+*:::<ship type> is one to four words long, typically all lowercase
+*ship article titles in the form:
+*:<name> <(dab)> – where:
+*::<(dab)> is required and has the form:
+*:::(XXX-###) – where XXX is one or more uppercase letters and hyphens and ### is one or more digits; the hyphen between XXX and ### is required – {{ship||Esmeralda|BE-43}}
+*:::(XXX ###) – where XXX and ### as above; the space between XXX and ### is required – {{ship||Shikishima|PLH 31}}
+*:::(XXX###) – where XXX and ### as above – {{ship||Spessart|A1442}}
+*:::(####) – where #### is a year in the range of 1000–2999
+*:::(*** <ship type> ***) – where *** is any optional text or digits and <ship type> can be found in the ship-type list at Module:WPSHIPS utilities – {{ship||Portland|steam tug 1875|3}}, {{ship||Vaygach|nuclear icebreaker|3}}, {{ship||Baring|1801 Indiaman|3}}
+*ship-class article titles in the form
+*:<name>-class <ship type> <(dab)> – where:
+*::<name> is any text that precedes '-class'; rendered in italics unless {{para|sclass|2}}
+*::'-class' (with hyphen) is required
+*::<ship type> is any text that follows '-class'
+*::<(dab)> is optional
+====Parameters====
+Several parameters are available to editors if the template is unable to automatically style the article name or when non-standard styling is required.
+:'''|display title=none''' – does no article-title styling;
+:'''|display title=ital''' – uses {{tld|italic title}} to style the article title
+:'''|display title=''article title with markup''''' – uses <code><nowiki>{{</nowiki>DISPLAYTITLE:''article title with markup''}}</code> to style the article title
+:'''|display title=''' – when empty or missing, attempts to automatically style the article title
+
+For ship-class articles where the article title has the form <name>-class <ship type> <(dab)>, it is necessary for editors to indicate when the class name is a theme name because the auto-styling code cannot make that determination by inspection of the article title.  The default state is to italicize the class name.  To indicate that the article title should not be styled requires another parameter:
+:'''|sclass=2''' – force unstyled title and also unstyled infobox caption (if enabled by |infobox caption=yes or |infobox caption=nodab); the name is taken from {{tlx|sclass2}} which creates links to theme-named-class articles, 
+
+Debugging:
+:'''|showerrs=yes''' – for use when auto-styling fails, may give a clue why it failed; requires |infobox caption=yes or |infobox caption=nodab; the article should probably not be saved with {{para|showerrs|yes}}
+
+===Infobox caption===
+{{tld|Infobox ship begin}} can put a table caption at the top of the infobox.  The purpose of the caption is to improve accessibility so that readers who use screen reading tools can more easily navigate the ship article.  The infobox caption is controlled by three parameters:
+*'''|infobox caption=''' – when omitted or present-but-empty: the infobox does not have a caption
+*'''|infobox caption=yes''' or '''|infobox caption=nodab''': the infobox is captioned with the article's title:
+**'''|infobox caption=yes''' – formats the infobox caption in the same way that the article title is formatted
+**'''|infobox caption=nodab''' – formats the infobox caption in the same way as the title except that the parenthetical disambiguator is not displayed; for article titles in the form <nationality> <ship type> <name> <(disambiguator)>, setting {{para|infobox caption|nodab}} will display only <name>
+*'''|infobox caption=''other text''''' – when the assigned value is other than the keywords <code>yes</code> or <code>nodab</code>, that value is used as the infobox caption. Infobox caption text formatting is the responsibility of the editor.
+*'''|sclass=2''' – modifies the infobox caption style as described under Title formatting
+*'''|showerrs=yes''' – displays error messages as described under Title formatting
+
+==Infobox ship image==
+This field is used for all articles.
+
+;Ship image
+* This field is for an image of the ship (or a ship of the class in question) for readers to visually identify the subject.
+* Correct format is: <nowiki>[[File:Ship.jpg|300px|alt=Alt text goes here]]</nowiki>. Do not use the {{para|thumb}} parameter. Do not include a caption in the image code as there is a separate {{para|Ship caption}} field for that purpose.
+* The standard size for infobox images is 300px. Different values may be used, but you should only do so if absolutely necessary.
+* Avoid using images that are not of the ship in the infobox. If an image is considered absolutely necessary, use a sister ship of the ''same'' class and design.
+* Use an image of the ship that matches the article title.  If the ship has been renamed to a name different from the name used as the article title, images of the renamed ship should not be used in the infobox.
+* Do not use a placeholder image. When the {{para|Ship image}} field is blank, the article is automatically added to the hidden [[:Category:Ship infoboxes without an image]]. However, consider adding {{tl|Image requested}} on the talk page.
+* For unfinished ships, a non-free "artist's conception" from e.g. the shipping company's press kit may be used if it fulfills [[Wikipedia:Non-free_content_criteria|Wikipedia's non-free content criteria]]. Such image should be replaced with a free alternative and nominated for deletion when the ship is delivered.
+
+;Ship caption
+* Caption for the above image. If there is no more information to be included but the ship's name, leave this field blank.
+
+==Infobox ship career==
+This field is used for articles on individual ships only. Multiple copies of the template may be used, either to cover different periods of a ship's history, or to access multiple copies of particular fields (primarily commissioned/recommissioned/decommissioned and in service/out of service) for more complex or convoluted careers. Alternately, multiple entries can be made into each field, with year ranges to indicate when the information was relevant.
+
+;Hide header
+* If you need to repeat fields by using multiple copies of the "Career" subtemplate, enter "Yes" in this field to prevent display of the blue bar at the top of the second template.
+* At least one "Career" header should be left visible.
+
+;Ship country
+* The nation a ship is associated with; either the nation a warship belongs to, or the nation of [[:Ship registration|registry]] for civilian ships. However, in case of civilian ships flying flags of convenience, this field should not be used.
+* The country is placed in the infobox header. Do not use this field to indicate ranges.{{clarify |reason=explain the two prevailing methods of describing the ship's career: multiple instances of the career template and ranges in individual fields |date=June2012}}
+
+;Ship flag
+{{further|Wikipedia:WikiProject Ships/Ensigns}}
+* The [[ensign]] ([[maritime flag]]) associated with a ship.
+** Warships will use the naval ensign of the operating navy, or the associated flag for non-naval entities (such as the British [[Royal Fleet Auxiliary]] or the [[United States Coast Guard]]).
+** This field should be left blank for civilian ships, unless there is a clear and definite association between the ship and the [[ship registry|nation of registry]] (including but not limited to vessels belonging to a government body or a national shipping line). If used, the nation's civil/merchant ensign should be used. [[Flags of convenience]] should not be depicted here.
+* The flag depicted should be the last version of the flag flown by the vessel (or if multiple "Career" subtemplates are in use, the last version flown during the relevant part of the ship's history). For example, Australian warships that left service after 1967 will show the new (and current) [[Australian White Ensign]], while ships that decommissioned before this flag came into use will use the old version.
+* Use {{tl|Shipboxflag}} to maintain consistent image formatting across articles.
+* The flag is placed in the infobox header. Do not use this field to indicate ranges.
+
+;Ship name
+* The name of the ship in ''italic''.
+* If a ship carried multiple names over her career, all may be listed here. If doing so, indicate the years during which the particular name was used and separate them with a line break (e.g. "<nowiki>{{ubl|''Name 1'' (1992–2005) | ''Name 2'' (2005–present) }}</nowiki>"). Do not use '''''bold font''''' for the current name; the year range is enough to identify it. Both ascending and descending order are accepted, but the information in the following fields should be given in the same order. The year ranges may also be placed in front of the entry (e.g. "<nowiki>{{ubl|1992–2005: ''Name 1'' | 2005–present: ''Name 2'' }}</nowiki>").
+* Avoid prefixes, unless the prefix is commonly used when referring to the ship (e.g. "RMS ''Queen Elizabeth 2''" or "USS ''Enterprise''", but not "MS ''Splendour of the Seas''").
+* Do not list warship pennant or hull numbers here. They should be detailed either in the {{para|Ship identification}} field, or in the article text.
+
+;Ship namesake
+* If the ship's name originates from a particular person, location, event, or object, it may be added here. However, descriptions longer than a few words (e.g. a person's name or "[[:Finnish language|Finnish]] for "[[:potato]]"") should be placed in the article body.
+
+;Ship owner
+* The company or organisation that [[:shipowner|owns the vessel]].
+* When multiple entries are made in this field, include year ranges.
+* Leave this field blank for warships, as the combination of the {{para|Ship country}} and {{para|Ship flag}} fields will generally be enough for readers to identify ownership.
+
+;Ship operator
+* The company or organisation that [[ship operator|operates or runs the ship]].
+* If the owner of the vessel is also the operator, this field may be left empty.
+* If it is necessary to mention the [[Chartering (shipping)|charterer]] of the ship in the infobox, use a separate custom field for that.
+
+;Ship registry
+* The nation and port of [[ship registry|registry]] for a civilian vessel. This is generally found painted on the ship's stern.
+* The nation of registry should be expressed as text, not as a flag symbol. A flag symbol may be used in addition, but only if such usage meets [[Wikipedia:Manual of Style/Icons]].
+* When multiple entries are made in this field, include year ranges.
+
+;Ship route
+* If a civilian or merchant vessel has a long-term (multiple years +) association with a particular voyage path or route. Do not use this field for modern cruise ships, as their routes change on a regular basis.
+
+;Ship ordered
+* The date that the ship was ordered from the shipbuilder.
+
+;Ship awarded
+* For United States Navy vessels, the date that the contract to build the ships was signed/approved.
+
+;Ship builder
+* The shipyard or other construction facility where the vessel was built.
+* Usually, only the building company is listed here. The location of the shipyard may also be added, but avoid too much detail: anything more than a single 'location link' can be discussed in the body of the article or referred to with a link (for example <nowiki>[[Vickers-Armstrongs]], [[Barrow-in-Furness]]</nowiki> or <nowiki>[[BAE Systems Australia]], [[Williamstown, Victoria]]</nowiki>, but not <nowiki>[[Scotts Shipbuilding and Engineering Company]], [[Greenock]], [[Scotland]], [[United Kingdom]]</nowiki>)
+
+;Ship original cost
+* The financial cost of building the ship, usually at the time of construction and using the currency of either the orderer or the builder. If other values are used (e.g. conversions), they should be specified and, if necessary, further discussed in the article.
+
+;Ship yard number
+* An identifying number assigned for the ship by the builder during construction.
+
+;Ship way number
+* If the particular [[slipway]] where a ship was built has been identified with a number, it may be added here.
+* Rarely used for modern vessels.
+
+;Ship laid down
+* The date on which the [[keel]] was laid down onto the slipway by the builder.
+* For most ships, this is the point where construction of the vessel starts, and is usually accompanied by ceremony. Although modular construction techniques mean that fabrication of modern vessels can start prior to this, the first time a module is placed on the slipway or building dock is still recognised as the date a ship is laid down.
+
+;Ship launched
+* The date a ship is launched, floated out, or other circumstance where the completed hull enters the water.
+* Construction is not normally completed by this date. Take care not to confuse it with dates recognising the ship's entry into service (such as commissioning or maiden voyage)
+
+;Ship sponsor
+* The individual (usually a woman and sometimes referred to as a "launching lady") who does the whole ceremonial "smash-the-bottle,-launch-the-ship" thing as part of the launching ceremony.
+* This is not to be used for any companies or organisations providing [[sponsorship]] of a vessel in exchange for advertising or naming rights.
+
+;Ship christened
+* The date of the ceremony in which the ship formally and/or ceremonially receives her name (see [[Ship naming and launching]])
+* Only use this field if the naming/christening happened at a separate point in time to either the launching or commissioning ceremonies.
+
+;Ship completed
+* The date construction work finished.
+
+;Ship acquired
+* The date of delivery by the shipbuilder to the owner or operator. If it is the same as the completition date, this field may be left empty.
+* Alternately, if the ship changes ownership and multiple, separate "Career" subtemplates are being used, the date the new owner/operator came into possession of the ship. Do not use this method if the change of ownership is being handled through multiple entries in the {{para|Ship owner}} field
+
+;Ship commissioned
+* The date a warship was commissioned into naval service.
+* Do not use for civilian merchant vessels.
+
+;Ship recommissioned
+* If a naval vessel was decommissioned from service, then reactivated, use this field to add the new commissioning date
+* Used best with multiple copies of the "Career" subtemplate ({{para|Ship commissioned}} and {{para|Ship decommissioned}} fields in the first template, {{para|Ship recommissioned}} and {{para|Ship decommissioned}} in the second).
+* Do not use for civilian merchant vessels.
+
+;Ship decommissioned
+* The date a warship was decommissioned or paid off from naval service.
+* Do not use this field if events related to the ship's fate (such as loss in action) mean the ship was never formally decommissioned.
+* Do not use for civilian merchant vessels.
+
+;Ship maiden voyage
+* The dates and locations of the start and end of the ship's [[maiden voyage]]: the first recognised voyage in full service, usually carrying passengers or cargo.
+* The transfer of a completed ship from the shipyard to its owner is not normally recognised as a maiden voyage; this is part of the [[sea trial]] or [[shakedown]] phase, which ensures the ship is working as built.
+* Most commonly used for civilian passenger-carrying vessels.
+
+;Ship in service
+* The date a civilian vessel began operations.
+* Alternately, this may be treated as a date range indicating the start and end points of a ship's career. If being used in this manner, ignore the {{para|Ship out of service}} field.
+
+;Ship out of service
+* The date a civilian vessel ceased operations.
+* If the {{para|Ship in service}} field is being used with a date range instead of a set date, do not use this field.
+
+;Ship renamed
+* If the ship changes names, the new names and corresponding dates may be listed here.
+* If multiple names are listed in the {{para|Ship name}} field, ignore this field
+
+;Ship reclassified
+* When a warship's [[hull classification symbol|classification]] is altered, the date and new classification may be listed here.
+
+;Ship refit
+* If the ship underwent a major modification or refit, the start and end dates may be listed here.
+
+;Ship struck
+* When a ship is removed from an official register (such as the United States Navy's [[Naval Vessel Register]]), the date of removal (or striking) from the register should be listed here.
+* This field does not include collisions or groundings a ship has experienced.
+
+;Ship reinstated
+* If, after a ship has been stricken from a register, she is returned to service and is re-listed on that register, the date of reinstatement should be listed here
+* Used best with multiple copies of the "Career" subtemplate.
+
+;Ship homeport
+* The [[home port]] of the vessel (if different from {{para|Ship registry}}):
+** For civilian ships, this will be the primary port from which the ship operates (i.e. for cruise ships, the port in which cruises start and end). Port of registry (the one painted on the stern) should be listed in {{para|Ship registry}}.
+** For warships, this will be the ship's assigned naval base.
+* When multiple entries are made in this field, include year ranges.
+* For ships that change their home port on a regular basis (more than once every couple of years), consider ignoring this field and elaborating in the body of the article.
+
+;Ship identification
+* Any identification numbers or codes for the vessel are listed here. This may include [[IMO number]]s (use {{tl|IMO number}}), [[MMSI number]]s (use {{tl|MMSI}}), [[call sign]]s, and [[pennant number|pennant]]/[[hull number|hull]] numbers (although consider not using the field for hull numbers if these are indicated in the lead sentence of the article).
+
+;Ship motto
+* If the ship has a motto, it should be listed here. Wrap non-English mottos in {{tlx|lang}} templates followed by the English translation:
+::<code><nowiki>{{lang|la|''Natu Maximus Mandatum Traba''}}<br />(Oldest Commissioned Ship)</nowiki></code>
+
+;Ship nickname
+* If the ship has any nicknames, they should be listed here.
+* Take care to ensure these are sourced (either in the infobox, or in the body of the article), and consider adding related context and/or circumstances to the article itself.
+
+'''Ship honours''' or '''Ship honors'''
+* Used to list any [[battle honours]], [[battle star]]s, [[unit citations]], or other unit awards awarded to the ship for her service.
+* Do not list awards given to individuals, even if the award was for service aboard the vessel. Mention these awards in the relevant part of the ship's history.
+* Avoid listing annual capability or competition awards (such as the [[Battle Effectiveness Award]] or the [[Gloucester Cup]]) to avoid bloat.
+* British English (honours) and American English (honors) alternates are provided; delete whichever is inappropriate.
+
+;Ship captured
+* When the ship falls into enemy hands, and whose hands they are.
+* Keep it brief by only indicating the capturing nation and the date (i.e. "Antarctica, 30 February 2012"). Detail relating to the capture should be in the article.
+* Follow up with a new "Career" subtemplate to discuss the ship's career with her captor.
+
+;Ship status
+* Used to indicate that a ship is currently in service, or has been removed from service but is available for future use or preserved in some form. Rule of thumb: "Is the ship above the water and intact?"
+* For active ships, consider using {{tl|Ship in active service}} or other means to indicate the last known date (generally year) the ship was active. However, if the ship is expected to remain in service in the near future and its decommissioning will not likely go unnoticed, simply {{para|Ship in service}} should be enough.
+* For inactive ships, indicate briefly what the ship is 'doing' (laid up, in reserve, preserved as [[museum ship]], awaiting disposal, etc.) and, if deemed necessary, where it is moored.
+* In the majority of cases, {{para|Ship status}} and {{para|Ship fate}} are mutually exclusive. If the {{para|Ship fate}} field is used, delete this field.
+
+;Ship fate
+* Used to indicate that a ship is no longer operational, and will not return to service in the future. This is usually when something pretty permanent happens to the ship, like sinking or scrapping. Rule of thumb: "Is the ship permanently below the surface, or in pieces?"
+* Only list the event and the date it occurred (for example: "Sank following collision on 10 February 1964", or "Sold for scrap in 1975". Details such as location, cause, etc. should be discussed in the article.
+* In the majority of cases, {{para|Ship status}} and {{para|Ship fate}} are mutually exclusive. Unlike other redundant fields, leave {{para|Ship fate}} in the article, as the ship's life will end one day.
+
+;Ship notes
+* Any other important information not covered by the other infobox fields, but not important enough for a custom field.
+* This field should not be used for citations/references: either the citations should be attached to the specific entry, or the infobox should be treated as part of the lead section, with the citations attached to the information in the body of the article.
+
+;Ship badge
+* An image or description of any [[naval heraldry]], such as the ship's badge or crest, may be added here.
+
+==Infobox ship class overview==
+To be used on [[ship class]] articles only.
+
+;Name
+* The name of the ship class.
+
+;Builders
+* The shipbuilders involved are listed here.
+
+;Operators
+* The companies (for civilian ships) or navies (for warships) that use or used ships of the class.
+
+;Class before
+* Used to indicate the preceding class in cases where there is a direct design or type lineage across classes.
+* Alternately, used to indicate the ships that this class replaced.
+
+;Class after
+* Used to indicate the succeeding class in cases where there is a direct design or type lineage across classes.
+* Alternately, used to indicate the ships that have/will replace this class.
+
+;Subclasses
+* Any subclasses, design variants, or direct derivatives may be listed here.
+
+;Cost
+* The cost of building the ships, usually at the time of construction and using the currency of either the orderer or the builder. If other values are used (e.g. conversions), they should be specified and, if necessary, further discussed in the article.
+* Provide context to indicate if the value is per vessel, or overall.
+
+;Built range
+* The date range between the start of construction on the first ship, and the completion of the last.
+
+;In service range
+* For civilian ships and non-commissioned military vessels, the dates between the first vessel beginning operations, and the last ending.
+
+;In commission range
+* For commissioned military warships, the date range between when the first was commissioned, and the last decommissioned.
+
+===Total Ships===
+For the following "Total Ships" fields, do not list the names of individual ships.  When appropriate, include dates for classes that are currently under construction.
+
+;Total ships building
+* Number of ships under construction. This field requires regular maintenance until all of the class is built.
+
+;Total ships planned
+* Number of ships ordered or planned.  This field requires regular maintenance until all of the class is built.
+
+;Total ships completed
+* Number of ships that have been or were built.  This field requires regular maintenance until all of the class is built.
+
+;Total ships cancelled
+* Number of planned or ordered ships that were cancelled.  This field requires regular maintenance until all of the class is built.
+
+;Total ships active
+* Number of ships currently operational.  This field requires regular maintenance until all of the class is retired.
+
+;Total ships laid up
+* Number of ships currently non-operational (placed in reserve, etc.) but expected to return to service.
+
+;Total ships lost
+* Number of ships destroyed as a result of attack or accident.
+* Do not include scuttlings and other intentional sinkings here.
+
+;Total ships retired
+* Number of ships currently non-operational (placed in reserve, etc.) but not expected to return to service.
+
+;Total ships scrapped
+* Number of ships [[ship breaking|broken up for scrap]], intentionally sunk, or scuttled.
+
+;Total ships preserved
+* Number of ships that exist as [[museum ship]]s or are similarly preserved.
+
+==Infobox ship characteristics==
+* Multiple copies of this template may be used, either to cover different configurations for subclasses (in class articles) or major alterations (for individual ships)
+* Remember that the infobox, like a lead section, is meant to be a summary of the information that is provided in the article itself. To this end, avoid excessive detail or accuracy in the infobox; if required, elaborate in the article body.
+* For metric vs. imperial dimensions, use the unit that was relevant at the time and place the ship was constructed. If the source being used has the 'other' measurement, consider using the {{para|disp|<var>flip</var>}} parameter in the conversion template to make the correct unit appear first.
+
+;Hide header
+* As with the "Career" subtemplate, if you need to repeat fields by using multiple copies of the "General characteristics" subtemplate, enter "Yes" in this field to hide the blue bar at the top of the second template.
+* At least one "General characteristics" header should be left visible.
+
+;Header caption
+* If the following data does not apply to all/most periods of a ship's/class's history, use this field to indicate the characteristics at a particular period of time (such as a date range or "As of YYYY"), in service with a particular company/navy/body ("in Fooish service"), or type ("as destroyer" if converted to/from something else)
+* For class articles, use this field to indicate if the following data is for a particular subclass or variant
+
+;Ship class
+* If the ship belongs to a recognized [[ship class]], use this field to identify the class. The field displays as "class & type", so the type should be added here as well.
+* Use common and generally accepted ship types to maintain consistency, and avoid excessive detail, even if there is a formal designation for the type (for example, "''Nimitz''-class aircraft carrier" in favour of "''Nimitz''-class Nuclear-powered Attack Aircraft Carrier" or "''Anzac''-class frigate" instead of "''Anzac'' class guided-missile-, surface-to-air-missile-, and helicopter-equipped frigate"). If possible, link both the class name and the ship type to their respective articles, e.g. [[Oasis-class cruise ship|''Oasis-class'']] [[cruise ship]].
+* Consider using one of the ship-class templates to help with formatting and to link the entry to the class article title. If the class name is italicized, use {{tlx|sclass}} when the class article title is not hyphenated; when the article title is hyphenated, use {{tlx|sclass-}}. Similarly, if the class name is not italicized, use {{tlx|sclass2}} when the article title is not hyphenated, and when it is hyphenated, use {{tlx|sclass2-}} If you choose not to use these templates, remember to add a hyphen (-) between the name of the class and the word "class" if the class name is followed by a ship type. 
+* Do not use this field for unique naval vessels, unless they were one of a class where the rest were cancelled.
+* Exercise caution (particularly with civilian ships); although many ships may be of a common design, they may not belong to the same class, or any class at all. Do not invent or make up ship classes to link seemingly-related ships—use the {{para|Ship type}} field instead.
+* This field is not related to [[ship classification]], so the classification notation should not be placed here.
+
+;Ship type
+* Do not use this field in articles where the {{para|Ship class}} field is appropriate; add the type data there.
+* Use this field to identify the type of the ship when it is unique or otherwise not part of an identifiable class, or when the infobox is used in a ship-class article.
+* Use common and generally accepted ship types for both naval and civilian ships to maintain consistency. Nearly all ship types have their own Wikipedia articles or redirects to parent types.
+* In the case of naval ships, additional details are beneficial (e.g. "Guided missile frigate" instead of just "Frigate"), but avoid going overboard (e.g. "Guided-missile- and helicopter- equipped multi-mission patrol frigate").
+* For civilian ships general types are usually better. Avoid using descriptive words like "heavy" or "polar" when specifying the type of the vessel as they are rarely used in official context. When in doubt, the ship's classification notation is a good place to start identifying the vessel, although in some cases the actual purpose of the ship is different (e.g. a supply and research vessel may be classified as a passenger ship).
+
+;Ship tonnage
+* The ship's [[tonnage]], assigned to all registered civilian vessels, is related to the capacity of the ship. It can be related either to the volume of the vessel as gross or net tonnage, or to the mass of the cargo, crew and consumables as deadweight tonnage. However, it is not related to the mass of the ship itself (see displacement), which can sometimes be misleading.  Passenger ships are typically referred to as "xxx-ton ships" by their gross (register) tonnage; other merchant ships also use grt, gt, deadweight, or other measure of capacity.   
+* Do not mix register tonnage with modern tonnage. ''International Convention on Tonnage Measurement of Ships'' was adopted by the [[International Maritime Organization]] in 1969 and became mandatory for ships built after 18 July 1982, meaning that all ships built after this date always use the modern tonnage system even though some sources incorrectly use register tonnage. Note that modern tonnage is an unitless index, so there are no "gross tons" or "net tons". Older ships, especially those built before 1969, are generally measured in register tons, a volumetric unit equivalent to 100 cubic feet.
+* Where possible, use the following templates for the ship's tonnage without any attributes:
+** {{tl|GT}} for [[gross tonnage]], e.g. {{GT|10,000}};
+** {{tl|GRT}} for [[gross register tonnage]], e.g. {{GRT|10,000}};
+** {{tl|NetT}} for [[net tonnage]], e.g. {{NetT|5,000}};
+** {{tl|NRT}} for [[net register tonnage]], e.g. {{NRT|5,000}}; and
+** {{tl|DWT}} for [[deadweight tonnage]], e.g. {{DWT|3,000}}.
+* Separate different tonnages with a line break ({{tag|br|s}}) or use {{tl|unbulleted list}}. The usual order is gross (register) tonnage, net (register) tonnage and deadweight tonnage.
+
+;Ship displacement
+* The [[displacement (ship)|displacement]] is the mass of a ship, or basically how much water has to get out of the way for the ship to float. Sometimes displacement is given for both unloaded ("lightship") and fully loaded conditions.
+* This value is most commonly associated with military vessels, but is also often used for special ships such as icebreakers. Information of the ship's displacement is rarely available for cargo and passenger ships.  Do not add displacement figures to the tonnage field.  Gross tonnage or deadweight tonnage are typically used when referring to the ship's size (e.g. "100,000-ton passenger ship" or "400,000-ton bulk carrier"), but they are not displacement.
+
+;Ship tons burthen
+* An archaic measurement of the carrying capacity of sailing ships, based on how many [[tun (unit)|tuns]] of wine a ship could fit in her hold (see [[Builder's Old Measurement]]).
+* Infobox entries should be formatted like this example: {{xt|<nowiki>595 {{small|{{fraction|39|94}}}} ([[Builder's Old Measurement|bm]])</nowiki>}} which gives: 595 {{small|{{fraction|39|94}}}} ([[Builder's Old Measurement|bm]]). The fraction will always be a fraction of 94 for British-registered ships and 95 for US registry.  Use the fraction; do not round off.
+* As tons burthen is not a measurement of weight and has no metric equivalent, this value should ''not'' be converted.
+* Do not use this field for modern ships.
+
+;Ship length
+* Multiple values may be listed to indicate lengths at different points; common values include [[waterline length]] (length along the line where the water meets the hull), [[length between perpendiculars]] (between the first and last perpendicular hull frames), and [[length overall]] (pointy-bit-at-the-bow to flagpole-at-the-stern)
+* As the length between perpendiculars, usually defined as the distance from the forward surface of the stem to the centerline of rudder axis, is used mainly for various rule-based calculations and has hardly any physical meaning, it might be a good idea to omit it unless it is relevant to the article.
+
+;Ship beam
+* The [[beam (nautical)|beam]], breadth, or width of a vessel
+* Multiple values may be listed, e.g. [[moulded breadth]], maximum beam, or beam at a ''particular point''
+
+;Ship height
+* The height of a ship. If possible, provide context (i.e. "from waterline", "from keel", "to top of the mainmast", etc.)
+
+'''Ship draught''' or '''Ship draft'''
+* Use this field to list the [[draft (hull)|draft]]; the distance between the waterline and the keel
+* The draft will vary depending on conditions like the vessel's load. If possible, specify the conditions that result in that particular draft value, e.g. "maximum" and "ballast".
+* British English ({{para|Ship draught}}) and American English ({{para|Ship draft}}) alternates are provided; delete whichever is inappropriate
+* Do not confuse "depth" with "draught" or "draft"; when using sourced with abbreviations check the table of abbreviations to see which is meant.
+
+;Ship depth
+* The depth or [[moulded depth]] of a vessel: the distance between the top of the keel and the underside of the uppermost full-length deck (generally the [[hull (watercraft)|hull]] minus [[superstructure]])
+* Unlike draught (draft), depth is a hull metric which does not change with load.
+
+;Ship hold depth
+* The depth of the hold, as measured from the underside of the main deck. This measurement is related to [[Builder's Old Measurement]] and is used to calculate tons burthen.
+* Do not use this field for modern ships.
+
+;Ship decks
+* Number of decks on the ship
+* Most commonly used for passenger vessels like cruise ships, and for vehicle-carrying ships like [[roll-on/roll-off]] vessels
+
+;Ship deck clearance
+* The height clearance between decks
+* Most commonly used on vehicle-carrying ships
+
+;Ship ramps
+* Number, size, and type of vehicle ramps fitted to a ship
+
+;Ship ice class
+* If the ship has a strengthened hull for operating in ice, the relevant [[ice class]] notation may be listed here. It can always be found from the ship's class notation, but is often mentioned elsewhere as well.
+* The most common type of ice class for merchant ships is the [[Finnish-Swedish ice class]]: 1C, 1B, 1A or 1A Super. Classification societies often uses their own notations, which may or may not be [http://www.finlex.fi/data/normit/36442-Vastluettmaar_TRAFI_31299_03_04_01_00_2010_EN_corr_20_Dec_2010.pdf equivalent to the Finnish-Swedish system]. If only the classification society's own ice class notation is given, it could be a good idea to mention the name of the classification society in the field as well, for example "[[Det Norske Veritas|DNV]] POLAR-10 Icebreaker".
+* Do not mix ice class with main character of class (e.g. +1A1 for DNV), which is assigned to all vessels.
+* Do not use this field to denote the ship's actual icebreaking capability. Such information may be placed in the {{para|Ship speed}} field (e.g. ''x'' knots in ''y'' ft (''z'' m) ice) or in the article body.
+
+;Ship power
+* This field is used to list the ship's [[prime mover]]s (number, manufacturer and model) and their individual and/or combined output. As a rule of thumb, components that ''generate'' power for the propulsion system should be included in this field.
+* In some cases it may be necessary to be creative and include additional information about the ship's power plant, especially if some details are missing, but full descriptions should be placed in the article body. Likewise, information obvious from the context may be omitted if something can be described unambiguously.
+* The installed power is usually given in kilowatts for modern ships and in horsepower for older ships. Remember to clarify whether the given power output is a combined rating of the main engines, or the output of an individual engine.
+* Do not shorten [[diesel engine]]s to "diesels". In case of motor ships, it is usually not necessary to identify the main engines as diesel engines in the infobox. Usually the manufacturer and model are enough, and further details ("four-stroke", "medium-speed", "crosshead", "opposing piston" etc.) should be included in the article body.
+
+;Ship propulsion
+* This field is used to describe the ship's [[propulsion system]]. As a rule of thumb, everything that ''consumes'' power in order to make the ship move should be included in this field.
+* Due to the large number of different propulsion arrangements, it is impossible to give a definite answer to what should and should not be included in this field. The bare minimum is the number of propeller shafts, but the amount of additional details (powertrain type, manufacturers, models, power ratings, propeller diameters, blade counts...) should be decided case-by-case based on the amount of available information, the ship's propulsion arrangement and the available space. Generally the contents of the field should be limited to no more than 3–4 rows and preferably less. Full descriptions should be placed in the article body.
+* The main propulsion system has a priority over manoeuvering thrusters. If the space is limited, concentrate on the bits in the back.
+
+;Ship sail plan
+* For sailing vessels, use this field to indicate the layout of sails on the vessel (see [[Sail-plan]] for more information, particularly the [[Sail-plan#Types of ships|Types of ships]] section)
+* Other information that may be included in this field is the type of sail material used, mast heights, and the total area of sail
+
+;Ship speed
+* The speed at which a ship can travel, usually expressed in knots (nautical miles per hour).
+* When using {{tl|convert}}, do not specify an "out" value for the conversion (use <nowiki>{{convert|15|kn}} instead of {{convert|15|kn|km/h}}</nowiki>) or any other parameters except unit linking (see [[#Miscellaneous stylistic issues|above]]). The template will provide conversions for both kilometres per hour and statute miles per hour.
+* Generally the maximum speed is entered, although other speed values (such as for sustainable/economical operations, multi-element propulsion systems where only one element is engaged, or specific tasks like patrolling, minehunting, or icebreaking) may be listed as well; if so, provide context as to what each speed represents in parenthesis after the entry.
+
+;Ship range
+* The maximum distance a ship can travel.
+* Usually expressed as a value in nautical miles for a given speed in knots. When specifying a speed, spell out "at" instead of using "@".
+* When using {{tl|convert}}, do not specify an "out" value for the conversion (use <nowiki>{{convert|1000|nmi}} instead of {{convert|1000|nmi|mi}}</nowiki>) or any other parameters except unit linking (see [[#Miscellaneous stylistic issues|above]]). The template will provide conversions for both kilometres and statute miles.
+* Multiple ranges may be listed within the field e.g. for different speeds or propulsion arrangements.
+
+;Ship endurance
+* The time that a ship can operate without entering port for resupply.
+
+;Ship test depth
+* This is the peacetime maximum operating depth of a submarine, and the depth tested to during sea trials (see [[Submarine depth ratings]] for more info)
+* This field will only see use on submarines, and should be removed from all other articles.
+
+;Ship boats
+* Any small boats carried and used by a ship, such as [[landing craft]], [[Ship's tender|tenders]], and the like, but excluding [[Lifeboat (shipboard)|lifeboat]]s.
+
+;Ship capacity
+* Passenger and cargo capacity of a vessel.
+* Common units include [[twenty-foot equivalent unit]]s (TEU) or forty-foot equivalent units (FEU) for container and general cargo vessels, [[lane meter]]s for roll-on/roll-off ships, or car equivalent units (CEU, RT, or RT43) for car carriers. These units do not work with {{tl|Convert}} and should remain unconverted. The template {{tl|TEU}} may be useful.
+* Alternately for vehicle carriers, particularly military vessels, a breakdown of the number and type of vehicles carried may be used.
+* Hold volume may be used for bulk carriers and tankers, but use caution when the source expresses the value in tons, as the deadweight tonnage is often used when talking about cargo capacity of a ship.
+* Although deadweight tonnage usually denotes the ship's cargo-carrying capacity, place it in the {{para|Ship tonnage}} field as it includes other consumables as well.
+
+;Ship troops
+* The vessel's troop-carrying capacity.
+
+;Ship complement
+* List the number of personnel aboard a warship here.
+
+;Ship crew
+* List the number of personnel aboard a merchant vessel here. As well as the standard number of crew, the total crew accommodation capacity may be given here.
+* If only the total number of crew is given, there is no need to specify "crew" after the figure. However, the ship's company may be separated to officers and crewmen, in which case it is necessary to identify the latter.
+
+;Ship time to activate
+* This field is for ships (generally warships) that are currently in reserve or otherwise non-operational, and indicates how much time and effort would be required to bring the vessel to full operational status.
+
+;Ship sensors
+* List any specialized sensor systems (radars, sonars, night vision and thermal imaging systems etc.) used to detect ships, aircraft or other airborne, surface or underwater targets or threats.
+* This field should be used only for specialized sensor systems usually found in naval vessels. It should not be used to list standard navigational equipment commonly found on all ships.
+
+;Ship EW
+* List any [[electronic warfare]] or decoy equipment carried by the ship here
+
+;Ship armament
+* List the weapons fitted to a ship
+* If the ship has been armed only during a conflict, this should be specified.
+
+'''Ship armour''' or '''Ship armor'''
+* List any armor plating fitted to the ship
+* Where possible, break the armour down by its type/location, and if the thickness varies, give maximum and minimum values
+* British English (Armour) and American English (Armor) alternates are provided; delete whichever is inappropriate.
+
+;Ship aircraft
+* Used to indicate the number and type of aircraft a ship can carry.
+
+;Ship aircraft facilities
+* Any features of the ship used for aircraft operations may be listed here. This could include the size of the [[flight deck]] (either in dimensions, or the number of aircraft/helicopters that can be operated simultaneously), number and size of aircraft lifts, number and type of [[aircraft catapult]]s, or features such as a ski-jump ramp.
+
+;Ship notes
+* Any information that does not fit into the above fields may go here.
+* This field is not to be used for citations/references: either the citations should be attached to the specific field, or the infobox should be treated as part of the lead section, with the citations attached to the information in the body of the article.

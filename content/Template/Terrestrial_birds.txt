@@ -1,0 +1,69 @@
+{{Navbox
+|name       = Terrestrial birds
+|title      = Terrestrial birds of Adelaide
+|listclass  = hlist
+|state      = {{{state|autocollapse}}}
+
+|group1     = Raptors
+|list1      =
+* [[Australian Hobby]]
+* [[Black Falcon]]
+* [[Black-shouldered Kite]]
+* [[Brown Falcon]]
+* [[Brown Goshawk]]
+* [[Collared Sparrowhawk]]
+* [[Little Eagle]]
+* [[Nankeen Kestrel]]
+* [[Peregrine Falcon]]
+* [[Southern Boobook]]
+* [[Spotted Harrier]]
+* [[Swamp Harrier]]
+* [[Whistling Kite]]
+* [[White-bellied Sea-Eagle]]
+
+|group2     = Parrots
+|list2      =
+* [[Blue Bonnet]]
+* [[Blue-winged Parrot]]
+* [[Budgerigar]]
+* [[Cockatiel]]
+* [[Crimson Rosella]]
+* [[Elegant Parrot]]
+* [[Galah]]
+* [[Little Corella]]
+* [[Little Lorikeet]]
+* [[Musk Lorikeet]]
+* [[Purple-crowned Lorikeet]]
+* [[Rainbow Lorikeet]]
+* [[Red-rumped Parrot]]
+* [[Rock Parrot]]
+
+|group3     = Kingfishers
+|list3      =
+* [[Sacred Kingfisher]]
+
+|group4     = Pigeons
+|list4      =
+* [[Brush Bronzewing]]
+* [[Common Bronzewing]]
+* [[Crested Pigeon]]
+* [[Rock Dove]]
+* [[Spotted Turtle-dove]]
+
+|group5     = Cuckoos
+|list5      =
+* [[Fan-tailed Cuckoo]]
+* [[Horsfield's Bronze-cuckoo]]
+* [[Pallid Cuckoo]]
+* [[Shining Bronze-cuckoo]]
+
+|group6     = Quail
+|list6      =
+* [[Brown Quail]]
+* [[Stubble Quail]]
+
+|group7     = 
+|list7      =
+{{Passerines}}
+
+}}

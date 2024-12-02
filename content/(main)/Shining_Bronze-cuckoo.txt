@@ -1,0 +1,44 @@
+{{Taxobox
+| name = Shining Bronze-cuckoo
+| image = Shining Bronze-Cuckoo Dayboro.JPG
+| image_width = 240px
+| image_caption=In Queensland, Australia
+| status = LC
+| status_system = IUCN3.1
+| status_ref = <ref>{{IUCN|id=22683973 |title=''Chrysococcyx lucidus'' |assessors=[https://en.wikipedia.org/wiki/BirdLife_International BirdLife International] |version=2013.2 |year=2012 |accessdate=26 November 2013}}</ref>
+| regnum = [https://en.wikipedia.org/wiki/Animal Animalia]
+| phylum = [https://en.wikipedia.org/wiki/Chordate Chordata]
+| classis = [https://en.wikipedia.org/wiki/Bird Aves]
+| ordo = [https://en.wikipedia.org/wiki/Cuculiformes Cuculiformes]
+| familia = [https://en.wikipedia.org/wiki/Cuculidae Cuculidae]
+| genus = ''[https://en.wikipedia.org/wiki/Chrysococcyx Chrysococcyx]''
+| species = '''''C. lucidus'''''
+| binomial = ''Chrysococcyx lucidus''
+| binomial_authority = ([https://en.wikipedia.org/wiki/Johann_Friedrich_Gmelin Gmelin], 1788)
+| synonyms = ''Chalcites lucidus'' 
+}}
+
+
+==Description==
+
+==Habitat==
+
+==Distribution==
+
+===Locality lists===
+[[Bird species list for Torrens Island|Torrens Island]]
+
+==See also==
+
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bie.ala.org.au/species/Chrysococcyx+lucidus ''Atlas of Living Australia'': Shining Bronze-cuckoo]
+* [http://birdlife.org.au/bird-profile/shining-bronze-cuckoo ''Birdlife Australia'': Shining Bronze-cuckoo]
+* [https://en.wikipedia.org/wiki/Shining_bronze_cuckoo ''Wikipedia'': Shining bronze cuckoo]
+
+{{Template:Terrestrial birds}}
+
+[[Category:Birds of the Adelaide region]]

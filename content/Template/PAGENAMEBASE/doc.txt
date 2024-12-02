@@ -1,0 +1,22 @@
+{{Documentation subpage}}
+<!-- Please place categories where indicated at the bottom of this page and interwikis at Wikidata (see [[Wikipedia:Wikidata]]) -->
+{{lua|Module:String|category=Lua String-based templates}}
+{{high-risk|530,000+}}
+
+== Usage ==
+This template returns the current {{wikivar|PAGENAME}} minus any [[Wikipedia:Disambiguation|disambiguation]] (text in parentheses).
+
+e.g. {{tlx|PAGENAMEBASE}} on page <code>Chiton (genus)</code> returns <code>Chiton</code>
+
+Can also pass an optional page parameter:
+* {{tlc|PAGENAMEBASE|foo (bar)}} → "{{PAGENAMEBASE|foo (bar)}}"
+* {{tlc|PAGENAMEBASE|foo bar}} → "{{PAGENAMEBASE|foo bar}}"
+
+== See also ==
+* [[Help:Magic words#Variables]]
+* [[Template:String-handling templates|String-handling templates]]
+
+<includeonly>{{#ifeq:{{SUBPAGENAME}}|sandbox |
+| <!-- Categories below this line, please; interwikis at Wikidata -->
+[[Category:Wikipedia variable-like templates]]
+}}</includeonly>
